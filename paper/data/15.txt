@@ -1,0 +1,7 @@
+DE Cloud computing; Tools; Atmospheric modeling; Atmospheric measurements;
+   Scalability; Databases; Application programming interface (API);
+   autonomous driving; cloud; e-health; e-mobility; Internet of Thing
+   (IoT); NoSQL database; open source; representational state transfer
+   (REST)ful; smart city
+ID AGGREGATION
+AB The ever more extensive data collection from Internet of Thing (IoT) devices stresses the need for efficient application development tools. State-of-the-art IoT cloud services are powerful, but the best solutions are proprietary, and there is a growing demand for interoperability and standardization. We have investigated how to develop a nonvendor-locked framework, which exploits state of the art data management technologies, and targets effective and efficient development in this article. Focusing on the concept of measurement, we abstracted an architecture that could be applied in a variety of domains and contexts. We tested the framework and its workflow in four use cases analyzing data and enabling new services in health, automotive, and instruction. Our experience showed the benefits of the development tool, which is not tied to a commercial platform, nor requires the huge set-up times needed to start a project from scratch. The tool is released open-source, particularly supporting collaborative research.

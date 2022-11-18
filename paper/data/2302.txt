@@ -1,0 +1,3 @@
+DE Adoption; B2B; Canada; Electronic Commerce; Manufacturing
+ID CLOUD COMPUTING ADOPTION; SMES
+AB This article presents the results of a research project on the adoption of B2B e-commerce (B2Bec) by Canadian manufacturers. The study provides an analysis of the characteristics of organizations which have adopted B2Bec technologies and attempts to outline the features that differentiate adopters from non-adopters. The results of a preliminary analysis show the existence of three distinct B2Bec adopter types: non-adopters, partial-adopters, and full-adopters. Leadership-related variables appear to be the most important determinants of adoption followed by benefits analysis.

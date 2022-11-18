@@ -1,0 +1,1 @@
+AB While cloud computing continues to be popular in the IT world, companies offering cloud solutions are under pressure to provide the most reliable solutions to users. In this article, we describe an innovative approach to diagnose service failures in an OpenStack-based cloud using Tempest as a starting point.

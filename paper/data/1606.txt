@@ -1,0 +1,12 @@
+DE patient monitoring; discrete event simulation; health care; medical
+   information systems; Java; cloud computing; storage management; file
+   servers; Internet of Things; medical data; fog-cloud deployment setting;
+   analytical model; computing resources; Java modelling tools discrete
+   event simulator; system response time; health data services; performance
+   modelling; healthcare monitoring systems; analyse data; medical
+   facilities; remote cloud servers; storage; distant communication;
+   analysed data; inaccurate treatment decisions; patient; communication
+   delays; localised processing; MIoT data; MIoT devices; fog computing;
+   Medical Internet of Things
+ID CLOUD; IOT
+AB In a typical healthcare monitoring system, the cloud is the preferred platform to aggregate, store and analyse data collected from Medical Internet of Things (or MIoT) devices. However, remote cloud servers and storage can be a source of substantial delay. To overcome such delays, an intermediate layer of fog or edge nodes is used for localised processing and storage of MIoT data. To this end, an integrated architecture consisting of MIoT devices, fog and cloud computing has now become the most preferred solution for a healthcare monitoring system. In this study, we propose an analytical model of such a system and use it to show how to reduce the cost for computing resources while guaranteeing performance constraints. The proposed analytical model is based on network of queues and has the ability to estimate the minimum required number of computing resources to meet the service level agreement. The authors verify and cross-validate the analytical model through Java modelling tools discrete event simulator. Results obtained from analysis and simulation show that the proposed model, under different workload conditions, can predict the system response time, and can accurately determine the number of computing resources needed for health data services to achieve desired performance.

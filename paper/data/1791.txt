@@ -1,0 +1,6 @@
+DE Cloud computing; complementarity; platform ecosystem; product
+   introductions; venture capital
+ID INFORMATION-TECHNOLOGY; MULTINOMIAL PROBIT; FIRM SIZE; HIGH-TECH;
+   INNOVATION; COMPLEMENTARITY; MARKET; STRATEGIES; COMMERCIALIZATION;
+   PRODUCTIVITY
+AB The diffusion of new information technology (IT) requires the development of an ecosystem of hardware and software producers, users, and other firms. It is widely believed that venture capitalists (VCs) can play a role in the development of such ecosystems. However, empirical research to elaborate on these points is lacking. Focusing on the recent rapid rise of one platform, cloud computing, we assemble a unique dataset to look at the period just before wide acceptance of the cloud. We find evidence of complementarity between VC financing and the introduction of new products offered over the cloud. Moreover, the complementarity effects are significantly stronger for firms backed by VCs that had rich experience in the IT industry and are significantly weaker for firms that had prior experience developing traditional client/server products. These results provide evidence that supports a role for VC financing in the creation of new technological ecosystems.

@@ -1,0 +1,6 @@
+DE Non-linear fractional equality knapsack; Resource allocation; Dynamical
+   system; Rate limiting
+ID GROUP DECISION-MAKING; AUTOMATA-BASED SOLUTIONS; ALGORITHMS;
+   INFORMATION; MANAGEMENT; ALLOCATION; CONSENSUS; GAME
+AB In this paper, we present an optimal, efficient and yet simple solution to a class of the deterministic non-linear fractional equality knapsack (NEFK) problem -a substantial resource allocation problem. The solution is shown to be superior to the state-of-the-art in terms of convergence speed.
+   We provide a rigorous analysis that proves the optimality of our scheme under general conditions. Our solution resorts to a subtle aggregation procedure that drives the system towards equalizing the derivatives of the material value functions in a similar manner to the Homo Egualis theory. Furthermore, we report experimental results that catalogue the applicability of our solution to the problem of rate limiting in cloud computing, which falls under the deterministic NEFK problem. (C) 2018 Elsevier Ltd. All rights reserved.

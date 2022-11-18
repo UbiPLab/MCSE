@@ -1,0 +1,4 @@
+DE Cloud computing; Data confidentiality; Searchable encryption;
+   Verifiability; Multi party computation; Boolean queries; 94A60; 68P25
+ID CONJUNCTIVE KEYWORD SEARCH; RANKED SEARCH
+AB Public verifiability is an interesting feature that cryptographic protocols, such as those used in cloud computing applications, may support. By public verifiability, the client can delegate the verification process to a third party auditor without revealing the private key or data. The main contribution of this paper is achieving public verifiability in the symmetric setting of searchable encryption (SE), separately for single and Boolean keyword search. While Public verifiability in SE has already been achieved using complex tools such as indistinguishability obfuscation or pairing, this work employs basic cryptographic components and assumptions, such as pseudo-random functions, one-way functions, digital signatures and the DDH assumption.

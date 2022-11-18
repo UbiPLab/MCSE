@@ -1,0 +1,5 @@
+DE Cloud computing-based; power security; management software
+AB OBJECTIVE: To maintain the stable operation of cloud computing-based power safety management software.
+   METHODS: Through the analysis of cloud computing software, the paper proposes relevant improvement strategies based on the shortcomings of these software.
+   RESULTS AND ANALYSIS: Through the TAO architecture for security services, safe communication is achieved to ensure stable operation.
+   CONCLUSION: The security service structure designed in this paper has made two application modes possible, including the user-independent general security agent mode and the interface method-level fine security control mode, and the infrastructure improves the reliability of software operation and is worthy of promotion.

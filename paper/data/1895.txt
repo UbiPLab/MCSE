@@ -1,0 +1,3 @@
+DE business system; performance interference; performance isolation;
+   resource partition
+AB We propose server and storage resource partition method for mission critical system consolidation to prevent performance interference in cloud computing environment. We made experiments to allocate dedicated CPU core and SSD to a virtual machine. As a result of running a standard online transaction processing benchmark on three virtual machines, transaction performance decrease by 65% with the existing method and by only 9% with the proposed method.

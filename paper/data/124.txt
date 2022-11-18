@@ -1,0 +1,5 @@
+DE intelligent IoT; open distributed system; autonomous gateway;
+   context-aware pervasive system; deep sensing; advanced machine learning;
+   edge computing; fog computing
+ID MOBILE; IOT; EDGE
+AB The internet of things (IoT) will revolutionise the future internet through ubiquitous sensing. One of the challenges of having the hundreds of billions of devices that are estimated to be deployed would be rise of an enormous amount of data, along with the devices ability to manage. This paper presents an approach as a controller solution and designed specifically for autonomous management, connectivity and data interoperability in an IoT gateway. The approach supports distributed IoT nodes with both management and data interoperability with other cloud-based solutions. The concept further allows gateways to easily collect and process interoperability of data from IoT devices. We demonstrated the feasibility of the approach and evaluate its advantages regarding deep sensing and autonomous enabled gateway as an edge computational intelligence.

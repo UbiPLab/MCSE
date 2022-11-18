@@ -1,0 +1,17 @@
+DE smart power grids; wireless sensor networks; electronic data
+   interchange; data privacy; emergency services; Internet of Things;
+   security of data; telecommunication security; telecommunication power
+   management; power consumption; power engineering computing; energy
+   management systems; machine-to-machine communication; packet radio
+   networks; telecommunication network routing; cloud computing;
+   grid-connected home area network; Internet of Things; information flow;
+   smart grid; energy management; secured data flow; minimum transit time
+   delay; machine dataflow; packet delivery; user power consumption data;
+   customised user devices; cost-effective IoT-HAN; energy aware routing;
+   advanced design scheme; network sensors; data transfer; simulated data;
+   flow pattern; network simulator; secured data exchange; different
+   connected devices; emergency operations; emergency services; data flow
+   pattern; IoT-HAN setup; data privacy; data security
+ID DEMAND RESPONSE; SMART GRIDS; WIRELESS COMMUNICATIONS; OPTIMIZATION;
+   MANAGEMENT; ARCHITECTURES; REQUIREMENTS; FRAMEWORK; ACCESS
+AB Sensors with IoT assistance provides secured communication and data integrity inside HAN. Energy reading and information flow from the smart grid, together with sensors, bring about a new perspective on energy management. This paper primarily investigates the secured data flow in HAN and assures data privacy of customers during critical and emergency operations. Data are made available in real time with minimum transit time delay. Devices are continuously monitored for vital and emergency services. This paper focuses on machine to machine data flow and packet delivery using IoT. It helps in making user's power consumption data available over the cloud and also in customised electronic devices in real-time. This research work showcases the requirements for developing a cost-effective IoT-HAN connected with smart grid for energy aware routing. The advanced design scheme helps to place sensors, and control gateway in a well-defined boundary, consuming less energy for data transfer and data processing. Data flow pattern and packet delivery rate is tested using both simulated and actual data from sensors and concentrators. The obtained results and flow pattern is evaluated using MATLAB and network simulator. The developed IoT-HAN setup is optimally helpful in secured data exchange among different connected devices inside HAN.

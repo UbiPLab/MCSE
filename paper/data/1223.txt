@@ -1,0 +1,5 @@
+DE cloud computing; connectivity; availability; reliability; internet
+   topology; graph analysis; complex networks
+ID SECURITY ISSUES; DDOS MITIGATION; SERVICE; RESILIENCE; CHALLENGES;
+   ATTACKS; STRATEGIES; TOLERANCE; NETWORKS; TAXONOMY
+AB Internet connectivity of cloud services is of exceptional importance for both their providers and consumers. This article demonstrates the outlines of a method for measuring cloud-service connectivity at the internet protocol level from a client's perspective. For this, we actively collect connectivity data via traceroute measurements from PlanetLab to several major cloud services. Furthermore, we construct graph models from the collected data, and analyse the connectivity of the services based on important graph-based measures. Then, random and targeted node removal attacks are simulated, and the corresponding vulnerability of cloud services is evaluated. Our results indicate that cloud service hosts are, on average, much better connected than average hosts. However, when interconnecting nodes are removed in a targeted manner, cloud connectivity is dramatically reduced.

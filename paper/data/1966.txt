@@ -1,0 +1,4 @@
+DE Self-organisation; Resource management; Autonomic computing; Distributed
+   agents; Resource-sharing
+ID MANAGEMENT; SYSTEM
+AB We study a scenario for cloud services based on autonomous resource management agents in situations of competition for limited resources. In the scenario, autonomous agents make independent decisions on resource consumption in a competitive environment. Altruistic and selfish strategies for agent behaviour are simulated and compared with respect to whether they lead to successful resource management in the overall system, and how much information exchange is needed among the agents for the strategies to work. Our results imply that local agent information could be sufficient for global optimisation. Also, the selfish strategy proved stable compared to uninformed altruistic behaviour.

@@ -1,0 +1,4 @@
+DE Descriptive analytics; diagnostic analytics; predictive analytics; edge
+   computing; fog computing; cloud computing; Internet of Things
+ID BIG DATA; EDGE; ARCHITECTURE; SECURITY
+AB The Internet of Things is expected to generate an unprecedented number of unbounded data streams that will produce a paradigm shift when it comes to data analytics. We are moving away from performing analytics in a public or private cloud to performing analytics locally at the fog and edge resources. In this paper, we propose a network of tasks utilizing edge, fog, and cloud computing that are designed to support an Analytics Everywhere framework. The aim is to integrate a variety of computational resources and analytical capabilities according to a data life-cycle. We demonstrate the proposed framework using an application in smart transit.

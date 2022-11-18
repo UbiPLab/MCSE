@@ -1,0 +1,7 @@
+DE heterogeneous markets; misalignment capability; multinational
+   enterprises; strategic contradictions; technological disruption
+ID HEADQUARTERS-SUBSIDIARY RELATIONS; STRATEGIC MANAGEMENT RESEARCH;
+   DYNAMIC CAPABILITIES; ORGANIZATIONAL AMBIDEXTERITY;
+   MULTINATIONAL-CORPORATIONS; INFORMAL ORGANIZATION; DEMAND HETEROGENEITY;
+   ABSORPTIVE-CAPACITY; RADICAL INNOVATION; PERFORMANCE
+AB In an age of rapid advances in technology, understanding how firms can respond to emergence of disruptive technologies is paramount for survival. While prior research on incumbents' responses to disruptive technologies assumes demand homogeneity, many firms, including multinational enterprises (MNEs), need to respond to technological disruption in heterogeneous markets. To address this lacuna in our understanding, we study how Ericsson tried to respond to the emergence of Cloud computing, a digital platform technology, across its operations in more than 170 countries. We reveal how incumbents need to match diverging customer demands with a complex innovation process, involving different approaches to experiments and trials, deployment strategy, and ecosystem development. We also find that the success of incumbents' responses depends on their capability for misalignment, which allows them to manage the inconsistencies in strategic direction, structure, and resource configuration associated with a complex innovation process.

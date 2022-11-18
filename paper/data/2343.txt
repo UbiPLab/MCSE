@@ -1,0 +1,5 @@
+DE Cross tenant access control; Formal specification; Cloud computing;
+   Reusable garbled circuits
+ID ACCESS-CONTROL; HOMOMORPHIC ENCRYPTION; FUNCTIONAL ENCRYPTION; INTERNET;
+   PRIVACY
+AB While cloud computing is fairly mature, there are underpinning data privacy and confidentiality issues that have yet to be resolved by existing security solutions such as cross domain access control policies. The latter necessitates the sharing of attributes with a Trusted Third Party (UP), which in turn raises data privacy concerns. In this paper, we present a Privacy Aware Cross Tenant Access Control (PaCTAC) protocol for cross domain cloud users, based on reusable garbled circuit. We also propose the concept of a privacy aware Cloud Policy Decision Point (CPDP) that can be offered by cloud service providers. CPDP plays the role of a trusted third-party among its different tenants. We then formally specify PaCTAC to demonstrate its security. (C) 2018 Elsevier B.V. All rights reserved.

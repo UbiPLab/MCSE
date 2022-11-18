@@ -1,0 +1,4 @@
+DE Cloud Service Provider; Data Owner; Decryption; Encryption; Popularity
+   Value
+ID PROTOCOL; SECURITY
+AB This article describes how nowadays, cloud computing is one of the advanced areas of Information Technology (IT) sector. Since there are many hackers and malicious users on the internet, it is very important to secure the confidentiality of data in the cloud environment. In recent years, access control has emerged as a challenging issue of cloud computing. Access control method allows data accessing of an authorized user. Existing access control schemes mainly focus on the confidentiality of the data storage. In this article, a novel access control scheme has been proposed for efficient data accessing. The proposed scheme allows reducing the searching cost and accessing time, while providing the data to the user. It also maintains the security of the user's confidential data.

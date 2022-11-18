@@ -1,0 +1,6 @@
+DE Cloud computing; Internet of Things; Sensors; Edge computing; Image edge
+   detection; Wireless sensor networks; Servers; Cloud computing; edge
+   computing; Internet of Things (IoT); long-range low-power wide-area
+   network (LPWAN); message passing interface (MPI)
+ID BIG DATA; PLACEMENT; OPTIMIZATION; ALGORITHM; INTERNET; THINGS; MODEL
+AB Intelligent systems influence many aspects of daily life. With the emergence of the Internet of Things (IoT), artificial intelligence (AI), and machine learning (ML), opportunities have been created for smart computing infrastructure. However, problems might arise from the lack of interconnectivity, higher reliability, real-time predictive analytics, and low-latency requirements. Therefore, in this article, we propose the sensors, edge, and cloud (iSEC) framework. The project deploys a smart cloud edge-computing architecture to provide ML and deep learning in the cloud edge environment. Two pilot projects of air quality monitoring system and object detection are demonstrated to evaluate the iSEC framework.

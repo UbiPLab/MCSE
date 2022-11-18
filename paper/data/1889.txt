@@ -1,0 +1,4 @@
+DE Cloud computing; Energy hub; Integrated energy management; Information
+   masking
+ID OPTIMAL OPERATION; GAS
+AB Under the development of information and communication technologies, this paper discusses a cloud-based user side integrated energy management to improve the energy utilization efficiency in a smart community, for which a two-level model is proposed that relies on an energy hub and load aggregators. Furthermore, to address the issue of preserving confidentiality for the cloud service, an information-masking mechanism is designed based on linear mapping functions, whose information-masking requirements and processes are specified accordingly. Numerical results demonstrate the effectiveness of the proposed model and of the method for cloud computing.

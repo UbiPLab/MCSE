@@ -1,0 +1,4 @@
+DE Cloud computing; service discovery; behavioral constraints; service
+   behavior; service matching; web service
+ID WEB SERVICES; INFORMATION; SEMANTICS; RANKING
+AB With the development of cloud computing, more and more individuals and organizations have moved local application resources into the cloud computing resource pool in the form of Web services so that users can choose to invoke. This paper proposes a trustworthy service composition discovery approach to satisfy user requirements including behavioral constraints in a cloud environment. First, we build a global service composition discovery model based on sematic relationships between attributes and present a service composition discovery method. Then, we propose a method for detecting behavioral consistency. We validate the feasibility and effectiveness of the proposed solutions through a case study.

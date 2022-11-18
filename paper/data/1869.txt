@@ -1,0 +1,4 @@
+DE Cloud Computing; Data Outsourcing; Data Security; Encryption model; Data
+   Storage
+ID ISSUES
+AB Cloud computing is an evolving computing technology that provides many services such as software and storage. With the introduction of cloud storage, the security of outsourced data has become a major issue in cloud computing. Data storage in cloud computing environment needs to be secured in order to provide a safe and foolproof security for data outsourcing of the cloud service users. This paper presents a model for security of data in public cloud storage environment which successfully detects the unauthenticated access or any anomaly in the data. The proposed authentication model along with the data security model presented in this paper shows that this model is the best model suitable for securing the data in cloud computing environment.

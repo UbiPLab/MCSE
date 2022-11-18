@@ -1,0 +1,9 @@
+DE Internet; internetworking; Internet of Things; cloud computing; open
+   systems; open standards; current technological space; architecting Web
+   technology; IoT software; coming era; emerging issues; fog computing
+   era; fog computing paradigm; system design; architecture; computation;
+   coordination; remote services; physical surroundings; network nodes;
+   cloud services; smart gateways; network edge devices; open Web;
+   heterogeneity; connected devices
+ID INTERNET; SECURITY; MIDDLEWARE; CHALLENGES
+AB Fog computing paradigm is emerging after a decade's dominance of cloud-based system design and architecture. Now, instead of centralising the computation and coordination to remote services, these are deployed and distributed to all over physical surroundings and network nodes, including cloud services, smart gateways, and network edge devices. At the moment, the majority of the Internet of things (IoT) systems and software has built on top of open Web-based technologies. The authors assume that with the ever-growing number and heterogeneity of connected devices, it becomes ever-more crucial to have open standards that support interoperability and enable interactions. They review the current technological space for architecting Web technology-based IoT software in the coming era of fog computing. They focus on fundamental research challenges and discuss the emerging issues.

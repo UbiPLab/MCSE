@@ -1,0 +1,4 @@
+DE intercloud system model; intercloud challenges; future trends in
+   intercloud
+ID CLOUD
+AB The Intercloud, representing a logical evolution of the cloud paradigm, is fast gaining traction among industry players, cloud service providers and researchers. The idea of a global ecosystem of collaborating CSPs offering potentially infinite compute resources enabling seamless resource/service provisioning and consumption is alluring. This research paper examines the potential of the intercloud in enabling planetary scale services meeting both B2B and C2C use-case scenarios, while evaluating the technical and business challenges involved. We also present future perspectives and thoughts on evolution of the intercloud.

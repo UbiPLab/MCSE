@@ -1,0 +1,4 @@
+DE cloud computing; computation cost optimization; data flows; genetic
+   algorithm; Petri Net
+ID PETRI NETS; STORAGE
+AB The past few years have witnessed a rapid deployment of computing infrastructures in the cloud in support of data intensive applications. The effort of the existing works is mainly focused on data reusing mechanisms without considering data processing routes, which can significantly affect the computation costs when exchanging data among the computing node in the cloud. This paper presents a genetic algorithm enhanced Automatic Data Flow Management Solution (ADFMS) that facilitates automatic routing function and a self-adjustable intermediate data management mechanism to achieve an efficient data processing structure of cloud computing. Experimental results show that ADFMS optimizes costs in managing intermediate data in the cloud.

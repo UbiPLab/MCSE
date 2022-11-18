@@ -1,0 +1,7 @@
+DE molecular data; opacity; astronomical data bases: miscellaneous; planets
+   and satellites: atmospheres; stars: low-mass
+ID LASER-INDUCED FLUORESCENCE; CORRELATED MOLECULAR CALCULATIONS;
+   HIGH-RESOLUTION SPECTROSCOPY; SOLAR PHOTOSPHERIC SPECTRUM; DIFFUSE
+   INTERSTELLAR CLOUDS; BALLIK-RAMSAY SYSTEM; GAUSSIAN-BASIS SETS; C2
+   PHILLIPS SYSTEM; RED CARBON STARS; SWAN SYSTEM
+AB Accurate line lists for the carbon dimer, C-2, are presented. These line lists cover rovibronic transitions between the eight lowest electronic states: X-1 Sigma(+)(g), a(3)Pi(u), A(1)Pi(u), b(3)Sigma(-)(g), c(3)Sigma(+)(u), d(3)Pi(g), B-1 Delta(g), and B'(1)Sigma(+)(g). Potential energy curves (PECs) and transition dipole moment curves are computed on a large grid of geometries using the aug-cc-pwCVQZ-DK/MRCI level of theory including core and core-valence correlations and scalar relativistic energy corrections. The same level of theory is used to compute spin-orbit and electronic angular momentum couplings. The PECs and couplings are refined by fitting to the empirical (MARVEL) energies of C-12(2) using the nuclear-motion program Duo. The transition dipole moment curves are represented as analytical functions to reduce the numerical noise when computing transition line strengths. Partition functions, full line lists, Landry-factors, and lifetimes for three main isotopologues of C-2 (C-12(2), C-13(2), and (C13C)-C-12) are made available in electronic form from the CDS (http://cdsarc.u-strasbg.fr) and ExoMol (www.exomol.com) data bases.

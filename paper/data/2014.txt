@@ -1,0 +1,4 @@
+DE Scientific workflows; Cloud computing; Provenance management; Provenance
+   graph; Reproducibility
+ID E-SCIENCE; SYSTEMS
+AB Provenance of scientific workflows has been considered a mean to provide workflow reproducibility. However, the provenance approaches adopted so far are not applicable in the context of Cloud because the provenance trace lacks the Cloud information. This paper presents a novel approach that collects the Cloud-aware provenance and represents it as a graph. The workflow execution reproducibility on the Cloud is determined by comparing the workflow provenance at three levels i.e., workflow structure, execution infrastructure and workflow outputs. The experimental evaluation shows that the implemented approach can detect changes in the provenance traces and the outputs produced by the workflow.

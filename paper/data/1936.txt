@@ -1,0 +1,4 @@
+DE Distributed infrastructure; Federated identity management; Service
+   discovery; Standards; Interoperation; Cloud computing
+ID VIRTUAL ORGANIZATIONS; SYSTEM; GRIDS
+AB This paper compares three multi-national research infrastructures, one that provides data services, one that provides compute services, and one that supports linguistics research. The aim is to jointly provide services to the user communities, and, perhaps eventually, seamlessly interoperate. To this end, we look at and compare how the infrastructures build their service federations (trust, service status, information systems), and how they manage users (identities, authentication, and authorisation).

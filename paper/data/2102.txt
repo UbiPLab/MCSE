@@ -1,0 +1,5 @@
+DE Secuity and privacy; homomorphic encryption; secret sharing; multi-party
+   computing; zero-knowledge proof
+ID FULLY HOMOMORPHIC ENCRYPTION; NONINTERACTIVE ZERO-KNOWLEDGE; PUBLIC-KEY
+   CRYPTOSYSTEM; MULTIPARTY COMPUTATION; IOT APPLICATIONS; SECURE; AUCTION
+AB Privacy in online applications has drawn tremendous attention in recent years. With the development of cloud-based applications, protecting users' privacy while guaranteeing the expected service from the server has become a significant issue. This paper surveyed the most popular cryptographic algorithms in privacy-preserving online applications to provide a tutorial-like introduction to researchers in this area. Particularly, this paper focuses on introduction to homomorphic encryption, secret sharing, secure multi-party computation and zero-knowledge proof.

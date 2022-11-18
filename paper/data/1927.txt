@@ -1,0 +1,6 @@
+DE Tech investment; Decision tree induction; Clustering; Firm performance;
+   ICT
+ID INFORMATION-TECHNOLOGY INVESTMENT; CLOUD COMPUTING ADOPTION; TOTAL
+   QUALITY MANAGEMENT; DECISION TREE METHODS; FIRM PERFORMANCE; E-BUSINESS;
+   DEVELOPING-COUNTRIES; CHAID; STRATEGY; PAYOFF
+AB We investigate the influence of manufacturing and service technology investments (i.e., tech investments), Information and Communication Technologies (ICT), and financial factors on global manufacturing and service industry performance, from 2006 to 2014. This is accomplished by employing clustering, and decision tree induction, in conjunction with the Technology, Organization, and Environment framework (TOE) as the theoretical framework of the investigation. ICT and financial factors vary in importance across industries at different levels of technological advancement. Low-tech industries rely on loans and tech investments. As they move to transition industries, tech investments are more important. Once they become highly technologically advanced, bank lending policies become more important.

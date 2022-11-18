@@ -1,0 +1,4 @@
+DE Cloud Computing; E-Health; Quality Of Service; Resource Scheduling;
+   Virtual Machines
+ID QUEUING THEORY; JOBS
+AB The fast-growing internet services have led to the rapid development of storing, retrieving and processing health-related documents from a public cloud. In such a scenario, the performance of cloud services offered is not guaranteed, since it depends on efficient resource scheduling, network bandwidth, etc. The trade-off which lies between the cost and the QoS is that the cost should be variably low on achieving high QoS. This can be done by performance optimization. In order to optimize the performance, a novel task scheduling algorithm is proposed in this article. The main advantage of this proposed scheduling algorithm is to improve the QoS parameters which comprises of metrics such as response time, computation time, availability and cost. The proposed work is simulated in Aneka and shows better performance compared to existing paradigms.

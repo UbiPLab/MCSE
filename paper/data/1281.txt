@@ -1,0 +1,6 @@
+DE Fog computing; radio access networks; immersive media; free-viewpoint
+   video; 360-degree video; virtual reality; augmented reality
+ID NETWORK FUNCTION PLACEMENT; TO-DEVICE COMMUNICATION; MULTIVIEW VIDEO;
+   RESOURCE OPTIMIZATION; WIRELESS NETWORKS; DIVERSITY; CHALLENGES;
+   INTERNET; NFV
+AB Immersive media services, such as augmented reality and virtual reality (AR/VR),(a) 360-degree video, and free-viewpoint video (FVV), are popular today. They require massive data storage, ultrahigh computing power, and ultralow latency. It is hard to fulfill these requirements simultaneously in a conventional communication system using a cloud/centralized radio access network (C-RAN). Specifically, due to centralized processing in such a system, the end-to-end latency, as well as the burden on the fronthaul network, are expected to be high. Fog computing-based radio access networks (F-RAN), in contrast, have been widely considered as an enabler for immersive media. Our contribution in this paper is threefold: First, we propose various service scenarios reflecting the characteristics of immersive media. Second, we identify the technologies that are required to support the proposed service scenarios under F-RAN and discuss how they can support the proposed scenarios efficiently. Third, we discuss possible research opportunities.

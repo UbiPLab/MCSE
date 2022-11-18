@@ -1,0 +1,5 @@
+DE Software defined network; cloud computing; distributed denial of service
+   attacks (DDoS); DDoS attack and detection; experimental setup; survey
+ID SOFTWARE-DEFINED NETWORKING; MITIGATION MECHANISM; DEFENSE-MECHANISMS;
+   SCHEME; SECURITY; PRIVACY; FLOW
+AB Recently, software defined networks (SDNs) and cloud computing have been widely adopted by researchers and industry. However, widespread acceptance of these novel networking paradigms has been hampered by the security threats. Advances in the processing technologies have helped attackers in increasing the attacks too, for instance, the development of Denial of Service (DoS) attacks to distributed DoS (DDoS) attacks which are seldom identified by conventional firewalls. In this paper, we present the state of art of the DDoS attacks in SDN and cloud computing scenarios. Especially, we focus on the analysis of SDN and cloud computing architecture. Besides, we also overview the research works and open problems in identifying and tackling the DDoS attacks.

@@ -1,0 +1,3 @@
+DE encrypted cloud data; word2vec; secure search; cloud computing
+ID KEYWORD RANKED SEARCH; SEMANTIC SEARCH
+AB For the retrieval of data in the cloud, existing studies mostly generate vectors based on dictionaries, but these vectors do not respond well to the semantic information of articles. In this paper, we propose two safety retrieval schemes based on word2vec (SSSW-1 and SSSW-2). By establish a model through word2vec training method, we will generate index vectors directly for keywords. And the index vector can also reflect the semantic relationship of the document so as to improve the accuracy of the retrieval. Cosine measure will be used to calculate the similarity scores. Experiments based on real data show that the two schemes are effective and feasible.

@@ -1,0 +1,4 @@
+DE cloud computing; job scheduling; genetic algorithm; cost; makespan;
+   utilisation
+ID COST
+AB Scheduling in cloud is one of the challenging issues in resource management topic where the main question is how to manage time and cost in an optimised way. This study tackles the mentioned problem by managing time and cost through a genetic-based algorithm. The primary goal of this study is to manage jobs in a shorter time with lower cost and higher utilisation. Toward that end, we leverage the genetic algorithm solutions and a new model is proposed where jobs are created in genetic format. In the evaluation part of the model, different scenarios based on taking different fitness functions and format of the population are considered. We have analysed makespan, cost and utilisation in comparison to other two existing scheduling models (MAX-MIN and MIN-MIN). The results show considerable improvement in the cost, makespan and utilisation.

@@ -1,0 +1,4 @@
+DE Computer networks simulation; Automatic scalability; Cloud computing
+   applications
+ID SYSTEM; EDUCATION
+AB While parameter sweep simulations can help undergraduate students and researchers to understand computer networks, their usage in the academia is hindered by the significant computational load they convey. This paper proposes DNSE3, a service oriented computer network simulator that, deployed in a cloud computing infrastructure, leverages its elasticity and pay-per-use features to compute parameter sweeps. The performance and cost of using this application is evaluated in several experiments applying different scalability policies, with results that meet the demands of users in educational institutions. Additionally, the usability of the application has been measured following industry standards with real students, yielding a very satisfactory user experience.

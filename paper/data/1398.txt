@@ -1,0 +1,5 @@
+DE cloud computing; pay-as-you-go model; virtualisation; quality of
+   service; evaluation; performance; business model; service level;
+   hypervisor; virtual machine
+ID RESOURCE-MANAGEMENT; COST-AWARE
+AB This paper reports the interference effects in virtual machines performance running higher workloads to improve the resources payment in cloud computing. The objective is to produce an acceptable pay-as-you-go model to be used by cloud computing providers. Presently, a price of pay-as-you-go model is based on the virtual machine utilised per time. However, this scheme does not consider the interference caused by virtual machines running concurrently, which may cause performance degradation. In order to obtain a fair charging model, this paper proposes an approach considering a recovery over the initial price considering the virtual machine performance interference. Results showed benefits of a fair pay-as-you-go model, ensuring the effective user requirement. This novel model contributes to cloud computing in a fair and transparent price composition.

@@ -1,0 +1,4 @@
+DE cloud computing; DDoS attack; extreme learning machines; ELM; artificial
+   neural networks; ANN; cloud security; machine learning
+ID DDOS ATTACKS; DEFENSE SYSTEM; DOS; MITIGATION; ALGORITHM
+AB Cloud computing has become popular due to its on-demand, pay-as-you-use and ubiquitous features. This technology suffers from various security risks. Distributed denial of service (DDoS) attack is one of these security risks. It is used to disrupt the services provided by cloud computing. In DDoS attack, the cloud server is overwhelmed with fake requests by the attacker. This makes long response time for legitimate users or shut down of the service completely. In this work, a DDoS attack detection model based on extreme learning machine (ELM) has been proposed. Experiments show that proposed model can be trained in a very short period of time and provides high detection accuracy.

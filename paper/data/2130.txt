@@ -1,0 +1,1 @@
+AB Disclosing personal data for a purpose not known by data subjects is a practice that the 2018 European Union General Data Protection Regulation (GDPR) is supposed to prevent. This article gives an overview of the major aspects of GDPR related to provision, use, and maintenance of cloud services and technologies.
