@@ -1,0 +1,4 @@
+DE cloud computing; two-factor authentication; applied pi calculus;
+   Merkle-tree
+ID EFFICIENT
+AB Nowadays cloud computing is the most promising model within information technology. One of the most important issues is to achieve secure user authentication. Vulnerability of an authentication protocol results in successful attacks against confidentiality and integrity of user data stored and processed in the cloud. In our suggested protocol a person uses a static password and a one-time password for identity verification. Shared control among the cloud servers is provided by applying a Merkle-tree for storing one-time passwords distributed. A security analysis is carried out in case of outsider adversaries. We show that our authentication protocol fulfils typical security requirements of a key exchange protocol, i.e., authentication of the participants, key secrecy, key freshness and confirmation that both parties know the new key in the Dolev-Yao model.

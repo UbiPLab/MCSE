@@ -1,0 +1,7 @@
+DE Internet of Things; cloud computing; middleware; Web services; transport
+   protocols; queueing theory; IoT devices; request-response usage; MQTT;
+   network restrictions; request-response pattern; Internet-of-Things
+   devices; Internet architectures; RESTful services; middleware solutions;
+   RESTful architecture; application development; network infrastructures;
+   message queuing telemetry transport
+AB As Internet-of-Things (IoT) devices become more powerful, they can also become full participants of Internet architectures. For example, they can consume and provide RESTful services. However, the typical network infrastructures do not support the architecture and middleware solutions used in the cloud-based Internet. The authors show how systems designed with RESTful architecture can be implemented by using an IoT-specific technology called message queuing telemetry transport (MQTT). Their example case is an application development and deployment system that can be used for remote management of IoT devices. To evaluate the proposed solution, they performed resource consumption experiments to compare HTTP and request-response usage of MQTT. The results suggest that MQTT uses less central processing unit time and memory.

@@ -1,0 +1,4 @@
+DE Identity based encryption; attribute based encryption; equality test;
+   insecurity; cloud computing
+ID PUBLIC-KEY ENCRYPTION; IDENTITY-BASED ENCRYPTION; EQUALITY TEST
+AB Cloud computing is a novel pattern, which can allow users to outsource their data to the cloud servers in order to save the resource of clients. For the sake of protecting the clients' privacy, the clients' data are stored or computed in the encrypted data. This leads to a new issue: how to quickly search these encrypted data. One of the methods to solve the problem is to construct public-key encryption schemes with the equality test. In this paper, we point out that an identity-based encryption scheme with the equality test and a ciphertext-policy attribute-based encryption scheme with equality test is not secure on their security models, respectively.

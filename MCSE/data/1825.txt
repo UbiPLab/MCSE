@@ -1,0 +1,5 @@
+DE renewable energy integration; home energy management; demand side
+   management; fog computing; artificial neural network; weather
+   forecasting
+ID CLOUD
+AB An unprecedented opportunity is presented by smart grid technologies to shift the energy industry into the new era of availability, reliability and efficiency that will contribute to our economic and environmental health. Renewable energy sources play a significant role in making environments greener and generating electricity at a cheaper cost. The cloud/fog computing also contributes to tackling the computationally intensive tasks in a smart grid. This work proposes an energy efficient approach to solve the energy management problem in the fog based environment. We consider a small community that consists of multiple smart homes. A microgrid is installed at each residence for electricity generation. Moreover, it is connected with the fog server to share and store information. Smart energy consumers are able to share the details of excess energy with each other through the fog server. The proposed approach is validated through simulations in terms of cost and imported electricity alleviation.

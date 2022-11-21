@@ -1,0 +1,3 @@
+DE cloud computing; edge computing; rule-based reasoning; semantic web of
+   things
+AB The emergence of the Internet of Things (IoT) and the Semantic Web of Things is leading to intensive cloud processing executing reasoning rules over large volumes of enriched data. However, the role of the cloud in existing approaches as a central point for both data processing and provisioning reduces scalability and introduces latency. This paper sketches a new approach for rule-based reasoning, enabling distributed rule evaluation on edge nodes, and reducing the latency for IoT applications while avoiding the total dependence on a central node. This approach is evaluated in a simulated smart building.

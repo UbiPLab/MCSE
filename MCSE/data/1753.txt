@@ -1,0 +1,4 @@
+DE ANN; system operators; activation function; fractional calculus;
+   fractional difference problem
+ID OPTIMALITY; DUALITY
+AB In mathematical modeling of Artificial Neural Networks (ANN), a neuron's network function formulates as an arrangement of other functions. It represents a composition of other functions by using arrows between variables. In this paper, we introduce a new class of activation functions based on the concept of the univex function. This type of functions satisfies the convexity property. This property converges to the outcome of ANN. Moreover, we study the activation function by using the concept of approximation theory. Finally, we lay new connections of the nonlinear weighted sum depending on the fractional power. The simulation is introduced to maximize the utility function in a fractional cloud computing system.

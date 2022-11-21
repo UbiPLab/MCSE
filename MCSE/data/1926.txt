@@ -1,0 +1,6 @@
+DE Cloud computing; Organizational agility; IT infrastructure capabilities;
+   IT spending
+ID INFORMATION-TECHNOLOGY CAPABILITY; SUPPLY CHAIN INTEGRATION; FIRM
+   PERFORMANCE; SERVICE PROVIDERS; SOCIAL COMMERCE; ADOPTION; SYSTEMS;
+   INFRASTRUCTURE; IMPACT; PERSPECTIVE
+AB The emergence of cloud computing has significantly changed the model used for existing information technology and enhanced agility of a firm through its pay per use mode. However, few studies have focused on this phenomenon, and prior studies are unclear regarding the impact of cloud computing on organizational agility. Therefore, this study investigates the link between cloud computing and organizational agility based on survey data from users of the Alibaba cloud in China. The empirical analysis is conducted using the partial least squares (PLS) based structural equation modeling with SmartPLS 2.0. We propose that two cloud computing related capabilities (i.e., CI flexibility and CI integration) are critical for firms to improve their agility. Based on the IT-agility contradiction, we analyze the moderating effect of IT spending on cloud computing. This study provides a new perspective for understanding cloud computing technology in practice and theory.

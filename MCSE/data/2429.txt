@@ -1,0 +1,6 @@
+DE convection; stars: late-type; stars oscillations; stars variables:
+   general; Magellanic Clouds
+ID LARGE-MAGELLANIC-CLOUD; GRAVITATIONAL LENSING EXPERIMENT;
+   EQUATION-OF-STATE; PERIOD-LUMINOSITY RELATIONS; STELLAR ENVELOPES;
+   VARIABLE-STARS; OGLE; MODES; LMC
+AB We have computed linear non-adiabatic oscillations of luminous red giants using a non-local and anisotropic time-dependent theory of convection. The results show that low-order radial modes can be self-excited. Their excitation is the result of radiation and the coupling between convection and oscillations. Turbulent pressure has important effects on the excitation of oscillations in red variables.

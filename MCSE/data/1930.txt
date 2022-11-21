@@ -1,0 +1,4 @@
+DE Cloud computing; Population genetics; Mendel's Accountant; Nemo;
+   Wolbachia; Arboviral diseases
+ID FRAMEWORK
+AB Geneticists employ wide range of simulation programs for the analysis of genomic dataset. Main difficulties are to deal which include complex user interface, limited hardware capacity, complex software design, and analyzing diverse genomes. Forward time population genetics is powerful technique to identify gene underlying traits or mutations of interest. In this work, population genetics simulators Mendel's Accountant and Nemo are integrated in a cloud computing environment. Wolbachia was used for platform testing. Computational analysis of Wolbachia was performed to highlight the factors that associated with prevention of arboviral diseases.

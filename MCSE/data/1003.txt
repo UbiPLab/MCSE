@@ -1,0 +1,6 @@
+DE Business Continuity; Business ImpactAnalysis; Cloud Computing;
+   Colocation; Data Center; Mitigation; Ordered Weighted Average;
+   Preparedness; Recovery; Response; Risk Assessment; Strategy Development;
+   Threats
+ID DECISION-MAKING; SECURITY
+AB In this article, the authors discuss how business continuity methodologies can be used by data centers to respond to natural disasters, man-made disasters, and accidents. Because organizations depend on computing services, which may become unavailable when disasters strike, prudent risk management processes can provide for continuation and recovery of operations. With a focus on data centers, this article discusses the business continuity plan development process. This article also considers elements of a business continuity management plan, which includes strategy development, preparedness, mitigation, exercises, and response and recovery, and discuss business continuity strategies for colocation and cloud-based data center architectures. Finally, the authors discuss how the ordered weighted average (OWA) methodology can be used to incorporate a decision makers risk profile when confronted with decisions related to the processes discussed.

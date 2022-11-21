@@ -1,0 +1,5 @@
+DE Industry 4.0; lean management; model; lean automation; cyber-physical
+   systems
+ID RESEARCH AGENDA; FUTURE; METHODOLOGY; AUTOMATION; INTERNET; CONTEXT;
+   SYSTEMS; THINGS
+AB Lean Management (LM) is one of the most widely used business strategies for the last three decades. Industry 4.0 shows all the promise of the fourth industrial revolution using automation technologies like cyber-physical systems, internet of things and cloud computing. The purpose of this paper is to propose an integration model of Industry 4.0 and LM. A summary literature review of Industry 4.0 and LM is carried out to construct a theoretical model of integration. The previous literature is used to develop and propose an integration model of Industry 4.0 and LM. The horizontal, vertical and end-to-end engineering integration model are integrated with LM methodology. Testable research propositions are proposed between Industry 4.0 and LM. The model proposed is novel and it raises the important issue of integration of LM with Industry 4.0. This is the first paper which proposes the integration framework of LM with Industry 4.0.

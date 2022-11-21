@@ -1,0 +1,10 @@
+DE wearable electronic devices; vital signs; monitoring; ambulatory;
+   photoplethysmography; benchmarking
+ID HEART-RATE-VARIABILITY; RESPIRATORY RATE; PHOTOPLETHYSMOGRAPHIC SIGNAL;
+   CARDIOVASCULAR-DISEASE; AUTONOMIC IMBALANCE; PULSE; PREDICTION;
+   AGREEMENT; SYMPTOMS; FAILURE
+AB Background: Wearable and connected health devices along with the recent advances in mobile and cloud computing provide a continuous, convenient-to-patient, and scalable way to collect personal health data remotely. The Wavelet Health platform and the Wavelet wristband have been developed to capture multiple physiological signals and to derive biometrics from these signals, including resting heart rate (HR), heart rate variability (HRV), and respiration rate (RR).
+   Objective: This study aimed to evaluate the accuracy of the biometric estimates and signal quality of the wristband.
+   Methods: Measurements collected from 35 subjects using the Wavelet wristband were compared with simultaneously recorded electrocardiogram and spirometry measurements.
+   Results: The HR, HRV SD of normal-to-normal intervals, HRV root mean square of successive differences, and RR estimates matched within 0.7 beats per minute (SD 0.9), 7 milliseconds (SD 10), 11 milliseconds (SD 12), and 1 breaths per minute (SD 1) mean absolute deviation of the reference measurements, respectively. The quality of the raw plethysmography signal collected by the wristband, as determined by the harmonic-to-noise ratio, was comparable with that obtained from measurements from a finger-clip plethysmography device.
+   Conclusions: The accuracy of the biometric estimates and high signal quality indicate that the wristband photoplethysmography device is suitable for performing pulse wave analysis and measuring vital signs.

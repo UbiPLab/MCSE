@@ -1,0 +1,3 @@
+DE Network function virtualization; computing resources; bandwidth
+   resources; least cost path
+AB We propose an algorithm for the cloud and bandwidth resource allocation in multi-provider NFV environments. The resources are allocated so as to take into account the different costs charged by the cloud infrastructure providers (InP). The effectiveness of the proposed algorithm is confirmed from the comparison with the results of the optimal problem. Its application in medium and large networks has shown that it can lead to cost saving as high as 65% with respect to algorithms that allocate resources without taking into account the cost differences charged by the InPs.

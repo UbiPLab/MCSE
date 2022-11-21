@@ -1,0 +1,5 @@
+DE cloud data centre; extensive messaging and presence protocol; XMPP; push
+   model
+ID FRAMEWORK; OPENFLOW; IMPLEMENTATION; PERFORMANCE; MANAGEMENT; SERVICE;
+   SYSTEM
+AB Currently, cross-domain load balancing is one of the core issues for software defined networks (SDN) in cloud data centre, which can optimise resource allocation. In this paper, we propose a cross-domain load balancing mechanism, CDLB, based on Extensive Messaging and Presence Protocol (XMPP) for SDN in cloud data centre. Different from poll method, XMPP based push model is introduced in the proposed scheme, which can avoid wasting network and computing resources in large-scale distributed network environment. The proposed scheme enables all the controllers in the flat distributed control plane to share the same consistent global-view network information in real time through XMPP and XMPP publish/subscribe extension. Thus, the problem of non-real time information synchronisation can be resolved and cross-domain load balancing can be realised. The simulations show the efficiency of the proposed scheme.

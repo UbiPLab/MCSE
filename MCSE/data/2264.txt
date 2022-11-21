@@ -1,0 +1,8 @@
+DE stars: winds, outflows; ISM: jets and outflows; stars: individual:
+   Sanduleak's star
+ID LARGE-MAGELLANIC-CLOUD; HERBIG-HARO JETS; ETA-CARINAE; ULTRAVIOLET;
+   SIMILARITY; MORPHOLOGY; OUTFLOW; OBJECTS
+AB Context. Angeloni and collaborators have discovered a bipolar jet extending out to similar to 6 pc from "Sanduleak's star" in the Large Magellanic Cloud (LMC). This is the first angularly resolved stellar jet system that has been observed outside our Galaxy.
+   Aims. In this paper we use archival Hubble Space Telescope (HST) images of this jet in order to estimate the flow parameters, and use them to explore two possible theoretical scenarios for modelling this bipolar outflow.
+   Methods. We have computed axisymmetric gasdynamic simulations of a conical outflow with an opening angle that increases with time and of a cylindrical jet interacting with a stratified circumstellar structure. The results of these models are then compared with the observed morphology of the jets from Sanduleak's star.
+   Results. From the observations, we obtain. <(M)over dot>(j) approximate to 1.2 x 10(-5) M-circle dot yr(-1) and L-m approximate to 1000 L-circle dot for the mass loss rate and the mechanical luminosity (respectively) of each of the outflow lobes. We also obtain a (deprojected) flow velocity v(j) approximate to 1000 km s(-1) and a dynamical time t(dyn) approximate to 7300 yr. From the simulations that we have computed (with these flow parameters), we find that both the "opening out conical wind" and the "jet+stratified environment" scenarios have characteristics that resemble the observed morphologies. A more complete model for the jets from Sanduleak's star might incorporate some of the features of these two scenarios.

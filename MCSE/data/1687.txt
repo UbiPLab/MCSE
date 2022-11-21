@@ -1,0 +1,5 @@
+DE Virtual manufacturing systems; Hybrid process simulation; Context-aware
+   systems; Cloud computing; Hardware-in-loop; Sensor-cloud infrastructure;
+   Software reusability
+ID BIG DATA; ARCHITECTURE
+AB The paper presents the design of a cloud simulation platform and the associated services that will provide the computing resources and services for hybrid simulation of Virtual Manufacturing Systems. At the core of the research is the design of a framework defined as Virtual Development Environment (VDE). Associated to VDE is a set of block functions and algorithms defined as software assets, stored in a large repository implemented within an on-line cloud supported library. The platform offers flexibility concerning the continuous testing and updates regarding the algorithms in order to improve the existing ones. (C) 2018 Elsevier B.V. All rights reserved.

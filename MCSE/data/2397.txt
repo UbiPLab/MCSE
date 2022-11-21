@@ -1,0 +1,5 @@
+ID SPHERICAL POLYELECTROLYTE BRUSHES; CURRENT ELECTROOSMOTIC FLOW;
+   SOLID-STATE NANOCHANNELS; ELECTRIC DOUBLE-LAYERS; NANOFLUIDIC CHANNELS;
+   IONIC CURRENT; ENERGY-CONVERSION; POLYZWITTERIONIC BRUSHES; MAGNETITE
+   NANOPARTICLES; CURRENT RECTIFICATION
+AB In this paper, we compute the electrokinetic transport in soft nanochannels grafted with poly-zwitterionic (PZI) brushes. The transport is induced by an external pressure gradient, which drives the ionic cloud (in the form of an electric double layer or EDL) at the brush surfaces to induce an electric field that drives an induced electroosmotic transport. We characterize the overall transport by quantifying this electric field, overall flow velocity, and the energy conversion associated with the development of the electric field and a streaming current. We specially focus on how the ability of the PZI to ionize and demonstrate a significant charge at both large and small pH can be efficiently maneuvered to develop a liquid transport, an electric field, and an electrokinetically induced power across a wide range of pH values.

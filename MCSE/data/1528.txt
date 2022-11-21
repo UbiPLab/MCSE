@@ -1,0 +1,5 @@
+DE Sharing economy; cognitive processing at the edge; mobile edge
+   computing; Blockchain; smart city
+ID BIG DATA; FOG; INTERNET; NETWORK; THINGS; SATISFACTION; OPTIMIZATION;
+   COMPUTATION; SECURITY; MODEL
+AB In this paper, we propose a Blockchain-based infrastructure to support security- and privacy-oriented spatio-temporal smart contract services for the sustainable Internet of Things (IoT)-enabled sharing economy in mega smart cities. The infrastructure leverages cognitive fog nodes at the edge to host and process offloaded geo-tagged multimedia payload and transactions from a mobile edge and IoT nodes, uses AI for processing and extracting significant event information, produces semantic digital analytics, and saves results in Blockchain and decentralized cloud repositories to facilitate sharing economy services. The framework offers a sustainable incentive mechanism, which can potentially support secure smart city services, such as sharing economy, smart contracts, and cyber-physical interaction with Blockchain and IoT. Our unique contribution is justified by detailed system design and implementation of the framework.

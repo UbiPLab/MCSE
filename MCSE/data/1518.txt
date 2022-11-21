@@ -1,0 +1,9 @@
+DE Diffusion of innovation; Post-adoption; Software as a service;
+   Continuance intention
+ID INFORMATION-SYSTEMS CONTINUANCE; CLOUD COMPUTING ADOPTION; INSTITUTIONAL
+   THEORY PERSPECTIVE; UNDERSTANDING POST-ADOPTION; E-BUSINESS; TECHNOLOGY
+   ACCEPTANCE; E-COMMERCE; SOFTWARE; USAGE; DETERMINANTS
+AB Purpose Although studies have investigated reasons for software as a service (SaaS) adoption, it is unclear how firm-level SaaS use impacts future SaaS intentions. The purpose of this paper is to propose a theoretical model that integrates the technology-organization-environment framework, institutional theory, diffusion-of-innovation theory and the opportunity-risk framework to analyze the drivers of SaaS use and its continuance intention.
+   Design/methodology/approach The authors evaluated the direct, moderating and mediating effects of determinants on SaaS continuance intentions using structural equation modeling and data from 301 firms.
+   Findings Results found that top management support and normative pressures influenced SaaS use. Cost saving and security concerns were direct predictors of perceived opportunities and perceived risks, respectively. Perceived opportunities and risks and actual SaaS use influenced SaaS continuance. Interestingly, perceived opportunities were found to be a negative moderator on the relationship between SaaS use and SaaS continuance.
+   Originality/value The results reveal insightful and controversial findings for SaaS research.

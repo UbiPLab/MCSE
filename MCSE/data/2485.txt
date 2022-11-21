@@ -1,0 +1,3 @@
+DE Quantum cryptography; Categorical quantum mechanics; Access control
+ID KEY DISTRIBUTION
+AB Access control is a mechanism that is used to decide which agent has access to which resource with some specific operations. This paper is devoted to the investigation of quantum cryptography in access control. We develop three quantum protocols and use them for key distribution, identity authentication and digital certification, respectively. We analyze our protocols by the graphical language of categorical quantum mechanics. These protocols are unconditionally secure and implementable by the current technology.

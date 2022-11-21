@@ -1,0 +1,5 @@
+DE data centre; energy efficiency; GCC; green cloud computing; load
+   balancing; QoS; quality of service; data science; big data; data
+   modelling; data mining
+ID ENERGY; PERFORMANCE
+AB The developing interest for utilising the Cloud Computing (CC) has expanded the energy consumption of data centres which has become a critical issue. High energy consumption not only is translated to high operational cost but also reduces the profit margin for the cloud providers and leads to high carbon emissions, which are not environmentally friendly. Therefore, there is a need for energy-saving solutions to minimise the negative impact of CC. This research proposes an Energy Saving Load Balancing (ESLB) technique that plans to make energy saving in the cloud server while keeping up the Service Level Agreement (SLA), which includes the Quality of Service (QoS) between the cloud service provider and cloud customers. This proposed technique aims to enhance the performance, resources' utilisation and reduce the both of energy consumption and carbon dioxide in order to mitigate the negative impact of CC on the environment.
