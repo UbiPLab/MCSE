@@ -1,0 +1,1 @@
+AB A large body of research in cryptography was established over recent decades but little of it has been commercialised. This is to the detriment of cloud computing, where the new methods would help to establish end-to-end security, which is not yet common practice.

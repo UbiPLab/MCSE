@@ -1,0 +1,3 @@
+DE Markov chain; laaS; cloud computing; performance analysis; heterogeneous
+ID CLOUD; QOS
+AB Heterogeneity prevails not only among physical machines but also among workloads in real laaS Cloud data centers (CDCs). The heterogeneity makes performance modeling of large and complex laaS CDCs even more challenging. This paper considers the scenario where the number of virtual CPUs requested by each customer job may be different. We propose a hierarchical stochastic modeling approach applicable to laaS CDC performance analysis under such a heterogeneous workload. Numerical results obtained from the proposed analytic model are verified through discrete-event simulations under various system parameter settings.

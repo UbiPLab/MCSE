@@ -1,0 +1,6 @@
+DE Inter-terminal transportation; Port sustainability; Cloud computing;
+   Multi-objective optimization; Decision support systems
+ID CONTAINER TERMINALS; OPERATIONS-RESEARCH; BERTH ALLOCATION; GREEN
+   LOGISTICS; SEA PORTS; OPTIMIZATION; EMISSIONS; TRANSPORT;
+   SUSTAINABILITY; ISSUES
+AB A tremendous growth in containerized trade has led to severe traffic problems in urban port areas associated with negative effects on both efficiency and pollution. In this paper, we address the multi-objective inter-terminal truck routing problem by specifically considering truck emissions. We present an efficient multi-objective archived simulated annealing approach and a visualization technique. Managerial insights are discussed based on an analysis of trade-offs. The algorithm is embedded in a cloud-based decision support system to consider contextual data, including traffic data and the current positions of trucks. This allows ports to utilize potentials of digitalization and optimization while addressing environmental issues. (C) 2017 Elsevier Ltd. All rights reserved.

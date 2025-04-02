@@ -1,0 +1,3 @@
+DE Backup; Recovery; Cloud computing; SaaS; Small business; Consumers
+ID SECURITY
+AB Large numbers of small organisations and prosumers have shifted away from managing data on their own devices and are now heavily reliant on service-providers for both storage and processing of their data. Most such entities are also dependent on those service-providers to perform backups and enable data recovery. Prior work defining users' backup needs was applied to this context in order to establish specifications for appropriate backup arrangements. A sample of service-providers was assessed against those specifications. Their backup and recovery mechanisms were found to fall seriously short of the need. (C) 2017 Roger Clarke. Published by Elsevier. All rights reserved.

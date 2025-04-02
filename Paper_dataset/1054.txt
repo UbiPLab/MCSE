@@ -1,0 +1,5 @@
+DE cloud computing; privacy preservation; egg donor; sperm donor; TBAHIBE;
+   location-based keyword query search; LBKQS; electronic health record;
+   EHR
+ID BIG DATA; SERVICE; AUTHENTICATION
+AB In recent days, providing security to the data stored in cloud is an important and challenging task. The existing works have some drawbacks such as, high cost, required more amount of time for execution and low level security. So, this paper proposes novel techniques such as, tiered blind and anonymous hierarchical identity-based encryption (TBAHIBE) and location-based keyword query search (LBKQS) for privacy preservation. In this work, the privacy is provided to the medical data stored in the electronic health record (EHR). Here, the medical data of the egg and sperm donor, receptor, doctor and lab technician are stored in an encrypted format by using the proposed TBAHIBE technique. Then, the location-based search is enabled based on the keyword and query. The experimental results evaluate the performance in terms of computation cost, communication cost, query evaluation, encryption time, decryption time and key generation time.

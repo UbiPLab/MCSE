@@ -1,0 +1,2 @@
+DE Cloud computing; Database; Supervisory systems
+AB This article aims to present the implementation of a supervisory automation system that uses a cloud database for data storage and decision making. A brief background about supervisory systems, cloud computing and the advantages and disadvantages of this application will also be discussed.

@@ -1,0 +1,6 @@
+DE Power systems; Edge computing; Wireless communication; Fault diagnosis;
+   Protective relaying; Cloud computing; Short-circuit diagnosis; fog
+   computing; wide-area backup protection; fault diagnosis
+ID BACKUP PROTECTION; FAULT LOCATION; SMART; TECHNOLOGIES; NETWORKS;
+   INTERNET; SYSTEM
+AB This paper presents a novel scheme for short-circuit diagnosis with high diagnosis accuracy, robust fault tolerance, and shorter time delays. The scheme is operated on a fog computing-based framework with the current power system infrastructure. Wide-area backup protection information is processed into targeted knowledge with smaller package sizes and transmitted among the relative fog nodes to establish incidence matrices in each node. Each fog node can calculate its diagnostic value using the matrices for the fault location. The resources of computing and communication are both economized during the process. The performance is validated with the IEEE 118 bus system. The results demonstrate that the scheme can maintain 100% accuracy with any three-error scenarios and provide a shorter latency with high network utilization.

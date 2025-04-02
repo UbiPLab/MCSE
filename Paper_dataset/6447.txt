@@ -1,0 +1,3 @@
+DE Reconstruction; Volumetric models; Shellability; 3D Delaunay
+   triangulation; Star shapes
+AB Recently, methods have been proposed to reconstruct a 2-manifold surface from a sparse cloud of points estimated from an image sequence. Once a 3D Delaunay triangulation is computed from the points, the surface is searched by growing a set of tetrahedra whose boundary is maintained 2-manifold. Shelling is a step that adds one tetrahedron at once to the growing set. This paper surveys properties that helps to understand the shelling performances: shelling provides most tetrahedra enclosed by the final surface, but it can "get stuck" or block in unexpected cases.

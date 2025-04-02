@@ -1,0 +1,7 @@
+DE software engineering; cloud computing; MDE as service; model-driven
+   engineering; model transformations; MDEaaS; business opportunity;
+   application-independent contexts; MDE resources; FOMDA approach;
+   integrated reuse mechanism; cross-application domains; model-based
+   system engineering
+ID MODEL
+AB Surveys on the Model-Driven Engineering (MDE) adoption agree that resources such as model transformations need customisation before introduction in a target context. This study highlights an emerging scenario for reuse named MDE as Service' (MDEaaS), i.e. a business opportunity characterised by requests from application-independent contexts for customisations in MDE resources. In response for the increasing interest of some professionals in this opportunity and due to the absence of studies establishing reuse foundations for this scenario, it is presented here the authors' background in the Feature-Oriented Model-Driven Architecture (FOMDA) approach: an implementation of MDEaaS assisted by an integrated reuse mechanism to test, compose, check the consistency, and adapt these resources. By including an analysis of three cross-application domains composed by resources developed in support for model-based systems engineering, this work shows the suitability and limitations of this approach. They therefore contribute to the foundation of MDEaaS through a longitudinal study, including key findings from their analysis of this reuse scenario.

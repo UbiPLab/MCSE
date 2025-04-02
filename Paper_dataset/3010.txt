@@ -1,0 +1,5 @@
+DE Big Data; Decision Management; Dynamic Capability; Service System Cloud
+   Computing
+ID CONCEPTUAL FOUNDATIONS; BUSINESS INTELLIGENCE; PREDICTIVE ANALYTICS;
+   VALUE CHAIN; BIG DATA; MANAGEMENT; ARCHITECTURES
+AB A new class of information system architecture, decision-oriented service systems, is spreading more and more. Decision-oriented service systems provide services that support decisions in business processes and products based on the capabilities of cloud-computing environments. To pave the way for the creation of design methods of business processes and products based on decision-oriented service systems, this article introduces a capability-oriented approach. Starting from technological capabilities, more abstract operational and dynamic capabilities are created. The framework created is based on an integrated conceptualization of decision-oriented service systems that allows capturing synergetic effects. By creating the framework, the gap between the technological capabilities of technologies and the strategic goals of enterprises shall be narrowed.

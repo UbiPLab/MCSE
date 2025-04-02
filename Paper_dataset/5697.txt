@@ -1,0 +1,3 @@
+DE Wireless sensor networks; cloud computing services; Wireless Mesh
+   Network and Bluetooth Low Energy; real time application
+AB Wireless sensor networks play the prominent role in modern communication world. The emerging scarcity of electricity for posterity causes revolution in safeguarding the energy sources. On the global scale, demand of electricity has been increasing vastly. IoT is an exquisite telecommunication, with the admirable aspect of cloud computing services. We propose the fusion of nRF based Wireless Mesh Network and Bluetooth Low Energy in the Physical layer. In this paper, we demonstrate a model for the data management between various protocols in real time application.

@@ -1,0 +1,4 @@
+DE virtual security; virtual machine escape; access control; BLP model;
+   PVME model
+ID SECURITY ISSUES; CLOUD
+AB With the rapid development of Internet, the traditional computing environment is making a big migration to the cloud-computing environment. However, cloud computing introduces a set of new security problems. Aiming at the virtual machine (VM) escape attack, we study the traditional attack model and attack scenarios in the cloud-computing environment. In addition, we propose an access control model that can prevent virtual machine escape (PVME) by adapting the BLP (Bell-La Padula) model (an access control model developed by D. Bell and J. LaPadula). Finally, the PVME model has been implemented on full virtualization architecture. The experimental results show that the PVME module can effectively prevent virtual machine escape while only incurring 4% to 8% time overhead.

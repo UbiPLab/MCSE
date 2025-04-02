@@ -1,0 +1,6 @@
+DE Attribute based encryption; Hidden policy; Decryption outsourcing; Cloud
+   computing; Privacy; Data security
+ID CONSTANT-SIZE KEYS; CP-ABE; ACCESS-CONTROL; SECRET KEYS; INTERNET;
+   DEVICES; SCHEME
+AB Attribute based encryption (ABE) is an encrypted access control mechanism that ensures efficient data sharing among dynamic group of users. Nevertheless, this encryption technique presents two main drawbacks, namely high decryption cost and publicly shared access policies, thus leading to possible users' privacy leakage.
+   In this paper, we introduce PHOABE, a Policy-Hidden Outsourced ABE scheme. Our construction presents several advantages. First, it is a multi-attribute authority ABE scheme. Second, the expensive computations for the ABE decryption process is partially delegated to a Semi Trusted Cloud Server. Third, users' privacy is protected thanks to a hidden access policy. Fourth, PHOABE is proven to be selectively secure, verifiable and policy privacy preserving under the random oracle model. Five, estimation of the processing overhead proves its feasibility in IoT constrained environments. (C) 2018 Elsevier B.V. All rights reserved.

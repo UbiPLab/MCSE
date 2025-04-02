@@ -1,0 +1,3 @@
+DE Arbitrary gear geometries; basic law of gearing; gear design;
+   nonstandard tooth shapes
+AB This article provides a mathematical framework based on the basic law of gear kinematics for calculating the tooth geometry of arbitrary gear types. The described algorithms are illustrated by means of practical applications, especially nonstandard gearings. The computed geometry is exported as a point cloud with integrated STEP-modeling. Thus, further analysis of the generated gear types are possible, e.g. by computer-aided design or finite-element software tools as well as manufacturing on 5-axis-CNC or forging machines.

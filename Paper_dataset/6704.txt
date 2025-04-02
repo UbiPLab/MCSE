@@ -1,0 +1,12 @@
+DE feature extraction; switchgear; entropy; fault diagnosis; power
+   engineering computing; data mining; time series; fuzzy set theory;
+   support vector machines; signal classification; feature extraction;
+   fault feature classification method; switchgear faults; sample entropy;
+   fault diagnosis method; multivariate multiscale sample entropy; MMSE;
+   data mining; composite delay vectors; multivariate multiscale cloud
+   sample entropy; MMCSE features; switchgear monitoring data; fuzzy
+   support vector machine; FSVM; dropping seminormal membership cloud
+   model; uncertainty quantification; smart breaker; sensors; three-phase
+   voltage; multivariate monitoring process; multivariate time series;
+   tolerance criterion
+AB This study proposes a fault diagnosis method for extracting and classifying the fault features of switchgears in accordance with the monitoring data of three-phase voltage and current, temperature, humidity, and flashing from the smart breaker and sensors. The fault features are calculated using multivariate multiscale sample entropy (MMSE) for the data mining of multivariate monitoring process. The similarity measure of the composite delay vectors of multivariate time series in MMSE is improved by introducing a cloud model to soften the similar tolerance criterion. The modified MMSE is defined as multivariate multiscale cloud sample entropy (MMCSE). The MMCSE features of switchgear monitoring data can be achieved in different time scales in describing various switchgear faults. Subsequently, a classification method based on fuzzy support vector machine (FSVM) is further adopted to identify different types of switchgear faults using the MMCSE features. In addition, a dropping semi-normal membership cloud model is applied to modify the uncertainty quantification of the relationship among fault samples in FSVM. The effectiveness of the proposed method is validated with the monitoring data in a 10kV switchboard.

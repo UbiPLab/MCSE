@@ -1,0 +1,4 @@
+DE Smart clothing; Healthcare system; Wearable computing; Emotion care;
+   Cloud computing
+ID NETWORKS
+AB In this paper, we propose a new wearable device named smart clothing. Compared with traditional equipments smart clothing has lots of advantages in many aspects. This paper introduces the construction of smart clothing system, discusses its usage scenario and the data transmission mode with the terminal, cloud platform, and builds an efficient healthcare system. This paper also discusses the use of smart clothing for measurement of human body signs such as blood oxygen, body temperature, heartbeat, and ensures users being in good health by real-time monitoring. Finally, this paper focuses on the collection of ECG signals and the experiment of analyzing user's feelings. (C) 2018 Elsevier B.V. All rights reserved.

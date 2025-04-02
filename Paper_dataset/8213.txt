@@ -1,0 +1,6 @@
+DE Internet of Things; Elliptic curves; Elliptic curve cryptography; Cloud
+   computing; Encryption; Access structure; ambient-assisted living system;
+   elliptic curve cryptography (ECC); key-policy-attribute-based encryption
+   (KPABE); Lagrange's interpolation (LI)
+ID ATTRIBUTE-BASED ENCRYPTION; SCHEME
+AB The increasing deployment of Internet of Things in diversified fields provides groundwork for smart living. However, at the same time, it brings challenges like security and privacy. Among the numerous proposed security schemes, attribute-based encryption (ABE) is considered as one of the most promising security and privacy preserving scheme in distributed environment (or cloud environment). Many variants of the ABE exist, but most of them employ the expensive bilinear pairing operations. In this article, we have proposed a lightweight elliptic-curve-cryptography-based key-policy ABE without bilinear pairing and having a feature of key refresh/update mechanism. Also, the key distribution is done by the authority, which incorporates direct attribute/user revocation. The scheme is secured under elliptic curve decisional Diffie-Hellman assumption. The performance analysis demonstrates that the proposed scheme is efficient as compared to the existing ABE schemes.

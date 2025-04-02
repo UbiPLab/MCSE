@@ -1,0 +1,4 @@
+DE Business intelligence; Business process management; information
+   management; knowledge management; ubiquitous system
+ID BUSINESS PROCESS MANAGEMENT
+AB Nowadays, the organizations need to raise the information quality and enhance the process management by implementing technological instruments that ease the application of strategies regarding to the business core areas. This work shows a system prototype based on cloud computing which possesses ubiquitous characteristics to improve mechanic maintenance process quality for vehicles. Overall the results of the system functionality allow to obtain better customer service response time, optimize the staff workload and facilitate to make decisions through generating dynamic reports in real time according to the senior management needs.

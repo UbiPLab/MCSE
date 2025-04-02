@@ -1,0 +1,4 @@
+DE Massive open online courses; social cloud; information technology;
+   virtual desktop infrastructure; bring your own device
+ID MOOCS; TPACK; STRATEGIES; QUALITY
+AB Instruction in technical disciplines requires hands-on laboratories. Such laboratories are difficult to find and maintain for administrative and cost reasons. The use of a new ecosystem of practical education is necessary. Here, we present a model and an architecture of e-learning for handson information technology learning. We use virtual technology and cloud computing access from any computer or student-owned device. The model has been experimentally tested. The results demonstrate the validity of the model that permits the transmission of practical skills in a fashion similar to face-to-face training, but with the advantage that only virtual resources are needed.

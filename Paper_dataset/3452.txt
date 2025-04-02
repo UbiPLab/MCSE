@@ -1,0 +1,1 @@
+AB IaaS, PaaS, and SaaS were formally defined in 2011. Have these definitions held up in the fast-moving world of Cloud Computing?

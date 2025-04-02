@@ -1,0 +1,4 @@
+DE Cloud computing; Accountability; Risk; Trust; Reputation; Risk model;
+   Risk assessment; Service mashup; Inter-cloud; Cloud federation
+ID COMPUTING ENVIRONMENTS; SELECTION; SECURITY; VIEW
+AB A joint trust and risk model is introduced for federated cloud services. The model is based on cloud service providers' performance history. It addresses provider and consumer concerns by relying on trusted third parties to collect soft and hard trust data elements, allowing for continuous risk monitoring in the cloud. The negative and positive tendencies in performance are differentiated and the freshness of the historic data is considered in the model. It addresses aleatory uncertainty through probability distributions and static stochastic simulation. An analytical insight into the model is also provided through the numerical analysis by Monte-Carlo simulation.

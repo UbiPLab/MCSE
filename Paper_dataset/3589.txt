@@ -1,0 +1,9 @@
+DE astrochemistry; ISM: clouds; ISM: evolution; ISM: kinematics and
+   dynamics; ISM: molecules; Galaxy: evolution
+ID GAS-PHASE CHEMISTRY; INTERSTELLAR CLOUDS; DARK CLOUDS;
+   OPTICAL-PROPERTIES; STAR-FORMATION; DUST; CORES; L134N; MODEL;
+   HYDROCARBONS
+AB Aims. We study the effect of large scale dynamics on the molecular composition of the dense interstellar medium during the transition between diffuse to dense clouds.
+   Methods. We followed the formation of dense clouds (on sub-parsec scales) through the dynamics of the interstellar medium at galactic scales. We used results from smoothed particle hydrodynamics (SPH) simulations from which we extracted physical parameters that are used as inputs for our full gas-grain chemical model. In these simulations, the evolution of the interstellar matter is followed for similar to 50 Myr. The warm low-density interstellar medium gas flows into spiral arms where orbit crowding produces the shock formation of dense clouds, which are held together temporarily by the external pressure.
+   Results. We show that depending on the physical history of each SPH particle, the molecular composition of the modeled dense clouds presents a high dispersion in the computed abundances even if the local physical properties are similar. We find that carbon chains are the most affected species and show that these differences are directly connected to differences in (1) the electronic fraction, (2) the C/O ratio, and (3) the local physical conditions. We argue that differences in the dynamical evolution of the gas that formed dense clouds could account for the molecular diversity observed between and within these clouds.
+   Conclusions. This study shows the importance of past physical conditions in establishing the chemical composition of the dense medium.

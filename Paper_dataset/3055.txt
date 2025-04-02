@@ -1,0 +1,4 @@
+DE cloud computing; CloudSim; cloud simulator; DISSECT-CF; resource
+   allocation; virtual machine consolidation; virtual machine placement
+ID ENERGY; CONSOLIDATION; HEURISTICS; TOOLKIT
+AB In recent years, many algorithms have been proposed for the optimized allocation of virtual machines in cloud data centers. Such algorithms are usually implemented and evaluated in a cloud simulator. This paper investigates the impact of the choice of cloud simulator on the implementation of the algorithms and on the evaluation results. In particular, we report our experiences with porting an algorithm and its evaluation framework from one simulator (CloudSim) to another (DISSECT-CF). Our findings include limitations in the design of the simulators and in existing algorithm implementations. Based on this experience, we propose architectural guidelines for the integration of virtual machine allocation algorithms into cloud simulators.

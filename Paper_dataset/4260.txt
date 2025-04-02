@@ -1,0 +1,5 @@
+DE Collective neurodynamics; integer linear programming; global
+   optimization; network virtualization; survivable virtual network
+   embedding
+ID ALGORITHMS
+AB Network virtualization has attracted significant amount of attention in the last few years as one of the key features of cloud computing. Network virtualization allows multiple virtual networks to share physical resources of single substrate network. However, sharing substrate network resources increases impact of single substrate resource failure. One of the commonly applied mechanisms to protect against such failures is provisioning redundant substrate resources for each virtual network to be used to recover affected virtual resources. However, redundant resources decreases cloud revenue by increasing virtual network embedding cost. In this paper, a collective neurodynamic approach has been proposed to reduce amount of provisioned redundant resources and reduce cost of embedding virtual networks. The proposed approach has been evaluated by using simulation and compared against some existing survivable virtual network embedding techniques.

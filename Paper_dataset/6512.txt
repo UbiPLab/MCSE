@@ -1,0 +1,3 @@
+DE Fractional calculus; Multi-agent system; Cloud computing; Fractional
+   dynamic system
+AB In the current work, we deal with the dynamic of multi-agent cloud computing system. We introduce a new criteria to minimize the cost with high accuracy of product description, contingent upon a class of fractional differential equations. By employing the fractional difference method on fractional Poisson's equation, we demonstrate that the solution is bounded for some domain. Simulation results are illustrated in the sequel. Outcomes obviously imply that the proposed method exhibits the highest performance compared with other methods.

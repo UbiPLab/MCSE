@@ -1,0 +1,4 @@
+DE Agent-based simulation; cloud computing; complexity theory; genetic
+   algorithm; innovation and diffusion
+ID OPTIMIZATION
+AB In recent years, cloud computing has become a popular computing architecture in IT industry. Although information systems research has identified cloud computing as an important driver for cost saving and agility, there is little work that examines the implication of different innovation characteristics on cloud solution quality and eventual cloud diffusion. This research investigates the relationship between several innovation characteristics and the rate of diffusion on cloud computing within the industry. A blended approach is adopted, wherein the decision to adopt is modeled through agent-based simulation, and the characteristics of the innovation are varied through the use of genetic algorithms. Results indicate that the blended approach yields good results under a variety of innovation diffusion scenarios.

@@ -1,0 +1,5 @@
+DE Cloud Computing; Homomorphic Encryption; Homomorphic Visual
+   Cryptography; Signal Processing in the Encrypted domain (SPED); Visual
+   Cryptography
+ID IMAGE ENCRYPTION; SHARING SCHEME; RANDOM GRIDS; SECRET; OPERATIONS
+AB In this paper, homomorphic visual cryptographic scheme (HVCS) is proposed. The proposed HVCS inherits the good features of traditional VCS, such as, loss-tolerant (e.g., (k, n) threshold) and simply reconstructed method, where simply reconstructed method means that the decryption of the secret image is based on human visual system (HVS) without any cryptographic computation. In addition, the proposed HVCS can support signal processing in the encrypted domain (SPED), e.g., homomorphic operations and authentication, which can protect the user's privacy as well as improve the security in some applications, such as, cloud computing and so on. Both the theoretical analysis and simulation results demonstrate the effectiveness and security of the proposed HVCS.

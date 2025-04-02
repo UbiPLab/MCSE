@@ -1,0 +1,6 @@
+DE Cloud Computing; Records management; Cloud storage; Information
+   competence
+AB Objective: The present study aims to show the experience and perceptions that the professional of the Iberian Peninsula has about the management and storage of data in the cloud., at the same time as they are systematized the competence and abilities that the professional must acquire to proactively face his work advisor and his commitment to environments of Cloud Computing.
+   Design/Methodology/Approach: The methodology used is based on the systematization of published studies, basic for the elaboration of an online questionnaire of data collection, whose analysis has been obtained the results.
+   Results/Discussion: The results to detail, from an exploratory perspective, the type of experiences as well as the perception that these professionals have on five aspects: advantages, risks, competencies, skills and strategies in the management, storage and conservation of digital objects in the cloud.
+   Conclusions/Originality: The results are useful to clarify by means of the knowledge of the opinion of relevant professional's possible light-dark, while providing proactive strategies of action.

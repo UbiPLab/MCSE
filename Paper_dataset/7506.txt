@@ -1,0 +1,6 @@
+DE Security; Theory; Security-aware; efficient data sharing and
+   transferring; mobile heterogeneous cloud computing; intelligent
+   transportation system; cyber-physical systems
+ID SOFTWARE-DEFINED NETWORKING; VIDEO TRANSMISSION; WIRELESS NETWORKS;
+   SYSTEMS; CHALLENGES; MODEL
+AB The expected advanced network explorations and the growing demand for mobile data sharing and transferring have driven numerous novel applications in Cyber-Physical Systems (CPSs), such as Intelligent Transportation Systems (ITSs). However, current ITS implementations are restricted by the conflicts between security and communication efficiency. Focusing on this issue, this article proposes a Security-Aware Efficient Data Sharing and Transferring (SA-EAST) model, which is designed for securing cloud-based ITS implementations. In applying this approach, we aim to obtain secure real-time multimedia data sharing and transferring. Our experimental evaluation has shown that our proposed model provides an effective performance in securing communications for ITS.

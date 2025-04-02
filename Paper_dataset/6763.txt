@@ -1,0 +1,4 @@
+DE Cloud storage; covert channels; information hiding; network
+   steganography
+ID SECURITY
+AB Personal storage services are one of the most popular applications based on the cloud computing paradigm. Therefore, the analysis of possible privacy and security issues has been a relevant part of the research agenda. However, threats arising from the adoption of information hiding techniques have been mainly neglected. In this perspective, the paper investigates how personal cloud storage services can be used for building covert channels for stealthy exchange of information through the Internet. To have a realistic use case, we consider the Dropbox application and we present the performance evaluation of two different covert communication methods. To understand the stealthiness of our approach and propose countermeasures, we also investigate some behaviors of Dropbox in a production quality deployment.

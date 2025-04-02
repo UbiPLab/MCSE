@@ -1,0 +1,5 @@
+DE Cloud computing; Taxonomy; Computer architecture; Software reliability;
+   Task analysis; Reliability engineering; Failure analysis; Cloud
+   Computing; Failure Management; Resilience; Montage Workflow; Reliable
+   Computing
+AB The next generation of cloud computing must be reliable to fulfil the end-user requirements, which are changing dynamically. Presently, cloud providers are facing challenges to ensure the reliability of their services. In this paper, we propose a comprehensive taxonomy of failure management in cloud computing. The taxonomy is used to investigate the existing techniques for reliability that need careful attention and investigation, as proposed by several academic and industry groups. Further, the existing techniques have been compared based on the common characteristics and properties of failure management as implemented in commercial and open-source solutions. A conceptual model for reliable cloud computing has been proposed, along with a discussion on future research directions. Moreover, a case study of astronomy workflow is presented for reliable execution in the cloud environment.

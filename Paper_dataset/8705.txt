@@ -1,0 +1,4 @@
+DE social networking; social cloud computing; volunteer; reputation; posted
+   price; IAAS; SAAS
+ID WIRELESS SENSOR NETWORKS
+AB Previous model, The Social Networking Sites Provides merely the Digitalized Friendship and Cloud Computing is Only an Evolving Process. And Managing Resources and valuing them is a Challenging Job. There is no Win - Win State between resource Providers and Users. Our model Social Networking process can integrate with cloud computing and form "social cloud computing". We can share the resource by using three techniques Resource sharing can be Volunteer, Reputation, Posted Price or even Auction Based Activity. We can integrate IAAS and SAAS together and develop an effective system. In the MODIFICATION PROCESS, Sharing Cloud will have unlike Service like SAAS Cloud, IAAS Cloud so we have implemented multiple Cloud Server with Multiple Service like SAAS as service.

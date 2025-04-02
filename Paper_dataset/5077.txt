@@ -1,0 +1,4 @@
+DE Distributed public computing; BOINC; big data mining; cloud computing;
+   computational costs
+ID SYSTEMS; CLOUD
+AB Public distributed computing is a type of distributed computing in which so-called volunteers provide computing resources to projects. Research show that public distributed computing has the required potential and capabilities to handle big data mining tasks. Considering that one of the biggest advantages of such computational model is low computational resource costs, this raises the question of why this method is not widely used for solving such today's computational challenges as big data mining. The purpose of this paper is to overview public distributed computing capabilities for big data mining tasks. The outcome of this paper provides the foundation for future research required to bring back attention to this low-cost public distributed computing method and make it a suitable platform for big data analysis.

@@ -1,0 +1,4 @@
+DE Cloud; Cyber-Attack; DRM; Healthcare System; Illegal Alteration;
+   Security Strategy
+ID AUTHENTICATION SCHEME; EFFICIENT
+AB Many hospitals have been built for people in silver age and these hospitals want to set various remote health care systems for the old people who are living in a place far from these hospitals. The systems processes are connected with each other and with networks as well. These systems handle many sensitive medical records and therefore the security of the health care systems has to be improved to protect these systems from cyber-attacks. Any penetration of these systems could cause serious privacy problem. To protect these systems security programs have to be used. Therefore, this paper suggests security policy compliance of medical contents which should be followed to improve level of security including DRM to protect against illegal alteration by an attacker.

@@ -1,0 +1,5 @@
+DE Cancer data ecosystems; clinical informatics; cloud computing; data
+   commons; data ecosystems; data sharing; genomic databases
+ID GENOMICS CLOUD; DATA COMMONS; ATLAS; DISCOVERY; PLATFORM; SCIENCE;
+   SERVICE; VISION; SYSTEM; HEALTH
+AB One of the recommendations of the Cancer Moonshot Blue Ribbon Panel report from 2016 was the creation of a national cancer data ecosystem. We review some of the approaches for building cancer data ecosystems and some of the progress that has been made. A data commons is the colocation of data with cloud computing infrastructure and commonly used software services, tools, and applications for managing, integrating, analyzing, and sharing data to create an interoperable resource for the research community. We discuss data commons and their potential role in cancer data ecosystems and, in particular, how multiple data commons can interoperate to form part of the foundation for a cancer data ecosystem.

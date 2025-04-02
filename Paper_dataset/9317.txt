@@ -1,0 +1,7 @@
+DE Big Data; intelligent analysis; computational and mini-clusters; raw
+   data sets; geomechanical and geodynamic data flow computing; cloud
+   computing; distributed computing; safe subsoil management
+ID REMOTE-SENSING DATA; SIGN EXPLOSION RESPONSE; KUZNETSK COAL BASIN;
+   GEOINFORMATION SYSTEM; ENTROPY ANALYSIS; PENDULUM WAVES; SEISMIC EVENTS;
+   KUZBASS COAL; AREAS; MIGRATION
+AB The discussed challenge and its prospects in mining geoinformation science are connected with Big Data concept-flows of large sets of various data on mining. The authors describe Big Data technology and its general implementation on mini-clusters using Hadoop and MapReduce with case studies presented.

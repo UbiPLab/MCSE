@@ -1,0 +1,4 @@
+DE Quantum algorithm; K-nearest neighbors algorithm; Hamming distance;
+   Classification; Machine learning
+ID CLOUD; MACHINE
+AB K-nearest neighbors (KNN) algorithm is a common algorithm used for classification, and also a sub-routine in various complicated machine learning tasks. In this paper, we presented a quantum algorithm (QKNN) for implementing this algorithm based on the metric of Hamming distance. We put forward a quantum circuit for computing Hamming distance between testing sample and each feature vector in the training set. Taking advantage of this method, we realized a good analog for classical KNN algorithm by setting a distance threshold value t to select k - n e a r e s t neighbors. As a result, QKNN achieves O(n (3)) performance which is only relevant to the dimension of feature vectors and high classification accuracy, outperforms Llyod's algorithm (Lloyd et al. 2013) and Wiebe's algorithm (Wiebe et al. 2014).

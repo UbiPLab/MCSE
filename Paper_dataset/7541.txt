@@ -1,0 +1,5 @@
+DE Analytical Hierarchy Process; Multiple criteria decision analysis;
+   Pairwise comparisons; Scale Calibration; Cloud Computing
+ID ANALYTIC HIERARCHY PROCESS; INFORMATION-SYSTEMS; SECURITY; MANAGEMENT;
+   ISSUES
+AB Analytic Hierarchy Process (AHP) is an established multi-criteria decision making method based on pair wise comparisons. Evaluations are given on a verbal scale and then converted into quantitative values for calculating the priorities of the criteria and alternatives. Several conversion scales have been proposed, which confuses the decision-maker. In order to select the best matching scale according to the mental representation of the verbal scale of each individual decision-maker, verbal scales are first used to compare alternatives with known measures, e.g. surface of figures. The best matching scale representing the real values is then selected. This AHP with individualised scales has been applied in a real case study to select cloud computing strategies. (C) 2016 Elsevier B.V. All rights reserved.

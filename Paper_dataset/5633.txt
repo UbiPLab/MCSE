@@ -1,0 +1,6 @@
+DE Compatibility; Competitive Pressure; Perceived Benefits; Prior IT
+   Experience; Security; Technological Readiness; TOE Framework; Top
+   Management Support
+ID DETERMINANTS; INTENTION; IMPLEMENTATION; PERSPECTIVE; MANAGEMENT;
+   SERVICES; IMPACT; SMES
+AB The factors of Cloud computing (CC) adoption among small and medium enterprises (SMEs) have not been identified in the Jordanian context. Therefore, the aim of this study is to examine the factors influencing the adoption of CC in SMEs in Jordan. Through an extensive review of the literature, the research model was constructed based on the TOE framework. In order to validate the research model and test the proposed hypotheses, a quantitative research methodology followed in which a survey questionnaire was utilized to collect the data. Out of the 350 distributed questionnaires, 92 questionnaires were valid for the analysis. The PLS-SEM technique was used for the data analysis. The results approved the influence of six variables on the adoption of CC by manufacturing SMEs in Jordan, namely; compatibility, security, top management support, technological readiness, prior IT experience, and competitive pressure. Only the influence of the perceived benefits has not been supported. The study has theoretical implications and practical implications to SMEs in Jordan.

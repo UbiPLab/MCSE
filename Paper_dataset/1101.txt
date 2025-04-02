@@ -1,0 +1,5 @@
+DE Green cloud computing; Energy consumption constraint; Data centers;
+   Combinatorial optimization problem; Clonal selection resource scheduling
+   algorithm
+ID SYSTEMS
+AB With the expanding of its scale and the energy cost factors being ignored in green cloud computing, the problem of high energy cost and low efficiency is exposed. Based on the concepts and principles of load balancing, a novel energy-efficient load balancing global optimization algorithm, called resource-aware load balancing clonal algorithm for task scheduling, is proposed to deal with the problem of energy consumption in green cloud computing. Firstly, the problem is formulated as a combinatorial optimization problem that aims to optimize both energy consumption and load balancing. Then, the resource-aware scheduling algorithm is proposed based on load balancing strategy and clonal selection principle. Finally, simulation studies show that the proposed algorithm can effectively reduce energy consumption in green cloud computing, and its exploration and exploitation abilities can be enhanced and well balanced.

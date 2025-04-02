@@ -1,0 +1,3 @@
+DE Cloud computing; Response time; Queuing theory; Markov chain
+ID CHALLENGES
+AB A cloud service model has been built in this article to evaluate the QoS of cloud service system. TheMarkov chain of the viewpoint has been created by applying imbedding Markov chain approach. The random arrivals of cloud requests based on the non follow-up effectiveness characteristics of the Markov chain have been simulated. A cloud service queuing model has been set up by using queue waiting time, network delay time and server processing time as the measurable indicators of cloud service system serving level, and the effectiveness of the evaluating model of cloud service quality raised in this article has been validated by means of analysis and simulation.

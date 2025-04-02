@@ -1,0 +1,3 @@
+DE UAV; HAP; aerial platform; climate; cloud computing
+ID RELATIVE-HUMIDITY; CLOUD FORMATION
+AB Successful operation of an aerial platform requires that it be designed with respect to the environments in which it will function. This paper demonstrates how raw observational climate data can be processed to characterize global climate histories and statistics for the formulation of aerial platform environmental requirements.

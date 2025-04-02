@@ -1,0 +1,4 @@
+DE Privacy-preserving; homomorphic encryption; outsourced computation;
+   floating point numbers
+ID FULLY HOMOMORPHIC ENCRYPTION
+AB In this paper, we propose a framework for privacy-preserving outsourced calculation on floating point numbers (POCF). Using POCF, a user can securely outsource the storing and processing of floating point numbers to a cloud server without compromising on the security of the (original) data and the computed results. In particular, we first present privacy-preserving integer processing protocols for common integer operations. We then present an approach to outsourcing floating point numbers for storage in a privacy-preserving way, and securely processing commonly used floating point number operations on-the-fly. We prove that the proposed POCF achieves the goal of floating point number processing without privacy leakage to unauthorized parties, and demonstrate the utility and the efficiency of POCF using simulations.

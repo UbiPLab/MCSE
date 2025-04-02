@@ -1,0 +1,6 @@
+DE Big data; social network analysis; graph algorithms; dominating sets;
+   software engineering; networking; operating systems; databases;
+   artificial intelligence
+ID CLOUD COMPUTING MOTIVATION; ENGINEERING DISCIPLINE; DOMINATING SETS; BIG
+   DATA; CENTRALITY; NETWORKS; INDEX; PROSPECTS; EVOLUTION; METRICS
+AB Interest in the habits of influential individuals cuts across domains. As researchers, we are intrigued why few attain significant eminence in their fields, whereas many operate in obscurity. An empirical examination of this question has been made possible by the recent availability of large scale publication data. In this paper, we use information from the AMiner Paper Citation and Author Collaboration Networks to discern factors that relate to the impact of influential researchers across five domains in the computing discipline. We propose and apply a novel algorithm to identify influential vertices in co-authorship networks built from total corpora of 1,00,000+papers and 72,000+authors over a span of more than 50 years. The results from our study indicate that the impact of these influential researchers relate to a variety of factors. Surprisingly, we find evidence across the domains that higher impact is associated with lower levels of collaboration, and authority.

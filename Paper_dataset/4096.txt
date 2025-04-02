@@ -1,0 +1,6 @@
+DE Cloud computing; Edge computing; Computer architecture; Internet of
+   Things; Cryptography; Cryptography; data; fog; Internet of Things (IoT);
+   keys; latency; lattice
+ID THINGS; INTERNET; PRIVACY; ISSUES; SCHEME; IOT; ARCHITECTURE;
+   MANAGEMENT; ROBUST
+AB Interconnection and intercommunication between people, processes, and things have been enhanced with the development of the Internet of Things (IoT) and extended with fog computing for better efficiency. Fog computing improves the network services and circumvents the problem of escalated data management as an interface between cloud and terminal with the requirement of secure data transmission. In this article, a novel security framework is designed for fog computing intended for improving the security of IoT. This framework uses single point of aggregation from fog interface and lattice cryptographic approach to establish the security for the services. Azure cloud platform and Sage lattice cryptographic base have been employed to evaluate the performance of the framework. It is noticed that the Level 1-Level 2 (L1-L2) cache implementation in the system significantly improves the efficiency of the framework. The results show that the proposed framework is robust in preventing attacks on fog nodes and additionally provides an advantage for low communication overhead.

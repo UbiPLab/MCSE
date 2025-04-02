@@ -1,0 +1,11 @@
+DE Marketing; Digitalization; Competitive strategy; Platform; Ecosystem;
+   Customer information
+ID COMPETITIVE ADVANTAGE; BUSINESS MODELS; INNOVATION; PERFORMANCE;
+   TECHNOLOGY; ECOSYSTEMS; FIRMS; INTELLIGENCE; STRATEGIES
+AB Purpose - The purpose of this paper is to explain how ecosystems and platforms have evolved to manage customer information and to identify the management, research and teaching implications of this evolution.
+   Design/methodology/approach - This paper is based on research and industrial experience of two of the co-authors in customer relationship management, further developed with other co-authors in the field of business models, the research and teaching experience of the university authors and cross-functional literature reviews in the areas of strategy, marketing, economics, organizational behaviour and information management.
+   Findings - This paper shows that digitalization, cloud computing and new information-based platforms are beginning to change how customer information is being managed, creating new opportunities for improving marketing, customer relationship management and business strategy.
+   Research limitations/implications - The impact of platforms on the management of customer information needs to be confirmed by primary empirical research.
+   Practical implications - This paper identifies the need for senior marketing management to examine closely how internal and external/public customer information platforms may enhance their capability for managing customers and setting new strategic directions.
+   Social implications - The emergence of giant multi-sided platforms has clear implications for data protection and privacy, which need to be explored more in research.
+   Originality/value - This paper highlights the move to customer information platforms and identifies how senior managers should consider them as an option for better customer information management and as a basis for new business strategies.

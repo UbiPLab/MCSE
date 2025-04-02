@@ -1,0 +1,1 @@
+AB This is a report on the first Workshop on the Economics of Cloud Computing, which was held in conjunction with the ACM conference on Economics and Computation (EC).

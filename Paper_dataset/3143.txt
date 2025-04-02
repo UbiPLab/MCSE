@@ -1,0 +1,4 @@
+DE Locally one-dimensional finite-difference timedomain (LOD-FDTD)
+   algorithm; parallelization algorithm; Sherman-Morrison formula
+ID SCHEME
+AB This letter presents an efficient parallel algorithm for solving locally one-dimensional (LOD) finite-difference time domain (FDTD) in cloud computing environment. As opposed to the existing LOD-FDTD algorithm parallelization scheme, the proposed method solves the implicit tridiagonal system in parallel by using the Sherman-Morrison formula to decompose the tridiagonal matrix into smaller matrices. The parallel nodes in cloud computers solve the matrices simultaneously. Numerical results show that the proposed method is more efficient in cloud computing environment than the conventional parallelization scheme and shows better scalability.

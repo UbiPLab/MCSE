@@ -1,0 +1,7 @@
+DE Cloud computing; cloud data center; cost minimization; delay bounded
+   tasks; hybrid clouds; metaheuristic; resource provisioning; task
+   scheduling
+ID PARTICLE SWARM OPTIMIZATION; TIME-SERIES PREDICTION; DATA CENTERS;
+   PROFIT MAXIMIZATION; ALGORITHM; MACHINE; ENERGY; MODEL; ENVIRONMENTS;
+   ALLOCATION
+AB The economy of scale provided by cloud attracts a growing number of organizations and industrial companies to deploy their applications in cloud data centers (CDCs) and to provide services to users around the world. The uncertainty of arriving tasks makes it a big challenge for private CDC to cost-effectively schedule delay bounded tasks without exceeding their delay bounds. Unlike previous studies, this paper takes into account the cost minimization problem for private CDC in hybrid clouds, where the energy price of private CDC and execution price of public clouds both show the temporal diversity. Then, this paper proposes a temporal task scheduling algorithm (TTSA) to effectively dispatch all arriving tasks to private CDC and public clouds. In each iteration of TTSA, the cost minimization problem is modeled as a mixed integer linear program and solved by a hybrid simulated-annealing particle-swarm-optimization. The experimental results demonstrate that compared with the existing methods, the optimal or suboptimal scheduling strategy produced by TTSA can efficiently increase the throughput and reduce the cost of private CDC while meeting the delay bounds of all the tasks.

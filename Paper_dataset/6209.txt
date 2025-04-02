@@ -1,0 +1,5 @@
+DE Ciphertext-policy attribute-based encryption; Constant-size secret keys;
+   Constant-size ciphertexts; Lightweight mobile devices; Mobile cloud
+   computing
+ID ATTRIBUTE-BASED ENCRYPTION; EFFICIENT
+AB Ciphertext-policy attribute-based encryption (CP-ABE) scheme can be deployed in a mobile cloud environment to ensure that data outsourced to the cloud will be protected from unauthorized access. Since mobile devices are generally resource-constrained, CP-ABE schemes designed for a mobile cloud deployment should have constant sizes for secret keys and ciphertexts. However, most existing CP-ABE schemes do not provide both constant size ciphertexts and secret keys. Thus, in this paper, we propose a new pairing-based CP-ABE scheme, which offers both constant size ciphertexts and secret keys (CSCTSK) with an expressive AND gate access structure. We then show that the proposed CP-ABE-CSCTSK scheme is secure against chosen-ciphertext adversary in the selective security model, and present a comparative summary to demonstrate the utility of the scheme. (C) 2017 Elsevier B.V. All rights reserved.

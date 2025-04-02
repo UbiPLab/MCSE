@@ -1,0 +1,4 @@
+DE Distributed cloud; fog computing; edge computing; ubiquitous data
+   processing; architecture design; resource management
+ID CLOUD; EXECUTION; MIGRATION; INTERNET; SERVICE
+AB While cloud computing has brought paradigm shifts to computing services, researchers and developers have also found some problems inherent to its nature such as bandwidth bottleneck, communication overhead, and location blindness. The concept of fog/edge computing is therefore coined to extend the services from the core in cloud data centers to the edge of the network. In recent years, many systems are proposed to better serve ubiquitous smart devices closer to the user. This article provides a complete and up-to-date review of edge-oriented computing systems by encapsulating relevant proposals on their architecture features, management approaches, and design objectives.

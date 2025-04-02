@@ -1,0 +1,9 @@
+DE electronic commerce; cloud computing; public domain software; home
+   automation; program testing; Internet of Things; automatic testing;
+   cloud testing automation; ElasTest response; testing purposes; scarce
+   factual evidence; real-world industrial contexts; automated cloud
+   testing technology; open source platform; end-to-end testing;
+   distributed systems; ElasTest solution; demonstrator; application
+   domains; European Project ElasTest; Internet of Things; e-commerce; 5G
+   networking; WebRTC
+AB While great emphasis is given in the current literature about the potential of leveraging the cloud for testing purposes, the authors have scarce factual evidence from real-world industrial contexts about the motivations, drawbacks and benefits related to the adoption of automated cloud testing technology. In this study, the authors present an empirical study undertaken within the ongoing European Project ElasTest, which has developed an open source platform for end-to-end testing of large distributed systems. This study aims at validating the ElasTest solution, and consists of the assessment of four demonstrators belonging to different application domains, namely e-commerce, 5G networking, WebRTC and Internet of Things. For each demonstrator, they collected differing requirements, and achieved varying results, both positive and negative, showing that cloud testing needs careful assessment before adoption.

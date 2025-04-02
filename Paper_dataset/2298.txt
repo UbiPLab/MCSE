@@ -1,0 +1,4 @@
+DE Case-Based Reasoning; Clinical Decision Support System; Cloud Computing;
+   Mobile; Drug Poisoning; Rule-Based Reasoning; Web Service
+ID TOXICOLOGY CONSULTANT; EXPERT-SYSTEM; DIAGNOSIS; ONTOLOGY; DISEASE; SUS
+AB The authors developed a mobile cloud-based clinical decision support system for drug poisoning in children. The system has a Client/Server architecture and provides a mobile application and a web service to be deployed on the Amazon Cloud infrastructure. Physicians benefit from a user interface to input patient data and to receive diagnosis and treatment protocol. The objective of this article is to help doctors, and particularly the beginners to manage and to treat children suffering from drug poisoning when toxicity is known or unknown. To do this, an intelligent system is developed. It is composed of an expert system, used when the toxic drug is known, and a case-based reasoning system applied when the toxic being ingested is unknown

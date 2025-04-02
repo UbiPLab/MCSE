@@ -1,0 +1,16 @@
+DE Performance evaluation; Data envelopment analysis (DEA); Private cloud;
+   Resource scheduling
+ID NONPARAMETRIC PRODUCTIVITY ANALYSIS; MODELING UNDESIRABLE FACTORS; WEAK
+   DISPOSABILITY; OUTPUTS; SCHEMES; INPUTS
+AB Purpose
+   Resource scheduling is the study of how to effectively measure, evaluate, analyze, and dispatch resources in order to meet the demands of corresponding tasks. Aiming at the problem of resource scheduling in the private cloud environment, the purpose of this paper is to propose a resource scheduling approach from an efficiency priority point of view.
+   Design/methodology/approach
+   To measure the computational efficiencies for the resource nodes in a private cloud environment, the data envelopment analysis (DEA) approach is incorporated and a suitable DEA model is proposed. Then, based on the efficiency scores calculated by the proposed DEA model for the resource nodes, the 0-1 programming technique is introduced to build a simple resource scheduling model.
+   Findings
+   The proposed DEA model not only has the ability of ranking all the decision-making units into different positions but also can handle non-discretionary inputs and undesirable outputs when evaluating the resource nodes. Furthermore, the resource scheduling model can generate for the calculation tasks an optimal resource scheduling scheme that has the highest total computational efficiency.
+   Research limitations/implications
+   The proposed method may also be used in studies of resource scheduling studies in the environments of public clouds and hybrid clouds.
+   Practical implications
+   The proposed approach can achieve the goal of resource scheduling in private cloud computing platforms by attaining the highest total computational efficiency, which is very significant in practice.
+   Originality/value
+   This paper uses an efficiency priority point of view to solve the problem of resource scheduling in private cloud environments.

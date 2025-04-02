@@ -1,0 +1,6 @@
+DE autonomous vehicles; localization; perception; planning; automotive
+   control; multi-vehicle cooperation
+ID MODEL-PREDICTIVE CONTROL; LANE DETECTION SYSTEM; LIDAR POINT CLOUDS;
+   URBAN ENVIRONMENTS; DYNAMIC ENVIRONMENTS; OBSTACLE DETECTION; ROAD
+   DETECTION; SEMANTIC MAPS; SEGMENTATION; TRACKING
+AB Autonomous vehicles are expected to play a key role in the future of urban transportation systems, as they offer potential for additional safety, increased productivity, greater accessibility, better road efficiency, and positive impact on the environment. Research in autonomous systems has seen dramatic advances in recent years, due to the increases in available computing power and reduced cost in sensing and computing technologies, resulting in maturing technological readiness level of fully autonomous vehicles. The objective of this paper is to provide a general overview of the recent developments in the realm of autonomous vehicle software systems. Fundamental components of autonomous vehicle software are reviewed, and recent developments in each area are discussed.

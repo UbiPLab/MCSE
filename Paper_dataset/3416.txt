@@ -1,0 +1,2 @@
+AB Motivation: Across biology, we are seeing rapid developments in scale of data production without a corresponding increase in data analysis capabilities.
+   Results: Here, we present Aether (http://aether.kosticlab.org), an intuitive, easy-to-use, cost-effective and scalable framework that uses linear programming to optimallybid on and deploy combinations of underutilized cloud computing resources. Our approach simultaneously minimizes the cost of data analysis and provides an easy transition from users' existing HPC pipelines.

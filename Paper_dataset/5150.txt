@@ -1,0 +1,7 @@
+DE Carbon dioxide; Energy-efficiency; Green computing; Thermal-aware
+ID CLOUD DATA CENTERS; EFFICIENT RESOURCE-MANAGEMENT; VIRTUAL MACHINES;
+   ENERGY-CONSUMPTION; CONSOLIDATION; PERFORMANCE; LEAKAGE
+AB Purpose The purpose of this paper is to present an approach to reduce energy consumption in data centers. Subsequently, it reduces electricity bills and carbon dioxide footprints resulting from their use.
+   Design/methodology/approach The authors present a mathematical model of the energy dissipation optimization problem. The authors formulate analytically the server selection problem and the supply air temperature as a non-linear programming, and propose an algorithm to solve it dynamically.
+   Findings A simulation study on SimWare, using real workload traces, shows considerable savings for different data center sizes and utilization rates as compared to three other classic algorithms. The results prove that the proposed algorithm is efficient in handling the energy-performance trade-off, and that the proposed algorithm provides significant energy savings and maintains a relatively homogenous and stable thermal state at the different rack units in the data center.
+   Originality/value The proposed algorithm ensures energy provisioning, performance optimization over existing state-of-the-art heuristics, and on-demand workload allocation.

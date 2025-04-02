@@ -1,0 +1,5 @@
+DE E-government information systems; adoption; TOE; cloud computing
+   migration; Board of Intermediate and Secondary Education (BISE),
+   Pakistan
+ID SMALL BUSINESSES; PRIMARY-CARE; HEALTH; IMPLEMENTATION; ISSUES
+AB This research intends to investigate underlying elements that effect the adoption of E-Government Information Systems in Board of Intermediate and Secondary Education (BISE), Pakistan. The study is grounded on the theory of technology, organization and environment (TOE) model. Cloud computing is becoming a viable alternative for System Analysts or IT managers to consider in today's latest information technology environment and dynamic changes in the technology landscape. The second purpose of this study is to help Government decision makers appropriately decide on the reasonableness of uses for migration to cloud computing. Considering that the provided Services in e-government (BISE) are available by means of the Internet, in this way cloud computing can be used in the implementation of e-government architecture and provide better service utilizing its benefits.

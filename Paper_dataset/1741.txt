@@ -1,0 +1,4 @@
+DE Adoption; cloud computing; knowledge; perceived risk
+ID INFORMATION-TECHNOLOGY; RISK-MANAGEMENT; PERSPECTIVE; PERFORMANCE;
+   KNOWLEDGE; SOFTWARE; INNOVATIONS; PERCEPTION; RESOURCES; REDUCTION
+AB Cloud computing is an advanced technology that firms can use to reduce costs and increase efficiency. However, most firms hesitate to adopt cloud computing. This study investigates the perceived risk of cloud-computing adoption at the firm level and whether cloud-computing knowledge affects adoption intention and decreases risk perceptions. We demonstrate that the knowledge of cloud computing decreases perceived risk, positively affecting the intention of adopting these services. In addition, this study demonstrates that finance, security, technique, and user risks can negatively affect the adoption intention for cloud computing. Finally, this study provides academic and practical advice.

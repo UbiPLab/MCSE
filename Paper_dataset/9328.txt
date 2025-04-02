@@ -1,0 +1,1 @@
+AB This article proposes a secure and resilient framework for enhanced living environment that covers cloud computing, end nodes, and their network in terms of both secure and resilient computation and communication.

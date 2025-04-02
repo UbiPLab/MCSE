@@ -1,0 +1,7 @@
+DE Decentralized control; Cloud computing; Communication networks;
+   Microgrids; Power system stability; Multi-agent systems; Distributed
+   control; Energy Internet; hardware-in-the-loop (HiL); microgrids (MGs);
+   multiagent system (MASs)
+ID ISLANDED MICROGRIDS; COOPERATIVE CONTROL; SECONDARY CONTROL; CONSENSUS;
+   NETWORKS; SYSTEMS
+AB Internet-of-Things concepts are evolving the power systems to the Energy Internet paradigm. Microgrids (MGs), as the basic element in an Energy Internet, are expected to be controlled in a cooperative and flexible manner. This article proposes a novel distributed control scheme for multiagent systems (MASs) governed MGs in future Energy Internet. The control objectives are frequencyx002F;voltage restoration and proportional power sharing. The proposed control scheme considers both intra- and inter-MASs interactions, which offers group plug-and-play capability of distributed generators. The stability and communication delay issues in the control framework are analysed. A multisite implementation framework is presented to explain the agent architecture as well as data exchange in local area networks and the cloud server. Then a cyber hardware-in-the-loop experiment is conducted to validate the proposed control method with multisite implementation. The experimental results prove the effectiveness and application potentials of the proposed approach.

@@ -1,0 +1,9 @@
+DE security of data; cloud computing; cyber-physical systems; power
+   engineering computing; evolutionary computation; rough set theory; least
+   squares approximations; parallel processing; power system security;
+   distributed intrusion detection; cloud computing; cyber physical power
+   system; DID-HGEPCloud; hybrid gene expression programming and cloud;
+   attribution reduction; rough set; global intrusion model; nonlinear
+   least squares; MapReduce programming framework; false attack rate; DAR
+ID ANOMALY DETECTION
+AB With the increasingly widespread application of information and communication technology, the smart grid has gradually evolved into a cyber physical system characterised by deep integration between the information space and physical space. All manner of intrusion attacks on cyber physical power systems are growing more and more frequent. Timely and accurate detection and identification of these intrusions are essential for the effective control and protection of cyber physical power systems. For massive and high-dimensional intrusion behaviour data in cyber physical power systems, distributed intrusion detection based on hybrid gene expression programming and cloud (DID-HGEPCloud) computing is proposed. In the DID-HGEPCloud, attribution reduction with noise data based on rough set and a global intrusion model based on non-linear least squares are applied to improve the efficiency and accuracy of intrusion detection. At the same time, the MapReduce programming framework of cloud computing is adopted, and parallelisation of the model of the proposed algorithm is performed to enhance its ability to manage massive and high-dimensional data. Comparative experiments show that the algorithm proposed in this paper has obvious advantages in terms of false attack rate, DAR, and average time consumed. Furthermore, the proposed algorithm possesses excellent parallel performance.

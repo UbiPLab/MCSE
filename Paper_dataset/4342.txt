@@ -1,0 +1,6 @@
+DE Cloud service; Innovation adoption; Entrepreneurship; Institutional
+   pressure; Trust; Management fashion
+ID INFORMATION-TECHNOLOGY; MARKET ORIENTATION; E-COMMERCE; ONLINE
+   MARKETPLACES; MANAGEMENT FASHION; COMPUTING ADOPTION; ORGANIZATIONS;
+   BUSINESS; SYSTEMS; DETERMINANTS
+AB This study draws from strategic choice theory, management fashion theory, and trust research to investigate organizational transformation toward cloud service. Considering organizations' substantive rationality, this study proposes that SMEs' entrepreneurial orientation and the institutional pressures received from the marketplace provide motives for their cloud transformation intention, These influences are mediated by a complex trust-building process. A survey involving 107 Chinese SMEs was conducted to validate our research model. The results illustrate that SMEs' trust building toward the cloud-related situation and artifact plays a critical role in mediating the effects of strategic orientation and institutional pressures on their cloud transformation.

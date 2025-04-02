@@ -1,0 +1,2 @@
+ID SYSTEM; FRAMEWORK
+AB This article presents a new platform called PCIV (intelligent platform for vehicular control) for traffic monitoring, based on radio frequency Identification (RFID) and cloud computing, applied to road traffic monitoring in public transportation systems. This paper shows the design approach and the experimental validation of the platform in two real scenarios: a university campus and a small city. Experiments demonstrated RFID technology is viable to be implemented to monitor traffic in smart cities.

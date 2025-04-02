@@ -1,0 +1,8 @@
+DE green computing; cloud computing systems; energy-aware distributed
+   systems; energy-efficient server cluster systems; energy-efficient load
+   balancing algorithms; electric power consumption models; computation
+   type application process; improved power consumption laxity based
+   algorithm; delay time based algorithm; improved delay time based
+   algorithm
+ID POWER-CONSUMPTION; MODEL; ALLOCATION
+AB A cluster of servers is getting scalable and widely used in various types of applications. It is critical to reduce the electric energy consumed by servers in a cluster to realise eco society. In this paper, we newly propose an improved delay time based (IDTB) algorithm to reduce the total electric energy consumption of a cluster and to more efficiently utilise the computation resources for performing application processes in a cluster. In the IDTB algorithm, a load balancer estimates the state of each server just by using responses from processes and without additionally communicating with servers to collect states of the servers. We evaluate the IDTB algorithm compared with the basic round-robin (RR), improved power consumption laxity based (IPCLB), and delay time based (DTB) algorithms. We show the total electric energy consumption of a cluster and response time of each process can be reduced in the IDTB algorithm.

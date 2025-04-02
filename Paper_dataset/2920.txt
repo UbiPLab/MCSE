@@ -1,0 +1,10 @@
+DE wireless sensor networks; electric impedance measurement; haemodynamics;
+   blood; patient treatment; biomedical transducers; biomedical
+   measurement; printing; electric resistance measurement; wireless
+   flexible sensor; virtual internal impedance estimation model; blood
+   leakage detection; haemodialysis therapy; screen-printing technique;
+   electronic circuit; soft substrate; array configuration; short-circuit
+   branch resistance; nodal voltage metering; embedded system; wireless
+   fidelity wireless network; cloud computing
+ID VENOUS NEEDLE DISLODGMENT; PRESSURE; SIGNAL
+AB Blood leakage and resultant loss during haemodialysis therapy are life-threatening complications. As the venous needles (at arterial/venous sites) disconnect from blood lines, little reaction time is left to stop the blood loss. The authors integrate the wireless flexible sensor with a virtual internal impedance model to design a warning tool to early detect blood leakage and further lower the mortality rate it causes. This flexible sensor is fabricated via a screen-printing technique by printing electronic circuits on a soft substrate in an array configuration. The virtual internal impedance model employed is advantageous for both detecting if any short-circuit branch resistance develops and estimating the virtual internal impedances of the sensor. Once the metering nodal voltage changes, the estimated quantity resistances and near infinite resistances are employed to separate a short circuit from an open circuit. The algorithm developed can be implemented in an embedded system via a wireless fidelity wireless network through cloud computing. The experimental results show feasibility and potential of specifications for commercial design.

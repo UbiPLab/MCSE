@@ -1,0 +1,5 @@
+DE cloud computing; virtual machine; power consumption; Markov model;
+   response time; infrastructure-as-a-service; IaaS; virtualisation;
+   energy; stochastic model; failure and repair
+ID REAL-TIME; NETWORK; SYSTEM; MANAGEMENT; JOBS
+AB The recently developed computing paradigm is the cloud with sophisticated design and enormous resource sharing. In a cloud data centre, a user request undergoes many stages from the time of submission to adequately served. The components of automated provisioning mechanism and dynamically changing environment make the performance analysis more difficult. We present a model that spotlights on important aspects of infrastructure-as-a-service cloud, from the time resource virtualisation to request servicing in a pool-based data centre. It analyses the equilibrium management, capacity planning considering multiple aspects through the given parameters viz., job rejection probability, system overhead, energy management, request completion time. Subsequent attempts made to generalise the data centre model. Exhaustive simulation results presented to validate proposal.

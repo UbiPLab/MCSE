@@ -1,0 +1,1 @@
+AB Amazon's Elastic Compute Cloud (EC2) service could be an alternative computational resource for running MPI-parallel, GPU-accelerated, multiphase-flow simulations. The EC2 service is competitive with a benchmark cluster in a certain range of simulations, but there are some performance limitations, particularly in the GPU and cluster network connection.

@@ -1,0 +1,4 @@
+DE Edge/Fog Computing; Cybersecurity; Decentralized cloud; Artificial
+   intelligence; Editorial
+ID SYSTEM; COMMUNICATION; THREATS
+AB Edge/Fog Computing enables mobility support, location awareness and low latency by offloading cloud resources and services to the edge. Researchers and practitioners have embraced Edge/Fog Computing as a new approach that has the potential for a profound impact in our daily life and world economy. Particularly, security and privacy protection is a critical concern in the development and adoption of Edge/Fog Computing. To avoid system fragility and defend against vulnerabilities exploration from cyber attacker, various cyber security techniques and tools have been developed for Edge/Fog systems. This special issue focuses on the challenging topic of Intelligent Security and Optimization in Edge/Fog Computing and invites the state-of-the-art research results. (c) 2020 Published by Elsevier B.V.

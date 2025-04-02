@@ -1,0 +1,8 @@
+DE Internet of Things; Unmanned aerial vehicles; Edge computing; Cloud
+   computing; Relays; Approximation algorithms; Computational modeling;
+   Internet of Things (IoT); joint resource allocation; latency
+   minimization; mobile-edge computing (MEC); unmanned aerial vehicles
+   (UAV); wireless backhauling
+ID RESOURCE-ALLOCATION; 3-D PLACEMENT; BASE-STATION; COMPUTATION;
+   ASSIGNMENT
+AB Advances in wireless communications are empowering the emerging Internet-of-Things (IoT) applications and services with billions of connected devices. Mobile-edge computing (MEC) has been proposed to reduce the round-trip delay of these applications as IoT devices may have limited computing resources and the resource-rich mobile cloud may be far away. On the other aspect, unmanned aerial vehicles (UAVs) may potentially be employed to improve the quality of service and the channel conditions of users. We thus propose to utilize the UAV as a computing node as well as a relay node to improve the average user latency in the UAV-aided MEC (UAV-MEC) network and formulate the UAV-MEC problem with the objective to minimize the average latency of all UEs. As the UAV-MEC problem is NP-hard, we decompose it into three subproblems. We propose an approximation algorithm with low complexity to solve the first subproblem and then we obtain the optimal solutions of the remaining two subproblems, upon which another proposed approximation algorithm employs these solutions to finally solve the UAV-MEC problem. The evaluation results demonstrate that the proposed algorithm is superior to three baseline algorithms.

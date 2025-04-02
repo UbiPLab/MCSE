@@ -1,0 +1,3 @@
+DE Cloud computing; Information processing; Task analysis; Computer
+   architecture; Hardware; Military communication; Military computing
+AB In military mission contexts with limited network connectivity, availability and utilization of information may be improved through adaptive information processing over a federated cloud infrastructure. Orchestration mechanisms to dynamically distribute data and computing tasks over the available partner cloud infrastructures enable improved exploitation of the information processing, storage, and communication means that are ever more available and powerful in battlefield situations.

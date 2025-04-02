@@ -1,0 +1,9 @@
+DE Logistics; Implementation; Supply chain management; E-commerce;
+   State-of-the-art
+ID SERVICE PROVIDERS COST; INFORMATION-SYSTEM; RFID TECHNOLOGY; GREEN
+   BENEFITS; CLOUD; INTEGRATION; STRATEGIES; ADOPTION
+AB Purpose - The purpose of this paper is to present the state-of-the-art E-commerce logistics in supply chain management by investigating worldwide implementations and corresponding models together with supporting techniques via furniture industry.
+   Design/methodology/approach - Typical E-commerce logistics companies from North America, Europe, and Asia Pacific are comprehensively investigated so as to get the lessons and insights from these practices.
+   Findings - Future technologies like Internet of Things, Big Data Analytics, and Cloud Computing would be possibly adopted to enhance the E-commerce logistics in terms of system level, operational level, and decision-making level that may be real time and intelligent in the next decade. Research limitations/implications - This paper takes the furniture industry for example to illustrate the E-commerce logistics and supply chain management (LSCM). Other industries like electronic appliance industry are not considered.
+   Practical implications - Opportunities and future perspectives are summarized from practical implementations so that interested parties like E-commerce and logistics companies are able to get some guidance when they are contemplating the business. Social implications - E-commerce is booming with the development of new business models and will be continuously boosted in the near future. With large number of enterprises carrying out E-commerce, logistics has been largely influenced.
+   Originality/value - Insights and lessons from this paper are significant for academia and practitioners for considering E-commerce LSCM.

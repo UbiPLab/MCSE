@@ -1,0 +1,6 @@
+DE Flory-Huggins theory; miscibility prediction; phase diagram;
+   polyurethanes; solubility parameter
+ID PROPYLENE-OXIDE OLIGOMERS; SEGMENTED POLYURETHANES; PHASE-SEPARATION;
+   URETHANE/UREA POLYMER; ETHYLENE-OXIDE; SOFT SEGMENTS; THERMODYNAMICS;
+   MORPHOLOGY; INCOMPATIBILITY; COMPATIBILITY
+AB The initial miscibility in bi-soft segment polyurethane reaction mixtures is investigated on the basis of Flory-Huggins (FH) theory and solubility parameters (SPs). Different group contribution theories are applied to estimate the SPs of polyether polyol (PEP) structures and 1,6-hexamethylene diisocyanate (HDI). The PEP structure comprising starter molecule, ethylene oxide/propylene oxide moieties, and end-functional hydroxyl groups is considered in the calculations. Binodal curves are determined computationally for binary PEP mixtures as well as for a ternary mixture consisting of HDI and a binary mixture of partially miscible PEPs. The computed phase equilibria are found to be in good agreement to experimental cloud points and binodal compositions. The prediction of miscibility for practically relevant ternary polyurethane systems on the basis of FH theory and SPs is thus feasible. Additionally, the study demonstrates that HDI is acting as a compatibilizer for partially miscible PEPs in the initial reaction mixture.

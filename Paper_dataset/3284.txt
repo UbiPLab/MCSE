@@ -1,0 +1,4 @@
+DE Cloud computing; verification; outsourced data; update; correctness;
+   search results
+ID QUERIES
+AB With all the benefits from cloud computing, there are negative influences for the data trust and integrity since clients lose control over the outsourced data in clouds. We propose a verification scheme that supports keywords based search among the encrypted data which is updatable. During the verification process the outsourced cloud data are protected from being inferred by the cloud server. Additionally, if the cloud server returns wrong or incomplete search results the clients will be able to detect such failures. A novel concept in our scheme is the ability of clients to update their outsourced data and to ensure the data's correctness. With our scheme, the data's update efficiency is high and the client's computational cost is low, which makes our scheme very suitable for resource constrained devices.

@@ -1,0 +1,4 @@
+DE Cloud computing; Mobile devices; Electronic transaction; Authentication;
+   Anonymity
+ID SECURITY; SERVICE
+AB In recent years, various electronic payment mechanisms have been proposed for cloud computing. However, the related works have high computation and communication costs so they are not really suitable for cloud environments. To solve this problem, we propose a new electronic transaction mechanism using mobile devices for cloud computing in this paper. The proposed mechanism uses the exclusive-or operation and one-way hash function to reduce the computation cost. In addition, it does not require a pre-shared key between the client and the vender for the authentication. Thus, the proposed mechanism has less communication cost. Compared with the related works, the proposed mechanism is more efficient and suitable for the electronic transactions using mobile devices in cloud computing.

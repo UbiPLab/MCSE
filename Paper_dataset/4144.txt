@@ -1,0 +1,6 @@
+DE Innovation diffusion; Technical practices; Funding agencies;
+   Professional and scientific fields; Cross-disciplinary collaboration;
+   Market system dynamics
+ID CO-CREATION; LEAD USERS; TECHNOLOGY; LIFE; PERSPECTIVE; ACCEPTANCE;
+   CHALLENGES; LESSONS; SCIENCE; SYSTEMS
+AB This paper examines the adaptation of innovations to suit new fields and user communities. We argue that this early-stage work to adapt a technology to a new context is essential for later diffusion, particularly with complex technological innovations-a topic less examined in marketing. Through the case of grid computing, a precursor to today's Cloud computing, we examine the structure and process of this essential adaptation work for diffusion across boundaries, and the enabling role of government funding. Grid computing was adapted via cross-boundary collaborations by innovators and collaborators in other fields. Integrating the work of various actors and elements in the market systems tradition, we provide a process model of co-linking for cross-field adaptation and diffusion. This contributes new insight into the diffusion of complex technologies, with a focus on early non-buyer roles enhancing later diffusion across boundaries, and adaptation work occurring prior to traditional consumer adoption.

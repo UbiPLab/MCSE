@@ -1,0 +1,3 @@
+DE e-Government; cloud computing; framework; Iraq; Iraqi e-government
+ID DETERMINANTS; MODEL
+AB This paper presents an analysis of the factors which could have possible affect over the adoption of cloud computing via the Iraqi e-government. A conceptual framework model for cloud computing within Iraqi e-government is proposed, analyzed, evaluated and discussed.

@@ -1,0 +1,16 @@
+DE cryptography; smart power grids; wireless sensor networks; cloud
+   computing; data privacy; data analysis; storage management; data
+   integrity; electricity supply industry; power system protection; power
+   system security; invoicing; power system measurement; privacy-preserving
+   cloud-based billing; lightweight homomorphic encryption; sensor-enabled
+   smart grid infrastructure; data-driven decision making; smart
+   functionality; cloud-based data storage; cloud-based data analysis;
+   smart infrastructure management; electricity delivery service; service
+   provider; remote smart grid measurement management; wireless sensors;
+   grid operators; load balancing; on-demand services; sensor data manage;
+   data security; consumers privacy; malicious data; security attacks; data
+   integrity; data availability; data accountability; billing model;
+   cloud-based data processing framework; privacy preserving data;
+   on-demand data retrieval; statistical computations
+ID AGGREGATION
+AB Sensors are gaining a ubiquitous status over many application domains with regard to enabling data-driven decision making and smart functionality. Integration of sensors with cloud-based data storage and analysis has the potential to significantly enhance the efficiencies, resilience and adaptability of managing smart infrastructure management. In this context, a standout application is smart grid, which provides an electricity delivery service with the ability to monitor, protect and optimize various operations of its connected elements from service provider to consumer. An ability to read and manage smart grid measurements remotely using wireless sensors is an important advantage that allows the grid operators to balance loads effectively and enable on-demand services for various entities. However, the adoption of cloud infrastructure to manage sensor data in a smart grid poses significant risks to data security and consumers privacy. The data maybe exposed to malicious or unwarranted parties, with the potential for various security attacks that may impact data integrity, availability and accountability. We propose a secure and practical billing model using homomorphic encryption within a cloud-based data processing framework. Moving billing management into the cloud securely, with on-demand data retrieval and statistical computations is a major strength of the proposed framework.

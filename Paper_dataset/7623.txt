@@ -1,0 +1,5 @@
+DE cloud computing; coevolutionary genetic algorithm; resource scheduling;
+   scientific workflow
+ID ADAPTIVE PENALTY-FUNCTION; PROBABILITIES; OPTIMIZATION; CROSSOVER;
+   MUTATION
+AB The cloud infrastructures provide a suitable environment for the execution of large-scale scientific workflow application. However, it raises new challenges to efficiently allocate resources for the workflow application and also to meet the user's quality of service requirements. In this paper, we propose an adaptive penalty function for the strict constraints compared with other genetic algorithms. Moreover, the coevolution approach is used to adjust the crossover and mutation probability, which is able to accelerate the convergence and prevent the prematurity. We also compare our algorithm with baselines such as Random, particle swarm optimization, Heterogeneous Earliest Finish Time, and genetic algorithm in a WorkflowSim simulator on 4 representative scientific workflows. The results show that it performs better than the other state-of-the-art algorithms in the criterion of both the deadline-constraint meeting probability and the total execution cost.

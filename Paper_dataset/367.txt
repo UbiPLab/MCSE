@@ -1,0 +1,5 @@
+DE Microfluidics; big-data; genomics; cyberphysical; integration;
+   Software-as-a-Service; Internet-of-Things; fusion
+ID ON-A-CHIP; DESIGN; CONTAMINATION; OPTIMIZATION; CHALLENGES; PLATFORM;
+   BIOCHIP; DEVICE
+AB This paper presents a research vision to design a large-scale cyberphysical systems (CPS) experimental framework to enable collaborative and coordinated molecular biology studies. This framework will be based on the integration of CPS with microfluidic biochips and cloud computing. It has the potential to drastically advance personalized medicine through knowledge fusion among many research groups, and synchronization of research planning. This framework therefore leads to a better understanding of diseases such as cancer, and helps researchers in identifying effective treatments. A case study from cancer research is discussed to explain the significance of our framework in promoting coordinated genomic studies.

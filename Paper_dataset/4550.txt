@@ -1,0 +1,4 @@
+DE Cloud computing; Spot price; Forecast; Markov regime-switching;
+   Scheduling
+ID MARKOV-SWITCHING MODEL
+AB Big data applications usually need to rent a large number of virtual machines from Cloud computing providers. As a result of the policies employed by Cloud providers, the prices of spot virtual machine instances behavior stochastically. Spot prices (prices of spot instances) fluctuate greatly or have multiple regimes. Choosing virtual machines according to trends in prices is helpful in decreasing the resource rental cost. Existing price prediction methods are unable to accurately predict prices in these environments. As a result, a dynamic-ARIMA and two markov regime-switching autoregressive model based forecasting methods have been developed in this paper. Experimental results show that the proposals are better than the existing MonthAR in most scenarios. (C) 2017 Elsevier B.V. All rights reserved.

@@ -1,0 +1,4 @@
+DE Cloud computing; Combined moment invariants; Multi-moving objects;
+   SF-ISF; Moving object classification; SVR
+ID IMAGE-ANALYSIS; MOMENT INVARIANTS
+AB Video surveillance big data contains a great deal of information about moving objects. Multi moving object characterization and classification methods is the main characteristics to find a suitable description of the scene in all kinds of sports objects, features and match unknown similarity between moving objects. This paper presents a calculation of all the moving objects in the scene using cloud computing architecture with invariant moment value weighting method, combined with the invariant moments as the input parameter value, the establishment of multi-class classification model for multiple moving object classification. Experimental results show that this method can effectively improve the recognition rate of the moving object.

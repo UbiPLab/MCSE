@@ -1,0 +1,5 @@
+DE Task analysis; Streaming media; Smart cities; Real-time systems; Machine
+   learning; Semantics; Cloud computing; Action start; cloud computing;
+   online detection; smart city; soft computing; video analysis
+ID EDGE
+AB Soft computing is facing a rapid evolution thanks to the development of artificial intelligence especially the deep learning. With video surveillance technologies of soft computing, such as image processing, computer vision, and pattern recognition combined with cloud computing, the construction of smart cities could be maintained and greatly enhanced. In this article, we focus on the online detection of action start task in video understanding and analysis, which is critical to the multimedia security in smart cities. We propose a novel model to tackle this problem and achieves state-of-the-art results on the benchmark THUMOS14 data set.

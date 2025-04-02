@@ -1,0 +1,1 @@
+AB In recent years, operating systems have expanded beyond traditional computing systems into the cloud, IoT devices, and other emerging technologies and will soon become ubiquitous. Despite the apparent differences among existing OSs, they all have in common so-called "software-defined" capabilities-namely, resource virtualization and function programmability.

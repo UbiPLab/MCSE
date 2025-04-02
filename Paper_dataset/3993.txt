@@ -1,0 +1,9 @@
+DE Markov processes; power aware computing; resource allocation; cloud
+   computing; mobile computing; resource allocation; mobile cloud
+   computing; increasing development; battery capacity; MDPCO algorithm;
+   Markov decision process-based offloading algorithm; local computing
+   frequency; EEC minimisation problem; offloading decisions; Markov
+   decision process-based computation offloading algorithm; remote cloud;
+   computation-intensive tasks; mobile device; computing capability
+ID NETWORKS
+AB With the increasing development of cloud computing and wireless technology, mobile cloud computing has been developed to alleviate the limitation of battery capacity and computing capability of the mobile device by offloading some computation-intensive tasks onto the cloud. However, the extra consumption for transmission from the mobile device to the remote cloud may lead to degradation of performance. To this end, the authors develop a Markov decision process-based computation offloading (MDPCO) algorithm to minimise the energy efficiency cost (EEC) from a global perspective by jointly optimising the resource allocation and offloading decisions. Firstly, they formulate an EEC minimisation problem for a single-chain application withMtasks. Due to the difficulty to directly solve the formulated problem, they decompose it into multiple subproblems and preferentially optimise the local computing frequency and transmission power by distributed algorithm under hard time constraints. Based on this, they proposed the Markov decision process-based offloading algorithm to preschedule the computing side for each task from a global perspective to minimise the EEC further. The simulation results show that the performance of the MDPCO algorithm is significantly superior to that of the other algorithms under different parameters.

@@ -1,0 +1,2 @@
+ID MANAGEMENT; ONTOLOGY; SCHEME
+AB Together, the Internet of Things (IoT) and cloud computing give us the ability to gather, process, and even trade data to better understand users' behaviors, habits, and preferences. However, future IoT applications must address the significant potential threats to privacy posed by such knowledge-discovery activities.

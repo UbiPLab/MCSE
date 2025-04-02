@@ -1,0 +1,2 @@
+ID POTENTIALS; OPTIMIZATION
+AB The authors present quantum molecular design, a novel cost-saving automated framework for de novo computational drug design. This technology not only addresses many of the challenges faced in the computer-aided drug design field by using highly accurate physics-based models, it also dramatically lowers costs by leveraging an AI heuristic search algorithm with targeted chemical space.

@@ -1,0 +1,9 @@
+DE Integrating agent; Distributed energy resources; Energy market;
+   Distribution network; Virtual power plant
+ID VIRTUAL POWER-PLANTS; RENEWABLE ENERGY; DISTRIBUTION NETWORKS;
+   ELECTRICITY MARKETS; HIGH PENETRATION; BUSINESS MODELS; DEMAND RESPONSE;
+   GENERATION; MICROGRIDS; MANAGEMENT
+AB Context: It has been observed the incipient development of the integration of Distributed Energy Resources (DER) in electricity markets at the distribution level.
+   Method: DER participation by an integrator agent is proposed. The integrator agent allows DER to participate as suppliers of energy to the network operator and / or the energy market at the distribution level. Sequence diagrams and mathematical formulas were proposed, for fixing the price of energy by relying on a case study.
+   Results: The results show the feasibility of the integrator agent to participate as a supplier of electricity to the distribution network.
+   Conclusions: Applications using cloud computing allow users to access information on the DER agent resources in general and to the state of the network demands. Pricing schemes proposed allow DER participation through the integrating agent as a supplier of energy.

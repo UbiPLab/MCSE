@@ -1,0 +1,6 @@
+DE ICT adoption; SMEs; Technological competencies; Human capital; Internal
+   organization
+ID FIRM-LEVEL EVIDENCE; CLOUD COMPUTING ADOPTION; INFORMATION-TECHNOLOGY;
+   MANUFACTURING FIRMS; COMMERCE ADOPTION; SMALL BUSINESS; UNITED-STATES;
+   INNOVATION; DETERMINANTS; MANAGEMENT
+AB The purpose of this paper is to identify potential determinants of ICT adoption in SMEs. Particular emphasis is placed on the role of firms' technological competencies, human capital of workforce and internal organization in ICT adoption measured by five indicators referring to firms' intentions toward ICT implementation, ICT infrastructure, internet integration, e-sales and e-ptocurement. To this end, a particularly rich dataset is utilized based on a large-scale survey on 3500 Greek SMEs. Estimations of ordered probit models show that innovation and R&D activities and collaborations, well-educated and skilled workers, decentralized decision-making and visionary leadership increase the likelihood of adopting new technologies in SMEs. The results appear to be largely robust across different ICT adoption measures.

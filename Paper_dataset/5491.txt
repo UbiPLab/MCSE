@@ -1,0 +1,3 @@
+DE Cloud computing; vehicular cloud; datacenter; fault tolerance; job
+   completion time
+AB Inspired by the success of conventional cloud services and by the reality of present-day vehicles endowed with powerful on-board computers that can act as servers in a datacenter, researchers have recently introduced the concept of a vehicular cloud. Our main contribution is to offer a tight theoretical analysis of the expected job completion time in vehicular clouds characterized by short vehicular residency times, under a redundancy-based job assignment strategy. We also discuss various approximations of the expected completion time. A comprehensive set of simulations have confirmed the accuracy of our theoretical predictions.

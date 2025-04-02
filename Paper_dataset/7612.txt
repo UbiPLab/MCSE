@@ -1,0 +1,3 @@
+ID EVEN CONFIGURATION SYSTEM; HYPERFINE-STRUCTURE; CLOSED-SHELL; EU-III;
+   REANALYSIS; EXCITATION; SPECTRUM
+AB We report the fine structure analysis of the even configurations system of atomic terbium in the complete set of 4f(N) -core states. For the purpose of the huge matrix diagonalization, we propose the methods utilizing the personal computer clusters and, alternatively, the Microsoft Azure cloud computing. The implementation of these approaches is presented.

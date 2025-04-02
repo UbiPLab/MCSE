@@ -1,0 +1,2 @@
+DE e- Health; epSOS; Interoperability; internet
+AB This work focuses on the epSOS project, which supports the development and utilization of interoperable electronic health solutions, paying attention in their development to telemedicine and mobile health (m-Health). Around this, issues related to the regulation of personal data protection arise, which must be addressed in relation to cloud computing infrastructures and services, which should lead to more specific guidelines for the protection of data.

@@ -1,0 +1,4 @@
+DE cloud computing; energy; utility; virtual machine scheduling;
+   multi-objective optimization
+ID CLOUD; OPTIMIZATION
+AB One of the pressing issues that the cloud data center needs to solve is how to improve its utility while reducing the energy consumption in the data center. This paper presents a virtual machine scheduling model based on multi-objective optimization VMSA-EU, which aims to minimize energy consumption and maximize the practicality of the data center. And proposed a virtual machine scheduling algorithm based on NSGAII to solve the model. Simulation results show that our models and algorithms can reduce energy consumption while improving utility. Compared with other similar existing algorithms, the algorithm has made some progress in execution time and scheduling results.

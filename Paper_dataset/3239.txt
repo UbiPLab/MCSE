@@ -1,0 +1,4 @@
+DE Authentication; bilinear pairing; mobile cloud computing; security; user
+   anonymity; user untraceability
+ID 3-FACTOR AUTHENTICATION; BIOMETRICS; PROTOCOL
+AB Recently, Tsai and Lo proposed a privacy aware authentication scheme for distributed mobile cloud computing services. It is claimed that the scheme achieves mutual authentication and withstands all major security threats. However, we first identify that their scheme fails to achieve mutual authentication, because it is vulnerable to the service provider impersonation attack. Beside this major defect, it also suffers from some minor design flaws, including the problem of biometrics misuse, wrong password, and fingerprint login, no user revocation facility when the smart card is lost/stolen. Some suggestions are provided to avoid these design flaws in the future design of authentication schemes.

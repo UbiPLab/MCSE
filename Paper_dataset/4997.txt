@@ -1,0 +1,4 @@
+DE Cloud service; load balance; composite weight algorithm; dynamic
+   composite weight algorithm
+ID ROUND-ROBIN
+AB The improvement of load balance scheduling algorithm is an effective means to realize an optimal scheduling of cloud computing service. This paper analyzes the existing load balance scheduling algorithm and proposes that the key to cloud service quality lies in the control of response time. Therefore, the direct algorithms are superior than intelligence algorithms. In this article, the advantages and disadvantages of Throttled algorithm, Throttled algorithm and Active Monitoring algorithm are compared. On this basis, the system response time is taken as a basis of improving the scheduling algorithm, and a stateful composite weight improvement algorithm is proposed.

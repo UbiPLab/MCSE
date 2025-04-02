@@ -1,0 +1,4 @@
+DE Data privacy; Security by design; Context-aware access control;
+   Symmetric searchable encryption; Cloud computing
+ID ACCESS-CONTROL
+AB Enterprises increasingly recognize the compelling economic and operational benefits from virtualizing and pooling IT resources in the cloud. Nevertheless, the significant and valuable transformation of organizations that adopt cloud computing is accompanied by a number of security threats that should be considered. In this paper, we outline significant security challenges presented when migrating to a cloud environment and propose PaaSword - a novel holistic framework that aspires to alleviate these challenges. Specifically, the proposed framework involves a context-aware security model, the necessary policies enforcement mechanism along with a physical distribution, encryption and query middleware.

@@ -1,0 +1,6 @@
+DE Data models; Sensors; Cloud computing; Medical services; Computational
+   modeling; Monitoring; Internet of Things; Internet of Bodies; Internet
+   of Wearable Things; Human Data Model; Human-Computer Interaction;
+   Internet of Bodies; IoT; IoB
+ID THINGS
+AB Today, creating innovative Internet of Bodies solutions requires manually gathering the needed information from an increasing number of services and personal devices. In this article, we tackle this challenge by presenting Human Data Model-a programming framework for combining information from several sources, performing computations over that information to high-level abstractions, and then providing these abstractions to proactively schedule computer-human interactions.

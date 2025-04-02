@@ -1,0 +1,9 @@
+DE Cyber physical system; Industry 4.0; Industrial information integration
+   engineering; Internet of things; Web of things; Integration; Cloud
+   computing; Cybersecurity; Big data management; Smart manufacturing;
+   Healthcare
+ID TO-MACHINE COMMUNICATIONS; WIRELESS SENSOR NETWORKS; EDITORIAL
+   SPECIAL-ISSUE; EDITORIAL SPECIAL SECTION; DATA INJECTION ATTACKS;
+   REAL-TIME; ENERGY-SYSTEMS; INTRUSION DETECTION; DATA DISSEMINATION;
+   SECURITY ANALYSIS
+AB Cyber Physical System (CPS) has provided an outstanding foundation to build advanced industrial systems and applications by integrating innovative functionalities through Internet of Things (IoT) and Web of Things (WoB) to enable connection of the operations of the physical reality with computing and communication infrastructures. A wide range of industrial CPS-based applications have been developed and deployed in Industry 4.0. In order to understand the development of CPS in Industry 4.0, this paper reviews the current research of CPS, key enabling technologies, major CPS applications in industries, and identifies research trends and challenges. A main contribution of this review paper is that it summarizes the current state-of-the-art CPS in Industry 4.0 from Web of Science (WoS) database (including 595 articles) and proposes a potential framework of CPS systematically.

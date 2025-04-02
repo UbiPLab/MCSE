@@ -1,0 +1,13 @@
+DE radio spectrum management; interference suppression; radiofrequency
+   interference; radio access networks; cloud computing; telecommunication
+   computing; game theory; recursive estimation; convergence; stability
+   analysis; complexity analysis; convergence analysis; final stable
+   coalition partition; modified recursive core; distributed coalitional
+   formation algorithm; interference mitigation; joint transmission
+   coordinated multipoint technology; multiple disjoint coalitions; remote
+   radio heads; RRH; local altruistic utility function; hyper-dense cloud
+   radio access network; hyper-dense C-RAN; LACF; local altruistic
+   coalition formation game; spectrum sharing; interference management
+ID SMALL-CELL NETWORKS; HETEROGENEOUS WIRELESS NETWORKS;
+   RESOURCE-ALLOCATION; FEMTOCELL NETWORKS
+AB In this study, the authors investigate the spectrum sharing and interference management in hyper-dense cloud radio access networks (C-RANs). The authors formulate this problem as a local altruistic coalition formation game (LACF) with externalities. Different from previous studies considering maximising individual small cell's throughput, the authors' purpose is to maximise the social welfare, i.e. the sum satisfaction of remote radio heads (RRHs) with diverse traffic types. The authors design a local altruistic utility function for RRH, i.e. each RRH cares about not only his own interest but also his neighbours'. They make autonomous decisions, finally shaping the entire RRHs into multiple disjoint coalitions. In addition, joint transmission coordinated multi-point technology is considered within coalition to mitigate interference. Then, the authors propose a distributed coalitional formation algorithm based on modified recursive core to obtain the final stable coalition partition. Furthermore, the system stability, convergence and complexity of the proposed algorithm are analysed. Numerical results show that the proposed algorithm outperforms the classical and non-cooperation schemes in the perspective of both social welfare and individual fairness. To be specific, the average rate per RRH of the authors' proposed scheme is superior to the classical and non-cooperation cases by 20 and 25% in hyper-dense scenario, respectively.

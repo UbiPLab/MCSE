@@ -1,0 +1,4 @@
+DE combiner e-learning; cloud services; access management; information
+   security; privacy and data protection
+ID SECURITY
+AB The article deals with technological organization and functional features of a combined e-learning environment based on social and cloud computing. Two subsystems are determined for user access and requests processing with discussion of the principles of access regulation to different information resources. The role of the e-learning management system which supports procedures for correct registration, identification, authentication and authorization is determined. A summarization of possible security problems is made in the last section of the paper.

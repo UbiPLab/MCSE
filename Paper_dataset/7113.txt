@@ -1,0 +1,5 @@
+DE Cloud computing; green Internet of Things (IoT); machine-to-machine
+   (M2M); near-field communication (NFC); radio-frequency identification
+   (RFID); wireless sensor networks (WSNs)
+ID WIRELESS SENSOR NETWORKS; ARCHITECTURE; TRACKING
+AB Recent technological advances have led to an increase in the carbon footprint. Energy efficiency in the Internet of Things (IoT) has been attracting a lot of attention from researchers and designers over the last couple of years, paving the way for an emerging area called green IoT. There are various aspects (such as key enablers, communications, services, and applications) of IoT, where efficient utilization of energy is needed to enable a green IoT environment. We explore and discuss how the various enabling technologies (such as the Internet, smart objects, sensors, etc.) can be efficiently deployed to achieve a green IoT. Furthermore, we also review various IoT applications, projects and standardization efforts that are currently under way. Finally, we identify some of the emerging challenges that need to be addressed in the future to enable a green IoT.

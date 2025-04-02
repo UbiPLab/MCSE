@@ -1,0 +1,1 @@
+AB The Internet of Things (IoT) introduces new attack surfaces to power grids through Wi-Fi-enabled high-wattage appliances, rendering security mechanisms ineffective. We propose a data-centric edge-computing infrastructure to host defend mechanisms in IoT clouds by integrating physical states in decentralized power-grid regions.

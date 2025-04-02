@@ -1,0 +1,5 @@
+DE Availability; Cost-benefit; Imperfect coverage; Mean time-to-failure;
+   Retrial system
+ID SERIES SYSTEMS; REPAIRABLE SYSTEM; RELIABILITY-ANALYSIS; AVAILABILITY;
+   SERVER
+AB Retrial systems have been extensively used to model many practical problems in communication network, data center, cloud service computing center, computer network, etc. This paper deals with the cost benefit analysis of four different retrial systems with warm standby units and imperfect coverage. Each retrial system contains various amount of primary and warm standby units. Failure times and repair times of the primary and warm standby units are exponentially distributed. We assume that the coverage factor is the same for a primary-unit failure as that for a standby-unit failure and is denoted by c. We derive the explicit expressions of the mean time-to-failure and the steady-state availability for each retrial system and perform comparisons. The cost/benefit is also compared among four retrial systems with given to the distribution parameters, and to the cost of the primary and warm standby units.

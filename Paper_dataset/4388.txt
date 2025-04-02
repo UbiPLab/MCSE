@@ -1,0 +1,7 @@
+DE Cloud computing; Industry 4.0; Innovativeness; Firm performance;
+   Manufacturing firms; PLS-SEM-ANN
+ID SUPPLY CHAIN MANAGEMENT; ELECTRONIC DATA INTERCHANGE;
+   ORGANIZATION-ENVIRONMENT FRAMEWORK; NEURAL-NETWORKS APPROACH; MOBILE
+   CREDIT CARD; INFORMATION-TECHNOLOGY; ABSORPTIVE-CAPACITY; TOP
+   MANAGEMENT; IDENTIFICATION TECHNOLOGY; COMPETITIVE PERFORMANCE
+AB This study explores how performance expectancy (PE), effort expectancy (EE), firm size (FS), top management support (MS) and absorptive capacity (AC) of cloud computing technology can lead to innovativeness (IN) and firm performance (FP) among the manufacturing firms. Data gathered from 188 managerial positions were analysed using Partial Least Squares (PLS) Structural Equation Modelling (SEM) analysis, together with the Artificial Neural Network (ANN) analysis. Findings revealed that PE, FS, AC have a positive significant influence on IN; while IN positively influences FP. This study offers valuable perspective on the applicability of cloud computing technology to improve IN and FP, and subsequently be aligned with Industry 4,0, the next industrial revolution. (C) 2017 Elsevier Ltd. All rights reserved.

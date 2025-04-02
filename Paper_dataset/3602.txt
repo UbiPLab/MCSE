@@ -1,0 +1,4 @@
+DE Analytical Hierarchical Process (AHP); College Admission Problem (CAP);
+   Quality of Service (QoS); Stable Matching; Virtual Machine (VM)
+ID FRAMEWORK; DECISION
+AB Cloud computing is a technological advancement that provides services in the form of utility on a pay-per-use basis. As the cloud market is expanding, numerous service providers are joining the cloud platform with their services. This creates an indecision amongst the users to choose an appropriate service provider especially when the cloud provider provisions diverse type of virtual machines. The problem becomes more challenging when the user has different jobs requiring specific quality of service. To address the aforementioned problem, this article applies a hybrid heuristic using College Admission Problem and Analytical Hierarchical Process for stable matching of the users' job with the cloud's virtual machines. The case study depicts the effectiveness of the proposed model.

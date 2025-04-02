@@ -1,0 +1,5 @@
+DE Concept lattice; Formal Concept Analysis; Query; Hamming Distance;
+   Mobile Cloud Computing
+ID FORMAL CONCEPT ANALYSIS; FUZZY GRAPH REPRESENTATION; REDUCTION; ENTROPY;
+   SYSTEM
+AB In the last decade, much attention has been paid towards connection among mobile and cloud devices for providing the optimum computational time to process any query of globally distributed users. This mathematics provides a large number of generated queries at a given phase of time. It creates a major problem in selecting some of the user required (or interested) queries and their changes to process the task within stimulated time. To elicit this problem the current paper introduces a method for matrix representation of given query and its hierarchical ordering via calculus of applied lattice theory. The importance of each query is decided through their entropy based computed weight and the level of granulation for their selection. The properties of Huffman coding are utilized to measure the changes in each query based on their Hamming distance. In addition, each of the proposed method are illustrated with an example.

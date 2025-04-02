@@ -1,0 +1,8 @@
+DE optimisation; virtual machines; cloud computing; resource allocation;
+   resource utilisation; IWD model; ant colony optimisation algorithm;
+   augmented intelligent water drops optimisation model; virtual machine
+   placement; cloud environment; cloud computing; user request; physical
+   machines; VMs; augmented intelligent water drop algorithm; least loaded
+   optimisation algorithm; first fit decreasing optimisation algorithm
+ID ALGORITHM
+AB Virtual machine placement in cloud computing is to allocate the virtual machines (VMs) (user request) to suitable physical machines (PMs) so that the wastage of resources is reduced. Allocation of appropriate VMs to suitable and effective PMs will lead the service provider to be a better competitor with more available resources for affording a greater number of VMs simultaneously which in turn reflects with the growth in the economy. In this research work, an augmented intelligent water drop (IWD) algorithm is used for effectively placing VMs. The preliminary goal of this proposed work is to reduce the overall resource utilisation by packing the VMs to appropriate PMs effectively. The proposed IWD model is tested under the standard simulation process as it is given in the literature. Performance of IWD is compared with the existing techniques first fit decreasing, least loaded and ant colony optimisation algorithm. Performance analysis shows the significance of the proposed method over existing techniques.

@@ -1,0 +1,1 @@
+AB Because of cloud-computing development, choosing cloud services can be complicated and time-consuming for customers. To facilitate cloud service delivery, the authors propose a cloud service broker that resides in the multicloud model, provides automated selection of suitable cloud services, and assures the best performance, reliability, and cost efficiency.

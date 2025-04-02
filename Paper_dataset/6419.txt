@@ -1,0 +1,4 @@
+DE Biometric identification; Data outsourcing; Privacy-preserving; Cloud
+   computing
+ID SEARCH; QUERY
+AB Biometric identification has played an important role in achieving user authentication. For efficiency and economic savings, biometric data owners are motivated to outsource the biometric data and identification tasks to a third party, which however introduces potential threats to user's privacy. In this paper, we propose a new privacy-preserving biometric identification scheme which can release the database owner from heavy computation burden. In the proposed scheme, we design concrete biometric data encryption and matching algorithms, and introduce perturb terms in each biometric data. A thorough analysis indicates that our schemes are secure, and the ultimate scheme offers a high level of privacy protection. In addition, the performance evaluations via extensive simulations demonstrate our schemes' efficiency. (C) 2017 Elsevier Inc. All rights reserved.

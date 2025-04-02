@@ -1,0 +1,8 @@
+DE techniques: polarimetric; planets and satellites: atmospheres; planets
+   and satellites: terrestrial planets; methods: numerical
+ID LIGHT-SCATTERING; POLARIZATION; CURVES; PLANET; OCEANS
+AB Context. Clouds have already been detected in exoplanetary atmospheres. They play crucial roles in a planet's atmosphere and climate and can also create ambiguities in the determination of atmospheric parameters such as trace gas mixing ratios. Knowledge of cloud properties is required when assessing the habitability of a planet.
+   Aims. We aim to show that various types of cloud cover such as polar cusps, subsolar clouds, and patchy clouds on Earth-like exoplanets can be distinguished from each other using the polarization and flux of light that is reflected by the planet.
+   Methods. We have computed the flux and polarization of reflected starlight for different types of (liquid water) cloud covers on Earth-like model planets using the adding-doubling method, that fully includes multiple scattering and polarization. Variations in cloud-top altitudes and planet-wide cloud cover percentages were taken into account.
+   Results. We find that the different types of cloud cover (polar cusps, subsolar clouds, and patchy clouds) can be distinguished from each other and that the percentage of cloud cover can be estimated within 10%.
+   Conclusions. Using our proposed observational strategy, one should be able to determine basic orbital parameters of a planet such as orbital inclination and estimate cloud coverage with reduced ambiguities from the planet's polarization signals along its orbit.

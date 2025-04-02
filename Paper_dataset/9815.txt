@@ -1,0 +1,7 @@
+DE Software-as-a-service (SaaS); Technology adoption;
+   Technology-organization-environment (TOE) framework; Diffusion of
+   innovations (DOI) theory; Institutional (INT) theory
+ID AS-A-SERVICE; CLOUD COMPUTING ADOPTION; COMMON METHOD VARIANCE;
+   E-BUSINESS ADOPTION; INFORMATION-SYSTEMS; INSTITUTIONAL PERSPECTIVE;
+   SOFTWARE; TECHNOLOGY; ORGANIZATIONS; MODEL
+AB We propose a conceptual model for assessing the determinants of SaaS diffusion process (i.e. intention, adoption, and routinization). The conceptual model is based on three important theories of adoption at the firm level (i.e., technology-organization-environment [TOE] framework, diffusion of innovation [DOI] theory, and institutional [INT] theory). Data collected from 265 firms are used to test the conceptual model. Nine determinants are found to be statistically significant. By examining direct and total (direct and indirect) effects of the determinants, the study offers rich insight into the firm's decision to adopt and routinize SaaS. (c) 2016 Elsevier Ltd. All rights reserved.

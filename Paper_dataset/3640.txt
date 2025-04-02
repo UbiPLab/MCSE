@@ -1,0 +1,5 @@
+DE Cloud workload; Cloud computing; Resource scheduling; Quality of
+   Service; Particle swarm optimization; Energy consumption; Resource
+   provisioning
+ID FRAMEWORK
+AB Cloud resource scheduling requires mapping of cloud resources to cloud workloads. Scheduling results can be optimized by considering Quality of Service (QoS) parameters as inherent requirements of scheduling. In existing literature, only a few resource scheduling algorithms have considered cost and execution time constraints but efficient scheduling requires better optimization of QoS parameters. The main aim of this research paper is to present an efficient strategy for execution of workloads on cloud resources. A particle swarm optimization based resource scheduling technique has been designed named as BULLET which is used to execute workloads effectively on available resources. Performance of the proposed technique has been evaluated in cloud environment. The experimental results show that the proposed technique efficiently reduces execution cost, time and energy consumption along with other QoS parameters.

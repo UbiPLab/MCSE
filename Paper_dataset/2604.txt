@@ -1,0 +1,10 @@
+DE video surveillance; image recognition; pedestrians; neural nets;
+   learning (artificial intelligence); image segmentation; cluster
+   computing; parallel processing; cloud computing; deep learning-based
+   real-time fine-grained pedestrian recognition; traffic accidents
+   identification; traffic video; video data mining; real-time video
+   processing; stream processing cloud computing; DRPRS; improved
+   convolutional neural network; surveillance video; improved single-shot
+   detector; fine-CNN; GPU-based scheduling algorithm; big video data
+   processing platform
+AB Real-time recognition of pedestrian details can be very important in emergency situations for security reasons, such as traffic accidents identification from traffic video. However, this is challenging due to the needed accuracy of video data mining, and also the performance for real-time video processing. Here, the authors propose a solution for fine-grained pedestrian recognition in monitoring scenarios using deep learning and stream processing cloud computing, which is called DRPRS (deep learning-based real-time fine-grained pedestrian recognition using stream processing). The authors design an improved convolutional neural network (CNN) network called fine-CNN, which is a nine-layer neural network for detailed pedestrian recognition. In DRPRS, a pedestrian in a surveillance video is segmented and fine-grainedly recognised using improved single-shot detector and several fine-CNNs. DRPRS is supported by parallel mechanisms provided by Apache Storm stream processing framework. In addition, in order to further improve the recognition performance, a GPU-based scheduling algorithm is proposed to make full use of GPU resources in a cluster. The whole recognition process is deployed on a big video data processing platform to meet real-time requirements. DRPRS is extensively evaluated in terms of accuracy, fault tolerance, and performance, which show that the proposed approach is efficient.

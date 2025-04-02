@@ -1,0 +1,7 @@
+DE Big Data Adoption; Big Data Analytics; Technology Management; TOE
+   framework
+ID CLOUD COMPUTING ADOPTION; SUPPLY CHAIN MANAGEMENT; E-BUSINESS;
+   INFORMATION-TECHNOLOGY; INNOVATION ADOPTION; DATA ANALYTICS; DATA
+   QUALITY; SYSTEM IMPLEMENTATION; PREDICTIVE ANALYTICS; KNOWLEDGE
+   MANAGEMENT
+AB This article sought to identify the drivers of Big Data adoption within the manufacturing and services sectors in India. A questionnaire-based survey was used to collect data from manufacturing and service sector organizations in India. The data was analyzed using exploratory and confirmatory factor analyses. Relevant hypotheses were then derived and tested by SEM analysis. The findings revealed that the following factors are important for both sectors: relative advantage, compatibility, complexity, organizational size, top management support, competitive pressure, vendor support, data management and data privacy. Statistically significant differences between the service and the manufacturing sectors were found. In other words, the relative importance of the factors for Big Data adoption differs between the sectors. The only exception was complexity, which was found to be insignificant in regard to the manufacturing sector. The factors identified can be used to facilitate Big Data adoption outcomes in organizations.

@@ -1,0 +1,5 @@
+DE Computer arithmetic; Residue arithmetic; Cryptography; Homomorphic
+   encryption; Post-quantum cryptography; Cloud computing
+ID MONTGOMERY EXPONENTIATION; MODULAR MULTIPLICATION; LATTICE REDUCTION;
+   NUMBER SYSTEM; ENCRYPTION
+AB In the last few years, the ancient residue number system has gained renewed scientific interest and has emerged as an interesting alternative in the field of secure hardware implementations. In this survey, however, we investigate some modern and non-typical applications of RNS in the areas of post-quantum cryptography, cloud infrastructures, and homomorphic encryption. We examine the techniques to incorporate residue arithmetic in these schemes as well as the means to mechanize secure and robust RNS cloud solutions. This survey serves, hopefully, as a soft introduction to residue arithmetic and provides insights for future research and open problems that could be addressed by RNS efficiently.

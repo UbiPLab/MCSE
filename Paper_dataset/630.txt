@@ -1,0 +1,6 @@
+DE Data-driven models; Process resilience; Waste valorisation; Mathematical
+   modelling; Machine learning; Industry 4.0
+ID ARTIFICIAL NEURAL-NETWORKS; SURFACE METHODOLOGY RSM; FOOD WASTE; HYBRID
+   SIMULATION; BIG DATA; OPTIMIZATION; VARIABILITY; QUALITY; DESIGN;
+   VISUALIZATION
+AB The increasing availability of data, due to the adoption of low-cost industrial internet of things technologies, coupled with increasing processing power from cloud computing, is fuelling increase use of data-driven models in manufacturing. Utilising case studies from the food and drink industry and waste management industry, the considerations and challenges faced when developing data-driven models for manufacturing systems are explored. Ensuring a high-quality set of model development data that accurately represents the manufacturing system is key to the successful development of a data-driven model. The cross-industry standard process for data mining (CRISP-DM) framework is used to provide a reference at to what stage process manufacturers will face unique considerations and challenges when developing a data-driven model. This paper then explores how data-driven models can be utilised to characterise process streams and support the implementation of the circular economy principals, process resilience and waste valorisation. (C) 2020 The Authors. Published by Elsevier Ltd.

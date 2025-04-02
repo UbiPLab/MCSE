@@ -1,0 +1,3 @@
+DE computation offloading; cloud computing; multi-robot systems; user
+   weights
+AB In this letter, we investigate the computation offloading problem in cloud based multi-robot systems, in which user weights, communication interference and cloud resource limitation are jointly considered. To minimize the system cost, two offloading selection and resource allocation algorithms are proposed. Numerical results show that the proposed algorithms both can greatly reduce the overall system cost, and the greedy selection based algorithm even achieves near-optimal performance.

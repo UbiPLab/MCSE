@@ -1,0 +1,3 @@
+DE hybrid cloud; weighted association rule; fuzzy search; Vector Space
+   Model (VSM)
+AB In order to protect privacy efficiently during the search in cloud computing environment, A multi-keyword search scheme was designed to support the fuzzy query. This new scheme employs the mining algorithm of all-weighted positive and negative association rules to build the semantic relation database; The index and query are dealt with by the Vector Space Model and the balanced tree structure. Under the premise of the privacy of the user and the data owner, our scheme utilizes the expended keyword to search the targets and ranks the results by the relevant scores. The efficiency of the scheme has been tested through the data set.

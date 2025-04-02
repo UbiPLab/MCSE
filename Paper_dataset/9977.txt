@@ -1,0 +1,5 @@
+DE Software testing; Cloud computing; MapReduce; Soft computing; Particle
+   swarm optimization; Genetic algorithm; Pareto-optimal; Cloud-based
+   testing
+ID PARALLEL
+AB Designing test cases is one of the most crucial activities in software testing process. Manual test case design might result in inadequate testing outputs due to lack of expertise and/or skill requirements. This article delivers automatic test data generation framework by effectively utilizing soft computing technique with Apache Hadoop MapReduce as the parallelization framework. We have evaluated and analyzed statistically our proposed framework using real world open source libraries. The experimental results conducted on Hadoop cluster with ten nodes are effective and our framework significantly outperforms other existing cloud-based testing models. (C) 2016 Elsevier Inc. All rights reserved.

@@ -1,0 +1,4 @@
+DE Privacy mediator; face recognition; cloudlet; edge computing; cloud
+   computing
+ID RECOGNITION; EIGENFACES
+AB We show how to build the components of a privacy-aware, live video analytics ecosystem from the bottom up, starting with OpenFace, our new open-source face recognition system that approaches state-of-the-art accuracy. Integrating OpenFace with interframe tracking, we build RTFace, a mechanism for denaturing video streams that selectively blurs faces according to specified policies at full frame rates. This enables privacy management for live video analytics while providing a secure approach for handling retrospective policy exceptions. Finally, we present a scalable, privacy-aware architecture for large camera networks using RTFace and show how it can be an enabler for a vibrant ecosystem and marketplace of privacy-aware video streams and analytics services.

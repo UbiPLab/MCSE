@@ -1,0 +1,3 @@
+DE Cloud Computing; Data isolation; Multi-Tenant; SaaS; Semi-structured
+   data; Unstructured data; XML
+AB In order to solve the problem of data isolation and storage caused by the growth of semi-structured and unstructured data in SaaS mode, the multiple-universal table data storage and management model based on XML is proposed. XML management technology is introduced into the model, and using it to improve and optimize the multiple-universal table data storage model, and the model can effectively solve the problem of storage and management of semi-structured and unstructured data. Comparative experimental results show that, the method has high storage density and access rate, can be very good to meet the customized demand for multi-tenant data.

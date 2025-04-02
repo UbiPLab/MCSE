@@ -1,0 +1,6 @@
+DE Fog computing; Edge computing; Optimization
+ID MOBILE-EDGE CLOUD; RESOURCE-ALLOCATION OPTIMIZATION; WIRELESS CELLULAR
+   NETWORKS; MULTIOBJECTIVE OPTIMIZATION; INDUSTRIAL INTERNET;
+   HETEROGENEOUS NETWORKS; JOINT OPTIMIZATION; SERVICE PLACEMENT;
+   COMPUTATION; EFFICIENT
+AB Fog computing combines cloud services with geographically distributed resources near the network edge to offer computational offloading possibilities to end devices, featuring low latency. Optimization of various metrics (latency, bandwidth, energy consumption etc.) plays a vital role in fog computing. We present the results of a literature review on optimization in fog computing, covering 280 papers. In particular, we propose a taxonomy of different optimization problems in fog computing, a categorization of the metrics used in constraints and objective functions, and a mapping study of the relevant literature. (C) 2020 Elsevier B.V. All rights reserved.

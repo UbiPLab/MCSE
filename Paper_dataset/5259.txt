@@ -1,0 +1,4 @@
+DE Information security risk assessment; cuckoo search algorithm; BP neural
+   network; Internet of Things
+ID SENSOR-CLOUD; BIG DATA; ALGORITHM; INTERNET; SYSTEMS; THINGS; CITY
+AB In virtue of the rapid development of the Internet of Things (IoT), Organizations have grown to rely on their cyber systems and networks. However, this phenomenon also creates many new information security issues. In this paper, we propose an evolutionary algorithm improved cuckoo search (ICS) to pre-train a back-propagation neural network (BPNN) for the sake of improving the accuracy and stability. Using this pre-training process, the BPNN can surmount the defect of falling into the local minima and greatly improve its efficiency. Then, this neural network is used as a part of information security risk assessment (ISRA) processes for a miniature IoT system. An illustration example is introduced to demonstrate that the ICS-BPNN outperforms other neural networks in this ISRA process.

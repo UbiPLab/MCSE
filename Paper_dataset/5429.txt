@@ -1,0 +1,5 @@
+DE mobile cloud computing; adoption; principal-agent perspective;
+   uncertainty; Korea
+ID SOCIAL PRESENCE; INFORMATION PRIVACY; CONSUMER TRUST; E-COMMERCE;
+   ONLINE; MEDIA; MODEL; VIEW; TECHNOLOGY; ACCEPTANCE
+AB The quantity and popularity of mobile cloud computing services have increased significantly. From the principal-agent perspective, this study proposes a model to determine the adoption of mobile cloud computing services. In the model, three uncertainty antecedents of mobile cloud computing utilization are included: fears of service provider opportunism, perceived information asymmetry, and information privacy and security concerns. Likewise, three motivators are included: trust, convenience, and social presence. Based on 263 observations of mobile cloud computing users, the study identifies that trust and convenience are motivators and perceived uncertainty is a mitigator for adopting mobile cloud computing services.

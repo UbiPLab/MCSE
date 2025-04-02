@@ -1,0 +1,8 @@
+DE smart power grids; distributed power generation; power distribution
+   faults; power engineering computing; power system management; power
+   system security; reactive power control; grid-connected operation;
+   active network management functionality; advanced ICT technologies;
+   grid-code compatible combined islanding detection scheme; distributed
+   generation units; islanding detection scheme; distribution networks;
+   smart grids; reactive power
+AB Needed new cost-efficient, reliable, standardised and redundant solutions for future resilient smart grids must utilise possibilities of advanced ICT technologies (such as wireless fifth generation and cloud servers with smart big data analytics) and have cyber-security integrated into all solutions. In this study, resilient, future-proof, grid-code compatible combined islanding detection scheme for medium-voltage (MV) and low-voltage network-connected distributed generation units during grid-connected operation is simulated. The utilisation of active network management functionality at the MV level enables to control the reactive power unbalance continuously in order to ensure reliable islanding detection without a non-detection zone. The combined scheme also prevents maloperations due to other disturbances.

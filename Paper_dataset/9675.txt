@@ -1,0 +1,3 @@
+DE cloud; EU; Europe; Internet; Balkanization; regional clouds; cloud
+   computing; jurisdiction
+AB This article explores key legal and regulatory issues arising from recent cloud localization initiatives, with a particular focus on calls to establish a Europe-only cloud. The analysis covers jurisdictional conflicts and extraterritoriality concerns, as well as the impact on fundamental rights such as privacy, data protection and freedom of expression.

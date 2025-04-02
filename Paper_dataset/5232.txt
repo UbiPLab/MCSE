@@ -1,0 +1,5 @@
+DE Resource allocation; VM placement; cloud computing; energy efficiency;
+   cloud pricing
+ID FOLLOW ME CLOUD; VIRTUAL MACHINES; DATA CENTERS; CONSOLIDATION;
+   MIGRATION
+AB This paper exploits cloud task elasticity and price heterogeneity to propose an online resource management framework that maximizes cloud profits while minimizing energy expenses. This is done by reducing the duration during which servers need to be left on and maximizing the monetary revenues when the charging cost for some of the elastic tasks depends on how fast these tasks complete, while meeting all the resource requirements. Comparative studies conducted using Google data traces show the effectiveness of our proposed framework in terms of improving resource utilization, reducing energy expenses, and increasing cloud profits.

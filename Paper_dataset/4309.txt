@@ -1,0 +1,5 @@
+DE astrochemistry; molecular data; molecular processes; scattering; ISM:
+   molecules
+ID POTENTIAL-ENERGY SURFACES; VY CANIS MAJORIS; RATE COEFFICIENTS;
+   CHEMISTRY; SCATTERING; EXCITATION; ALO
+AB The rate coefficients for the rotational de-excitation of AlO+ by collisions with He are determined. The possible production mechanisms of the AlO+ ion in both diffuse and dense molecular clouds are first discussed. A set of ab initio interaction energies is computed at the CCSD(T)-F12 level of theory, and a three-dimensional analytical model of the potential energy surface is obtained using a linear combination of reproducing kernel Hilbert space polynomials together with an analytical long range potential. The nuclear spin free close-coupling equations are solved and the de-excitation rotational rate coefficients for the lower 15 rotational states of AlO+ are reported. A propensity rule to favour Delta j = -1 transitions is obtained while the hyperfine resolved state-to-state rate coefficients are also discussed.

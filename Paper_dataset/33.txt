@@ -1,0 +1,6 @@
+DE Hardware; Computer architecture; Field programmable gate arrays;
+   Informatics; Embedded systems; Performance evaluation; Edge computing;
+   Classifiers; embedded system; FPGA; Gabriel graph; IoT; large margin;
+   latency-sensitive applications; machine learning; system-on-a-chip
+ID FPGA ACCELERATOR
+AB It is well known that there is an increasing interest in edge computing to reduce the distance between cloud and end devices, especially for machine learning (ML) methods. However, when related to latency-sensitive applications, little work can be found in ML literature on suitable embedded systems implementations. This article presents new ways to implement the decision rule of a large margin classifier based on Gabriel graphs as well as an efficient implementation of this on an embedded system. The proposed approach uses the nearest neighbor method as the decision rule, and the implementation starts from an RTL pipeline architecture developed for binary large margin classifiers and proposes the integration in a hardware/software co-design. Results showed that the proposed approach was statistically similar to the classifier and had a speedup factor of up to eight times compared to the classifier executed in software, with performance suitable for ML latency-sensitive applications.

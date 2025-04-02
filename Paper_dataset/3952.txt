@@ -1,0 +1,8 @@
+DE learning (artificial intelligence); resource allocation; probability; 5G
+   mobile communication; quality of service; Internet; cloud computing;
+   promising computing paradigm; mobile edge computing; MEC; hierarchical
+   IoV system; service-enabled resource allocation; account different delay
+   tolerances; different task types; QoS-enabled resource allocation
+   algorithm; mobile sensing; wireless communication; traditional
+   centralised cloud-based IoV network; high-mobility; low-latency services
+AB Along with the development of 5G technology in mobile sensing and wireless communication, the internet of vehicles (IoV) has drawn much attention from the research community. The traditional centralised cloud-based IoV network has become a bottleneck in providing computation-intensive, high-mobility and low-latency services. As a promising computing paradigm, mobile edge computing (MEC) addresses such challenges. In this study, the authors propose a hierarchical IoV system, combined with MEC. They then focus on the problem of quality of service (QoS)-enabled resource allocation for computing tasks in the system. However, the existing studies often fail to take into account different delay tolerances between different task types. In order to optimise the completion delay, they design an approach to classify tasks into different priorities according to their delay tolerances and then reorder tasks. After reordering, they use a reinforcement learning algorithm to allocate resources automatically and intelligently. Simulation results confirm that the proposed scheme is feasible and effective in the aspects of time efficiency and outage probability.

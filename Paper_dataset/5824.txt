@@ -1,0 +1,5 @@
+DE marine remote sensing; online analysis; tile service; spatial-aware;
+   SatCO2
+ID OCEAN TRANSPARENCY; CHINA SEA; EARTH; VISUALIZATION; SUPPORT; SYSTEM;
+   TOOL
+AB Marine remote sensing (MRS) data provide an important tool for advancing global change research. However, the existing product service practices are insufficient for meeting the needs of a full-experience online application. This paper introduces a framework named SatANA, which is unified by a data tiling method with a spatial-aware feature, for integrated and intelligent improvements in visualization, storage and computing. The SatANA framework is supported by a hybrid database storage ideal for the cloud storage of massive MRS data. The raw data are displayed and roamed on a virtual globe through the Internet as tiles, enhancing their spatial awareness, that can be intelligently used for visualization result tuning, data storage preloading and distributed computing optimized indexing. To verify its feasibility and effectiveness, we applied this framework to a platform called SatCO2, which is devoted to providing convenient access to and the efficient utilization of MRS data.

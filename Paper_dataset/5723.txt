@@ -1,0 +1,10 @@
+DE cloud computing; mobile computing; convex programming; multi-threading;
+   scheduling; power aware computing; energy consumption; multicore
+   resources; fine-grained MT offloading strategy; MT application; strategy
+   jointly schedules; communication resources; minimum energy consumption
+   problem; ST offloading; ST applications; computing costs; computation
+   offloading problem; mobile computing; cloud resources; fine-grained
+   offloading strategy; multithreaded applications; advanced smart mobile
+   devices; multicore central processing units
+ID TASK EXECUTION
+AB Nowadays, advanced smart mobile devices equipped with multi-core central processing units for handling multithreaded (MT) applications. However, existing research mainly uses single-thread (ST) computing to deal with applications, which limits the performance of mobile computing. To make full use of multi-core resources, this study proposes a fine-grained MT offloading strategy to solve the offloading problem of MT application. The strategy jointly schedules cloud computing resources, as well as local multi-core computing and communication resources. Precisely, the authors first formulate the minimum energy consumption problem for ST offloading. Then, they prove that the problem is convex and solve it by standard convex optimisation technique. Thirdly, they extend the optimisation goals from ST applications to MT applications, and design calculation rules for MT applications to reduce computing costs. Finally, based on these calculation rules and the optimal solution for ST offloading, they develop a MT offloading strategy to solve the computation offloading problem of MT applications. Simulation results show that the proposed fine-grained MT offloading strategy effectively reduces the minimum delay requirement of mobile computing.

@@ -1,0 +1,4 @@
+DE Cloud computing; Motion pictures; Social networking (online); Open
+   source software; Media; Hardware
+ID RESOURCE-EFFICIENT
+AB Cloud services progressively shift from monolithic applications to complex graphs of loosely-coupled microservices. This article aims at understanding the implications microservices have across the system stack, from hardware acceleration and server design, to operating systems and networking, cluster management, and programming frameworks. Toward this effort, we have designed an open-sourced DeathstarBench, a benchmark suite for interactive microservices that is both representative and extensible.

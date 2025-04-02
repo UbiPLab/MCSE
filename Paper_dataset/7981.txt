@@ -1,0 +1,6 @@
+DE Mobile cloud computing; Application offloading; Distributed systems;
+   Smartphones; Adaptive offloading
+ID CLOUD COMPUTING MOTIVATION; MOBILE CLOUD; PARTITIONING ALGORITHMS;
+   ENERGY-EFFICIENT; DYNAMIC RESOURCE; EXECUTION; OPTIMIZATION; TAXONOMY;
+   ALLOCATION; DEPLOYMENT
+AB Computation offloading is a method of saving energy and time on resource-constrained mobile devices by executing some tasks on the cloud. A computation offloading mechanism determines portions of the application that can be offloaded for remote execution. The offloading decision problem depends on various parameters, like application characteristics, network conditions, hardware features, that influence the operating environment of an offloading system. Variations in these parameter values make it challenging to design effective offloading solutions that can adapt gracefully to all the changes. Hence a number of work has focused on offloading solutions that can adapt to changes in the parameter values. In this paper, we survey adaptation techniques used by offloading systems. We provide a panoptic view of the task offloading problem by identifying the variable parameters in the offloading ecosystem, present offloading solutions that adapt to these parameters, and point out the associated improvements in Quality of Experience of users.

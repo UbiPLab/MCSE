@@ -1,0 +1,4 @@
+DE Cloud computing; product design; fuzzy logic; quality function
+   deployment; analytic network process; sustainability
+ID QFD; FRAMEWORK
+AB Cloud computing is defined as an on-demand large-scale distributed network to provide and realize computational resources. This flexibility expectation of cloud products forces cloud service providers (CSPs) to tailor their products to the needs of their customers. The framework in this paper proposes a fuzzy logic-based decision support tool for CSPs guiding them in differentiating their cloud offerings for different customer profiles. The tool aims to replicate human reasoning process by making use of fuzzy logic as a computational intelligence framework. The quality function deployment (QFD) approach in the tool systematically handle the product design process. The applicability of the proposed framework is shown using a real life cloud product design scenario with three customer profiles.

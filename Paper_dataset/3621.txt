@@ -1,0 +1,3 @@
+DE Cloud computing; fog computing; Internet of Things (IoT); Markovian
+   queueing networks; quality of service (QoS); task offloading
+AB With the Internet of Things (IoT) becoming a major component of our daily life, understanding how to improve the quality of service for IoT applications through fog computing is becoming an important problem. In this paper, we introduce a general framework for IoT-fog-cloud applications, and propose a delay-minimizing collaboration and offloading policy for fog-capable devices that aims to reduce the service delay for IoT applications. We then develop an analytical model to evaluate our policy and show how the proposed framework helps to reduce IoT service delay.

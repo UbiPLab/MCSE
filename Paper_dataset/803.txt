@@ -1,0 +1,5 @@
+DE data mining; outsourcing; cryptocurrencies; block withholding attack;
+   Bitcoin pools; volunteer computing; computation nodes; computation
+   integrity assurance; cryptocurrency mining pools; distributed
+   computation outsourcing environments
+AB Recently emerged distributed computation outsourcing environments (e.g. volunteer computing, crowdsourcing, cloud computing, and pooled mining in cryptocurrencies) provide many new opportunities and challenges. One important new challenge in these environments is assuring the correctness and validity of the computation output when computation nodes have motivation for lazy, malicious, or hoarding behaviour. In this study, the authors provide a definition for this new challenge, which they refer to as'computation integrity assurance', and classify different types of computations in which this new challenge is important. Then, they discuss the'Block Withholding'attack in cryptocurrency mining pools as a case study. In this example, they demonstrate how the authors' proposed classification can help in solving challenges of this context.

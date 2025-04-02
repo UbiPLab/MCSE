@@ -1,0 +1,3 @@
+DE Central office re-architected as a datacenter (CORD); software-defined
+   network (SDN); virtualized Optical Line Termination (vOLT)
+AB The success of the Internet and the proliferation of the Internet of Things (IoT) devices is forcing telecommunications carriers to re-architecture a central office as a datacenter (CORD) so as to bring the datacenter economics and cloud agility to a central office (CO). The Open Network Operating System (ONOS) is the first open-source software-defined network (SDN) operating system which is capable of managing and controlling network, computing, and storage resources to support CORD infrastructure and network virtualization. The virtualized Optical Line Termination (vOLT) is one of the key components in such virtualized networks.

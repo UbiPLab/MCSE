@@ -1,0 +1,6 @@
+DE Acoustic monitoring; Machine learning; Animal vocalizations; Recording
+   visualization; Recording annotation; Generic species algorithm;
+   Web-based cloud-hosted system; Random Forest classifier; Species
+   prediction; Species-specific audio detection
+ID ACOUSTIC CLASSIFICATION; SOUNDS; RECORDINGS; BIRDS
+AB We developed a web-based cloud-hosted system that allow users to archive, listen, visualize, and annotate recordings. The system also provides tools to convert these annotations into datasets that can be used to train a computer to detect the presence or absence of a species. The algorithm used by the system was selected after comparing the accuracy and efficiency of three variants of a template-based detection. The algorithm computes a similarity vector by comparing a template of a species call with time increments across the spectrogram. Statistical features are extracted from this vector and used as input fora Random Forest classifier that predicts presence or absence of the species in the recording. The fastest algorithm variant had the highest average accuracy and specificity; therefore, it was implemented in the ARBIMON web-based system.

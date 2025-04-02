@@ -1,0 +1,4 @@
+DE Internet of Things (IoT); semantic network analysis; diffusion of
+   innovations
+ID SMART CITIES; CHALLENGES
+AB The internet is evolving toward internet of everything. This study tracks the trends of academic research on Internet of Things (IoT) by examining Web of Science database using semantic network analysis. Although past studies provided a lot of insights on technological aspects of IoT, they have failed to investigate technological acceptance of the technology in academia, industry, and government. As the first step of such an analysis, this study analysed academia perception of IoT using the analysis of words frequency, co-occurrence, and distance. Many clusters were identified from the semantic network of 2017-2015 including smart home and smart grid, sensor networking, physical networking, environmental monitoring and security, and cloud computing and big data. Suggestions for future studies are addressed.

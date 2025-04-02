@@ -1,0 +1,1 @@
+AB Fog and edge computing decentralize cloud computing but often depend on centralized cloud servers. There is an active consortium supporting architecture and standards as fog computing complements cloud computing.

@@ -1,0 +1,4 @@
+DE Multi-objective flexible job-shop scheduling; cloud computing; bacterial
+   foraging optimization; crowding distance
+ID BEE COLONY ALGORITHM; SEARCH
+AB In order to solve the multi-objective flexible job-shop scheduling problem, a novel cloud bacterial foraging optimization algorithm is proposed. In this paper, the simulation model is established to maximize the makespan and the workload of machines. The optimal bacterial individuals can preserve curing position to additional turning and the common ones swim to the direction of them to absorb location information. The cloud crossover operator and cloud mutation operator are designed to avoid the shortcoming of premature convergence. The proposed method is verified to be more effective than other existing algorithms to solve the multi-objective FJSP through the example of Kacem and testing of 6 workpieces x machines in a mould job-shop.

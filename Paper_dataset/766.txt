@@ -1,0 +1,4 @@
+DE Decoding; Matrices; Indexes; Interleaved codes; Cloud computing;
+   Computer architecture; Reliability; Generalized integrated interleaved
+   (GII) codes; distributed storage; locally recoverable codes
+AB Generalized integrated interleaved (GII) codes have attracted increasing research interests in distributed storage systems, since they can achieve a good tradeoff between correction capability and locality. A GII code can be characterized by a conversion matrix that satisfies a specific constraint. In the literature, only two- and three-layer GII codes have been proposed, as it is not easy to construct a valid conversion matrix that satisfies the constraint required by the GII codes with more layers. In this letter, we propose a method to construct multi-layer (more than three) GII codes, providing more flexibility on the code construction. Compared with the existing two- and three-layer GII codes, the multi-layer GII codes can achieve better locality.

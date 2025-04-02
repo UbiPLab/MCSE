@@ -1,0 +1,5 @@
+DE Networked control system (NCS); cloud control system; network
+   constraints; leader-follower system; model predictive control
+ID NETWORKED CONTROL-SYSTEMS; MODEL-PREDICTIVE CONTROL; MULTIAGENT SYSTEMS;
+   STABILIZATION; STABILITY; DESIGN; AGENTS
+AB Day by day, networked control system (NCS) methods have been promoted for distributed closed-loop control systems. Interestingly, the integration of control and computing theories enhanced the development of networked control systems through remote control for wide applications employing the internet. Two further directions to networked control technology are Leader-Follower systems and model predictive control systems. Cloud control system is looked at an extension of networked control systems (NCS) using internet of things (IOT) methodologies. In this paper, a comprehensive literature survey of the new technology of control systems application performed on cloud computing is presented.

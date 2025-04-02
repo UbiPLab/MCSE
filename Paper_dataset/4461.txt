@@ -1,0 +1,3 @@
+DE cloud education networks; internationalization of higher education;
+   education cloud; cloud training
+AB The article outlines the trends and prospects in higher education happening as a result of internationalization, as well as the possible risks and challenges. The training capabilities of cloud computing are examined. A review has been done of specific cloud services suitable for organizing and conducting educational and administrative activities. Some trends have been outlined, such as the probable consequences of building institutional education clouds and the opportunities for interoperability between them. The opportunities for building cloud education networks and their main characteristics are explored.

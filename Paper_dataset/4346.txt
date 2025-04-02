@@ -1,0 +1,6 @@
+DE DEMATEL-based ANP (DANP); VIKOR; Cloud CRM; Ubiquitous cloud computing;
+   Internet service; Project risk
+ID ORGANISM-RESPONSE FRAMEWORK; BALANCED SCORECARD APPROACH; HYBRID MCDM
+   MODEL; RISK-MANAGEMENT; NETWORK; COST; IMPLEMENTATION; ENVIRONMENT;
+   KNOWLEDGE; CONTEXT
+AB Customer relationship management (CRM) traditionally uses software as a service (SaaS) technology in ubiquitous cloud computing SaaS CRM solutions. In this study, the opinions of experts and of three case companies in Internet application fields were studied. In cloud CRM projects, DEMATEL-based analytical network processes and the VIKOR technique are multi-criteria decision-making analysis tools that do not require prior assumptions to explore the weights and performances among project risk, project management, and organizational performance, based on the research framework of the Stimulus-Organism-Response model. The empirical results showed that the greatest criterion of relative weight is primarily associated with the risk dimension, representing experts' evaluations of project risk. Furthermore, cloud CRM experts and companies revealed that financial performance should be improved during the course of a project. The findings of this study provide a valuable reference for cloud CRM Internet service solutions.

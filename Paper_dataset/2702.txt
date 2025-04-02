@@ -1,0 +1,6 @@
+DE Counterion effect; Charge distribution; Cyclopentadienide ion;
+   Mono-phosphacyclopentadienide ion; Polyphosphacyclopentadienide ion;
+   Theoretical calculations
+ID CATION-PI INTERACTIONS; ALKALI-METALS; COMPLEXES; BENZENE; DFT;
+   CYCLOPENTADIENYLLITHIUM; RECOGNITION; RINGS
+AB The effect of counterion (Li+, Na+ and K+) on pi-charge distribution vis-a-vis aromaticity, chemical reactivity and stability of cyclopentadienide ion and its mono- and polyphospha-analogues has been investigated using the second-order Moller-Plesset (MP2) level of theory. The reactivity descriptors namely, chemical potential, electrophilicity index and chemical hardness based on LUMO, HOMO energy values are calculated at MP2/6-31 + + G(d,p) level. The aromaticity, thermochemistry, hydrogen-bending phenomena, Hirshfeld Population Analysis, Charge Model 5 (CM5) charges and electrostatic potential mapping are also computed at the same level of theory. All the results indicate greater stability of the Li+ -pi complexes in comparison to the Na+ -pi and K+ -pi complexes. The distortion of the pi-electrons cloud is mainly governed by the polarization effect of the cation. Furthermore, the Nucleus-Independent Chemical Shift (NICS(1)zz) values indicate that the extent of aromaticity remains almost unaffected by complexation and the nature of the counterion.

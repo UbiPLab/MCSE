@@ -1,0 +1,5 @@
+DE Mobile edge computing; multi-access edge computing; mobile edge
+   computing video service; mobile cloud computing; virtual reality
+   streaming; video streaming
+ID SCENARIOS; CLOUD; IOT
+AB Recently, new services using virtual reality (VR)/augmented reality (AR) have appeared and then exploded in entertainment fields like video games and multimedia contents. In order to efficiently provide these services to users, an infrastructure for mobile cloud computing with powerful computing capabilities is widely utilized. However, existing mobile cloud system utilizes a cloud server located at a relatively long distance, so that there are problems that a user is not effectively provided with personalized immersive multimedia service. So, this paper proposes the home VR streaming system that can provide fast content access time and high immersiveness by using mobile edge computing (MEC).

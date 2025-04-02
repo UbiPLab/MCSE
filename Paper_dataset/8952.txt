@@ -1,0 +1,7 @@
+DE Audiovisual media; Cloud providers; Cloud technology; Conceptual
+   metaphor theory; GAFA; Marketing rhetoric
+ID INFORMATION
+AB Purpose-The purpose of this paper is to explore persuasive rhetoric by critically scrutinizing metaphorical devices utilized by leaders of the cloud industry. This paper introduces a critical approach to the promotion of cloud technology.
+   Designmethodologyapproach-In total, 13 video clips from YouTube were analyzed, containing presentations and talks delivered by leaders of Google, Apple, Facebook and Amazon four of the most influential companies within the information technology industry, sometimes referred to as GAFA. With the help of conceptual metaphor theory, oftenrepeated metaphors for cloud technologies reveal what properties were promoted and hidden.
+   Findings-GAFA mainly used the same persuasive metaphors to promote cloud computing's positive aspects. Potentially negative or complex issues were mostly avoided. Cloud technology was uniformly described in metaphors of control, empowerment, transformation and automation. Implicitly, GAFA exerts power through the extensive dissemination of their metaphors and these are used in order to negotiate and overcome doubts about cloud computing and related technologies.
+   Originalityvalue-This is the first study aimed at understanding the persuasive rhetoric of GAFA, seen asa uniform object of study.

@@ -1,0 +1,7 @@
+DE 5G; edge network; deep learning; reinforcement learning; caching; task
+   offloading; mobile computing; edge computing; mobile edge computing;
+   cloud computing; network function virtualization; slicing; 5G network
+   standardization
+ID ACCESS; ARCHITECTURE; MANAGEMENT; ALLOCATION; SYSTEM; IOT; INTELLIGENT;
+   DRIVEN; DELAY
+AB Mobile edge computing (MEC) within 5G networks brings the power of cloud computing, storage, and analysis closer to the end user. The increased speeds and reduced delay enable novel applications such as connected vehicles, large-scale IoT, video streaming, and industry robotics. Machine Learning (ML) is leveraged within mobile edge computing to predict changes in demand based on cultural events, natural disasters, or daily commute patterns, and it prepares the network by automatically scaling up network resources as needed. Together, mobile edge computing and ML enable seamless automation of network management to reduce operational costs and enhance user experience. In this paper, we discuss the state of the art for ML within mobile edge computing and the advances needed in automating adaptive resource allocation, mobility modeling, security, and energy efficiency for 5G networks.

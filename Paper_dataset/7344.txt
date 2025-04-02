@@ -1,0 +1,7 @@
+DE Communication systems; computer networks; telecommunications;
+   heterogeneous systems; network management; network monitoring; network
+   analysis; capacity planning; network security; quality of service; SNMP;
+   RMON; research and development; journal; online journal; Wiley Online
+   Library
+ID NETWORKS; EFFICIENT; SERVICES; DELIVERY
+AB Internet of things (IoT) technologies have developed rapidly to provide various applications and services, which benefit much on both industrial production and human lives. Meanwhile, with the deployment of cloud computing, the requirements of computing and storage capabilities of IoT can be well supported. The well-designed application programming interfaces (APIs) are needed to offer good services of IoT cloud. APIs serve as the endpoints of services and offer convenient ways for either developers to design applications or vendors/OEMs to manufacture devices. In this paper, the design and implementation of APIs for IoT cloud is presented in detail. Taking the large number of resource-constrained IoT devices into account, we propose the different kinds of APIs with different application protocols. APIs offer integrations between server-side applications and client-side applications or devices; thus, the specific implementation of APIs on these three parts are presented. Finally, a number of experiments are conducted to evaluate the performance of the designed APIs, and the result analysis is given as well. Copyright (C) 2016 John Wiley & Sons, Ltd.

@@ -1,0 +1,6 @@
+DE Taxonomy; high-dimensional data; multidimensional data; visualization;
+   data models; computational modeling
+ID TOPOLOGY-BASED VISUALIZATION; MORSE-SMALE COMPLEXES; OF-THE-ART;
+   MULTIVARIATE DATA; FLOW VISUALIZATION; POINT CLOUDS; REEB GRAPHS;
+   MULTIDIMENSIONAL DATA; PERSISTENT HOMOLOGY; DATA EXPLORATION
+AB Massive simulations and arrays of sensing devices, in combination with increasing computing resources, have generated large, complex, high-dimensional datasets used to study phenomena across numerous fields of study. Visualization plays an important role in exploring such datasets. We provide a comprehensive survey of advances in high-dimensional data visualization that focuses on the past decade. We aim at providing guidance for data practitioners to navigate through a modular view of the recent advances, inspiring the creation of new visualizations along the enriched visualization pipeline, and identifying future opportunities for visualization research.

@@ -1,0 +1,6 @@
+DE Behavioral Intention; Cloud Computing; Cloud Users; Cost Reduction; IT
+   Background; Jordan; Perceived Control; Perceived Security; Service
+   Quality
+ID BEHAVIORAL INTENTION; SERVICES; DETERMINANTS; SECURITY; BUSINESS;
+   SUCCESS
+AB Cloud computing is emerging as a major advancement in organizational infrastructure, which aims to bring with it great benefits to technology users. Jordan is one of the developing countries that seeks to adopt such technology. Based on that, this study focused on how Jordanians perceive and respond to cloud computing, and the main factors that govern its adoption and use. Using a quantitative approach, responses from cloud computing users were gathered to investigate their perceptions on the factors affecting their adoption of such technology. A sample of 134 online users was utilized and an instrument of 21 items was used in this study. Results indicated that service quality, cost reduction, IT background, and perceived control are major predictors of online users' intention to adopt cloud computing. Perceived security was not significant in this relation. The researchers conclude this work with their discussion, implications, limitations and future work.

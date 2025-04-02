@@ -1,0 +1,9 @@
+DE Big Data; chaos; resource allocation; scheduling; cloud computing;
+   optimisation; convergence; medical computing; medical big data
+   environment; cloud network architecture; resource scheduling problem;
+   artificial firefly algorithm; load balancing optimisation strategy;
+   chaotic firefly algorithm; cloud-fog networks; load balancing strategy;
+   low delay cloud network; cloud servers; medical detection terminal; data
+   transmission; medical terminals; user terminals access; waiting time;
+   dynamic resource allocation; local optimal solution
+AB Since the cloud servers are far away from the medical detection terminal and user terminal, the communication overhead such as the delay caused by data transmission is large. At the same time, a large number of medical terminals and user terminals access the cloud servers, which makes the cloud servers overloaded, the overall robustness of the network is poor, and the network is prone to failure, which may lead to the work efficiency of doctors cannot be guaranteed, and the waiting time of patients will also increase. To solve the above problems, according to the characteristics of dynamic resource allocation in the medical big data environment, a new cloud network architecture is proposed. To solve the resource scheduling problem, a chaotic algorithm is introduced into the artificial firefly algorithm, and a load balancing optimisation strategy based on a chaotic firefly algorithm is proposed. The simulation results show that the convergence rate of the proposed algorithm is accelerated by adding chaos factor, to avoid the algorithm falling into the local optimal solution. Compared with other load balancing algorithms, the proposed algorithm is more suitable for solving the resource scheduling problem of large-scale tasks in cloud-fog networks.

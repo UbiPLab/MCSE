@@ -1,0 +1,3 @@
+DE Mobile cloud computing
+AB The progress of mobile cloud computing is currently facing a crossroad on whether to implement user-side tools for job offloading or adopt network-side architecture. Selecting the best mobile cloud architecture is vital for having clear decisions on the future of mobile cloud computing.
+   This work will survey mobile cloud architectures and compare their performance against existing resource demanding applications. The comparison will be performed using physical implementation. To the best of our knowledge, this paper is the first published work numerically comparing mobile cloud architectures across various mobile cloud applications. (C) 2016 Elsevier B.V. All rights reserved.

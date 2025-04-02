@@ -1,0 +1,3 @@
+DE Wireless cloud computing; Energy-constrained; Dynamic scheduling;
+   Lyapunov optimization
+AB A novel energy-constrained joint dynamic scheduling and pricing algorithm in wireless cloud computing system is proposed. A Lyapunov function of energy constraints and traffic restrictions is constructed. The long-term profit optimization problem with multiple constraints is turned into minimizing the upper bound of Lyapunov offset and weighted penalty function. The algorithm ensures the limited energy requirements of cloud service providers as well as the traffic demands of cloud users, furthermore, it optimizes the long-term profit of cloud service providers.

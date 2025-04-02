@@ -1,0 +1,3 @@
+DE Cloud computing; Digital intermediation; IT services; Market design;
+   Pricing
+AB Cloud computing and the cloud services market have advanced in the past ten years. Cloud services now include most information technology (IT) services from fundamental computing services to more cutting- edge artificial intelligence (AI) services. Accordingly, opportunities have emerged for research on the design of new market features to improve the cloud services market to benefit providers and users. Based on our observation of the recent development of cloud services, in this short research commentary, we share our agenda for future studies of this important sector of IT services.

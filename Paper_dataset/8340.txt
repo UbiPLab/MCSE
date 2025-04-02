@@ -1,0 +1,12 @@
+DE Cloud computing; Open source; Security assurance; Transition CIO
+ID INFORMATION-SYSTEMS; DETERMINANTS; SECURITY; ADOPTION; QUALITY
+AB Purpose
+   The purpose of this paper is to contribute to a growing body of research on information systems security, by studying open source alternatives for cloud computing. Several questions have been raised about the reliability of these promising but ambiguous offers, as the adoption of a cloud solution within an enterprise is generally accompanied by a change in the chief information officer (CIOs) role and loss of expertise.
+   Design/methodology/approach
+   The research uses a mixed research methodology: a first step is based on a questionnaire survey to investigate the security aspects of open source and understand the role of CIOs in the migration process. The investigation involved nearly 800 companies operating in the cloud computing sector in 16 European countries between November 2015 and January 2016. Then, this paper completes the research with a qualitative study by examining the activity of two sample companies.
+   Findings
+   Research confirms that open source cloud solutions offer a higher level of security than proprietary solutions. It is also noted that the role of CIOs is delegated to a third external actor: a transition CIO. Transition CIO is the guarantor of the strategic and security choices of small and medium enterprises.
+   Research limitations/implications
+   These findings have important implications and great value to managers and cloud computing providers, in terms of formulating better cloud computing solutions. This study can also assist in increasing their understanding of the new role of CIO in the migration process to cloud computing.
+   Originality/value
+   This study contributes to the body of research on cloud computing. It is first of its kind with its focus on open source alternatives. Another novelty of this research is that it suggests a new conception for the CIOs role in the migration to cloud computing. Finally, the findings of this study would serve as a European market study to different companies interested in cloud computing.

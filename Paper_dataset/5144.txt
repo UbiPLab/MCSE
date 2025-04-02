@@ -1,0 +1,5 @@
+DE distributed denial of service; DDOS; information divergence; cloud
+   security; filtering
+ID ATTACKS; ENVIRONMENT; PROTECTION; DIVERGENCE; NETWORKS; ENSEMBLE;
+   DEFENSE
+AB Distributed denial of service (DDoS) attacks have become a serious attack on internet security and cloud computing. This kind of attacks is the most complex form of denial of service (DoS) attacks. This type of attack can simply duplicate its source address, such as spoofing attack, which disguises the real location of the attack. Therefore, DDoS attack is the most significant challenge for network security. In this paper, we present a model to detect and mitigate DDoS attacks in cloud computing. The proposed model requires very small storage and has the ability of fast detection. The experimental results show that the system is able to mitigate most of the attacks. Detection accuracy and processing time were the metrics used to evaluate the performance of proposed model. From the results, it is evident that the system achieved high detection accuracy (97%) with some minor false alarms.

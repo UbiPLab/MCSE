@@ -1,0 +1,5 @@
+DE inner product; searchable encryption; searchable symmetric encryption;
+   security; the cloud server
+ID PUBLIC-KEY ENCRYPTION; CONJUNCTIVE KEYWORD SEARCH; PREDICATE ENCRYPTION;
+   BROADCAST ENCRYPTION; QUERY
+AB Searchable encryption enables the data owner to store their own data after encrypting them in the cloud. Searchable encryption also allows the client to search over the data without leaking any information about it. In this paper, we first introduce a searchable symmetric encryption scheme based on the inner product: it is more efficient to compute the inner product of two vectors. In our construction, the parties can be data owners, clients or the cloud server. Three parties communicate with each other through the inner product to achieve the goal that client can search the data in cloud without leaking any information on the data the owner stored in the cloud. We then perform a security analysis and performance evaluation, which show that our algorithm and construction are secure and efficient.

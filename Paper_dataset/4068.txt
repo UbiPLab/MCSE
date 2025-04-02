@@ -1,0 +1,10 @@
+DE radio access networks; cloud computing; cellular radio; mobile
+   computing; resource allocation; virtual machines; convergence;
+   optimisation; joint optimisation problem; separate resource allocation;
+   communication resources; virtual machine selection algorithm; multihop
+   cloud; mobile edge computing; mobile devices; base station; wireless
+   resources; high transmission delays; multihop path; edge computing
+   resources; cloud radio access network; wireless self-organising network;
+   task delay; elite selection; improved krill herd algorithm
+ID ENERGY-EFFICIENT; KRILL HERD; C-RAN; OPTIMIZATION
+AB For the problem that mobile devices that are far away from the base station obtain limited wireless resources, which causes high transmission delays, the study proposes a multi-hop path to assist users who are far away from the base station to use edge computing resources. And it combines cloud radio access network and wireless self-organising network. The modelling aims to minimise the total energy consumption under the constraints of task delay considering the mobility of mobile devices. Meanwhile, it selects the joint optimisation problem of the path for data transmission and the virtual machine for calculation. This study also introduces the krill herd algorithm and analyses its advantages and disadvantages. The author enhances the global search ability of the algorithm by defining perturbation factors in the random diffusion behaviour and introduces a new strategy of elite selection and retention into the iterative process to improve the convergence accuracy. Finally, the improved krill herd algorithm is used to solve the joint optimisation problem and a better allocation result than the separate resource allocation of calculation and communication is obtained. The experiment proves that the selection algorithm combining virtual machine and routing proposed in this study can achieve the expected results.

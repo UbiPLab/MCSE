@@ -1,0 +1,8 @@
+DE software defined networking; cloud computing; computerised tomography;
+   computer network performance evaluation; SDN enhanced tomography; cloud
+   network performance profiling; network tomography; end-to-end
+   measurement; direct performance measurement; packet trace analysis;
+   ScoutFlow; software-defined networking flow measurement; SDN flow
+   measurement; end-to-end performance tomography; flow packet trace;
+   underconstrained problem; packet-level monitoring methods
+AB For cloud network performance profiling, network tomography is useful for deducing the network performance based on end-to-end measurement. However, most tomography problems are under-constrained, thus requires additional assumptions in order to be solvable, which sacrifices the accuracy. On the other hand, packet traces from switches could provide accurate and direct performance measurement, but it is hard to cover the whole network with packet trace analysis per link and flow. In this study, the authors propose ScoutFlow, a method combining software-defined networking (SDN) flow measurement and end-to-end performance tomography, to achieve accurate performance profiling for cloud network while keeping low monitoring overhead. In ScoutFlow, they mirror the flow packet trace using SDN, to solve the under-constrained problem in tomography. ScoutFlow only requires a small amount of flow mirror traces for the measurement, which leads to much lower overhead of flow mirroring than that of traditional packet-level monitoring methods. The proposed methodology is evaluated with simulation and testbed experiments, which demonstrates ScoutFlow's scalability and accuracy.

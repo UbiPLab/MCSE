@@ -1,0 +1,7 @@
+DE business intelligence; inventories; SME; Peru; retail
+AB Introduction: This article derives from the research "Cloud business intelligence and analytics model for SMES in the retail sector in Peru" conducted in 2016 at the School of Engineering, Universidad Peruana de Ciencias Aplicadas (UPC) in Lima, Peru.
+   Problem: The research papers reviewed determine that Peruvian retail SMES have a considerable need for information for decision making in inventory planning and management.
+   Aim: To design a technological model that allows to implement a business intelligence and analytics solution using cloud computing services.
+   Methods: We started from a literature review on the benefits of migration to and implementation of cloud business intelligence and analytics in North American, European and Asian SMES. Based on this, a technological model aimed at Peruvian retail SMES was proposed and each of its components described.
+   Results: The model was validated both through its implementation in a Peruvian retail SME in which financial indicators were assessed and through surveys of technology experts.
+   Conclusion: The model allows SMES to integrate and process their data in order to obtain relevant and timely information for inventory optimization.

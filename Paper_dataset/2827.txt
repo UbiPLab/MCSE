@@ -1,0 +1,3 @@
+DE lambda architecture; predictive maintenance; Jubatus; IoT; cloud
+   computing; Industrie 4.0
+AB Recently, internet of things (IoT) technologies have progressed, but IoT maintenance applications are not widespread in Japan yet because of insufficient analyses of real-time situations and the high costs of configuring failure detection rules and collecting sensing data. In this paper, using lambda architecture concept, we propose a maintenance platform on which edge nodes analyze sensing data, detect anomalies and extract a new detection rule in real time, and a cloud orders maintenance automatically. (c) 2018 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.

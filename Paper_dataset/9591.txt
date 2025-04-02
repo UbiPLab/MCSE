@@ -1,0 +1,4 @@
+DE Access Control; Attribute-based Encryption; Cloud Computing; Secret
+   Sharing Scheme; Time-limited Services
+ID ACCESS-CONTROL
+AB Nowadays, Cloud Computing is considered one of the important fields in both research and industry. Users enjoy membership of cloud providing effective services called time-limited services. This paper addresses time-limited services offering an attribute-based access control method and time-limited attributes providing users' time-limited membership in cloud service. The proposed method authenticates users for specific time limit after which they are considered invalid. This method is decentralized resistible against backward and forward attacks. Moreover, this approach compared to other approaches reduces calculation and communication overhead.

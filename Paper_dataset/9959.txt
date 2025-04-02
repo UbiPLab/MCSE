@@ -1,0 +1,4 @@
+DE Cloud computing; Believability index; Trust index; Scheduling; Fuzzy
+   inference system; Ant colony optimization
+ID TRUST MODEL; REPUTATION
+AB In the current era of technology, cloud computing is an indispensable jargon due to its theoretically boundless resources. But from consumer's point of view, knowing the trust level of cloud service providers is significant for privacy and security reasons. Toward trusted cloud computing, we first propose a Two-Stage Fuzzy and Ant colony optimization based Trust assessment model for a cloud environment which is then integrated with an existing Dynamic Level Scheduling (DLS) algorithm for scheduling and executing consumers' jobs. To demonstrate the effectiveness of our model, a benchmark is developed in Cloudsim and experiments are conducted against the metric-based DLS model. Results are analyzed in terms of trust index, undecidability, success rate, average schedule length, execution time, precision and recall values.

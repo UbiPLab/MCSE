@@ -1,0 +1,7 @@
+DE Cloud accounting; cloud accounting risks; software as a service (SaaS);
+   transaction cost economics; technology-organisation-environment
+   framework
+ID TRANSACTION COST ECONOMICS; TECHNOLOGY OUTSOURCING RESEARCH; COMPUTING
+   ADOPTION; BUSINESS MODEL; METAANALYSIS; SERVICES; SYSTEMS; CHOICE;
+   PERSPECTIVE; PERFORMANCE
+AB Much has been written about the adoption and benefits of cloud computing in different contexts, yet it is not clear how cloud computing has affected the practice of accounting. This empirical study applies transaction cost economics to explore the risks of cloud-based accounting systems and services in Australia and it identifies several risk mitigation strategies adopted by organisations. The findings based on interviews with accounting practices, amongst others, are classified according to the Technology-Organisation-Environment framework. The evidence suggests that cloud accounting not only introduces specific risks to the "accounting process" but some of the known risks associated with other cloud-based applications are more pronounced. While transaction-specific factors such as vendor selection and contractual arrangements were considered important as risk mitigation strategies, internal measures including policy development and staff training were seen as critical to cloud accounting.

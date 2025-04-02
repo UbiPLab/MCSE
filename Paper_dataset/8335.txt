@@ -1,0 +1,4 @@
+DE P plus Cl reaction; PCl radical; Rate constant
+ID LOW-LYING STATES; PHOSPHORUS CHEMISTRY; DUST FORMATION; GROUND-STATE;
+   CARBON-RICH; PCL; HCL; MOLECULES; IRC+10216; CLOUDS
+AB Thermal rate constants for the formation of PCl radical via radiative association have been estimated from potential energy curves and dipole moments calculated by accurate ab initio methods. The formation of PCl through radiative association of P(4S) Cl(P-2) atoms occurs mainly through the formation of a quasi-molecule in the A(3) Pi state, which decays by an allowed dipole transition to the ground X-3 Sigma(-) state. The computed rate constant can be represented over the 300-5000 K temperature range in the form k(T) = 1.95 x 10(-20)(T/300)0.605exp(-1690/T) cm(3) s(-1) and over the 5000-14,000 K temperature range by the relation k(T) = 8.53 x 10(-22)(T/300)(1.595)exp(-2.5/T) cm(3) s(-1), where T is in K.

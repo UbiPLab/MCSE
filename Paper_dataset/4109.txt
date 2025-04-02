@@ -1,0 +1,6 @@
+DE Frequency modulation; Scattering; Cloud computing; Atmospheric modeling;
+   Shape; Computational modeling; Stochastic processes; Chaff; coherent;
+   discrete chaff cloud model (DCCM); incoherent; radar cross section
+   (RCS); scattering
+ID RADAR CROSS-SECTION; BACKSCATTERING; RCS
+AB A method, hereinafter referred to as discrete chaff cloud model (DCCM), for the electromagnetic modeling of general chaff clouds is presented, with which harmonic or wideband impulse scattering responses can be evaluated. The model applies to a wide range of scenarios, for any combination of illumination and observation angles and polarizations. The technique considers the geometry of the cloud and the statistical distributions of the elements, both in density and orientation. After a 1-D discretization of the cloud, the complete statistical response or single-experiment observations can be evaluated. The model is formulated in a very general form to extend its applicability as much as possible. Its limitations have been identified and assessed in relevant scenarios. Validation cases have been included, comparing results obtained with DCCM, other published formulations, and full-wave simulations.

@@ -1,0 +1,5 @@
+DE Cloud predictive control; consensus and stability; multiagent systems
+   (MASs); networked control systems
+ID SWITCHING TOPOLOGY; TIME-DELAYS; CONSENSUS PROBLEMS; AVERAGE CONSENSUS;
+   AGENTS; TRACKING; DESIGN
+AB This paper studies the design and analysis of networked multiagent predictive control systems via cloud computing. A cloud predictive control scheme for networked multiagent systems (NMASs) is proposed to achieve consensus and stability simultaneously and to compensate for network delays actively. The design of the cloud predictive controller for NMASs is detailed. The analysis of the cloud predictive control scheme gives the necessary and sufficient conditions of stability and consensus of closed-loop networked multiagent control systems. The proposed scheme is verified to characterize the dynamical behavior and control performance of NMASs through simulations. The outcome provides a foundation for the development of cooperative and coordinative control of NMASs and its applications.

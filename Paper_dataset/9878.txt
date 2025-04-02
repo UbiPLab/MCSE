@@ -1,0 +1,3 @@
+DE Cloud Service; Security; Security risk; PLS
+ID TECHNOLOGY ACCEPTANCE; USAGE; INTENTION; COMMERCE; TRUST; MODEL
+AB This paper analyzed the effects of security risk factors fit for cloud computing paradigm on the acceptance of enterprise cloud service with intent to illuminate the factors for vitalizing the adoption of corporate cloud services in the future. The acceptance intention was set as a dependent variable. Independent variables were set in reference to the technology acceptance theory. Security risks were categorized into compliance risk, information leakage risk, troubleshooting risk and service discontinuation risk to design a model for analysis.

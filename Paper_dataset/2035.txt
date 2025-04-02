@@ -1,0 +1,8 @@
+DE Supply chain management; Structural equation modelling; Sensitivity
+   analysis; Artificial neural network; Cloud computing integration;
+   External integration
+ID QUALITY MANAGEMENT-PRACTICES; ARTIFICIAL NEURAL-NETWORK; PRODUCT
+   DEVELOPMENT; MANUFACTURING FLEXIBILITY; ENVIRONMENTAL UNCERTAINTY;
+   EXTERNAL INTEGRATION; INFORMATION-TECHNOLOGY; COMPETITIVE PRIORITIES;
+   FIRM PERFORMANCE; IMPACT
+AB Purpose The purpose of this paper is to analyse proposed cloud computing integration (CCI) and external integration (EI) effects on the relationship between the integration of supply chain and business performance of the organisation in the Indian context. Design/methodology/approach A two-stage, structural equation modelling (SEM) and artificial neural network (ANN) methodology are employed for the analysis, and for verifying the robustness of the developed model sensitivity analysis is performed. Findings The results of SEM revealed that out of 14 hypotheses, 12 hypotheses were supported. Furthermore output of SEM was used as input for the ANN model and the results highlighted that production flexibility is an essential factor for operational business performance (OBP) followed by customer integration, supplier integration, product quality, internal integration and on-time delivery (OD). Research limitations/implications This study focussed on the emerging economies context and cannot be applied to all the countries, and there could be other derived variables from the real factors. This investigation is intended to guide various policy and decision makers of the case domain. Originality/value This study has introduced new factors such as CCI, EI and organisational business performance.

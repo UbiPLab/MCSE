@@ -1,0 +1,5 @@
+DE Wireless Sensor Networks; Internet of Things Cloud Computing;
+   context-aware systems; access mechanism; sensor-cloud interface; web
+   services
+ID INTERNET
+AB ' The main goal of the paper is to integrate three emergent technologies (Wireless Sensor Networks, Internet of Things and Cloud Computing) in a framework supporting context-aware sensing, computing and communication capabilities into industrial applications. In this regard, the paper presents original solutions for a context-aware three-tier system architecture, that provides context information sensing and processing, an access mechanism for interfacing sensor networks with IoT and Cloud and a four-level architecture to perform industrial process control, that includes the modules of a context-aware control platform. These solutions are validated with a proof of concept application implemented on a IBM Bluemix IoT platform.

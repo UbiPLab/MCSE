@@ -1,0 +1,4 @@
+DE Big data; Secure numerical computations; Secure comparisons;
+   Client-server computation; Secure cloud computing; Secure multi-party
+   computation; Privacy preserving data mining
+AB We derive algorithms for efficient secure numerical and logical operations in the semi-honest model ensuring statistical or perfect security for secure multi-party computation (MPC). To derive our algorithms for trigonometric functions, we use basic mathematical laws in combination with properties of the additive encryption scheme, ie. linear secret sharing, in a novel way for the JOS scheme [23]. For division and logarithm, we use a new approach to compute a Taylor series at a fixed point for all numbers. Our empirical evaluation yields speed-ups for local computation of more than a factor of 100 for some operations compared to the state-of-the-art. (C) 2017 Elsevier Ltd. All rights reserved.

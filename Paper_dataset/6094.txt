@@ -1,0 +1,9 @@
+DE cellular radio; radio access networks; cloud computing;
+   telecommunication power management; power consumption; telecommunication
+   computing; sparse power allocation strategy; downlink transmission;
+   cloud radio access networks; C-RAN; optimum power allocation;
+   closed-form expressions; ergodic capacity; power sharing; remote radio
+   heads; RRH; baseband unit; SPA strategy; coordination multipoint joint
+   transmission; wireless cellular networks; low signal-to-noise ratio
+   region; network power consumption reduction; CoMP-JT
+AB Here, the authors investigate the optimum power allocation to increase the ergodic capacity in cloud radio access network (C-RAN). At first, some closed-form expressions are derived to calculate the ergodic capacity in downlink transmission of C-RAN. This is followed by using these expressions to optimise the power sharing among remote radio heads (RRHs), where this process is coordinated in a baseband unit. Then a sparse power allocation (SPA) strategy is proposed for coordination multipoint joint transmission (CoMP-JT). By applying SPA in C-RAN, the power allocations for RRHs can be managed to achieve higher capacity. The improvement in capacity is more satisfied in low signal-to-noise ratio region. It is shown that the proposed method can improve the ergodic capacity and meanwhile reduces the network power consumption. Simulation results show that using SPA strategy for CoMP-JT increases the ergodic capacity by 4bits/s/Hz in 8-RRHs C-RAN compared with equal power allocation technique.

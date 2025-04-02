@@ -1,0 +1,6 @@
+DE Satellites; Optimization; Orbits; Cloud computing; Optical fiber
+   networks; Satellite broadcasting; Cloud coverage; Medium Earth orbit
+   (MEO) satellite networks; optical communication systems; optical ground
+   station (OGS) network (OGSN) dimensioning; optimization
+ID BAND; PREDICTION; KA
+AB This contribution is focused on MEO satellite communication systems operating at optical wavelengths, and especially on the optimum dimensioning of their optical ground station (OGS) network (OGSN). The objective of the optimization is to minimize the size of the network, while still ensuring the target link availabilities due to cloud blockage. Two new optimization algorithms for this optimum selection of OGSs are proposed. The algorithms take into account the monthly variability of cloud coverage, take advantage of locations in different hemispheres, and select OGSs, which are within the visibility area of the satellite for longer time. The methodology for calculating the single and joint cloud free line of sight considering the integrated liquid water content statistics, the time dependent elevation angles and the MEO satellite movement are presented. Representative numerical results are presented considering either a single MEO satellite or a full MEO constellation.

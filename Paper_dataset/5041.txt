@@ -1,0 +1,6 @@
+DE alarms; drones; monitoring; security; sensors
+AB Introduction: The article derives from the research "Alarm monitoring system based on unmanned aerial vehicles" conducted at Universidad Pedagogica y Tecnologica de Colombia in 2016. It shows the construction phases of an electronic alarm monitoring platform prototype using cloud computing, supported by surveillance drones.
+   Aim: To improve response times in the surveillance of rural properties upon a warning signal of possible theft by quickly collecting external evidence captured in photos and videos.
+   Methods: We identified how the monitoring service is provided in Colombia and then five modules were designed and implemented: intrusion, reception, management, monitoring and surveillance.
+   Results: Once an intrusion variable was altered and detected by the sensors, the alarm system transmitted the warning signal through IP/GPRS communication to the signal receiver in the cloud, which translates the message and directs it to the management software responsible for sending the flight plan and geographic coordinates required for onsite drone surveillance.
+   Conclusion: Response times on drone surveillance could be calculated with favorable results for the monitoring service, and the management software was developed.

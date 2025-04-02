@@ -1,0 +1,4 @@
+DE Cloud computing; Cloud service provider; Security; Confidentiality;
+   Encryption; RAID
+ID SYSTEM
+AB Cloud service providers offer infrastructure, network services, and software applications in the cloud. The cloud services are hosted in a data center that can be used by users with the help of network connectivity. Hence, there is a need for providing security and integrity in cloud resources. Most security instruments have a finite rate of failure, and the intrusion comes with more complex and sophisticated techniques; the security failure rates are skyrocketing. In this paper, we have proposed a secure disintegration protocol (SDP) for the protection of privacy on-site and in the cloud. The architecture presented in this paper is used for cloud storage, and it is used in conjunction with our unique data compression and encoding technique. Probabilistic analysis is used for calculating the intrusion tolerance abilities for the SDP.

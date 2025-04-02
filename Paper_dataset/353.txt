@@ -1,0 +1,18 @@
+DE adaptive scheduling; cloud computing; radio access networks; game
+   theory; mobile computing; learning (artificial intelligence);
+   telecommunication traffic; Internet of Things; telecommunication
+   scheduling; decision making; distributed processing; quality of
+   experience; computational complexity; optimisation; multi-access
+   systems; global ecosystem; backhaul network traffic congestion;
+   communication framework; dynamic network environment; deep reinforcement
+   learning; MEC networks; ubiquitous radio access networks; augmented
+   decision-making capabilities; network generation; decentralised adaptive
+   scheduling algorithm; smart end-user device; congestion-aware adaptive
+   decentralised computation offloading; multiaccess edge computing
+   networks; smart communication technologies; quality of experience; NP
+   hard problem; mobile subscribers; Internet of Everything; noncooperative
+   game theory; Nash equilibrium; ultra-low latency; energy consumption;
+   cloud services
+ID RESOURCE-ALLOCATION; REINFORCEMENT; CLOUD; MODEL; FRAMEWORK; SELECTION;
+   DECISION; INTERNET; THINGS; IOT
+AB Multi-access edge computing (MEC) has attracted much more attention to revolutionising smart communication technologies and Internet of Everything. Nowadays, smart end-user devices are designed to execute sophisticated applications that demand more resources and explosively connected to the global ecosystem. As a result, the backhaul network traffic congestion grows enormously and user quality of experience is compromised as well. To address these challenges, the authors proposed congestion-aware adaptive decentralised computing, caching, and communication framework which can orchestrate the dynamic network environment based on deep reinforcement learning for MEC networks. MEC is a paradigm shift that transforms cloud services and capabilities platform at the edge of ubiquitous radio access networks in close proximity to mobile subscribers. The framework can evolve to perform augmented decision-making capabilities for the upcoming network generation. Hence, the problem is formulated using non-cooperative game theory which is nondeterministic polynomial (NP) hard to solve and the authors show that the game admits a Nash equilibrium. In addition, they have constructed a decentralised adaptive scheduling algorithm to leverage the utility of each smart end-user device. Therefore, their methodical observations using theoretical analysis and simulation results substantiate that the proposed algorithm can achieve ultra-low latency, enhanced storage capability, low energy consumption, and scalable than the baseline scheme.

@@ -1,0 +1,8 @@
+DE Malaysia; cloud computing; malay-owned SMEs
+ID B2B E-COMMERCE; MODEL; USAGE; FIRM; ORGANIZATIONS; ASSIMILATION;
+   ENVIRONMENT; TECHNOLOGY; BUSINESSES; CAPABILITY
+AB Purpose of the research: This research aims to empirically examine the relationship between entrepreneurs' personality traits and cloud computing adoption among Malay-owned SMEs in Malaysia. The research was done under theoretical framework that was developed based on the previous literature.
+   Methodology: This study adopts non-probability sampling which is convenient sampling for data collection. Data collection was done in all major towns in West Malaysia. Hypotheses related to personality factors (determination, opportunity, independent, innovativeness, locus of control, creativity, risk taking ability and achievement) and cloud computing adoption among Malay entrepreneurial society were tested by using multiple regression analysis on survey data from a sample of 383 entrepreneurs from major towns in Malaysia.
+   Major conclusion: The result of this study indicates that cloud computing adoption depend on the entrepreneur's trait. This study confirms that personality traits have significant influence on cloud computing adoption.
+   Research limitation: Like other empirical studies, this study is not without its limitations. The sample size itself is small. The study can be strengthened by increasing the sample size and including participants in other geographical areas.
+   Originality and value: The findings of this paper serve as a reminder for the Malay-owned SMEs that they have to consider cloud computing for their business operation, particularly for managing and maintaining all their virtual resources at their own end.

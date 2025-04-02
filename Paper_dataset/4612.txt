@@ -1,0 +1,7 @@
+DE service-orientated manufacturing systems; service transformation;
+   digital capabilities; Internet of things; cloud computing; predictive
+   analytics; DIKW
+ID MANUFACTURING FIRMS; SUPPLIER RELATIONSHIPS; BUSINESS SERVICES;
+   SERVITIZATION; OFFERINGS; DESERVITIZATION; IMPLEMENTATION; TRANSITION;
+   CHALLENGES; STRATEGIES
+AB The role of digital technologies in service business transformation is under-investigated. This paper contributes to filling this gap by addressing how the Internet of things (IoT), cloud computing (CC) and predictive analytics (PA) facilitate service transformation in industrial companies. Through the Data-Information-Knowledge-Wisdom (DIKW) model, we discuss how the abovementioned technologies transform low-level entities such as data into information and knowledge to support the service transformation of manufacturers. We propose a set of digital capabilities, based on the extant literature and the findings from four case studies. Then, we discuss how these capabilities support the service transformation trajectories of manufacturers. We find that IoT is foundational to any service transformation, although it is mostly needed to become an availability provider. PA is essential for moving to the performance provider profile. Besides providing scalability in all profiles, CC is specifically used to implement an industrialiser strategy, therefore leading to standardised, repeatable and productised offerings.

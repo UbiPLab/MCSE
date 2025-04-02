@@ -1,0 +1,6 @@
+DE Cloud radio access network(C-RAN); orthogonal frequency division
+   multiple access (OFDMA); resource allocation; Multi-Objective
+   Optimization(MOO); joint optimization
+ID RADIO ACCESS NETWORKS; EFFICIENT RESOURCE-ALLOCATION; ENERGY; ALGORITHM;
+   DOWNLINK; SYSTEMS
+AB Cloud Radio Access Network (C-RAN), which shifts the Baseband Units(BBUs) from traditional base stations to form the centralized computing cloud, is considered as a novel mobile network architecture which can solve lots of challenges the operators face in the next generation mobile communication system, including the demand for higher fronthaul efficiency (FE), spectral efficiency (SE) and energy efficiency (EE). However, these objectives conflict with each other in most cases when the improvements in one objective cause degradation in other objectives. To the authors' best knowledge, the problem of multi-objective optimization (MOO) in C-RAN is still an open issue. In this paper, we aim to design proper joint optimization algorithms to solve the MOO resource allocation problems in OFDMA-based C-RANs. The simulation results indicate our algorithms could balance the tradeoff between multiple objectives effectively and provide a new perspective for resource allocation in C-RANs.

@@ -1,0 +1,3 @@
+DE Open Source code repository; NoSQL Databases; Cloud Computing; access to
+   Internet
+AB This paper focuses on studying the development of an integrated versioning system for the source files used in the software project development. The server component is a. net Web service, powered by a NoSQL Type Database Management System. All functional and data resources are resident on a Cloud platform. Choosing this solution ( NoSQL in conjunction with Cloud technology) provides a great boost in speed, necessary as this type of application is subject to a high density of requests, more-over so when operations like file uploads, file parsing, file content comparisons and file downloads occur at a constantly increasing rate.

@@ -1,0 +1,6 @@
+DE Containers; Task analysis; Servers; Cloud computing; Virtualization; Job
+   shop scheduling; Data centers; Cloud computing; containers;
+   software-defined data centers (SDDCs); virtual machine; workflow
+   scheduling
+ID CLOUD; MANAGEMENT
+AB Workflow scheduling is one of the most difficult tasks due to the variation in the traffic flows generated from diverse cloud applications. Hence, in this article, a container-based virtualization is used to design an energy-efficient workflow scheduling in software-defined data centers. The containers provide the flexibility to the applications to access the underlying resource as per their requirements. Moreover, a runtime scheduler is responsible to handle all the scheduling decisions in the proposed workflow scheduling scheme. Even more, a doubly linked list-based access mechanism is used to provide access to the servers and virtual machines by traversing both ways. Finally, a hashing scheme is used to select an ideal location for the allocation of the containers. The proposed scheme is evaluated with respect to different performance metrics (makespan, execution time, fault tolerance, energy consumption, etc.) on the real data traces. The results obtained depict the superiority of the proposed scheme in comparison to the other existing schemes of its category.

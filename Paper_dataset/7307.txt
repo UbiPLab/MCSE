@@ -1,0 +1,1 @@
+AB Despite its immense benefits, cloud computing raises several concerns due to lack of trust and transparency. The proposed process and infrastructure are applied to a case study on cloud certification showing their utility.

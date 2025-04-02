@@ -1,0 +1,4 @@
+DE Identity-based encryption; binary operation; equality test; cloud
+   computing; performance
+ID PUBLIC-KEY ENCRYPTION; EFFICIENT
+AB Privacy-presenting for cloud computing has been concerned for several years. Public key encryption with equality test as a variant of keyword searchable encryption is one of the important concepts in this area. In order to simplify the management of certificate and optimize the scheme, an identity-based encryption with equality test was proposed by Wu et al. In this paper, we analyze that some binary operations of the encryption in the scheme are not clear so that the scheme is not more efficient than the existing schemes or the test of the scheme is not available when we analyze the most possible definitions of the binary operations in the scheme. Finally, we improve the scheme and furthermore, our improved scheme is fine-grained.

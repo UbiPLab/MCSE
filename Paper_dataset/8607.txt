@@ -1,0 +1,3 @@
+DE cloud computing; cloud storage; free software; cloud services; public
+   libraries
+AB The prerequisites for the introduction and advantages of using cloud technologies in public libraries of Ukraine are considered. The terms "cloud computing" and "cloud services" are defined. The existing models for maintaining and deploying cloud services are described. The most popular free software products based on cloud technologies used by public libraries in Ukraine are considered. The cloud services offered by Google and Microsoft that libraries can use in their activities are characterized. The infrastructure and technological status of public libraries in Ukraine, their computerization and "Internetization" are examined.

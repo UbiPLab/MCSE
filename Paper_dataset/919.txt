@@ -1,0 +1,5 @@
+DE Artificial Neural Network; Cloud Computing; Particle Swarm Optimization;
+   Privacy Preserving; Vigenere Encryption
+ID CLASSIFICATION; PRESERVATION; PROTECTION; FRAMEWORK; BENEFITS; MACHINE;
+   DESIGN
+AB In the cloud, various privacy-preserving and security threats on data retrieval processes exist. In this article, the authors propose an efficient method for secure privacy preserving in cloud. Initially, the shared file is encrypted using a Vigenere encryption algorithm before uploading. For creating the privacy map, the efficient classification algorithm is recommended. Here, a Modified Artificial Neural Network (MANN) is used to generate the privacy map. The weight value of the neural network is optimized using a Particle Swarm Optimization (PSO) algorithm. While retrieving files initially, the authorization of the person is verified by providing basic information, then the OTP of the respective files is verified. Since the user can retrieve the files only after authorization, verification and decryption of the files is highly secured and privacy is preserved. The performance of the proposed method is evaluated in terms of time and accuracy.

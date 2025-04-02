@@ -1,0 +1,4 @@
+DE Cloud elasticity; Probabilistic model checking; Quantitative
+   verification; Autonomic computing; PRISM; NoSQL databases
+ID CLOUD; ELASTICITY
+AB In this work we target horizontal scaling of NoSQL databases, which exhibit highly varying, unpredictable and difficult to model behavior coupled with transient phenomena during VM removals and/or additions. We propose a solution that is cost-aware, systematic, dependable while it accounts for performance unpredictability and volatility. To this end, we model the elasticity as a dynamically instantiated Markov decision process, which can be both solved and verified using probabilistic model checking. Further, we propose a range of complementary decision making policies, which are thoroughly evaluated in workloads from real traces. The evaluation provides strong insights into the trade-offs between performance and cost that our policies can achieve and prove that we can avoid both over- and under-provisioning.

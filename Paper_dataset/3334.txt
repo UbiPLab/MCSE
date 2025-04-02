@@ -1,0 +1,6 @@
+DE masers; radiation mechanisms: general; radiative transfer; techniques:
+   high angular resolution; ISM: lines and bands; radio lines: general
+ID SPECTRAL-LINE PROFILES; ASTROPHYSICAL MASERS; RADIATIVE-TRANSFER;
+   3-DIMENSIONAL MASERS; APPARENT SIZES; OH MASER; METHANOL; SATURATION;
+   EMISSION; FLARES
+AB We set out the theory and discretization scheme for a new finite-element computer code, written specifically for the simulation of maser sources. The code was used to compute fractional inversions at each node of a 3D domain for a range of optical thicknesses. Saturation behaviour of the nodes with regard to location and optical depth was broadly as expected. We have demonstrated via formal solutions of the radiative transfer equation that the apparent size of the model maser cloud decreases as expected with optical depth as viewed by a distant observer. Simulations of rotation of the cloud allowed the construction of light curves for a number of observable quantities. Rotation of the model cloud may be a reasonable model for quasi-periodic variability, but cannot explain periodic flaring.

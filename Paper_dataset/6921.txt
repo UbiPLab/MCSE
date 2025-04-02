@@ -1,0 +1,5 @@
+DE Cloud computing; Group data sharing; Identity-based; Searchable
+   encryption
+ID KEYWORD RANKED SEARCH; DATA ACCESS-CONTROL; ENABLING SECURE; EFFICIENT;
+   STORAGE; PRIVACY; AUTHENTICATION
+AB Cloud computing is a newfound service which has a rapid growth in IT industry in recent years. With the development of social network, the group data sharing system has been developed to store and process the large amounts of data. Due to the cloud service is provided by the third party, the cloud server is semi-trusted. In this paper, we propose a secure identity-based dynamic group data sharing scheme for cloud computing, which is based on a transplanted group signature algorithm to perform the identity authorization and authentication. In order to make the group members share data efficiently, we utilize a multi-owner searchable encryption mechanism to realize the group data sharing. The security analysis shows that our proposed scheme can resist many possible attacks. In addition, the performance analysis shows that this scheme can be implemented with low computational cost.

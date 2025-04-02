@@ -1,0 +1,6 @@
+DE photodetachment; radiative attachment; stimulated radiative attachment;
+   early Universe; interstellar medium; autoionisation
+ID DOUBLY-EXCITED RESONANCES; PHOTOIONIZATION CROSS-SECTIONS; MICROWAVE
+   BACKGROUND SPECTRUM; R-MATRIX; CONFIGURATION-INTERACTION; AUTOIONIZATION
+   WIDTHS; 2-ELECTRON ATOMS; UMIST DATABASE; NEGATIVE-IONS; BOUND-FREE
+AB We combine R-matrix calculations, asymptotic relations, and comparison to available experimental data to construct an H-photodetachment cross section reliable over a large range of photon energies and take into account the series of auto-detaching shape and Feshbach resonances between 10.92 and 14.35 eV. The accuracy of the cross section is controlled by ensuring that it satisfies all known oscillator strength sum rules, including contributions from the resonances and single-photon double-electron photodetachment. From the resulting recommended cross section, spontaneous and stimulated radiative attachment rate coefficients are obtained. Photodetachment rates are also computed for the standard interstellar radiation field, in diffuse and dense interstellar clouds, for blackbody radiation, and for high redshift distortion photons in the recombination epoch. Implications are investigated for these astrophysical radiation fields and epochs.

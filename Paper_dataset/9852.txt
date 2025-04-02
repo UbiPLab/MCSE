@@ -1,0 +1,3 @@
+DE cloud computing; task admission control; resource allocation;
+   utilization-based filtering
+AB In this paper, we propose two task admission control algorithms that utilize random task filtering: a lightweight algorithm based on long-term estimates of average utilization and offered load, and a more complex algorithm based on instantaneous utilization. Detailed performance evaluation confirms that both algorithms are able to ensure that the system remains in the stable operating region. We have also found that more aggressive filtering tends to decrease task blocking rate and delay. Copyright (C) 2016 John Wiley & Sons, Ltd.

@@ -1,0 +1,4 @@
+DE cloud computing architecture; simulation; software for monitoring
+   computer resources
+ID ALLOCATION
+AB Cloud services have been used very widely, but configuration of the parameters, including the efficient allocation of resources, is an important objective for the system architect. The article is devoted to solving the problem of choosing the architecture of computers based on simulation and developed program for monitoring computing resources. Techniques were developed aimed at providing the required quality of service and efficient use of resources. The article describes the monitoring program of computing resources and time efficiency of the target application functions. On the basis of this application the technique is shown and described in the experiment, designed to ensure the requirements for quality of service, by isolating one process from the others on different virtual machines inside the hypervisor.

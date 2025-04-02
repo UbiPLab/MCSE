@@ -1,0 +1,8 @@
+DE radio networks; frequency allocation; pricing; TRUDA; nonuniform
+   payment; heterogeneous spectrum access; wireless networks; competitive
+   prices; spectrum allocation; virtual machine allocation; cloud
+   computing; McAfee double auction; uniform clearing prices; heterogeneous
+   spectrums; buyer personalised preferences; buyer-seller pair marginal
+   effect; polynomial time complexity; truthful double auction scheme
+ID ALLOCATION; FRAMEWORK
+AB Auction is a highly effective trading form for distributing resource among buyers in a market at competitive prices, and has been applied to many domains, e.g. spectrum allocation in wireless networks and the virtual machine allocation in cloud computing. Most of existing auction mechanisms based on McAfee double auction calculate the uniform clearing prices for winning buyers no matter what channel they acquired, which does not reflect the differences of buyers' personalised preferences for heterogeneous spectrums. Hence, in this paper, we propose a truthful double auction scheme, named TRUDA, which incorporates the marginal effect of buyer-seller pair into auction mechanism design and considers the case in which buyers are mutually exclusive. We show analytically that this auction mechanism guarantees the economic-robustness of the auction and has polynomial time complexity.

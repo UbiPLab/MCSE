@@ -1,0 +1,4 @@
+DE cloud computing; dynamic scaling; hysteretic control; queuing system;
+   response time
+ID POWER; MANAGEMENT
+AB One of the key performance measures of cloud computing systems is the response time. However, the mean value of this characteristic does not give the full picture of quality of service. Therefore, we derive the cumulative distribution function (CDF) of the response time in terms of Laplace-Stieltjes transform and use it to evaluate moments of the response time. Moreover, we introduce a simplification of the mathematical model that significantly reduces computing complexity for the response time CDF and provide analysis of approximation accuracy of the simplified model.

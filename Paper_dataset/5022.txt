@@ -1,0 +1,4 @@
+DE Searchable symmetric encryption; multi-cloud technique; forward
+   security; backward security
+ID EFFICIENT; DEDUPLICATION; SYSTEMS
+AB Searchable encryption allows mobile devices with limited computing and storage resources to outsource data to an untrusted cloud server. Users are able to search and retrieve the outsourced data; however, it suffers from information and privacy leakage. The reason is that most of the previous works rely on the single cloud model, which allows that the cloud server gets all the search information from users. In this paper, we present a new scheme M-SSE that achieves both forward and backward security based on a multi-cloud technique. The new scheme is secure against both adaptive file injection attack and size pattern attack by utilizing multiple cloud servers. Experiment results show that our scheme is effective compared with the other existing schemes.

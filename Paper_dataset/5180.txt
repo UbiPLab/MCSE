@@ -1,0 +1,3 @@
+DE Digital Files; Cloud Computing; Documents for Academic Libraries;
+   Digital Content
+AB This paper identifies and describes several aspects associated with storage of digital files in the cloud. A definition of the cloud is ventured and its major features detailed in order to distinguish advantages, disadvantages and limitations that must be taken into account when information is stored in the cloud. Several recommendations are provided for higher education institutions tasked with planning the architecture to be deployed for organizing digital files using the cloud computing.

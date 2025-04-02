@@ -1,0 +1,14 @@
+DE cloud computing; integer programming; cellular radio; nonlinear
+   programming; autonomous aerial vehicles; mobile computing; learning
+   (artificial intelligence); relay networks (telecommunication);
+   multi-robot systems; optimisation problem; complexity reduction; QCOA;
+   quality of experience; MUs-Edge-Cloud three-layer network architecture;
+   MU energy consumption; two-layer network architecture; traversal
+   offloading; random offloading; efficient Q-learning based computation
+   offloading algorithm; mixed-integer nonlinear programming problem; edge
+   servers; remote cloud centre; computation resources; multiUAV-enabled
+   MEC system; controllability; mobile edge computing; mobile users;
+   relaying services; flying platform; UAV; unmanned aerial vehicles;
+   multiUAV-enabled cloud-edge computing networks
+ID TRAJECTORY DESIGN; MOBILE; MAXIMIZATION
+AB Unmanned aerial vehicles (UAVs) have been recently considered as a flying platform to provide wide coverage and relaying services for mobile users (MUs). Mobile edge computing (MEC) is developed as a new paradigm to improve quality of experience of MUs in future networks. Motivated by the high flexibility and controllability of UAVs, in this study, the authors study a multi-UAV-enabled MEC system, in which UAVs have computation resources to offer computation offloading opportunities for MUs, aiming to reduce MUs' total consumptions in terms of time and energy. Considering the rich computation resource in the remote cloud centre, they propose the MUs-Edge-Cloud three-layer network architecture, where UAVs play the role of flying edge servers. Based on this framework, they formulate the computation offloading issue as a mixed-integer non-linear programming problem, which is difficult to obtain an optimal solution in general. To address this, they propose an efficientQ-learning based computation offloading algorithm (QCOA) to reduce the complexity of optimisation problem. Numerical results show that the proposed QCOA outperforms benchmark offloading policies (e.g. random offloading, traversal offloading). Furthermore, the proposed three-layer network architecture achieves a 5% benefits compared with the traditional two-layer network architecture in terms of MUs' energy and time consumptions.

@@ -1,0 +1,3 @@
+DE Searchable encryption; multi-keyword ranked search; dynamic update;
+   cloud computing
+AB In current era exabytes of data are getting generated in the world wide. As cloud computing provide us efficient storage most of the users are ready to outsource the data to the cloud. As a result encryption the data and uploading to cloud has become very common nowadays. We present method to search in encrypted data. This is attained by combining vector space model and widely used TF*IDF model. Index tree is generated for all documents and index is encrypted using KNN algorithm and utilizes greedy depth first search to provide efficient multi-keyword ranked search. Performance is analyzed to demonstrate the efficiency of this schema

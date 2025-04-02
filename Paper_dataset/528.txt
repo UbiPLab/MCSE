@@ -1,0 +1,4 @@
+DE CI; CIF; Cloud Computing; DDoS Attack; Security; Studied Variable;
+   Unrealistic Value; VMware
+ID DEFENSE
+AB Distributed denial of service (DDoS) attacks have become a serious danger against the availability of services in cloud computing environment. Current defending mechanisms cannot detect DDoS attacks with high accuracy. This is mainly due to the fact that the unrealistic value of the studied variables was used. In view of this problem, the authors propose a novel approach called confidence intervalbased filtering (CIF) to detect DDoS attacks. The proposed approach is implemented using VMware and JAVA applications. The simulation results showed that CIF outperforms the existing approaches in terms of detection rate and false negative and positive rates with an acceptable computation time.

@@ -1,0 +1,5 @@
+DE Business Data Science (BDS); Modelling and experimental techniques for
+   BDS; Future directions and contributions for Data Science
+ID CLOUD COMPUTING ADOPTION; BIG DATA; SYSTEM DYNAMICS; ANALYTICS;
+   INTELLIGENCE; FRAMEWORK; SERVICE
+AB While Data Science has become increasingly significant for business strategies, operations, performance, efficiency and prediction, there is little work on this to provide a detailed guideline. We have proposed a Business Data Science (BDS) model that focuses on the model and experimental development that allows different types of functions, processes and roles to work together collaboratively for efficiency and performance improvements. Details with examples have been illustrated to show that BDS model can be a robust model. Future directions have been discussed to ensure that business intelligence, security, analytics and research contributions to BDS can be achieved. (C) 2016 Published by Elsevier Ltd.

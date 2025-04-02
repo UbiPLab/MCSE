@@ -1,0 +1,6 @@
+DE Delays; Optimization; EPON; IEEE 802; 3 Standard; Computer architecture;
+   Cloud computing; Base stations; Backhaul awareness; downlink-uplink
+   decoupling; fiber-wireless; heterogeneous cloud radio access network;
+   self-organizing networks
+ID USER ASSOCIATION; DELAY
+AB In order to meet the requirements of services and applications envisioned for post-5G and 6G networks, research efforts are heading towards the convergence of architectures aiming to support the wide variety of new compute-demanding and latency-sensitive applications in the context of Tactile Internet. In this article, we study the resource allocation and association of users with different delay requirements in a shared-backhaul fiber-wireless (FiWi) enhanced Heterogeneous Cloud Radio Access Network (H-CRAN) with Multi-access Edge Computing (MEC) and offloading. As opposed to traditional resource and association management, we propose a decentralized algorithm based on a full dual decomposition of the optimization problem to operate the network. Results show that this approach outperforms the traditional one in terms of average delay and energy consumption, achieving up to 80% average delay improvement in high-load scenarios.

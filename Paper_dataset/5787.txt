@@ -1,0 +1,4 @@
+DE Cloud computing model; marine natural gas; pipeline network operation;
+   cloud computing system; natural gas market
+ID INTERNET; SCHEME
+AB In the traditional analysis of marine natural gas pipeline network operation impact on natural gas markets, low discrimination is a problem. Therefore, based on a cloud computing model of the natural gas market, the impact on marine natural gas pipeline network operation is studied in this paper. The cloud computing model was used to determine the architecture of the marine natural gas pipeline network operation and the impact of the cloud computing system as compared with traditional methods. The experimental data show that the cloud computing; method is 10% more effective than traditional methods.

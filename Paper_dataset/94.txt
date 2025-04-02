@@ -1,0 +1,3 @@
+DE Cloud computing; Python; Google; Computer architecture; Libraries;
+   Complexity theory; Servers
+AB In this article, we advocate for access transparency: enabling local and remote resources to be accessed using identical operations. To this end, we present Lithops, a novel toolkit that allows regular, multiprocess Python programs to run at scale.

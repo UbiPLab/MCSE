@@ -1,0 +1,5 @@
+DE Auagmented reality; automated analytics; cognitive Internet of Things
+   (CIoT); fog and cloud computing; learning and reasoning; semantic
+   modeling
+ID INTERNET; THINGS; EMOTION
+AB Relatively tiny examples have demonstrated the potential of cognitive IoT (CIoT) in its full-stack, namely, semantic modeling, learning and reasoning over sensors data, and machine learning, to uncover and expose actionable insights via advanced user interfaces. In this paper, we make the case for the feasibility of CIoT in all of its dimensions. We devise a CIoT architecture that integrates thousands of sensors present in our buildings in order to learn the buildings' behavior and intuitively assist users in diagnosing and mitigating undesired events. With our architecture, we place emphasis on the scalability and flexibility that reduce the configuration effort. The solution shows the potential of CIoT to create highly scalable, adaptable and interactive IoT systems functioning for buildings and capable of addressing the challenges encountered in the realm of homes, Smart Cities and Industry 4.0.

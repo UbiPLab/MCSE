@@ -1,0 +1,4 @@
+DE Skeleton extraction; Point cloud; Skeleton alignment; L-1-median;
+   Distance Transform
+ID SURFACE
+AB We introduce a distance field guided -median method to extract topologically clean 1D curve skeleton from the point cloud model. We first voxelize the input point cloud, and compute the distance field for the point cloud. Then with the distance field, we extract the initial skeleton of the model using a multi-scale parameter controlled thinning method. Finally, we incorporate the initial skeleton into the -median optimization, and develop a distance field guided -median to effectively extract the complete skeleton from the point cloud. Our method exhibits the advantages of both the distance field based skeleton extraction methods and the -median skeleton extraction methods. Our skeleton extraction system is robust and effective, and can be applied to the raw scanned point cloud data.

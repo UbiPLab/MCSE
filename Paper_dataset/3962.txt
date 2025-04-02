@@ -1,0 +1,9 @@
+DE image segmentation; road vehicles; optical radar; computer vision;
+   roads; feature extraction; object detection; traffic engineering
+   computing; object tracking; mobile robots; adaptive road detection
+   method; lane line; obstacle boundary; off-road environments; real-time
+   road detection methods; lane lines; obstacle boundaries; driving
+   environments; multichannel threshold processing; lane feature detection;
+   obstacle information; lane feature selection; adaptive sliding window;
+   piecewise least squares method; road line
+AB In order to realise autonomous navigation of unmanned platforms in urban or off-road environments, it is crucial to study accurate, versatile and real-time road detection methods. This study proposes an adaptive road detection method that combines lane lines and obstacle boundaries, which can be applied to a variety of driving environments. Combining multi-channel threshold processing, it is robust to lane feature detection under various complex situations. Obstacle information extracted from the grid image constructed by 3D LIDAR point cloud is used for lane feature selection to avoid interference from pedestrians and vehicles. The proposed method makes use of adaptive sliding window for feature selection, and piecewise least squares method for road line fitting. Experimental results on dataset and in real-world environments show that the proposed method can overcome illumination changes, shadow occlusion, pedestrian, vehicle interference and so on in a variety of scenes. The proposed method has good enough efficiency, robustness and real-time performance.

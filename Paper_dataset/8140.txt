@@ -1,0 +1,5 @@
+DE Cloud computing; Scheduling algorithms; Energy; Swarm intelligence
+   algorithm
+ID ENERGY MANAGEMENT; ENVIRONMENTS; PERFORMANCE; HEURISTICS; RESOURCES;
+   FRAMEWORK; TAXONOMY; MODEL
+AB In a cloud environment, scheduling problem as an NP-complete problem can be solved using various metaheuristic algorithms. The metaheuristic algorithms are very popular for scheduling tasks because of their effectiveness. A bacterial foraging is a swarm intelligence algorithm inspired by the foraging and chemotactic phenomenon of bacteria. This paper proposes a task scheduling algorithm based on bacterial foraging optimization to reduce the idle time of virtual machines whereas the load balancing and reducing of runtime have occurred. The Cloudsim toolkit has assessed the performance of the proposed method in comparison with some scheduling algorithms. According to the obtained results, the makespan and energy consumption were reduced by using the proposed algorithm.

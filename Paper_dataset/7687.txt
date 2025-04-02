@@ -1,0 +1,4 @@
+DE Cloud Computing; High-Performance Computing; Distributed architecture;
+   Resource optimization
+ID VIRTUAL INFRASTRUCTURE
+AB The Cloud wide spawn and maturing has brought the attention of High-Performance Computing consumers, willing to move to its potential. The use of those resources to make intensive computing proficiently is a requirement to achieve the final goal of supporting intensive computing applications. The big challenge here is managing the combined resources of available Clouds, public or private and interoperating between them without an excessive efficiency loss. On the other hand, the resource optimization can also be undertaken by maximizing the existing resources, even if not intended for Cloud purposes or not having state-of-the-art hardware. This paper proposes an architecture, shows how to implement it and experiments on how to integrate heterogeneous resources on a hybrid Cloud infrastructure.

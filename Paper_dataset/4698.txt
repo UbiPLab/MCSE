@@ -1,0 +1,7 @@
+DE Strategic alignment; Human factors; Smart library; Conceptualization;
+   Library service; Smart technology; Two-way sensing
+ID DIGITAL LIBRARY; UBIQUITOUS LIBRARY; SERVICE
+AB Purpose This paper aims to clearly conceptualize the idea of the smart library and propose a holistic approach to building smart libraries, in accordance with recent practices and state-of-the-art technologies.
+   Design/methodology/approach Drawing on an extensive review of existing literature and practice about library construction, this paper distinguishes between similar types of smart library and divides the concepts associated with smart library building into three dimensions: technology, service and human.
+   Findings Traditional libraries can transform to smart libraries by strategic design and implementation of advanced technologies, such as cloud computing, data mining and artificial intelligence, but they also need to consider service building, user cultivation and librarian training.
+   Originality/value Aligning to the three main dimensions of smart libraries (technology, service and human), this study clarifies the concept of the smart library and offers strategic principles: integration of infrastructures, construction of service and human learning. It provides guidelines and directions for public and academic libraries committed to becoming smart libraries.

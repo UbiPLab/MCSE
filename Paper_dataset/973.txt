@@ -1,0 +1,6 @@
+DE Cloud computing; Edge computing; Internet of Things; Market research;
+   Computer architecture; Licenses; Libraries; Fog computing; cloud
+   computing; edge computing; Internet of Things; mobile cloud computing;
+   mobile edge computing
+ID INTERNET; THINGS; CHALLENGES; SECURITY
+AB In the last few years, Internet of Things, Cloud computing, Edge computing, and Fog computing have gained a lot of attention in both industry and academia. However, a clear and neat definition of these computing paradigms and their correlation is hard to find in the literature. This makes it difficult for researchers new to this area to get a concrete picture of these paradigms. This work tackles this deficiency, representing a helpful resource for those who will start next. First, we show the evolution of modern computing paradigms and related research interest. Then, we address each paradigm, neatly delineating its key points and its relation with the others. Thereafter, we extensively address Fog computing, remarking its outstanding role as the glue between IoT, Cloud, and Edge computing. In the end, we briefly present open challenges and future research directions for IoT, Cloud, Edge, and Fog computing.

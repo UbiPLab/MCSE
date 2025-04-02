@@ -1,0 +1,7 @@
+DE Protocols; Sensors; Authentication; Servers; Cloud computing;
+   Authentication protocol; heterogeneous systems; Industrial Internet of
+   Things (IIoT); privacy-preserving; proxy resignature; security and
+   privacy
+ID INDUSTRIAL INTERNET; SECURITY; THINGS; LIGHTWEIGHT; SIGNATURE; IOT;
+   SIGNCRYPTION; SCHEME
+AB The Industrial Internet of Things (IIoT) is expected to provide a promising opportunity to revolutionize the production operation of the existing industrial systems by leveraging smart devices. Due to the untrusted nature of communication channels, ensuring data authenticity is a critical challenge. Besides, devices' privacy and communication heterogeneity raise crucial concerns about the IIoT applications since the existing authentication protocols for the IIoT environment face the potential threats of privacy leakage and cannot achieve secure communication between heterogeneous industrial systems. To address these challenges, this article proposes an efficient privacy-preserving authentication protocol for heterogeneous systems in IIoT using proxy resignature. The presented protocol not only provides heterogeneous communication between ID-based and certificateless-based cryptosystems but also achieves various security requirements. The security of our protocol has been proven based on the extended Computational Diffie-Hellman (eCDH) assumption in the random oracle model. The experimental simulation demonstrates that our protocol is feasible for the IIoT-based environment.

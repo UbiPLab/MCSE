@@ -1,0 +1,3 @@
+DE privacy protection; homomorphic encryption; parallel encryption;
+   parallel homomorphic encryption; cloud computing; MapReduce
+AB In order to protect data privacy whilst allowing efficient access to data in multi-nodes cloud environments, a parallel homomorphic encryption (PHE) scheme is proposed based on the additive homomorphism of the Paillier encryption algorithm. In this paper we propose a PHE algorithm, in which plaintext is divided into several blocks and blocks are encrypted with a parallel mode. Experiment results demonstrate that the encryption algorithm can reach a speed-up ratio at about 7.1 in the MapReduce environment with 16 cores and 4 nodes.

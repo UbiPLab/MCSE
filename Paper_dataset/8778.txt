@@ -1,0 +1,4 @@
+DE Cloud computing; medical large data; Apriori algorithm; algorithm
+   optimization
+ID BIG-DATA; DATA-SCIENCE
+AB With the rapid development of the Internet, the variety and quantity of various medical data resources have experienced large-scale growth. The algorithmic organization structure of fragmented medical data resources can accelerate the standardization of local resources and improve resource utilization rate. Thus, the optimization of Apriori algorithm based on cloud computing and medical data was studied. This paper introduced an overview of cloud computing and medical data and described Apriori algorithm based on the cloud computing and medical data optimization process. Results show that the application of Apriori algorithm based on cloud computing and medical data was realistic and reasonable.

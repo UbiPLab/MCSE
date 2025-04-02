@@ -1,0 +1,4 @@
+DE Set intersection; Commutative encryption; Malicious participants; Data
+   mining
+ID INFORMATION
+AB Set intersection is a fundamental operation in data mining and cloud computing. In this paper, a protocol is proposed to determine the intersection between two datasets while preserving the privacy of each set. Malicious participants are considered and the misbehavior of participants is prevented. Our method is based on a combination of commutative encryption and hash-based commitments. Performance evaluation demonstrates the effectiveness of the protocol. Security discussion is given showing that the protocol provides data privacy, secure set intersection and tolerance to participants cheating. (C) 2016 Elsevier B.V. All rights reserved.

@@ -1,0 +1,4 @@
+DE point cloud; robust PCA; geometry processing; denoising; sparse
+   modelling
+ID SPARSE
+AB We present an algorithm for the restoration of noisy point cloud data, termed Moving Robust Principal Components Analysis (MRPCA). We model the point cloud as a collection of overlapping two-dimensional subspaces, and propose a model that encourages collaboration between overlapping neighbourhoods. Similar to state-of-the-art sparse modelling-based image denoising, the estimated point positions are computed by local averaging. In addition, the proposed approach models grossly corrupted observations explicitly, does not require oriented normals, and takes into account both local and global structure. Sharp features are preserved via a weighted (1) minimization, where the weights measure the similarity between normal vectors in a local neighbourhood. The proposed algorithm is compared against existing point cloud denoising methods, obtaining competitive results.

@@ -1,0 +1,4 @@
+DE Network functions virtualization (NFV); mobile edge computing (MEC);
+   service chain; clustering
+ID NETWORKS
+AB Service chaining is one of the key technologies that is used to support mobile edge computing (MEC) services for users in mobile communications radio access networks (RANs). By adapting network functions virtualization (NFV) technology to MEC, cloud-computing functionalities can be allocated near the base station of the RAN, resulting in extremely fast service access to user equipment. This letter provides a clustered NFV service chaining (cNSC) scheme that computes the optimal number of clusters to minimize the end-to-end time of MEC services. The cNSC scheme is applied to form multiple MEC clusters of NFV enabled nodes within the RAN.

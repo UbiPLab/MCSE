@@ -1,0 +1,4 @@
+DE energy consumption; virtual machines; tasks; genetic algorithm;
+   optimisation
+ID MODEL
+AB In recent years, the utilisation of cloud is expanded to all the fields. Cloud computing has the advantage to provide anything as a service to the clients. One of the major issues in cloud computing is energy consumption at the time of task allocation to the virtual machines. This paper address the problem of task scheduling by considering the energy consumption of tasks in the cloud computing. Existing research works only focused on optimising the time and cost of the resource without paying attention to the energy consumption. This paper proposes a new algorithm for multi objective task scheduling in clouds, and develop a genetic algorithm to optimise the energy consumption. Simulation results prove the efficiency of the proposed method.

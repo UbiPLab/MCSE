@@ -1,0 +1,4 @@
+DE Cloud computing; fog computing; Internet of Things (IoT); smart
+   agriculture; WiFi-based long distance (WiLD) network
+ID MAC PROTOCOL; WIRELESS; WIFI
+AB Internet of Things (IoT) gives a new dimension in the area of smart farming and agriculture domain. With the use of fog computing and WiFi-based long distance network in IoT, it is possible to connect the agriculture and farming bases situated in rural areas efficiently. To focus on the specific requirements, we propose a scalable network architecture for monitoring and controlling agriculture and farms in rural areas. Compared to the existing IoT-based agriculture and farming solutions, the proposed solution reduces network latency up to a certain extent. In this, a cross-layer-based channel access and routing solution for sensing and actuating is proposed. We analyze the network structure based on coverage range, throughput, and latency.

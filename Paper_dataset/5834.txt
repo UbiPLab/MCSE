@@ -1,0 +1,4 @@
+DE Virtual machines; VM placement; VM consolidation; VM selection; VM
+   sizing; cloud computing; data center
+ID VIRTUAL MACHINES; DYNAMIC CONSOLIDATION; DATA CENTERS; ENERGY; PLACEMENT
+AB Previous work on optimizing resource provisioning in virtualized environments focused either on mapping virtual machines (VMs) to physical machines (PMs) or mapping application components to VMs. In this paper, we argue that these two optimization problems influence each other significantly and in a highly non-trivial way. We define a sophisticated problem formulation for the joint optimization of the two mappings, taking into account sizing aspects, colocation constraints, license costs, and hardware affinity relations. As demonstrated by the empirical evaluation on a real-world workload trace, the combined optimization leads to significantly better overall results than considering the two problems in isolation.

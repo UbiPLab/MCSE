@@ -1,0 +1,10 @@
+DE atrial fibrillation; screen; cloud-computing algorithm;
+   electrocardiography
+ID COST-EFFECTIVENESS; ANTITHROMBOTIC THERAPY; STROKE PREVENTION; RISK;
+   PREVALENCE; WARFARIN; ELECTROCARDIOGRAM; COMMUNITY; ANTICOAGULATION;
+   TECHNOLOGY
+AB Background: Atrial fibrillation (AF) is a common form of arrhythmia that is associated with increased risk of stroke and mortality. Detecting AF before the first complication occurs is a recognized priority. No previous studies have examined the feasibility of undertaking AF screening using a telehealth surveillance system with an embedded cloud-computing algorithm; we address this issue in this study.
+   Objective: The objective of this study was to evaluate the feasibility of AF screening in nonmetropolitan areas using a telehealth surveillance system with an embedded cloud-computing algorithm.
+   Methods: We conducted a prospective AF screening study in a nonmetropolitan area using a single-lead electrocardiogram (ECG) recorder. All ECG measurements were reviewed on the telehealth surveillance system and interpreted by the cloud-computing algorithm and a cardiologist. The process of AF screening was evaluated with a satisfaction questionnaire.
+   Results: Between March 11, 2016 and August 31, 2016, 967 ECGs were recorded from 922 residents in nonmetropolitan areas. A total of 22 (2.4%, 22/922) residents with AF were identified by the physician's ECG interpretation, and only 0.2% (2/967) of ECGs contained significant artifacts. The novel cloud-computing algorithm for AF detection had a sensitivity of 95.5% (95% CI 77.2%-99.9%) and specificity of 97.7% (95% CI 96.5%-98.5%). The overall satisfaction score for the process of AF screening was 92.1%.
+   Conclusions: AF screening in nonmetropolitan areas using a telehealth surveillance system with an embedded cloud-computing algorithm is feasible.

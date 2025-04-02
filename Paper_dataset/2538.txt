@@ -1,0 +1,7 @@
+DE methods: laboratory: solid state; planets and satellites: atmospheres;
+   planets and satellites: composition; radiative transfer; techniques:
+   spectroscopic
+ID COMPLEX REFRACTIVE-INDEXES; INFRARED-SPECTRA; POLAR STRATOSPHERE;
+   OPTICAL-CONSTANTS; HYDROGEN-CYANIDE; RAMAN-SPECTRA; C4N2 ICE;
+   ATMOSPHERE; CHEMISTRY; CYANOGEN
+AB An ice chamber for obtaining thin-film transmission spectra of Titan-relevant organic ices between 50 and 11,700 cm(-1) (200-0.85 mu m) is described in detail in this work. The ice chamber, called the SPECtroscopy of Titan-Related ice AnaLogs chamber, is located in the Spectroscopy for Planetary ICes Environments laboratory at NASA Goddard Space Flight Center. Organic vapors are typically deposited between 30 and 150 K via a variable leak valve onto a chemical vapor deposition diamond substrate, where condensation directly into the solid state occurs. Quantitative thin-film infrared transmission spectra of the given ice or ice mixture are then measured, from which optical constants (complex indices of refraction) are computed. These optical constants in turn provide the necessary input for interpreting radiative transfer analyses of Cassini's Composite InfraRed Spectrometer observations of Titan's organic stratospheric ice clouds to determine their chemical compositions, abundances, and vertical distributions as functions of Titan latitude and season.

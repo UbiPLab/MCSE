@@ -1,0 +1,5 @@
+DE Cloud computing; frequency regulation; resilience; robustness;
+   transactive control; wind power
+ID DYNAMIC MARKET MECHANISM; POWER-SYSTEMS; FREQUENCY REGULATION; CONTROL
+   DESIGN; COMMUNICATION; INTEGRATION; RENEWABLES; STABILITY
+AB One of the main shortcomings, caused by high penetration of wind power, is intermittency of generation. For integrating high penetration of wind power, the frequency regulation and the transactive control systems are modified to be sufficiently resilient against fluctuations of wind power and malicious cyber threats. Here, a hierarchical state-space model is presented for the frequency regulation and the transactive control systems in a smart grid environment. To achieve a resilient control, a framework based on cloud computing is proposed for the communication network. Benefits and challenges of the cloud-based framework are also described in this paper. To optimize the operation of the proposed framework, control parameters are tuned robustly by using the edge theorem. Finally, the performance of proposed control system is evaluated in the case study section.

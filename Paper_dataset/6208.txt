@@ -1,0 +1,3 @@
+DE Quantum computing; Benchmarking; Superconducting qubits; Quantum
+   circuits
+AB With the advent of public access to small gate-based quantum processors, it becomes necessary to develop a benchmarking methodology such that independent researchers can validate the operation of these processors. We explore the usefulness of a number of simple quantum circuits as benchmarks for gate based quantum computing devices and show that circuits performing identity operations are very simple, scalable and sensitive to gate errors and are therefore very well suited for this task. We illustrate the procedure by presenting benchmark results for the IBM Quantum Experience, a cloud-based platform for gate-based quantum computing. (C) 2017 The Author(s). Published by Elsevier B.V.

@@ -1,0 +1,5 @@
+DE Average success rate; Business's data; Cloud computing; Data leakage;
+   Detection rate; Distribution strategy; Information security; Malicious
+   user; Time instance
+ID RELATIONAL DATABASES; ALGORITHM
+AB This paper proposes a novel scheme for the leaker identification that deals with the dynamic scenario by handling the requests of the users in an online custom. A distribution strategy is introduced having less risk associated with exposing the data and furthermore improves the likelihood of identifying the leaker when the information is revealed by the malicious user. The observed results signify an improvement of up to 41%, 368%, and 318% for average probability, average success rate, and detection rate respectively compared to the prior work. Also, the proposed framework significantly minimizes the possibility of data leakage up to 88% and synchronously achieves a 100% efficacy rate.

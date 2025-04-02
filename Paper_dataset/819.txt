@@ -1,0 +1,8 @@
+DE Outsourcing; Cloud computing; Task analysis; Encryption; Computational
+   modeling; Servers; Secure outsourced computing; privacy preserving;
+   homomorphic encryption; secure outsourced machine learning; data
+   processing
+ID FULLY HOMOMORPHIC ENCRYPTION; PUBLIC-KEY CRYPTOSYSTEM; PRESERVING
+   LOGISTIC-REGRESSION; MULTIPARTY COMPUTATION; WATERMARKING SCHEME;
+   FEATURE-EXTRACTION; SET-INTERSECTION; IMAGE RETRIEVAL; K-MEANS; CLOUD
+AB With the ever-increasing requirement of storage and computation resources, it is unrealistic for local devices (with limited sources) to implement large-scale data processing. Therefore, individuals or corporations incline to outsource their computation requirements to the cloud. However, data outsourcing brings security and privacy concerns to users when the cloud servers are not fully trusted. Recently, extensive research works are conducted, aiming at secure outsourcing schemes for diverse computational tasks via different technologies. In this survey, we provide a technical review and comparison of existing outsourcing schemes using diverse secure computation methods. Specifically, we begin the survey by describing security threats and requirements of secure outsourcing computation. Meanwhile, we introduce four secure techniques (i.e., secure multi-party computation, pseudorandom functions, software guard extensions, and perturbation approaches) and their related works. Then, we focus on the theories and evolution of homomorphic encryption, as well as the applications of the basic operations and application-specific tasks. Finally, we discuss the security and performance of existing works and give future directions in this field.

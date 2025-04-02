@@ -1,0 +1,3 @@
+DE Task scheduling; Ant colony system; Optimization algorithm; Cloud
+   computing
+AB Since cloud computing provides computing resources on a pay per use basis, a task scheduling algorithm directly affects the cost for users. In this paper, we propose a novel cloud task scheduling algorithm based on ant colony optimization that allocates tasks of cloud users to virtual machines in cloud computing environments in an efficient manner. To enhance the performance of the task scheduler in cloud computing environments with ant colony optimization, we adapt diversification and reinforcement strategies with slave ants. The proposed algorithm solves the global optimization problem with slave ants by avoiding long paths whose pheromones are wrongly accumulated by leading ants.

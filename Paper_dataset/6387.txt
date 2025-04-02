@@ -1,0 +1,8 @@
+DE cloud computing; natural language processing; social networking
+   (online); pattern clustering; indexing; matrix decomposition; word cloud
+   segmentation; trending topic exploration; Twitter; microblogging
+   platform; spectral domain; clustering algorithms; k-means; latent
+   semantic indexing; nonnegative matrix factorisation; clustered word
+   clouds
+ID K-MEANS
+AB Twitter is a popular microblogging platform, with 310 million monthly active users as of the first quarter of 2016. It is a rapidly growing microblogging platform where people share opinions, news on any topic of their interest. More than 7000 tweets are posted every second. Due to the enormous volume of data being generated, it becomes difficult to extract useful/meaningful information. Tweets collected from Twitter on a certain topic may consist of numerous conversation threads about relevant sub-topics. However, it is difficult to discern these sub-topics if the data is visualised as a single word cloud. The authors transform a corpus of tweets to a spectral domain and evaluate the results from a number of clustering algorithms, including K-means, latent semantic indexing and non-negative matrix factorisation to construct clustered word clouds that helps identify sub-topics under a broader topic.

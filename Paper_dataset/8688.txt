@@ -1,0 +1,7 @@
+DE Infrastructure; Risk; Cloud security
+ID INFORMATION-SYSTEMS SUCCESS
+AB Purpose - This paper aims to discover factors that are truly affecting cloud adoption decisions in organizations. Many reasons have been given for the adoption, or lack thereof, of the cloud.
+   Design/methodology/approach - The paper uses an empirical approach by means of an exploratory survey, using descriptive statistics and t-tests to determine significant differences among various response groups.
+   Findings - The findings reveal that current and prospective cloud users feel that public cloud computing is less secure than on premise systems. These users feel that the public cloud may still be currently too immature for mission-critical system deployments; however, they do expect it to be more secure in the future as the service models become more mature and better technologies become available. None of the cloud adoption risk factors were universally considered to be showstoppers with respect to adoption.
+   Research limitations/implications - The sample size is relatively small compared to the number of cloud participants. Additionally, respondents were concentrated in the high technology industries in Southern California.
+   Originality/value - The paper provides some valuable insight into cloud adoption and concludes that despite hyped security fears, the risks and threats of the cloud are well understood and that with proper planning and implementation, organizations can adopt cloud technologies with no additional risk.

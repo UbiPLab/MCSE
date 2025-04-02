@@ -1,0 +1,8 @@
+DE Edge computing; Smart cities; Cloud computing; Internet of Things;
+   Autonomous automobiles; Accidents; Cloudlet; fog computing; Internet of
+   Things (IoT); micro data centers; mobile cloud computing (MCC);
+   mobile-edge computing; smart cities
+ID OF-THE-ART; EFFICIENT RESOURCE-ALLOCATION; MOBILE-EDGE; WIRELESS
+   NETWORKS; RESEARCH ISSUES; BIG DATA; AUTHENTICATION SCHEME;
+   DATA-MANAGEMENT; LOW-LATENCY; INTERNET
+AB Recent years have disclosed a remarkable proliferation of compute-intensive applications in smart cities. Such applications continuously generate enormous amounts of data which demand strict latency-aware computational processing capabilities. Although edge computing is an appealing technology to compensate for stringent latency-related issues, its deployment engenders new challenges. In this article, we highlight the role of edge computing in realizing the vision of smart cities. First, we analyze the evolution of edge computing paradigms. Subsequently, we critically review the state-of-the-art literature focusing on edge computing applications in smart cities. Later, we categorize and classify the literature by devising a comprehensive and meticulous taxonomy. Furthermore, we identify and discuss key requirements, and enumerate recently reported synergies of edge computing-enabled smart cities. Finally, several indispensable open challenges along with their causes and guidelines are discussed, serving as future research directions.

@@ -1,0 +1,5 @@
+DE 6G mobile communication; Computer architecture; 5G mobile communication;
+   Artificial intelligence; Servers; Cloud computing; Computational
+   modeling
+ID WEB AR
+AB Recently, following the rapid commercial deployment of 5G networks, next-generation mobile communication technology (6G) has been attracting increasing attention from global researchers and engineers. 6G is envisioned as a distributed, decentralized, and intelligent innovative network. However, existing application provisioning is still based on a centralized service architecture, ubiquitous edge computing, and decentralized AI technologies have not been fully exploited. In this article, we analyze the problems faced by existing centralized service provisioning architecture, and propose design principles for a decentralized network and service architecture for a future 6G network. Finally, we discuss several open research problems to inspire readers to address these.

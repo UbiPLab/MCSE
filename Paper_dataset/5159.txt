@@ -1,0 +1,5 @@
+DE Big data; cloud environment; door-to-door transport; freight product
+   model; railway Transportation
+ID SERVICE NETWORK DESIGN; BIG DATA; MULTICOMMODITY; TRANSPORTATION;
+   MODELS; ALGORITHM; BARRIERS; ENABLERS; SYSTEM; PATHS
+AB This paper proposes a product-based framework that exploits cloud computing resources to improve the logistics of transporting door-to-door railway freight products. First, cluster analysis is used to determine the demand points on branch highway service networks and at stations on main railway service networks, enabling the establishment of a transfer service network between the two. Then, we develop a mathematical optimization model for door-to-door railway freight transportation products, in which the service time of arcs in the network is calculated based on railway freight car trajectory data. Finally, we examine the real-world case of the Wuhan-Dalang section of the Beijing-Guangzhou railway trunk line, demonstrating the practical value of big data and cloud computing technology for calculating the relevant parameters, as well as the adaptability of a framework that highlights product considerations.

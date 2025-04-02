@@ -1,0 +1,11 @@
+DE Cloud computing; IT infrastructure; Service model; eGovernment system
+   performance; IT assets; IT infrastructure capability
+ID SUSTAINED COMPETITIVE ADVANTAGE; E-GOVERNMENT; INFORMATION-TECHNOLOGY;
+   FIRM PERFORMANCE; FRAMEWORK; MODELS; PERSPECTIVE; PROJECTS; ASSETS
+AB Purpose Although governments are hugely investing in information technology (IT) infrastructure, eGovernment performance has reported variations in performance. The relationship between IT infrastructure investments and eGovernment performance remains unexplored in academic research. This study aims to explain how investments in IT assets lead to infrastructure capability and eGovernment system performance. The work conceptualizes technical performance of IT infrastructure as a consequent of thoughtful investments in IT assets, which help generate IT infrastructure capability. The findings have important implications for eGovernment theory and practice in developing understanding about eGovernment IT infrastructure and supporting decision-making on the choice of infrastructure components.
+   Design/methodology/approach This study showcases quantitative analysis based on survey method-based research using a questionnaire for testing the hypotheses formulated.
+   Findings The analysis of the work showed that IT infrastructure performance is a significant mediator between investments in IT assets and IT infrastructure capability.
+   Research limitations/implications Owing to constraints of data collection, probability sampling was not followed, which is a prerequisite for statistical generalization.
+   Practical implications The study provides insights for governments on investing in technologies that meet requisite performance standards. IT infrastructure performance is an antecedent of IT infrastructure capability, which directly determines how an eGovernment system performs.
+   Social implications The study shows that delay in implementing new service models such as cloud potentially result in relatively lower performance of the IT infrastructure for the investments made in the given assets.
+   Originality/value This paper builds on the existing literature on IT assets, IT infrastructure performance and IT infrastructure capability and applies it to the eGovernment domain.

@@ -1,0 +1,4 @@
+DE Hardware; Cryptography; Software; Virtual machine monitors; Trust
+   management; Cloud computing
+ID ARCHITECTURAL SUPPORT
+AB Trusted execution environments (TEEs) are a growing part of the security ecosystem. Unfortunately, widely available TEEs are hampered by closed designs and a lack of flexibility. We outline the challenges to TEEs, advocate for extensible and portable open TEEs, and detail current efforts.

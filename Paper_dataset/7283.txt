@@ -1,0 +1,3 @@
+DE Safety risks; cloud computing services; safety protection; information
+   safety
+AB Cloud computing is the product of integration of traditional computer and network technique. It is a new business calculation mode. Cloud computing services include computing power, storage ability, etc. The computing resources presents dynamic and virtualization characteristics. The key to develop the cloud computing services is to protect data safety of the cloud computing services. In this paper, safety risks against cloud computing services were analyzed thoroughly based on main characteristics of cloud computing services. Finally. The best safety protection practice strategy of cloud computing services was proposed.

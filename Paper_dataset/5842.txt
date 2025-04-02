@@ -1,0 +1,4 @@
+DE Cloud computing; Resource allocation; VM migration; VM placement; Server
+   consolidation; Service Level Agreement (SLA)
+ID VM PLACEMENT; SERVER CONSOLIDATION; ALGORITHMS; ENERGY; MANAGEMENT
+AB Cloud computing is a model for providing computing resources as a utility which faces several challenges on management of virtualized resources. Accordingly, virtual machine placement and migration are crucial to achieve multiple and conflicting goals. Regarding the complexity of these tasks and plethora of existing proposals, this work surveys the state-of-the-art in the area. It presents a cloud computing background, a review of several proposals, a discussion of problem formulations, advantages and short-comings of reviewed works. Furthermore, it highlights the challenges for new solutions and provides several open issues, showing the relevancy of the topic in an increasing and demanding market. (C) 2017 Elsevier Inc. All rights reserved.

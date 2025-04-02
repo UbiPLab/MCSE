@@ -1,0 +1,3 @@
+DE Cloud computing; vehicular cloud; datacenter; job assignment; fault
+   tolerance; job completion time
+AB In order to enhance dependability and availability, it is common practice in conventional clouds to assign two servers to each job. In this paper, we investigate the effect of such a redundancy-based job assignment strategy on job completion time in vehicular clouds. We offer a heuristic analysis of the expected job completion time under this strategy. A comprehensive set of simulations confirmed the accuracy of our analytical predictions.

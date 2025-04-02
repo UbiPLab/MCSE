@@ -1,0 +1,3 @@
+DE Cloud computing; PAAS; Elastic sites; Flexible strategies; Message
+   transmission
+AB As a core of the cloud computing, PaaS (Platform as a Service) provides a computing and software service platform to support large-scale cloud services. This paper presents one cloud computing system, PROXZONE and introduces its architecture, service interface, user and service administration. We focus on its working ways of cloud scheduling service, cloud uniform authorization service and cloud message service. PROXZONE has been used in state grid management.

@@ -1,0 +1,4 @@
+DE Cyberspace; Virtual space; Virtual places; Cybercrime; Surveillance
+ID BUSINESS MODELS; SMART CITY; CYBERSPACE; INFORMATION; INTERNET;
+   GEOGRAPHIES; CITIES; KNOWLEDGE; DISTANCE; MOBILE
+AB A sharp distinction between the virtual world and the real world continues but has become less tenable as technology has progressed. This review paper traces some early and recent views on this distinction, and highlights three: cyberscapes, cyberplaces, and code/space. Mobile applications, ubiquitous computing, and cloud data storage serve to blend the real and the virtual in a user-generated cyberspace. Within that space, knowledge production takes place in virtual spaces, as do less benign activities, such as surveillance and cybercrime. Policymakers must react to an increasingly complex environment of spaces in between real and virtual worlds. (C) 2016 Elsevier Ltd. All rights reserved.

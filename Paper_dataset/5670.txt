@@ -1,0 +1,4 @@
+DE Edge computing; Cloud computing; Internet of Things; Ensemble learning;
+   VM recommendation
+ID MOBILE EDGE; RESOURCE; PREDICTION; SMART
+AB Edge-cloud services provide heterogeneous virtual machine types to run various IoT workloads. Choosing the appropriate VM configuration for each workload can effectively improve performance and reduce costs. This article proposes ARVMEC, Adaptive Recommendation of Virtual Machines for IoT in Edge-Cloud Environment, which can always provide users with the best VM recommendation according to their own budget or deadline constraints. ARVMEC uses a tree-based ensemble learning algorithm to make accurate predictions on workload performance for all VM types. It can abstract user purposes in a more flexible and general mode, thus offer reasonable recommendations accordingly. Compared to state-of-art methods, ARVMEC can make better predictions with a 15% improvement in accuracy. (C) 2020 Elsevier Inc. All rights reserved.

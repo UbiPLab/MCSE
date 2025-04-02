@@ -1,0 +1,6 @@
+DE virtualisation; security of data; risk management; cloud computing;
+   stochastic games; resource allocation; virtualisation security risk
+   assessment; enterprise cloud services; stochastic game nets model;
+   resource virtualisation; resource utilisation efficiency; service
+   quality
+AB Resource virtualisation is a prominent characteristic of cloud services, and it determines the resource utilisation efficiency and service quality. However, the virtualisation security issues also have a significant impact on the safety of cloud services. The security of virtualisation in cloud services is so complicated that current security risk assessment methods generally have some limitations when applying in cloud services. In this work, a security risk assessment model has been proposed for cloud services as a solution of this problem using stochastic game nets. Based on graphical tools, the virtualisation security risk scenario of cloud services can be described clearly, and virtualisation security risk factors can be evaluated accurately. The analysis results proved this method had powerful ability to simulate complicated and dynamic security issues in cloud services. Furthermore, our achievements can be used to help the cloud provider or tenant of the cloud service system taking corresponding measures to mitigate the risk.

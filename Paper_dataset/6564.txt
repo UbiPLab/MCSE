@@ -1,0 +1,1 @@
+AB Since its deployment in 2009, Bitcoin has achieved remarkable success and spawned hundreds of other cryptocurrencies. The author traces the evolution of the hardware underlying the system, from early GPU-based homebrew machines to today's datacenters powered by application-specific integrated circuits. These ASIC clouds provide a glimpse into planet-scale computing's future.

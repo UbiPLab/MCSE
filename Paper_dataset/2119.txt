@@ -1,0 +1,3 @@
+DE Fog computing; Cloud computing; Trust; Security
+ID AGGREGATION SCHEME; PRIVACY; INTERNET; SYSTEM
+AB Fog computing uses one or more collaborative end users or near-user edge devices to perform storage, communication, control, configuration, measurement and management functions. It can well solve latency and bandwidth limitation problems encountered by using cloud computing. First, this work discusses and analyzes the architectures of Fog computing, and indicates the related potential security and trust issues. Then, how such issues have been tackled in the existing literature is comprehensively reported. Finally, the open challenges, research trends and future topics of security and trust in Fog computing are discussed. (C) 2018 Published by Elsevier B.V.

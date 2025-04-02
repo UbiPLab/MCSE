@@ -1,0 +1,4 @@
+DE Evaluation; Cloud Computing; attributes; quality; Service Measurement
+   Index; metrics; Service Level Agreement
+ID QOS
+AB The assessment of cloud services and cloud service providers is a complex issue, mainly due to the large and growing number of cloud providers, the level of quality and pricing of the services they provide. Based on the services cloud evaluation, a user will be able to select from the set of cloud providers the one that best meets their requirements. The article analyzes the attributes of the Service Measurement Index (SMI) and performs a classification of attributes in quantitative and qualitative attributes. Next, the attributes assessed in the Service Level Agreement (SLA) are presented according to the cloud type: Software as a Service (SaaS), Infrastructure as a Service IaaS) and platform as a service (PaaS). Finally, the calculation of the main quantitative attributes of cloud services is formalized.

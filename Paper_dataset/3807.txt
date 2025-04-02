@@ -1,0 +1,17 @@
+DE queueing theory; telecommunication power management; energy consumption;
+   array signal processing; radio access networks; telecommunication
+   computing; minimisation; multi-access systems; radio links; wireless
+   channels; radiofrequency interference; approximation theory; concave
+   programming; relaxation theory; convex programming; cloud computing;
+   C-RAN; queue-aware optimal energy minimisation sparse beamforming
+   design; downlink cloud radio access network system; multiremote radio
+   head; central computing cloud; digital front-haul links; total network
+   cost minimisation; joint optimisation problem; transmission energy
+   consumption; system queue length; front-haul cost; queue state
+   information; channel state information; queue length state minimisation;
+   signal-to-interference-and-noise-ratio constraints; SINR constraints;
+   l(0)-norm function approximation; optimisation problem nonconvexity;
+   semidefinite relaxation technology; convex programming problem; concave
+   procedure algorithm; system energy consumption
+ID NETWORK MIMO SYSTEM; BACKHAUL COMPRESSION; DOWNLINK
+AB This paper considers the queue-aware optimal energy minimisation sparse beamforming design (QESB) in a downlink cloud radio access network (C-RAN) system where multi-RRH communicates with multi-user through a central computing cloud via digital front-haul links. The problem is formulated as the joint optimisation problem of the transmission energy consumption, system queue length and front-haul cost with sparse beamforming design. As we know, the beamforming design adaptive to both QSI and CSI is challenging because of the high complexity. Apart from previous works that take queue length as constraints, in this paper we directly minimise the queue length state involved joint optimisation problem with SINR constraints. A smooth function is proposed to approximate the l(0)-norm function which is discrete and non-convex. To overcome the challenge due to the non-convexity of the optimisation problem, the semidefinite relaxation (SDR) technology is utilised to convert the primitive problem into the difference of convex (DC) programming problem, and convex and concave procedure (CCP) algorithm is used to induce the sparsity of the beamforming control. The simulation results show that the scheme proposed by this paper can obtain a good tradeoff between system energy consumption, queue length and front-haul cost with SINR constraints in C-RAN system.

@@ -1,0 +1,5 @@
+DE Vaccines; immunology; immune repertoire; cytometry; bioinformatics; data
+   standards; high performance computing; cloud computing; machine learning
+ID FLOW-CYTOMETRY DATA; MINIMUM INFORMATION; DATA INTEGRATION; ONTOLOGY;
+   SUPPORT; FUTURE
+AB Biomedical research has become a data intensive science in which high throughput experimentation is producing comprehensive data about biological systems at an ever-increasing pace. The Human Vaccines Project is a new public-private partnership, with the goal of accelerating development of improved vaccines and immunotherapies for global infectious diseases and cancers by decoding the human immune system. To achieve its mission, the Project is developing a Bioinformatics Hub as an open-source, multidisciplinary effort with the overarching goal of providing an enabling infrastructure to support the data processing, analysis and knowledge extraction procedures required to translate high throughput, high complexity human immunology research data into biomedical knowledge, to determine the core principles driving specific and durable protective immune responses.

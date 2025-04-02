@@ -1,0 +1,4 @@
+DE Three-dimensional displays; Sensors; Wireless sensor networks; Ray
+   tracing; Complexity theory; Cloud computing; Performance evaluation;
+   Line of sight; coordinate point cloud; indoor localization
+AB This letter presents a novel algorithm for Sensor-to-Device Line of Sight (LoS) detection for point cloud representations of indoor scenarios. Perspective projection with region clipping is utilized to evaluate the relative position of an obstacle coordinate cloud with respect to the direct sensor-device visibility. Performance of the proposed algorithm is verified against the classical ray-voxel intersection algorithm. The letter concludes with a description of the algorithm's applicability and limitations.

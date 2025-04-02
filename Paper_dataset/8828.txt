@@ -1,0 +1,4 @@
+DE Pervasive sensors; cloud computing; augmented reality; video streaming;
+   quality of experience
+ID INDOOR LOCALIZATION
+AB Combining powerful sensors and near ubiquitous distribution, the smartphone has become an irreplaceable part of modern day life. Using its pervasive sensing capabilities, the smart-phone guides us to our destination with precise step-by-step directions, advises us on what to have for lunch, and improves our photography skills through stabilizing our camera. Using the popular augmented reality (AR) smartphone app Pokemon Go as a case study, we explore the world of pervasive sensing. In this paper, we show both the current state of the art that enable applications such as Pokemon Go to thrive, as well as the limitations and opportunities inherent in current pervasive sensing applications.

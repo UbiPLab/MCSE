@@ -1,0 +1,3 @@
+DE Big Data; Cloud Computing; Information Privacy; IoT
+ID BIG DATA
+AB The rapid developments of emerging technologies, including Big Data, Cloud Computing, and Internet of Things, are causing many societies to struggle whilst trying to keep up with, and adopt them. As a consequence, serious concerns and issues are being raised. The threat to personal information privacy is one of these issues. This review paper briefly introduces the aforementioned technologies and explores concepts related to concerns on information privacy and disclosure in the U.A.E. in the context of these technologies. In addition, related research themes that could be interesting to explore are identified, with a focus on the local environment.

@@ -1,0 +1,5 @@
+DE protocols; cloud computing; authorisation; file servers; database
+   management systems; database maintenance; data accessing time; data
+   owner; public key; data access control model; server; data security;
+   cloud computing; time saving protocol
+AB Cloud computing is a very trending technology because of its efficiency, cost effectiveness, pay-per-use, flexibility and scalability. Data security and access control are two significant issues experienced while availing these advantages of cloud computing. Access control can be defined as a procedure by which a user can access data or file or any kind of resources from a server. A new data access control model has been proposed in this paper for efficient data accessing, which can minimise many problems, such as high searching time for providing the public key of the data owner, high data accessing time, maintenance of the database, etc. The proposed scheme is evaluated in terms of both theoretical and experimental results, which show the proficiency of the proposed scheme over the existing schemes in a cloud computing environment.

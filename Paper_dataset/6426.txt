@@ -1,0 +1,5 @@
+DE Cloud computing; Multimedia content security; Cloud storage; Proof of
+   data possession; Proof of retrievability; Proof of ownership; Data
+   deduplication
+ID RETRIEVABILITY
+AB Explosion of multimedia content brings forth the needs of efficient resource utilization using the state of the arts cloud computing technologies such as data deduplication. In the cloud computing environments, achieving both data privacy and integrity is the challenging issue for data outsourcing service. Proof of Storage with Deduplication (POSD) is a promising solution that addresses the issue for the cloud storage systems with deduplication enabled. However, the validity of the current POSD scheme stands on the strong assumption that all clients are honest in terms of generating their keys. We present insecurity of this approach under new attack model that malicious clients exploit dishonestly manipulated keys. We also propose an improved POSD scheme to mitigate our attack.

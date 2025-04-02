@@ -1,0 +1,5 @@
+DE Robotic hand; Spherical five-bar linkage; Spherical mechanism;
+   Metamorphic mechanism; Reconfigurable mechanism; Origami inspired;
+   Kinematics; Workspace; Joint space
+ID MECHANISMS
+AB This work presents a method based on spherical trigonometry for computing all joint angles of the spherical metamorphic palm. The spherical palm is segmented into spherical triangles which are then solved and combined to fully solve the palm configuration. Further, singularity analysis is investigated with the analysis of each spherical triangle the palm is decomposed. Singularity-avoidance-based design criteria are then presented. Finally, point clouds are generated that represent the joint space of the palm as well as the workspace of the hand with the advantage of an articulated palm is shown.

@@ -1,0 +1,4 @@
+DE fog computing; modeling; simulatiom tools; cost
+ID CLOUD; EDGE; MANAGEMENT; INTERNET; SERVICE; THINGS; ARCHITECTURE;
+   MIGRATION; NODE
+AB Fog computing is an emerging and evolving technology, which bridges the cloud with the network edges, allowing computing to work in a decentralized manner. As such, it introduces a number of complex issues to the research community and the industry alike. Both of them have to deal with many open challenges including architecture standardization, resource management and placement, service management, Quality of Service (QoS), communication, participation, to name a few. In this work, we provide a comprehensive literature review along two axes-modeling with an emphasis in the proposed fog computing architectures and simulation which investigates the simulation tools which can be used to develop and evaluate novel fog-related ideas.

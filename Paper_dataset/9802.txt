@@ -1,0 +1,1 @@
+AB There are several infrastructure operators within the Czech Republic NGI (National Grid Initiative) which provide users with access to high-performance computing facilities over a grid and cloud interface. This article focuses on those where the primary author has personal first-hand experience. We cover some operational issues as well as the history of these facilities.

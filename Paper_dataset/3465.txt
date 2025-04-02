@@ -1,0 +1,4 @@
+DE cloud computing; engineering education; Internet of things; smart
+   healthcare; wearable computing
+ID INTERNET; THINGS; CLOUD; STUDENTS; CHALLENGES
+AB Smart healthcare is an emerging concept that relies on the synergy of various engineering concepts and intelligent technical innovations applicable to healthcare. Demand for smart healthcare engineers is anticipated to grow, hence, arising a need to educate profile engineers. The goal of this paper is to introduce an approach to designing a course for smart healthcare engineering education. Through the key topics of the course, students acquired new skills and knowledge from emerging technologies underlying smart healthcare. The proposed approach was evaluated at a graduate course at the Faculty of Organizational Sciences, University of Belgrade. The results indicate that there was a positive impact on the learning process as well as a positive learning experience.

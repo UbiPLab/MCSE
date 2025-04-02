@@ -1,0 +1,2 @@
+DE Scheduling; security; model; cost; cloud computing
+AB Scheduling tasks on a standalone system can be complex but applying it to a cloud environment can be even more complex because of the large amount of resources available. An added complexity in a Cloud environment is that of security. This paper addresses scheduling from a security point of view and presents a Scheduling Security Model and evaluates its effectiveness to meet user's requirements with a number of worked examples with different scenarios.

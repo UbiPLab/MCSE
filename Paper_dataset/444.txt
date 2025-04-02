@@ -1,0 +1,8 @@
+DE Computer architecture; Image edge detection; Internet of Things;
+   Microprocessors; Protocols; Cloud computing; Pollution measurement; 5G;
+   IoT; grant-free access; type-based multiple access; fog-ran;
+   machine-type communications; information-centric access
+ID NONORTHOGONAL MULTIPLE-ACCESS; WIRELESS SENSOR NETWORKS; DECISION
+   FUSION; PERFORMANCE ANALYSIS; FADING CHANNELS; 5G; QUANTIZATION;
+   CHALLENGES; ENERGY
+AB A multi-cell Fog-Radio Access Network (F-RAN) architecture is considered in which Internet of Things (IoT) devices periodically make noisy observations of a Quantity of Interest (QoI) and transmit using grant-free access in the uplink. The devices in each cell are connected to an Edge Node (EN), which may also have a finite-capacity fronthaul link to a central processor. In contrast to conventional information-agnostic protocols, the devices transmit using a Type-Based Multiple Access (TBMA) protocol that is tailored to enable the estimate of the field of correlated QoIs in each cell based on the measurements received from IoT devices. In this paper, this form of information-centric radio access is studied for the first time in a multi-cell F-RAN model with edge or cloud detection. Edge and cloud detection are designed and compared for a multi-cell system. Optimal model-based detectors are introduced and the resulting asymptotic behavior of the probability of error at cloud and edge is derived. Then, for the scenario in which a statistical model is not available, data-driven edge and cloud detectors are discussed and evaluated in numerical results.

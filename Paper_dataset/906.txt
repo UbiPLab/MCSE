@@ -1,0 +1,4 @@
+DE Cloud Computing; Data Center; JAYA Algorithm; Load Balancing; Virtual
+   Machine
+ID OPTIMIZATION
+AB Cloud computing is a jargon in the era of information technology. It acts as a metaphor for the internet. Still, it possesses several challenges related to automated resource provisioning, security, event content dissemination, server consolidation, virtual machine migration. Load balancing is one of the critical challenges in the cloud that are faced by the enterprises. Here the basic objective of load balancing is to minimize response time, data center service request time, and improve the overall performance of the system. In this article, a JAYA algorithm is used for load balancing in a cloud which uses less control parameters and provides a better optimized result. Comparisons are made with other evolutionary approaches to observe the efficiency of the proposed algorithm.

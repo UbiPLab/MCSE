@@ -1,0 +1,4 @@
+DE Cloud computing; Credibility evaluation; Trust evidence; Personal
+   preference
+ID TRUST
+AB Cloud computing has received wide attention from both industry and academia since it was proposed in the last century. However, due to the open environment and centralized organizational structure, it is more difficult to build trust relationships between users and cloud services. In this paper, a model is proposed to evaluate the credibility of cloud services based on multi factors. The trust evidence, the scene and time were classified as service credibility impact factors. A simulation on the Netlogo platform was performed and the results showed that the proposed model can effectively reflect the user's personal preferences, combine various type of evidences, and control the adverse effects caused by the updating events. (C) 2016 Elsevier Ltd. All rights reserved.

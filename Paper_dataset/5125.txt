@@ -1,0 +1,6 @@
+DE H-CRANs; HetNets; energy efficiency; edge computing; cloudified mobile
+   network
+ID RADIO ACCESS NETWORKS; RESOURCE-ALLOCATION; USER ASSOCIATION;
+   INTERFERENCE COORDINATION; CELLULAR NETWORKS; POWER-CONTROL; C-RAN; 5G;
+   OPTIMIZATION; ACTIVATION
+AB Fully cloudified mobile network infrastructure, which is featured by the joint deployment of heterogeneous cloud radio access networks and edge computing, will successfully cope with the data deluge by densely deploying virtualized wireless base stations and servers while providing the system design with high flexibility, reliability, availability, and scalability. On the other hand, the massive replication of the wireless and computing infrastructure will significantly increase the energy footprint to prohibitive levels. In order to gain actionable insights on energy-efficiency for a fully cloudified mobile network infrastructure, this paper first presents a comprehensive survey of the recent research breakthroughs on each building block of the system, namely: remote radio heads, baseband unit pool, fronthaul, backhaul, HetNet, and edge and cloud computing. Next, we consolidate the discussion with the challenges and open issues of a joint operation.

@@ -1,0 +1,6 @@
+DE Cloud computing; Vehicular ad hoc networks; Security; Privacy; Vehicle
+   dynamics; Data dissemination; Safety; Vehicular ad hoc network;
+   vehicular cloud; security; privacy
+ID GROUP KEY AGREEMENT; SECURE; VANET; CHALLENGES; MANAGEMENT; EFFICIENT;
+   NETWORKS; PROTOCOL; SERVICE
+AB Vehicular cloud (VC) extends cloud computing to vehicles participating in vehicular ad hoc networks, aiming to provide computing and storage services at low cost to vehicles, improve traffic efficiency and safety, ensure real-time services, etc. Due to the highly dynamic nature of VC, it is challenging to efficiently form a dynamic VC securely and anonymously or to securely deliver messages to the dynamic VC without potentially violating the privacy of cloud users. In this paper, we present a concrete secure and privacy-preserving communication scheme for VC establishment and data dissemination. Our scheme allows a group of vehicles that are geographically close to each other to form a VC securely, anonymously and dynamically. This allows vehicle resources to be integrated and shared securely. Once a VC is formed, any cloud user may deliver messages to be securely and anonymously processed in the VC.

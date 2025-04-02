@@ -1,0 +1,7 @@
+DE Cloud computing; Data centers; Vehicle dynamics; Quality of service;
+   Computer architecture; Dynamic scheduling; Resource management; Urban
+   computing; vehicular cloud; resource discovery; vehicular network;
+   probabilistic methods
+ID VIRTUAL MACHINE MIGRATION; PERFORMANCE ANALYSIS; LIVE MIGRATION;
+   MANAGEMENT; TIME; VANET
+AB Vehicles are integral elements of urban computing and urban analytics, providing sensed data and thus being closely related to the exchange and gathering of a massive quantity of data in real-time. Vehicular Clouds consist of joining Vehicular Networks with Mobile Cloud Systems, allowing vehicles to share their resources and facilitate the transfer of information. Due to its mobility, the pool of resources in a Vehicular Cloud changes constantly. Thus, these Clouds need to adapt according to the input and output of their resources to meet the requirements of quality of service. Resource management and discovery are crucial elements for enabling and maintaining such Clouds. In this paper, we describe and discuss important issues about identifying and organizing resources in a Vehicular Cloud, as well as the specific techniques involved. Finally, we discuss challenges and issues for potential future works.

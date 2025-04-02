@@ -1,0 +1,4 @@
+DE Cloud computing; virtual machine; resource sharing; latency sensitive;
+   web server; multi-tier application
+ID CLOUD; CONSOLIDATION
+AB Operational and investment costs are reduced by resource sharing in virtual machine (VM) environments, which also results in an overhead for hosted services. VM machine performance is important because of resource contention. If an application takes a long time to execute because of its CPU or network, it is considered to be a failure because if many VMs are running over a single hardware platform, there will be competition for shared resources, e.g., the CPU, network bandwidth, and memory. Therefore, this study focuses on measuring the performance of a web server under a virtual environment and comparing those results with that from a dedicated machine. We found that the difference between the two sets of results is largely negligible. However, in some areas, one approach performed better than the other.

@@ -1,0 +1,7 @@
+DE Mobile marketing; Adoption intention;
+   Technology-organisation-environment (TOE); Small-medium-sized
+   enterprises (SMEs); South Africa
+ID CLOUD COMPUTING ADOPTION; INFORMATION-TECHNOLOGY; USER ACCEPTANCE;
+   E-COMMERCE; CONTINUANCE INTENTION; BEHAVIORAL INTENTION; E-PROCUREMENT;
+   E-BUSINESS; DETERMINANTS; INNOVATION
+AB This paper examines the key drivers of mobile marketing adoption intention by South African SMEs using a multi-perspective framework that combines elements in the technological, organisational and environmental contexts of the enterprises. Data was collected from a random sample of 205 SMEs from Gauteng, South Africa. Structural equation modelling was used to analyse the data. The results identified perceived relative advantage, perceived cost, top management support, employees' IT capability, and customer pressure as important drivers of mobile marketing adoption intention. Of these factors, top management support emerged as the strongest driver of adoption intention. The implications of these findings for mobile marketers and others interested in accelerating the adoption of mobile marketing among SMEs are highlighted. (C) 2016 Elsevier Ltd. All rights reserved.

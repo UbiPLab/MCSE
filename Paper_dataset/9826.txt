@@ -1,0 +1,5 @@
+DE Mobile Cloud Computing; Handover authentication; Security; Efficiency;
+   User anonymity; Untraceability
+ID WIRELESS COMMUNICATIONS; ACCESS NETWORKS; SECURE; WIMAX; PROTOCOL;
+   SCHEME
+AB Various wireless communication technologies have been generated and deployed on account of mass requirements. These enable cloud computing with integration with mobility and Mobile Cloud Computing (MCC) becomes the trend of future generation computing paradigm. In this paper, we address a challenging issue of MCC technology security and privacy of the handover process. We propose a new design of handoff authentication for heterogeneous mobile cloud networks, which provides user anonymity and untraceability. Compared with previous protocols, our proposed mechanism achieves comprehensive features of universality, robust security and efficiency. (C) 2015 Elsevier B.V. All rights reserved.

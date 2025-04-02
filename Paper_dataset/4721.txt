@@ -1,0 +1,6 @@
+DE Smart factory; big data; cloud computing; cyber-physical systems;
+   industrial Internet of Things
+ID SERVICE-ORIENTED ARCHITECTURE; CYBER-PHYSICAL SYSTEMS; RECONFIGURATION;
+   COMMUNICATION; OPTIMIZATION; AUTOMATION; MANAGEMENT; ALGORITHM;
+   INTERNET; DESIGN
+AB Due to the current structure of digital factory, it is necessary to build the smart factory to upgrade the manufacturing industry. Smart factory adopts the combination of physical technology and cyber technology and deeply integrates previously independent discrete systems making the involved technologies more complex and precise than they are now. In this paper, a hierarchical architecture of the smart factory was proposed first, and then the key technologies were analyzed from the aspects of the physical resource layer, the network layer, and the data application layer. In addition, we discussed the major issues and potential solutions to key emerging technologies, such as Internet of Things (IoT), big data, and cloud computing, which are embedded in the manufacturing process. Finally, a candy packing line was used to verify the key technologies of smart factory, which showed that the overall equipment effectiveness of the equipment is significantly improved.

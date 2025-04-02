@@ -1,0 +1,3 @@
+DE artificial intelligence; data mining; cloud computing; information
+   security; mathematical models and methods
+AB An overview of data-mining technologies used in applied information security systems is presented. The focus is made on a new and actively developing trend, cloud-computing media (including the so-called fog computing). The status and promising opportunities of using artificial intelligence models and methods to solve information security problems are also discussed.

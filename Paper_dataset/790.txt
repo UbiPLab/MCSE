@@ -1,0 +1,7 @@
+DE feature extraction; optical radar; optimisation; optical information
+   processing; traffic engineering computing; mobile robots; automobiles;
+   accelerated LiDAR data processing algorithm; self-driving cars;
+   heterogeneous computing platform; optimisation; NVIDIA Tegra X2
+   computing platform; feature extraction; obstacle clustering
+ID CLASSIFIER FUSION; PARALLEL
+AB In recent years, light detection and ranging (LiDAR) has been widely used in the field of self-driving cars, and the LiDAR data processing algorithm is the core algorithm used for environment perception in self-driving cars. At the same time, the real-time performance of the LiDAR data processing algorithm is highly demanding in self-driving cars. The LiDAR point cloud is characterised by its high density and uneven distribution, which poses a severe challenge in the implementation and optimisation of data processing algorithms. In view of the distribution characteristics of LiDAR data and the characteristics of the data processing algorithm, this study completes the implementation and optimisation of the LiDAR data processing algorithm on an NVIDIA Tegra X2 computing platform and greatly improves the real-time performance of LiDAR data processing algorithms. The experimental results show that compared with an Intel (R) Core (TM) i7 industrial personal computer, the optimised algorithm improves feature extraction by nearly 4.5 times, obstacle clustering by nearly 3.5 times, and the performance of the whole algorithm by 2.3 times.

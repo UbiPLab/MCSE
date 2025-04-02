@@ -1,0 +1,4 @@
+DE encrypted control; homomorphic encryption; multiparty computation;
+   polynomial control; quantization; secret sharing
+ID CONTROL-SYSTEMS; SECURE; DESIGN
+AB Encrypted control enables confidential controller evaluations in cloud-based or networked control systems. Roughly speaking, an encrypted controller is a modified control algorithms that is capable of computing encrypted control actions based on encrypted system states. Encrypted control has been realized using different tools from cryptography such as homomorphic encryption, secret sharing, and multiparty computation. However, the vast majority of existing encrypted controllers is linear or makes intensive use of encrypted linear operations. In this article, we present a novel and flexible method for the encrypted implementation of arbitrary polynomial controllers. Technically, our approach builds on tailored two-party computation combined with secret sharing and additively homomorphic encryption.

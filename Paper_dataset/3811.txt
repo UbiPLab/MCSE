@@ -1,0 +1,4 @@
+DE Cloud Computing; Security patterns; Composition; Model Driven
+   Engineering
+ID ISSUES; CHALLENGES
+AB Cloud-based architectures, services and resources are growing up in complexity day by day. Composition and Orchestration deal with the problem of creating complex services promoting reuse and optimal allocation of resources but many security issues arise complicating the work of designers. Even if any composing elements in a composition meets security requirements, the composite service may not. In order to reduce design and developing complexity, Big Vendors and scientific literature promote Composition by Patterns. In this work we present a Model Driven Engineering methodology that addresses validation and verification of security requirements by using formal methods and model transformation algorithms. We show how our model driven approach enables the specification of requirements at design phase and how it allows for verification of security requirements.

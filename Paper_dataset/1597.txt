@@ -1,0 +1,13 @@
+DE Energy efficiency; sustainability; cloud datacenters; quality of
+   service; green computing; holistic management; sustainable cloud
+   computing; application design; energy management; renewable energy;
+   thermal-aware scheduling; virtualization; sustainable cloud datacenters;
+   capacity planning; sustainable metrics; cooling management; waste heat
+   utilization; Documentation; Cloud Computing; Methodical Analysis;
+   Conceptual Model; Focus of Study; Research Challenges; Theory; Reference
+   Architecture; Trade-off; Future Directions; Management; Systematic
+   Review; Survey
+ID AWARE RESOURCE-MANAGEMENT; WASTE HEAT-RECOVERY; ENERGY EFFICIENCY; DATA
+   CENTERS; RENEWABLE ENERGY; VIRTUAL MACHINES; BIG DATA; SYSTEM; CAPACITY;
+   GREEN
+AB The cloud-computing paradigm offers on-demand services over the Internet and supports a wide variety of applications. With the recent growth of Internet of Things (IoT)-based applications, the use of cloud services is increasing exponentially. The next generation of cloud computing must be energy efficient and sustainable to fulfill end-user requirements, which are changing dynamically. Presently, cloud providers are facing challenges to ensure the energy efficiency and sustainability of their services. The use of a large number of cloud datacenters increases cost as well as carbon footprints, which further affects the sustainability of cloud services. In this article, we propose a comprehensive taxonomy of sustainable cloud computing. The taxonomy is used to investigate the existing techniques for sustainability that need careful attention and investigation as proposed by several academic and industry groups. The current research on sustainable cloud computing is organized into several categories: application design, sustainability metrics, capacity planning, energy management, virtualization, thermal-aware scheduling, cooling management, renewable energy, and waste heat utilization. The existing techniques have been compared and categorized based on common characteristics and properties. A conceptual model for sustainable cloud computing has been presented along with a discussion on future research directions.

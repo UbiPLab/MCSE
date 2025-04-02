@@ -1,0 +1,6 @@
+DE scalar clouds; effective height; stationary resonance; confluent
+   hypergeometric function; Laguerre polynomials; linear dilaton; dark
+   matter
+ID NO-HAIR THEOREM; BARYON NUMBER; PERTURBATIONS; NONMEASURABILITY;
+   THERMODYNAMICS; NONEXISTENCE; STABILITY; EQUATIONS; ENTROPY; SPACE
+AB We investigate the wave dynamics of a charged massive scalar field propagating in a maximally rotating (extremal) linear dilaton black hole geometry. We prove the existence of a discrete and infinite family of resonances describing non-decaying stationary scalar configurations (clouds) enclosing these rapidly rotating black holes. The results obtained signal the potential stationary scalar field distributions (dark matter) around the extremal linear dilaton black holes. In particular, we analytically compute the effective heights of those clouds above the center of the black hole.

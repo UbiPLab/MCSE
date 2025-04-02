@@ -1,0 +1,5 @@
+DE Smart healthcare; user satisfaction detection; emotion detection; cloud
+   computing
+ID SPEECH SIGNAL; RECOGNITION; FRAMEWORK; EMOTION; OPTIMIZATION;
+   ENVIRONMENT; CITIES
+AB The use of multimodal inputs in a smart healthcare framework is promising due to the increase in accuracy of the systems involved in the framework. In this paper, we propose a user satisfaction detection system using two multimedia contents, namely, speech and image. The three classes of satisfaction are satisfied, not satisfied, and indifferent. In the proposed system, speech and facial image of the user are captured, transmitted to a cloud, and then analyzed. A decision on the satisfaction is then delivered to the appropriate stakeholders. Several features from these two inputs are extracted from the cloud. For speech, directional derivatives of a spectrogram are used as features, whereas for image, a local binary pattern of the image is used to extract features. These features are combined and input to a support vector machine-based classifier. It is shown that the proposed system achieves up to 93% accuracy in detecting satisfaction.

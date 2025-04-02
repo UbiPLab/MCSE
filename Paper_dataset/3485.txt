@@ -1,0 +1,4 @@
+DE SpatialHadoop; spatial data processing; cloud computing; PR-Tree;
+   geospatial data
+ID EFFICIENT; MAPREDUCE; CURVE
+AB Among spatial information applications, SpatialHadoop is one of the most important systems for researchers. Broad analyses prove that SpatialHadoop outperforms the traditional Hadoop in managing distinctive spatial information operations. This paper presents a Two Dimensional Priority R-Tree (2DPR-Tree) as a new partitioning technique in SpatialHadoop. The 2DPR-Tree employs a top-down approach that effectively reduces the number of partitions accessed to answer the query, which in turn improves the query performance. The results were evaluated in different scenarios using synthetic and real datasets. This paper aims to study the quality of the generated index and the spatial query performance. Compared to other state-of-the-art methods, the proposed 2DPR-Tree improves the quality of the generated index and the query execution time.

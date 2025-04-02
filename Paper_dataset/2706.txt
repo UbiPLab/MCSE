@@ -1,0 +1,5 @@
+DE Valence quark distributions; Modified chiral quark model; Gluon dressing
+   effect; Light mesons
+ID NJL MODEL; PSEUDOSCALAR MESONS; CONSTITUENT QUARK; TUNGSTEN; NUCLEON;
+   REGION
+AB We investigate the structure of pion and kaon based on the modified chiral quark model (chi QM). To this end, we calculate the valence quark distribution functions of pion and kaon using the modified chi QM in which the bare quarks inside these mesons are dressed by the clouds of Goldstone (GS) bosons and gluons. In order to compute the valence distributions of the light mesons using the modified chi QM, the bare quark distribution functions of these mesons are needed. We apply the bare distributions which have been obtained via a phenomenological approach. We compare the results of our theoretical model for the valence distributions of the light mesons with those of some parametrization models and also the available experimental data. (C) 2018 Elsevier B.V. All rights reserved.

@@ -1,0 +1,6 @@
+DE Adoption readiness; Cloud computing; Empirical assessment; Managerial
+   decision-making; Metrics suite; Technology adoption
+ID RATIONAL-EXPECTATIONS; ABSORPTIVE-CAPACITY; TECHNOLOGY ADOPTION;
+   FRAMEWORK; DETERMINANTS; CAPABILITIES; PERFORMANCE; INNOVATION; SUCCESS;
+   ASSETS
+AB Recent research on cloud computing adoption suggests the lack of a deep understanding of its benefits by managers and organizations. We present a firm-level cloud computing readiness metrics suite and assess its applicability for various cloud computing service types. We propose four relevant categories for firm-level adoption readiness, including technology and performance, organization and strategy, economic and valuation, and regulatory and environmental dimensions. We further define sub-categories and measures for each. Our evidence of the appropriateness of the metrics suite is derived based on a series of empirical cases developed from our project work, which encompasses input from field interviews, business press sources, industry white papers, non-governmental organizations, and government agency sources. We also assess how the application of the metrics suite supports organizational users of cloud computing.

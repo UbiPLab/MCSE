@@ -1,0 +1,4 @@
+DE bandwidth allocation; fairness; link utilization; TCP; data center; data
+   center networks
+ID TCP PROTECTION
+AB Cloud computing, which enables users to enjoy various Internet services provided by data centers (DCs) at anytime and anywhere, has attracted much attention. In cloud computing, however, service quality degrades with user distance from the DC, which is unfair. In this study, we propose a bandwidth allocation scheme based on collectable information to improve fairness and link utilization in DC networks. We have confirmed the effectiveness of this approach through simulation evaluations.

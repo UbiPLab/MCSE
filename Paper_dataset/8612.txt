@@ -1,0 +1,5 @@
+DE behavioural intention; cloud computing; technology acceptance; trust;
+   UTAUT
+ID MOBILE BANKING; ADOPTION; SECURITY; TECHNOLOGY; INTENTION; SERVICES;
+   RISK
+AB In this paper, we propose an extended Unified Theory of Acceptance and Use of Technology (UTAUT) model with trust to investigate the effect of trust on users' behavioural intention to use cloud computing. Structural Equation Modelling (SEM) was used to analyse the collected data and to assess the proposed model. The results indicated that trust, performance expectancy and facilitating conditions have significant effects on behavioural intention to use cloud computing. However, we also found that effort expectancy and social influence do not significantly affect users' behavioural intention to use cloud computing. In addition, the five constructs (effort expectancy, performance expectancy, social influence, facilitating conditions and trust) accounted for 70% of the variance in the attitude toward adopting cloud computing. The paper concludes with the limitations of the study, implications for academic research and practical institutions and some directions for future work..

@@ -1,0 +1,8 @@
+DE stratocumulus; turbulence; large-eddy simulation; liquid water path;
+   cloud pockets; joint probability density function; turbulence spectra;
+   cloud liquid spectra
+ID LARGE-EDDY SIMULATIONS; BOUNDARY-LAYER CLOUDS; RADIATIVELY DRIVEN
+   CONVECTION; JOINT PROBABILITY DENSITY; LIQUID WATER-CONTENT; MARINE
+   STRATOCUMULUS; INCOMPRESSIBLE-FLOW; CUMULUS CONVECTION; ENTRAINMENT;
+   MODEL
+AB The growth of computing power combined with advances in modeling methods can yield high- fidelity simulations establishing numerical simulation as a key tool for discovery in the atmospheric sciences. A fine- scale large- eddy simulation (LES) utilizing 1.25 m grid resolution and 5.12 5.12 km2 horizontal domain is used to investigate the turbulence and liquid water structure instratocumulus cloud. The simulations capture the observed cloud morphology, including elongated regions of low liquid water path, cloud holes, and pockets of clear air within the cloud. The cloud can be partitioned into two broad layers with respect to the maximum mean liquid. The lower layer resembles convective turbulent structure with classical inertial range scaling of the velocity and scalar energy spectra. The top and shallower layer is directly influenced by the cloud top radiative cooling and the entrainment process. Near the cloud top, the liquid water spectra become shallower and transition tok 1 power law for scales smaller than about 1 km.

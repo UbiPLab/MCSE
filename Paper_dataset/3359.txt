@@ -1,0 +1,6 @@
+DE stars: abundances; stars: atmospheres; stars: evolution; stars:
+   horizontal-branch
+ID LARGE-MAGELLANIC-CLOUD; G-DWARF STARS; MAGNITUDE DIAGRAM DATABASE;
+   NEARBY GLOBULAR-CLUSTERS; GALACTIC THICK DISK; LARGE HOMOGENEOUS V;
+   LINE-DEPTH RATIOS; LATE-G GIANTS; STELLAR PARAMETERS; COLOR-MAGNITUDE
+AB A metallicity, chemical composition, and kinematic survey has been conducted for a sample of 340 candidate field red horizontal-branch (RHB) stars. Spectra with high resolution and high signal-to-noise ratio were gathered with the McDonald Observatory 2.7m Tull and the Hobby-Eberly Telescope echelle spectrographs, and were used to determine effective temperatures, surface gravities, microturbulent velocities, [Fe/H] metallicities, and abundance ratios [X/Fe] for seven a and Fe-group species. The derived temperatures and gravities confirm that at least half of the candidates are true RHB stars, with (average) parameters T-eff similar to 5000K and log g similar to 2.5. From the a abundances alone, the thin and thick Galactic populations are apparent in our sample. Space motions for 90% of the program stars were computed from Hipparcos and Gaia parallaxes and proper motions. Correlations between chemical compositions and Galactic kinematics clearly indicate the existence of both thin-disk and thick-disk RHB stars.

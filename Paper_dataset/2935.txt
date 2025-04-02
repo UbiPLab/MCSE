@@ -1,0 +1,4 @@
+DE astrochemistry; molecular data; molecular processes; scattering; ISM:
+   molecules
+ID EXCITATION; CLOUDS
+AB Astronomers use the CS molecule as a gas mass tracer in dense regions of the interstellar medium, to measure either the gas density through multiline observations or the level of turbulence. This necessarily requires the knowledge of the rates coefficients with the most common colliders in the interstellar medium, He and H-2. In this work, the close coupling collisional rates are computed for the first 30 rotational states of CS in collision with paraand ortho-H-2 using a recent rigid rotor potential energy surface. Some radiative transfer calculations, using typical astrophysical conditions, are also performed to test this new set of data and to compare with the existing ones.

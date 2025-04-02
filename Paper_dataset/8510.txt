@@ -1,0 +1,3 @@
+DE Collaboration; Software engineering; Virtual reality; Big Data; Computer
+   architecture; Education; Cloud computing
+AB The Virtual Data Collaboratory is a federated data cyberinfrastructure designed to drive data-intensive, interdisciplinary, and collaborative research that will impact researchers, educators, and entrepreneurs across a broad range of disciplines and domains as well as institutional and geographic boundaries.

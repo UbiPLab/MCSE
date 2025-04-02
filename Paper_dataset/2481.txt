@@ -1,0 +1,8 @@
+DE Parallel optimisation; Mixed surrogate models; Car aerodynamics; High
+   performance computing; Cloud computing; Corners of the optimisation
+   domain
+ID GLOBAL OPTIMIZATION; METAMODELING TECHNIQUES; DESIGN; PERFORMANCE;
+   SCHEME
+AB This paper proposes a new optimisation method, the Parallel Asynchronous Surrogate Model (PASM) method, which is based on the surrogate models approximation and takes advantage of the asynchronous, parallel processing threads. Additionally, it introduces the Cornering technique (PASM+C), which by using values from the corners of the design space provides a rapid drop of the value of the objective function and a significant reduction of the processing time.
+   An overview and characteristics of the main reference optimisation methods, like Particle Swarm Optimisation PSO and Genetic Algorithm (GA), is presented, together with the results of the computer experiments involving optimisation of the generic car body shape. Significant attention is devoted to the time and computational effort needed for drag minimization by using different optimisation schemes.
+   Finally, the benefits and limitations of the proposed methods are discussed together with their potential impact on the optimisation process workflow. (C) 2018 Elsevier B.V. All rights reserved.

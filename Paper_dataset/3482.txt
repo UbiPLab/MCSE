@@ -1,0 +1,2 @@
+ID CHALLENGES
+AB This article discusses research challenges related to devising a new IoT programming paradigm for orchestrating IoT applications' composition and data processing across heterogeneous computing infrastructure (Cloud, Edge, and Things).

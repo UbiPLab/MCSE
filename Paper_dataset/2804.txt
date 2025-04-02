@@ -1,0 +1,3 @@
+DE Cloud computing; Information security; Cloud security; Data protection;
+   GDPR; Cloud contracts; Cloud governance; Standards
+AB Enterprise (large organisation) computing workloads are moving from 'on-prem' to 'incloud' increasingly quickly, and the cloud is forecast to account for almost half of enterprise IT by 2026, up from 10% today. But the benefits of the enterprise cloud need to be weighed against increasingly burdensome duties around cloud and data security. This comment piece provides a checklist of the sources of enterprise Cloud security duties and a Information security checklist of best practices to manage them. (C) 2018 Richard Kemp. Published by Elsevier Ltd. All rights reserved.

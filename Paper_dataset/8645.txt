@@ -1,0 +1,5 @@
+DE Complex networks; cloud computing alliance; security systems; offensive
+   and defensive game; architecture self-onganizations; game theory
+AB Background: Credibility problems in the cloud service are very important issues in cloud computing alliance.
+   Methods: By using the small world model in complex networks, a relationship model of cloud computing alliance can be established; defense game model is established under the cloud alliance by game theory; by combining the self-organization of small world model with self-constraint binding of game model, offensive and defensive game model of incomplete information is realized. Through the simulation experiments, they verify trusted resource management functions in the cloud computing alliance.
+   Results: Moreover, by using unsupervised and supervised management conditions, access requesting nodes for cloud service and comparative analysis of respondents in the cloud service get a better resource management effect.

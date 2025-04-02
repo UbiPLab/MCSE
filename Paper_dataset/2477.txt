@@ -1,0 +1,4 @@
+DE astrochemistry; hydrodynamics; ISM: molecules; methods: numerical;
+   molecular processes; shock waves
+ID MOLECULAR CLOUDS; REDUCTION; GAS
+AB KIMYA is a new code for solving the system of differential equations describing the temporal behavior of a chemical network. This paper presents a simple and easy to implement numerical method and tests of its accuracy. KIMYA was designed for incorporating a chemical network into multi-dimensional gasdynamical simulations. In order to test our code we compute three numerical simulations: a model of the chemical evolution of a dark cloud (which we compare with previous calculations), and a model of nitric oxide formation during a lightning discharge simulated with a laser pulse. The latter is done with both a single parcel calculation, as well as a fully hydrodynamical/chemical model, which we compare with results from a laboratory experiment.

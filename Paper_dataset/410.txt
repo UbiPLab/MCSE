@@ -1,0 +1,6 @@
+DE Internet of things (IoT); lightweight authentication; user anonymity;
+   cloud computing
+ID REMOTE USER AUTHENTICATION; KEY AGREEMENT SCHEME; ANONYMOUS
+   AUTHENTICATION; PASSWORD AUTHENTICATION; MUTUAL AUTHENTICATION;
+   INTERNET; PROTOCOL; THINGS; LIGHTWEIGHT; EFFICIENT
+AB The Internet of Things (IoT) is currently the most popular field in communication and information techniques. However, designing a secure and reliable authentication scheme for IoT-based architectures is still a challenge. In 2019, Zhou et al. showed that schemes pro-posed by Amin et al. and Maitra et al. are vulnerable to off-line guessing attacks, user tracking attacks, etc. On this basis, a lightweight authentication scheme based on IoT is proposed, and an authentication scheme based on IoT is proposed, which can resist various types of attacks and realize key security features such as user audit, mutual authentication, and session security. However, we found weaknesses in the scheme upon evaluation. Hence, we proposed an enhanced scheme based on their mechanism, thus achieving the security requirements and resisting well-known attacks.

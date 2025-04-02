@@ -1,0 +1,4 @@
+DE Cloud computing framework; cloud computing; system load detection;
+   search
+ID SCIENCE
+AB To improve the performance of a marine information service platform architecture and reduce the constraints of single-discriminant parameters in the unit process, an architecture method of a marine information service platform based on a cloud computing framework is proposed. The method has a higher load-detection rate and a lower load-error-detection rate.

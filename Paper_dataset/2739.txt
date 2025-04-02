@@ -1,0 +1,4 @@
+DE Artificial fish-swam algorithm; Loud computing; Virtual machine;
+   Distributed management; Global management
+ID MECHANISM; ALLOCATION
+AB Recently, there are some problems in the centralized management, such as centralized management, heavy burden, excessive number of virtual machine migration, lack of mutual cooperation mechanism between nodes, can't adapt to the cluster of change. The existing distributed management methods exist between the nodes have less cooperation mechanism and only simple communication, quality of service is no obvious improvement, system can save energy consumption is not obvious. According to the behavior characteristics of the fish, this paper presents an artificial fish to achieve mutual cooperation of nodes in the distributed management method.

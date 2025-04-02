@@ -1,0 +1,5 @@
+DE big data; cyber-physical system; industrial information integration;
+   industrial integration; intelligent manufacturing
+ID SYSTEMS SCIENCE; INFORMATION; NANOTECHNOLOGIES; INVENTIONS; BLOCKCHAIN;
+   ANALYTICS; INTERNET
+AB From the perspective of intelligent manufacturing, combined with cyber-physical system, big data, Internet of things, cloud computing, industrial transformation and value chain concepts, this paper studies digital manufacturing, also called intelligent manufacturing. Intelligent manufacturing is explored from the perspective of the supply chain and industry chain. In this paper, other topics in the integrated big data-driven intelligent manufacturing is also discussed.

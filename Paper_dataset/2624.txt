@@ -1,0 +1,5 @@
+DE big data; information systems; operations management; healthcare
+ID SUPPLIER SELECTION; PRODUCT DESIGN; SOCIAL-MEDIA; SMART HEALTH;
+   SCHEDULING ADVERTISEMENTS; DATA SCIENCE; ANALYTICS; CLOUD; STRATEGIES;
+   FRAMEWORK
+AB In this day, in the age of big data, consumers leave an easily traceable digital footprint whenever they visit a website online. Firms are interested in capturing the digital footprints of their consumers to understand and predict consumer behavior. This study deals with how big data analytics has been used in the domains of information systems, operations management, and healthcare . We also discuss the future potential of big data applications in these domains (especially in the areas of cloud computing, Internet of Things and smart city, predictive manufacturing and 3-D printing, and smart healthcare) and the associated challenges. In this study, we present a framework for applications of big data in these domains with the goal of providing some interesting directions for future research.

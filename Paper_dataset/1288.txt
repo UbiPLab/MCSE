@@ -1,0 +1,8 @@
+DE Parallel computing; Cloud computing; Electric power systems; Periodic
+   steady state; Shooting methods
+ID PERIODIC STEADY-STATE; ELECTRIC SYSTEMS; POINCARE MAP; COMPUTATION;
+   TIME; EXTRAPOLATION
+AB Purpose The purpose of this study is to present the performance evaluation of three shooting methods typically applied to obtain the periodic steady state of electric power systems, with the aim to check the benefits of the use of cloud computing regarding relative efficiency and computation time.
+   Design/methodology/approach The mathematical formulation of the methods is presented, and their parallelization potential is explained. Two case studies are addressed, and the solution is computed with the shooting methods using multiple computer cores through cloud computing.
+   Findings The results obtained show a reduction in the computation time and increase in the relative efficiency by the application of these methods with parallel cloud computing, in the problem of obtainment of the periodic steady state of electric power systems in an efficient way. Additionally, the characteristics of the methods, when parallel cloud computing is used, are shown and comparisons among them are presented.
+   Originality/value The main advantage of employment of parallel cloud computing is a significant reduction of the computation time in the solution of the problem of a heavy computational load caused by the application of the shooting methods.

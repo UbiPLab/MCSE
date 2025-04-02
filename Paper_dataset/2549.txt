@@ -1,0 +1,7 @@
+DE smart distribution systems; cloud computing; smart grid; smart grid
+   applications; distribution systems; monitoring and control; data
+   analytics; simulation; analysis and optimization tools; distribution
+   system analysis and control
+ID BIG DATA; INFORMATION-MANAGEMENT; GRID APPLICATIONS; CHALLENGES;
+   FRAMEWORK; OPTIMIZATION; MODEL; ARCHITECTURES; OPERATION; PLATFORM
+AB The distribution systems, considering the Smart Grid concept, shall undergo a profound transformation in the next years to enable a more robust, reliable, sustainable, efficient, and economical system. This modernization can only be achieved with the pervasive use of Information and Communications Technologies in order to integrate and manage this whole system. In this way, cloud computing has been envisioned as a technology capable of making possible this integration, providing distributed data storage and parallel processing. In this paper, the potential applications of cloud computing in smart distribution systems are highlighted, presenting an overview of the main related researches in the topic. It is also described the main technologies and innovations that will support the smart distribution systems, as well as the foundations of cloud computing.

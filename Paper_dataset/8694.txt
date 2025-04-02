@@ -1,0 +1,8 @@
+DE Quantitative; Research agenda; Delphi method; Outsourcing; Practitioners
+   viewpoint
+ID INFORMATION-SYSTEMS RESEARCH; KEY ISSUES; DELPHI; MANAGEMENT
+AB Purpose - The purpose of this study is to derive a prioritized list of the present and future topics that sourcing managers in large companies are mostly concerned with using a rigorous methodological approach.
+   Design/methodology/approach - The Delphi method was chosen to derive the list. An initial list of topics was compiled based on a literature review combined with the results of an expert panel. This input was prioritized and extended by sourcing managers over three iterations.
+   Findings - The findings indicate that outsourcing remains a hot topic, even after almost 25 years of academic research. The authors identified four clusters where outsourcing scholars who are interested to provide insights and guidance for practitioners should focus their attention: managerial decisions (selection of the right partner and ability of the company to outsource parts of their business), managing the service provider (governance issues and relationship management and alignment), managerial responsibilities (integrated risk management and adherence to regulation and compliance) and increased flexibility (cloud computing and multi-vendor arrangements).
+   Research limitations/implications - The findings are only directly transferrable to large companies using experienced sourcing managers in Germany.
+   Originality/value - The findings may serve as input in formulating a research agenda which helps to align scholars' focus and practitioners' problems.

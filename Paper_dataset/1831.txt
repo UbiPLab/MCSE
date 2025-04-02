@@ -1,0 +1,4 @@
+DE Cloud computing; Data processing framework; Execution semantics; Fault
+   tolerance; Performance optimization
+ID MAPREDUCE
+AB Data processing framework is at the core of cloud computing. Firstly, to further specify the execution flow of data processing framework in cloud environments, this paper proposes SDAC (semantic distributed abstract configuration), a formal model introduced from the view of model definition and execution semantics. Then, to demonstrate the reasonability, the paper compares the proposed approach with the Aeolus model since they both concern configurations in cloud environments. And to evaluate the model, a MapReduce case and some applications of SDAC (i.e. the interpretation of fault tolerance and performance optimization) are presented. Finally, the future work about using SDAC to analyse other mechanisms in cloud are discussed. (C) 2018 Elsevier Ltd. All rights reserved.

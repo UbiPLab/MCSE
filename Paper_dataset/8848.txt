@@ -1,0 +1,6 @@
+DE DNS; a priori filtering; homogeneous isotropic turbulence; inertial
+   particles; cloud droplets; gravity effects
+ID INTER-PHASE INTERACTION; CHANNEL FLOW LADEN; ISOTROPIC TURBULENCE;
+   SETTLING VELOCITY; HEAVY-PARTICLES; PARALLEL IMPLEMENTATION; SCALABILITY
+   ANALYSIS; SIMULATIONS; DISPERSION; COLLISION
+AB Two-phase turbulent flows with the dispersed phase in the form of small, spherical particles are increasingly often computed with the large-eddy simulation (LES) of the carrier fluid phase, coupled to the Lagrangian tracking of particles. To enable further model development for LES with inertial particles subject to gravity, we consider direct numerical simulations of homogeneous isotropic turbulence with a large-scale forcing. Simulation results, both without filtering and in the a priori LES setting, are reported and discussed. A full (i.e. a posteriori) LES is also performed with the spectral eddy viscosity. Effects of gravity on the dispersed phase include changes in the average settling velocity due to preferential sweeping, impact on the radial distribution function and radial relative velocity, as well as direction-dependent modification of the particle velocity variance. The filtering of the fluid velocity, performed in spectral space, is shown to have a non-trivial impact on these quantities.

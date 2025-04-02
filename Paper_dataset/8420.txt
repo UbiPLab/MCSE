@@ -1,0 +1,4 @@
+DE Internet of Things; Business management; Computational social science
+   (CSS); Data analytics
+ID TECHNOLOGIES
+AB The Internet of Things (IoT) has become increasingly influential, particularly because of the significant new developments in the technologies of big data, cloud computing, 5G, and artificial intelligence. In this paper, we briefly explain how these new developments in the IoT may create a new electronic commerce landscape and opportunities associated with it; these developments pose interesting questions for future research.

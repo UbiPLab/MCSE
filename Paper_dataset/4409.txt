@@ -1,0 +1,4 @@
+DE virtual machine migration; cloud computing; layered theory; load
+   balancing
+ID VM CONSOLIDATION; ENERGY
+AB Due to the increasing sizes of cloud data centers, the number of virtual machines (VMs) and applications rises quickly. The rapid growth of large scale Internet services results in unbalanced load of network resource. The bandwidth utilization rate of some physical hosts is too high, and this causes network congestion. This paper presents a layered VM migration algorithm (LVMM). At first, the algorithm will divide the cloud data center into several regions according to the bandwidth utilization rate of the hosts. Then we balance the load of network resource of each region by VM migrations, and ultimately achieve the load balance of network resource in the cloud data center. Through simulation experiments in different environments, it is proved that the LVMMalgorithm can effectively balance the load of network resource in cloud computing.

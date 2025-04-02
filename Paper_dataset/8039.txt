@@ -1,0 +1,4 @@
+DE Fog; fog computing; fog networking; security; privacy; IoT; privacy
+   threats; security threats
+ID INTRUSION DETECTION; INTERNET; SCHEME; THINGS
+AB Fog computing paradigm extends the storage, networking, and computing facilities of the cloud computing toward the edge of the networks while offloading the cloud data centers and reducing service latency to the end users. However, the characteristics of fog computing arise new security and privacy challenges. The existing security and privacy measurements for cloud computing cannot be directly applied to the fog computing due to its features, such as mobility, heterogeneity, and large-scale geo-distribution. This paper provides an overview of existing security and privacy concerns, particularly for the fog computing. Afterward, this survey highlights ongoing research effort, open challenges, and research trends in privacy and security issues for fog computing.

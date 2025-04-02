@@ -1,0 +1,6 @@
+DE Atmospheric turbulence; Gamma gamma fading; Cloud computing-based radio
+   access networks (CC-RANs); Multiuser mixed RF/FSO relay networks;
+   Pointing error; Rayleigh fading
+ID 5G SMALL-CELLS; ERGODIC CAPACITY; RESOURCE-ALLOCATION; BACKHAUL;
+   SYSTEMS; FRONTHAUL; DESIGN
+AB The key paths toward the fifth generation (5G) network requirements are towards centralized processing and small-cell densification systems that are implemented on the cloud computing-based radio access networks (CC-RANs). The increasing recognitions of the CC-RANs can be attributed to their valuable features regarding system performance optimization and cost-effectiveness. Nevertheless, realization of the stringent requirements of the fronthaul that connects the network elements is highly demanding. In this paper, considering the small-cell network architectures, we present multiuser mixed radio-frequency/free-space optical (RF/FSO) relay networks. as feasible technologies for the alleviation of the stringent requirements in the CC-RANs. In this study, we use the end-to-end (e2e) outage probability, average symbol error probability (ASEP), and ergodic channel capacity as the performance metrics in our analysis. Simulation results show the suitability of deployment of mixed RF/FSO schemes in the real-life scenarios. (C) 2017 Elsevier B.V. All rights reserved.

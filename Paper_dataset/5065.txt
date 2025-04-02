@@ -1,0 +1,10 @@
+DE United Arab Emirates; Adoption; Social media; Small- and medium-sized
+   enterprises; TOE model
+ID CLOUD COMPUTING ADOPTION; MEDIUM-SIZED ENTERPRISES; BEHAVIORAL
+   INTENTION; NETWORKING SERVICES; ELECTRONIC COMMERCE; PURCHASE INTENTION;
+   SMALL BUSINESSES; USER ACCEPTANCE; SYSTEM ADOPTION; TECHNOLOGY
+AB Purpose This paper aims to investigate the key drivers of social media adoption intention by small- and medium-sized enterprises (SMEs).
+   Design/methodology/approach It uses a multi-perspective framework combining technological, organizational and environmental elements affecting SMEs. Data were collected from a random sample of 1,700 SMEs operating in the UAE. Partial least squares structural equation modeling was used to analyze the data.
+   Findings The results showed that the technology construct had no significant effect on social media adoption, but both organization and environment constructs were significant.
+   Research limitations/implications This has implications for social media experts and anyone wishing to encourage social media use by SMEs.
+   Originality/value Conceptually, it develops a suitable multi-perspective framework covering various factors that may affect social media use. It also tests the framework empirically on a sample of SMEs from the UAE.

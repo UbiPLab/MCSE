@@ -1,0 +1,5 @@
+DE Automation; Teleoperators; Automobiles; Cloud computing; Safety; Machine
+   learning; AI; automated driving; autonomous vehicles; cloud driving;
+   cloud-based driving; remote driving; self-driving; teleoperation
+ID PERFORMANCE
+AB Recently, vehicle teleoperation (remote driving) has been gaining momentum in the industry and is playing an important role in helping self-driving cars navigate through tricky situations they cannot handle on their own. Today, vehicle teleoperation relies fully on human teleoperators. Future teleoperation systems, powered by artificial intelligence and advanced networks, such as 5G, can potentially allow a subset of the automated driving intelligence to be off-loaded from the vehicle into the cloud. Over time, the growing level of remote driving automation can enable new automated driving solutions that are not feasible today. This article presents a vision of such intelligent teleoperation and discusses its benefits and challenges.

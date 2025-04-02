@@ -1,0 +1,3 @@
+DE Multiagent system; Cloud computing; Architecture; Distributed systems
+ID NEGOTIATION
+AB The theory of agents and multiagent systems can provide a new model for managing Cloud Computing systems based on the distribution of responsibilities, flexibility and autonomy. Managing the functions of the nucleus of a CC system through an agent-based model allows the resulting platforms to be much more efficient, scalable and adaptable than they currently are. This article presents an architecture to model the control and monitoring system of a Cloud Computing platform by using a Virtual Organization of intelligent agents that self-adapt and reorganize according to the needs of the surrounding environment.

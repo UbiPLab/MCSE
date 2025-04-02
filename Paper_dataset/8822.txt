@@ -1,0 +1,5 @@
+DE Contract protocol; network service platform; participatory sensing;
+   contents flow; mobile ad-hoc network; multi agent system; ubiquitous
+   computing
+ID NETWORK
+AB Research and development on participatory sensing that accumulates a large amount of data acquired from users on the cloud and handles them as big data has proceeded due to the spread of sensor devices with miniaturized and advanced functions typified by smartphones. However, in service configuration models based on the current participatory sensing for which the cloud is a core component, there is a problem in that it is not possible to flexibly distribute information according to the data provisioning policy. In this paper, we propose a new sensor-based application platform based on a service configuration model that does not use a server or a cloud. In addition, we design and implement a contract-oriented information flow protocol, which realizes flexible reflection of the provisioning policy on that platform. Furthermore, we discuss feasibility and scope of the proposed protocol through simulation experiments.

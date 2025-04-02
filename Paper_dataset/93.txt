@@ -1,0 +1,3 @@
+DE Cloud computing; Testing; Servers; Faces; FAA; Computational modeling
+ID MICROSERVICES
+AB Serverless computing aims at reducing processing and operational units to single event-driven functions. It is bound to face considerable architectural issues and challenges. Are these bound to become technical debt? What does technical debt mean and how is it expressed in serverless computing models?

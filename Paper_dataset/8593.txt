@@ -1,0 +1,2 @@
+DE Big Data; Cloud Computing; Wireless Sensor Network (WSN)
+AB To explore big data processing and its application in wireless sensor network (WSN), this paper studies structural construction of the WSN based on big data processing, and numerically simulates SVC4WSN and MDF4LWSN architectures. Moreover, the relationship between the optimal network layer and node communication radius was verified at different node densities. The results indicate that the proposed model achieved better lifecycle and loading balancing effect than the other network.

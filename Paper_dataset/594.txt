@@ -1,0 +1,5 @@
+DE Optical switches; Optical receivers; Optical fiber networks; Arrayed
+   waveguide gratings; Optical buffering; Data centers; Optical coupling;
+   Agile reconfigurability; data center networks; optical networking;
+   traffic scheduling
+AB This paper presents a detailed examination of a novel data center network (DCN) that can satisfy the high capacity and low latency requirements of modern cloud computing applications. This reconfigurable architecture called AgileDCN uses fast-switching optical components with a centralized control function and workload scheduler. By providing a highly flexible optical network fabric between server racks, very high network efficiencies can be achieved even under imbalanced loading patterns. Our simulation results show that, at high (70%) loads, TCP flow completion times in the AgileDCN are significantly lower than in an equivalent electronic leaf-spine network.

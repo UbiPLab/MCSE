@@ -1,0 +1,6 @@
+DE VM placement; Cloud computing; Multi-cloud; Cost optimization; Energy
+   consumption; Grouping genetic
+ID VIRTUAL MACHINE PLACEMENT; POPULATION INITIALIZATION METHOD; DEMAND-SIDE
+   MANAGEMENT; SCHEDULING ALGORITHMS; ENERGY; POWER; MIGRATION; ALLOCATION;
+   SCHEMES
+AB The placement of a virtual machine in cloud computing generates a cost derived from consuming the energy of the allocated network elements. In this paper, we present an optimization model for effective virtual machine placement in the heterogeneous multi-cloud systems by considering peak demand time and geographical position of allocated resources, with target of minimizing the energy cost of allocated network elements. We also build a dynamic energy model for cloud physical machines and communication components. Then, we propose a correlation aware virtual machine placement algorithm, namely MGGAVP, with these issues in mind. The algorithm is based on the hybridization of the Grouping Genetic Algorithm and Hill-climbing and extended for the multi-cloud environment. The results of simulation reveal that the proposed algorithm can have significantly better performance than the three comparison algorithms with the energy saving of 51.93% average performance promotion and energy cost of 70.41% average performance promotion.

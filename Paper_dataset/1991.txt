@@ -1,0 +1,6 @@
+DE Virtualization; Docker; Containerization; Energy consumption; Cloud
+   computing; Microservice
+AB Context: Virtual machines provide isolation of services at the cost of hypervisors and more resource usage. This spurred the growth of systems like Docker that enable single hosts to isolate several applications, similar to VMs, within a low-overhead abstraction called containers.
+   Motivation: Although containers tout low overhead performance, how much do they increase energy use?
+   Methodology: This work statistically compares the energy consumption of three application workloads in Docker and on bare-metal Linux.
+   Results: In all cases, there was a statistically significant (t-test and Wilcoxon p < .05) increase in energy consumption when running tests in Docker, mostly due to the performance of I/O system calls. Developers worried about I/O overhead could consider baremetal deployments over Docker container deployments.

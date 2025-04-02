@@ -1,0 +1,6 @@
+DE Stress; Monitoring; Manuals; Image edge detection; Cloud computing;
+   Cameras; Smart home; smart healthcare; smart living; food intake
+   monitoring; stress-eating; stress-level analysis; Internet of Medical
+   Things (IoMT); machine learning
+ID OBESITY
+AB Not knowing when to stop eating or how much food is too much can lead to many health issues. In iLog, we propose a system which can not only monitor but also create awareness for the user of how much food is too much. iLog provides information on the emotional state of a person along with the classification of eating behaviors to Normal-Eating or Stress-Eating. Chronic stress, uncontrolled or unmonitored food consumption, and obesity are intricately connected, even involving certain neurological adaptations. We propose a deep learning model for edge computing platforms which can automatically detect, classify and quantify the objects from the plate of the user. Three different paradigms where the idea of iLog can be performed are explored in this research. Two different edge platforms have been implemented in iLog. The platforms include mobile, as it is widely used, and a single board computer which can easily be a part of network for executing experiments with iLog-Glasses being the main wearable. The iLog model has produced an overall accuracy of 98% with an average precision of 85.8%.

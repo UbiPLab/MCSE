@@ -1,0 +1,4 @@
+DE Arrival Rate; First-In-First-Out; Load Balancing; M/M/K; Queuing Model;
+   Service Rate
+ID ALGORITHM
+AB Load balancing is the process of distributing a workload among various servers. Queuing is the most common scenario for day-to-day applications. Queuing theory is used to study the problem of waiting lines. Queuing theory bridges the gap between service demands and the delay in replies given to users. The proposed QPSL Queuing Model makes use of M/M/k queue with FIFO queue discipline for load balancing in cloud computing. The model makes use of exponential distribution for calculating service rates and Poisson distribution for calculating waiting lines. The proposed QPSL queuing model is also compared with other existing queuing models for load balancing on various parameters. The experimental analysis depicts that QPSL model performed better in terms of service rate and response time.

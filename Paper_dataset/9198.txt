@@ -1,0 +1,7 @@
+DE Semi-crystalline polymers; Polyamide 11; Cavitation; X-ray Synchrotron
+   Radiation Computed; Tomography; In-situ SRC tensile testing; Void
+   morphology
+ID ATOMIC-FORCE MICROSCOPY; POLYVINYLIDENE FLUORIDE; ISOTACTIC
+   POLYPROPYLENE; TENSILE DEFORMATION; PLASTIC-DEFORMATION; DEFORMED HDPE;
+   VOLUME CHANGE; DAMAGE; CAVITATION; MICROTOMOGRAPHY
+AB This study deals with the cavitation of semi-crystalline Polyamide 11 during deformation. The link between the microstructural evolution and the material macroscopic behaviour is demonstrated thanks to tensile tests on small notched round bars using in-situ X-ray synchrotron computed tomography (SRCT). 3D rendering, image processing and both qualitative and quantitative data analyses are at the heart of this work so as to provide a comprehensive description of micro-mechanisms occurring in the material throughout the tensile tests. Whitening appeared whilst only few microvoids were observed via the tomographic scans in the central part of the specimen where the stress triaxiality is the highest. Significant stages chronologically, denotching, renotching and a final denotching phase, resulting in the elongation of the central part of the specimen are detailed. Corresponding evolution of the morphologies (in terms of growth and prolate and oblate shapes) of the void cloud, as well as of the individualized voids within the latter, are discussed. (C) 2016 Elsevier Ltd. All rights reserved.

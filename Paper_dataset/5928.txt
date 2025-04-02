@@ -1,0 +1,5 @@
+DE cloud computing; big data; social networks; mobile programming;
+   cybersecurity; curricular content and innovation diffusion;
+   constructionism
+ID INDUSTRY 4.0; EDUCATION; COMPETENCES; UNIVERSITY; FACTORIES; STUDENTS
+AB This article describes a process for introducing modern technological subjects into the academic curricula of non-technical universities. The process described may increase and contribute to social sustainability by enabling non-technical students' access to the field of the Internet of Things and the broader Industry 4.0. The process has been defined and tested during a curricular reform project that took place in two large universities in Eastern Europe. In this article, the authors describe the results and impact, over multiple years, of a project financed by the European Union that aimed to introduce the following subjects into the academic curricula of business students: cloud computing, big data, mobile programming, and social networks and cybersecurity (CAMSS). The results are useful for those trying to implement similar curricular reforms, or to companies that need to manage talent pipelines.

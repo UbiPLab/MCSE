@@ -1,0 +1,4 @@
+DE Load balancing; task scheduling; reducing energy consumption; cloud
+   computing
+ID RESOURCE-ALLOCATION
+AB Cloud computing is a new framework, which is facing a numerous type of challenges including resource management and energy consumption of data centers. One of the most important duties of cloud service providers is to manage resources and schedule tasks for reducing energy consumption in data centers. In this paper, fuzzy logic is used for finding most adequate DC, improved DVFS algorithm is used for selecting ideal host and developed version of EDF-VD algorithm is utilized for Task scheduling and load balance in cloud computing. Our approach improvement to the current methods including EEVS, DVFS, Homogeneous, MBFD and EEVS-N.

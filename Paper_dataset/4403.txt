@@ -1,0 +1,4 @@
+DE Cloud computing; Service-oriented architecture (SOA); Quality of service
+   (QoS); Cloudsim Toolkit-3.0.3; Cloud user (CU)
+ID RESOURCE-ALLOCATION
+AB Cloud computing is a varied computing archetype uniting the benefits of service-oriented architecture and utility computing. In cloud computing, resource allocation and its proper utilization, to achieve a higher throughput and quality of service (QoS), has become a great research issue. This paper highlights a new cloudlet allocation strategy that utilizes all available resources efficiently and enhances the QoS by applying deadline-based workload distribution. It is believed that this paper would benefit both cloud users and researchers in various aspects. The entire experiment is done in Cloudsim Toolkit-3.0.3, by modifying the required classes.

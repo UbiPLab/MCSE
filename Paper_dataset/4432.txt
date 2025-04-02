@@ -1,0 +1,5 @@
+DE FinTech; Cloud computing; Cyber security; Big data; Financial computing;
+   Data-driven framework
+ID ACCESS-CONTROL MODEL; BIG DATA-STORAGE; CLOUD; PRIVACY; SECURITY; TRUST;
+   VISUALIZATION; PROTOCOL; NETWORKS; CLASSIFICATION
+AB As a new term in the financial industry, FinTech has become a popular term that describes novel technologies adopted by the financial service institutions. This term covers a large scope of techniques, from data security to financial service deliveries. An accurate and up-to-date awareness of FinTech has an urgent demand for both academics and professionals. This work aims to produce a survey of FinTech by collecting and reviewing contemporary achievements, by which a theoretical data-driven FinTech framework is proposed. Five technical aspects are summarized and involved, which include security and privacy, data techniques, hardware and infrastructure, applications and management, and service models. The main findings of this work are fundamentals of forming active FinTech solutions.

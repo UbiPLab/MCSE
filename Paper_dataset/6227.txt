@@ -1,0 +1,8 @@
+DE Telecommunications evolution; Industry ecosystem; Structural reform;
+   Institutional environments; Competition regulation; Policy issues;
+   Literature review; China
+ID UNIVERSAL SERVICE POLICY; CLOUD COMPUTING INDUSTRY; MOBILE
+   TELECOMMUNICATIONS; HONG-KONG; ECONOMIC-GROWTH; NETWORK CONVERGENCE; ICT
+   STANDARDIZATION; TECHNOLOGY STANDARD; FOREIGN-INVESTMENT; REGULATORY
+   REGIME
+AB Over the past two decades, China's telecommunications industry has witnessed drastic market reform, steadfast institutionalization, and volatile technological changes, which have driven exponential industry expansion. This paper offers an updated longitudinal and comprehensive review on this reform process on the eve of 5G (the fifth generation mobile communications networks). First, the paper segments the two-decade reform crusade into discernible phases, each of which is embedded with different policy drives. These reform phases are then pattern-matched against the subtleties of the overall institutional, technological, and market backdrop. A series of policy issues are identified through a systematic examination of industry phenomena over the reform course. Finally, the status of research is assessed regarding China's telecom industry and reform, based on which, knowledge gaps are identified and future research agenda suggested. Conclusions are made regarding future reform and research imperatives. The paper advances the understanding of China's telecom reform, development, and the underlying policy issues. It updates and expands previous works on similar topics. Overall, this study provides important theoretical, managerial, and policy implications.

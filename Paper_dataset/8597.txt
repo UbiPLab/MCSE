@@ -1,0 +1,4 @@
+DE Cloud Computing; Authentication mechanisms; Cloud services; deployment
+   models
+ID SECURITY; ACCESS
+AB Cloud Computing is an emerging and ubiquitous trend. It allows users to enjoy the on-demand services, without the burden of data storage and maintenance costs. However, the outsourcing of resources, raises the security issues. The most critical concerns are access control and authentication. This work presents a survey of the previous researches proposing solutions to authentication issues in Cloud. The main aim is to perform a classification of the authentication mechanisms, related to the cloud services, and deployment models, given that, to our knowledge, there is no synthesis work at this level. This classification will be useful to consumers.

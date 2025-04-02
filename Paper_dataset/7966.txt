@@ -1,0 +1,3 @@
+DE Cloud Computing; smart city; context-aware
+ID DECISION
+AB The "Smart City" concept is receiving a significant research effort, notably because of the population growth and the urbanization trend. In this new context, Cloud computing is expected to play a significant role making a better use of distributed resources, achieving higher throughput and tackling large scale computation problems. This paper presents CAMELO, a new context aware framework based on network virtualization functions to offer converged infrastructure and shared services. Our solution improves efficiency, reduce cost and raise environmental awareness when building adapted city services such as healthcare, traffic, police and municipal operations.

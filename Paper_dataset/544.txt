@@ -1,0 +1,6 @@
+DE Big data analytics adoption; Technological-organizational-environmental
+   model; Small to medium-sized enterprises; Firm performance
+ID CLOUD COMPUTING ADOPTION; E-COMMERCE ADOPTION; FIRM PERFORMANCE;
+   INNOVATION ADOPTION; SUPPLY CHAIN; KNOWLEDGE MANAGEMENT; PREDICTIVE
+   ANALYTICS; DECISION-MAKING; BUSINESS VALUE; VALUE CREATION
+AB Big data analytics (BDA) adoption is a game-changer in the current industrial environment for precision decision-making and optimal performance. Nonetheless, the determinants or consequences of its adoption in small and medium enterprises remain unclear, hence the objective of this study. Data analysis of 171 Iranian small and medium manufacturing firms revealed that complexity, uncertainty and insecurity, trialability, observability, top management support, organizational readiness, and external support affect significantly on BDA adoption. The findings confirm the strong impact of BDA adoption in small to medium-sized enterprises, marketing and financial, performance enhancement. Understanding the drivers of BDA adoption helps managers to employ appropriate initiatives that are vital for effective implementation. The results enable BDA service providers to attract and diffuse BDA in small to medium-sized enterprises.

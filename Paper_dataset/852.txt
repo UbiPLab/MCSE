@@ -1,0 +1,4 @@
+DE Teaching Case; Software as a Service (SaaS); Enterprise Systems; IT
+   Infrastructure; Small- and Medium-sized Enterprises (SME); Developing
+   Country
+AB This case explores a decision to replace a critical enterprise system that the directors of a family-owned and operated retail organization in Fiji (a developing country) faced. The case asks students to assess the risks and potential rewards of enterprise sourcing alternatives for the Fijian retailer. The case sensitizes students to the organizational, environmental, and technological issues that this business faced, such as unreliable and expensive electricity and broadband Internet. Students who reside in developed countries often take some of these issues for granted, and, thus, the case challenges them to consider a broader global context and question the conventional wisdom of solutions such as cloud computing and ERP packaged software benefits for small- and medium-sized businesses.

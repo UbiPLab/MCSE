@@ -1,0 +1,5 @@
+DE Cloud computing; edge cloud; mobile edge computing (MEC); computation
+   offloading; Markov decision process (MDP); optimization; heterogeneous
+   networks
+ID MOBILE; SCHEME
+AB A novel concept of the edge cloud has recently been introduced to reduce transmission costs in mobile cloud computing services. Heterogeneous networks with diverse radio access networks will be pervasive in the future. In this paper, we propose a spatial and temporal computation offloading decision algorithm (ST-CODA) in edge cloud-enabled heterogeneous networks. In ST-CODA, a mobile device decides where and when to process tasks by means of a Markov decision process with the consideration of the processing time and energy consumption of different computation nodes and the transmission cost in heterogeneous networks. Extensive evaluation results are given to demonstrate the effectiveness of the ST-CODA in terms of the transmission cost, the energy efficiency of the mobile device, and the number of tasks that can be processed before their deadline.

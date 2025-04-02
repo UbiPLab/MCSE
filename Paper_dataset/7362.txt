@@ -1,0 +1,4 @@
+DE Amazon Web Services; binding sites; cloud-based tool; DNA motif; motif
+   similarity detection
+ID BINDING SITE MOTIFS; SEQUENCE MOTIFS; WEB TOOL; DISCOVERY; MEME
+AB We developed the cloud-based MOTIFSIM on Amazon Web Services (AWS) cloud. The tool is an extended version from our web-based tool version 2.0, which was developed based on a novel algorithm for detecting similarity in multiple DNA motif data sets. This cloud-based version further allows researchers to exploit the computing resources available from AWS to detect similarity in multiple large-scale DNA motif data sets resulting from the next-generation sequencing technology. The tool is highly scalable with expandable AWS.

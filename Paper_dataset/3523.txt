@@ -1,0 +1,5 @@
+DE Snow; Graupel; CRTM; FDTD; Bicontinuous random medium
+ID DISCRETE-DIPOLE APPROXIMATION; DIFFERENCE TIME-DOMAIN; ICE CRYSTALS;
+   MAXWELLS EQUATIONS; LIGHT-SCATTERING; ELECTROMAGNETIC SCATTERING; PART
+   I; SIMULATION; PARTICLES; CLOUDS
+AB A structural model is developed for the single-scattering properties of snow and graupel particles with a strongly heterogeneous morphology and an arbitrary variable mass density. This effort is aimed to provide a mechanism to consider particle mass density variation in the microwave scattering coefficients implemented in the Community Radiative Transfer Model (CRTM). The stochastic model applies a bicontinuous random medium algorithm to a simple base shape and uses the Finite-Difference-Time-Domain (FDTD) method to compute the single-scattering properties of the resulting complex morphology. (C) 2018 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,5 @@
+DE cloud service; service composition; task level selection; global
+   optimisation; local optimisation; exact algorithm
+ID SHORTEST PATHS; WEB SERVICES; COMPUTING K; ALGORITHM; DECOMPOSITION;
+   CONSTRAINTS; SELECTION; RANKING
+AB The goal of service composition is to find the best set of services, which meets the user requirements. The efficient local optimisation methods may fail to satisfy user's end-to-end requirements. Global optimisation methods are popular when the user's end-to-end requirements are to be satisfied. Optimal composition to end-to-end requirements consumes exponential time, in case of large search space. Metaheuristic methods are being used to solve this problem, which gives near optimal solution. The authors propose an approach in which both local and global optimisation are used. In order to avoid local optimums during local optimisation, the proposed work selects a set of best services from each task and then uses a global optimisation method on the smaller search space to select the best composition. In order to reduce the communication costs, optimal solution identifies the minimum number of clouds for composition.

@@ -1,0 +1,5 @@
+DE identification algorithms; linear multivariable systems; numerical
+   algorithms; parameter estimation; subspace methods; singular value
+   decomposition; software
+ID SUBSPACE MODEL IDENTIFICATION; ALGORITHMS
+AB A set of applications for identification of linear multivariable systems is presented. The incorporated algorithms use subspace-based techniques (MOESP, N4SID, or their combination) to find a standard discrete-time state-space description, and optionally, the covariance matrices and predictor gain matrix, using input and output (I/O) trajectories. For flexibility, separate applications are offered for computing the processed upper triangular factor of the block-Hankel-block matrix of I/O data (using fast or standard QR factorization algorithms), for computing the system matrices, predictor gain matrix, for estimating the initial state of the system, and for its simulation. The applications are encapsulated in Docker containers which are managed by the Kubernetes platform. This ensures greater flexibility, enhanced security, and fast execution. The services to be implemented are part of a cloud-based open platform for process control applications.

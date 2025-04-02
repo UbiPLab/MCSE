@@ -1,0 +1,4 @@
+DE Mobile social networks; Cloud computing; Privacy-preserving; Multiple
+   keys
+ID IDENTITY-BASED ENCRYPTION; COMPUTATION
+AB Making new friends by measuring the proximity of people's profile is a crucial service in mobile social networks. With the rapid development of cloud computing, outsourcing computing and storage to the cloud is now an effective way to relieve the heavy burden on users for managing and processing data. To prevent privacy leakage, data owners tend to encrypt their private data before outsourcing. However, current solutions either have heavy interactions or require users to encrypt private data with a single key. In this paper, we propose a novel cloud-assisted privacy-preserving profile-matching scheme under multiple keys based on a proxy re-encryption scheme with additive homomorphism. Our scheme is secure under the honest-but-curious (HBC) model given two non-colluding cloud servers.

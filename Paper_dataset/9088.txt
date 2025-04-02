@@ -1,0 +1,5 @@
+DE Green supply chain management; Life-cycle assessment; Cloud computing;
+   Organic cotton
+ID LIFE-CYCLE; CARBON FOOTPRINT; IMPACT; INTEGRATION; TECHNOLOGY; TEXTILE;
+   SYSTEM
+AB Managing life-cycle information presents a critical challenge for footprint assessment and performance measurement in supply chains. Extant literature and supply chain collaboration models fall short in providing an interactive platform to enable cross-organisational life-cycle information gathering, sharing and management. This paper proposes a cloud-based life-cycle assessment (LCA) platform that enables dynamic life-cycle data collection and exchange, and supports supply chain collaboration for environmental footprint assessment. Using green supply chain management of cotton T-shirts as an example, the paper further illustrates the potential of the proposed cloud-based model in helping supply chain stakeholders to address the implications of managing life-cycle information and to improve the timeliness of their carbon footprint assessment. (C) 2016 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,4 @@
+DE popularized healthcare; artificial intelligence; evidence reasoning;
+   brain tumor detection
+ID CNN
+AB In the context of popularized healthcare, cloud computing centers are used to collect medical data from the cloud and diagnose illnesses. This means a technical framework that can be applied to the medical diagnostic process in popularized healthcare is needed in order to provide technical support. Based on the evidence fusion theory, this study established a multi-modality image evidence fusion method, which can simulate the doctor's diagnostic process and use multiple modalities of medical images to diagnose illnesses. This study used the evidence fusion method to fuse two different modalities of medical images. The accuracy of the diagnosis after fusion was higher than that of diagnosis through two modalities separately. This fusion method has achieved great results in the process of multi-modality image fusion.

@@ -1,0 +1,6 @@
+DE cloud computing; service deployment; service composition; multi-agent
+   system; agent; dominance relationship; multi-objective problem; quality
+   of service; QoS; distributed architecture
+ID GENETIC ALGORITHM; NETWORK SECURITY; PLATFORM; ARCHITECTURE; DISCOVERY;
+   FRAMEWORK; QUALITY
+AB Nowadays, cloud computing is regarded as a new paradigm in the field of information technology. Since the emergence of this paradigm, most of corporations have started using it through the deployment or the use of its services. Furthermore, service deployment in the cloud forms its kernel function. To ensure a good function of service deployment we need to combine a set of services. In fact, to find a limited number candidate services constitutes a problem due to the absence of a unified service description. In this paper, we propose a solution to solve the deployment problem by considering it as a service composition taking into account the quality of service. Since we have many atomic services, this paper transforms this composition problem into an optimisation problem. Moreover, to reduce the number of service candidates we propose a new service description language to assist the discovery process. The implementation of this model has been provided in order to evaluate our system. The obtained results demonstrate the effectiveness of our proposed system.

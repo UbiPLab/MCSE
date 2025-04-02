@@ -1,0 +1,3 @@
+DE Hybrid heuristic; load balancing; Cloud computing; Virtual machine
+ID GA
+AB This article tends to the current advance in the area of the load balancing in the cloud where the primary difficulty is to minimize the energy consumed by the virtual machines, optimize resources and improve the performance. We suggest an effective methodology based on the introduction of a detailed modeling which take into account the QoS parameters in terms of performance, dependability, data security and cost, in addition to the integration of two highly hybrid heuristics. The computational experiment is done and we can enhance the objective function of a set of instances compared to several heuristics from the literature.

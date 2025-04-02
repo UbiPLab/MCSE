@@ -1,0 +1,3 @@
+DE Large data; retrieval system; Map-Reduce
+ID K-MEANS
+AB In this paper, the problems such as complex structure, high difficulty in implementation and high maintenance cost in the large data search engine were analyzed and researched. A cloud search engine based on the YARN (Hadoop 2.0) cloud computing framework for large data was proposed. In the search engine of large data, the problem of poor adaptability of parallel K mean clustering algorithm was studied. A parallel adaptive Canopy-K-means algorithm was proposed, and the contrast experiment was carried out on the Spark on YARN cloud computing platform, and the effectiveness of the algorithm was verified.

@@ -1,0 +1,6 @@
+DE Cloud computing; Internet of Things; Edge computing; Computational
+   modeling; Data centers; Resource management; Numerical models; Column
+   generation; design and dimensioning; fog computing; Internet of Things
+   (IoT); mixed-integer linear programming (MILP)
+ID INTERNET; EDGE; SERVICE; THINGS; FRAMEWORK; COST
+AB The fog-computing paradigm has appeared as a geo distributed response to a growing focus on latency-sensitive Internet-of-Things (IoT) applications and the long delay that may be provided by cloud data centers. Although many researchers have investigated how IoT can interact with a fog, very few have tackled the question of how to construct a fog infrastructure for the expected IoT traffic. This article addresses the design and dimensioning of a fog infrastructure via a mixed-integer linear program (MILP) to construct a physical fog network design by mapping IoT virtual networks to dimensioned fog nodes. Due to the exponential nature of this MILP formulation, we also propose a column generation model with near-optimal results at a significantly reduced design and dimensioning cost. The numerical results show the viability of the column generation method in its proximity to the optimal solution and in its reasonable solution time.

@@ -1,0 +1,5 @@
+DE opportunistic cloud services; trust engineering; trust in cloud
+   computing; trust modelling; trust management system; pseudo service
+   level agreements
+ID REPUTATION-BASED TRUST; ACCESS-CONTROL; SYSTEM
+AB This paper presents a model for the concept of trust and a trust management system for opportunistic cloud services platforms. Results from applying the systematic review methodology to review trust related studies in cloud computing revealed that the concept of trust is used loosely without any formal specification in cloud computing discussions and trust engineering in general. Formal definition and model of the concept of trust is however essential in the design of trust management systems. The paper therefore presents a model for the formal specification of the concept of trust. A trust management system for opportunistic cloud services is also presented. The applicability of the trust model and the trust management system is demonstrated for cloud computing by applying it to software as a service and infrastructure as a service usage scenario in the context of opportunistic cloud services environments.

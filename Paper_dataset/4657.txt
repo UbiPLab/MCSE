@@ -1,0 +1,5 @@
+DE Radio frequency identification; chipless tag; classification algorithms;
+   pattern recognition; support vector machines; ensemble networks; cloud
+   computing
+ID TAGS
+AB In this paper, we propose a novel means of verifying document originality using chipless RFID systems. The document sender prints a chipless RFID tag into the paper and does a frequency scanning in the 57-64 GHz spectrum of the document. The results of scattering parameters in individual step frequencies are stored in a cloud database, denoised and passed to pattern classifiers, such as support vector machines or ensemble networks. These supervised learners train themselves based on these data on the remote/cloud computer. The document receiver verifies this frequency fingerprint by using the same scanning method, sending the scattering parameters to the cloud server and getting the decoded data. Paper originality is verified if the decoded data are as expected. The advantages of our cloud chipless RFID processing deployments are cost reduction and increased security and scalability.

@@ -1,0 +1,6 @@
+DE Cloud computing; technology acceptance model; technological
+   organizational environmental framework; resource based view
+ID RESOURCE-BASED PERSPECTIVE; CRITICAL SUCCESS FACTORS; ERP
+   IMPLEMENTATION; INFORMATION-TECHNOLOGY; FIRM PERFORMANCE; COMPETITIVE
+   ADVANTAGE; KNOWLEDGE MANAGEMENT; SYSTEMS SUCCESS; E-BUSINESS; ADOPTION
+AB To assess the impact of cloud computing usage on business performance, this article presents an integrative research model that links, environmental, organizational and technological capability constructs. And to fill a literature gap, the study focuses on post adoption stages, i.e., actual usage and value creation, by surveying403 manufacturing firms in India. The data are analyzed through exploratory and confirmatory factor analyses, yet structural equation modeling further tests the proposed model. The results show that business, human and technological capital, change management, organizational culture, and regulatory and supplier support are all vital antecedents of cloud computing usage, with firm size moderating actual usage and performance. The unique insights the results provide can help organizations enhance their cloud computing adoption and thereby improve their business performance.

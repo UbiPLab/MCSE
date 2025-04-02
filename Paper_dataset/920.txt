@@ -1,0 +1,3 @@
+DE edge computing; flow splitting; flow aggregation; flow control
+ID TCP
+AB In edge computing, users can enjoy various applications without depending on limitations of mobile devices by task offloading. However, a large number of tasks will be offloaded to distant cloud servers when an edge server's load is too heavy. The long distance between users and cloud servers significantly degrades the quality of mobile applications. To prevent this problem, we propose flow splitting and aggregation schemes to improve offload delay to cloud servers in edge computing and show the effectiveness of our scheme through simulation evaluations.

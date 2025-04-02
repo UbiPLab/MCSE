@@ -1,0 +1,12 @@
+DE probability; wireless channels; telecommunication traffic; Internet of
+   Things; convex programming; resource allocation; cache storage; concave
+   programming; cooperative communication; distributed processing; cloud
+   computing; gradient methods; cache-enabled IoT networks; local channel
+   state information; caching content; STP; optimal content placement
+   probability; optimised content placement strategy; optimal content
+   placement; Internet of Things; cloud server; traffic load; successful
+   transmission probability; tight approximation; cooperative edge base
+   stations; upper bound; placement probability vector; nonconvex
+   optimisation problem; globally optimal solutions; gradient projection
+   method
+AB The large amount of devices deployed for the Internet of Things (IoT) cause a tremendous traffic burden on the cloud server. Caching content at the edge of IoT networks is a promising technology to alleviate the traffic load. However, how to further improve the successful transmission probability (STP) of cache-enabled IoT networks is still an open issue. In this study, the authors propose a novel local channel state information based joint transmission (LC-JT) scheme for cache-enabled IoT networks and design the optimal content placement probability at the cooperative edge base stations, correspondingly. First, they derive an upper bound and a tight approximation for the STP of LC-JT scheme using stochastic geometry. Next, an algorithm is proposed to maximise the approximation of STP in LC-JT by optimising the placement probability vector, which is a non-convex optimisation problem. By utilising some properties of the STP, they obtain the globally optimal solutions in specific cases. Moreover, the locally optimal solutions in general cases are obtained by using the gradient projection method. Finally, numerical results show the optimised content placement strategy can achieve significant gains in STP over several comparative baselines. It verifies that the strategy with LC-JT can considerably enhance the STP in cache-enabled IoT networks.

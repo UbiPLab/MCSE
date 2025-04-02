@@ -1,0 +1,3 @@
+DE Docker; Docker Container; Virtual Machine; Virtualization; Cloud
+   Computing
+AB Docker provide some facilities, which are useful for developers and administrators. It is an open platform can be used for building, distributing, and running applications in a portable, lightweight runtime and packaging tool, known as Docker Engine. It also provide Docker Hub, which is a cloud service for sharing applications. Costs can be reduced by replacing traditional virtual machine with docker container. It excellently reduces the cost of re-building the cloud development platform.

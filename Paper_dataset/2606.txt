@@ -1,0 +1,5 @@
+DE Cloud computing; Cloud service provider selection; Managerial
+   Quality-of-Service attributes; Technical Quality-of-Service attributes;
+   Delphi study
+ID RANKING; MODELS; MANAGEMENT; STRATEGY; SUCCESS; RISKS
+AB Customers of cloud service providers (CSPs) use different criteria to judge the quality of cloud services. Based on managerial and technical Quality-of-Service (QoS) attributes, these criteria provide information on service quality and the CSP itself. Thus, it is important to identify relevant QoS to assure success of customers. Using a Delphi study, 16 professionals characterized by different cloud service models, company sizes, and industries identified and ranked QoS according to their relative importance. Our results show consensus on QoS. We identify functionality, legal compliance, contract, geolocation of servers, and flexibility as top QoS and observe increasing importance of managerial QoS.

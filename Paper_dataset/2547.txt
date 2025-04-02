@@ -1,0 +1,4 @@
+DE Service matching; TOSCA; Reuse; Simulation; Coinduction
+ID NET-BASED APPROACH; SERVICES; MANAGEMENT
+AB OASIS TOSCA aims at solving the problem of managing complex applications across heterogeneous clouds by providing a standard, vendor-agnostic language to describe them. TOSCA permits defining a cloud application as an orchestration of typed components, which can be instantiated by matching other TOSCA applications.
+   In this paper we first present two types of behaviour-aware matching of applications (exact and plug-in) both based on a notion of simulation. We then extend the notion of plug-in matching by relaxing the notion of simulation to permit matching an operation with a sequence of operations. We also present a coinductive procedure to compute such relaxed simulation, and we formally prove the termination, soundness, and completeness of such procedure. (C) 2017 Elsevier B.V. All rights reserved.

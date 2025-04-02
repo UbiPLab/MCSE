@@ -1,0 +1,5 @@
+DE private comparison; multiparty secure computation; classical
+   semi-honesty center; quantum dense coding; general EPR pair
+ID ENTANGLED STATES; KEY DISTRIBUTION; SINGLE PHOTONS; W STATE; SECRET;
+   PROTOCOL; COMMUNICATION; TELEPORTATION; CRYPTANALYSIS; STEGANOGRAPHY
+AB A serious problem in cloud computing is privacy information protection. This study proposes a new private comparison protocol using Einstein-Podolsky-Rosen (EPR) pairs. This protocol allows two parties to secretly compare their classical information. Quantum dense coding enables the comparison task to be completed with the help of a classical semi-honest center. A one-step transmission scheme and designed decoy photons can be used against various quantum attacks. The new protocol can ensure fairness, efficiency, and security. The classical semi-honest center cannot learn any information about the private inputs of the players. Moreover, this scheme can be easily generalized using the general EPR pairs in order to improve the transmission efficiency.

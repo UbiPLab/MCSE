@@ -1,0 +1,9 @@
+DE Internet of Things; Smart devices; Boundary value problems; Cloud
+   computing; Controllability; Sensors; STEM; IoT control; < italic
+   xmlns:ali="http:; www; niso; org; schemas; ali; 1; 0; "
+   xmlns:mml="http:; www; w3; org; 1998; Math; MathML" xmlns:xlink="http:;
+   www; w3; org; 1999; xlink" xmlns:xsi="http:; www; w3; org; 2001;
+   XMLSchema-instance"> p <; italic >-Laplacian; resonance; impulsive;
+   functional boundary condition
+ID SENSOR-CLOUD; INTERNET; SOLVABILITY; FRAMEWORK; THINGS
+AB The use of 5G technology provides a guarantee for the widespread use of the Internet of Things (IoT), and the scale of the IoT system continues to expand. The intelligent devices in the IoT environment also grow exponentially. The communication and control security between application devices is an important issue. In order to realize the control of the edge terminal intelligent device in the IoT environment, we studied the controllability of the terminal device to the edge terminal smart device and transformed the control problem into a mathematical problem. Treat the operation of different smart devices as constraints. The $p$ -Laplacian problem was proposed to solve the terminal-to-edge device controllability in the IoT environment. In the process of controlling the controllability of edge terminal intelligent devices, we propose a new method for a priori estimation of the continuous theorem of Ge and Ren. Finally, we give an example of this method.

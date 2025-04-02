@@ -1,0 +1,3 @@
+DE Runtime; Cloud computing; FAA; Containers; Benchmark testing; Servers;
+   Virtual machining
+AB In this article, we demonstrate that lightweight high-level runtimes, such as WebAssembly, could offer performance and scaling advantages over existing solutions and could enable fine-grained, pay-as-you-use business models.

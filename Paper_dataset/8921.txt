@@ -1,0 +1,9 @@
+DE Cloud Computing; Environment; Adoption models; Success Cases; Technology
+   Providers
+ID INFORMATION-TECHNOLOGY; EDI ADOPTION; MODEL; CAPABILITIES; PERSPECTIVE;
+   PERCEPTION; INNOVATION; MARKET
+AB Purpose - The purpose of this paper is to analyze the influence of Technology Providers, Public Administrations and R&D Institutions on Cloud Computing adoption. This research also considers Killer Applications and Success Cases as other environmental factors.
+   Design/methodology/approach - Factorial analyses and structural equation models were used on a sample of high-technology firms located in technological parks in Southern Europe, with more than ten employees and sustained investments in R&D.
+   Findings - Results show that Technology Providers and Success Cases are determinant in Cloud Computing adoption. Moreover, Killer Applications are a forerunner for Success Cases.
+   Practical implications - An appropriate fit between the tools and resources provided by suppliers and the internal resources of the company is needed to create competitive advantages. Firms should evaluate Technology Providers, identify Success Cases to Cloud Computing adoption and implement technological benchmarking.
+   Originality/value - This study contributes to Cloud Computing adoption literature because it includes Technology Providers, Public Administrations and R&D Institutions simultaneously as well as other variables as Killer Applications and Success Cases. The importance of the external agents on information technology (IT) adoption, especially when the technologies to be adopted are new and in an emergent stage, together with the lack of prior investigations focusing on specific environmental factors affecting the adoption of these new, emerging IT, justify the value of this research.

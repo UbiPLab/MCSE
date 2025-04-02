@@ -1,0 +1,3 @@
+DE energy transmission; electrical networks simulation; distributed energy
+   systems
+AB The simulation of electrical networks is very important before development and servicing of electrical networks and grids can occur. There are software that can simulate the behaviour of electrical grids under different operating conditions, but these simulation environments cannot be used in a single cloud-based project, because they are not GNU-licensed software products. In this paper, an integrated framework was proposed that models and simulates communication networks. The design and operation of the simulation environment are investigated and a model of electrical components is proposed. After simulation, the simulation results were compared to manual computed results.

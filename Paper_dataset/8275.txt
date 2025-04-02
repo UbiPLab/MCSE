@@ -1,0 +1,6 @@
+DE Internet; Intelligent manufacturing; Sustainable manufacturing; Resource
+   optimization
+ID CYBER-PHYSICAL SYSTEMS; SUPPLY CHAIN DESIGN; OF-THE-ART; MASS
+   CUSTOMIZATION; MULTIOBJECTIVE OPTIMIZATION; ECONOMIC-DEVELOPMENT; VALUE
+   CREATION; THINGS IOT; BIG DATA; SERVICE
+AB In recent years, the nations of the world have presented the development strategy of manufacturing. Manufacturing is the foundation of a country. However, with the increasing global resource constraints and market heterogeneity, the variety of individual demands, and the long-term goals of sustainable development, with the support of emerging information and communication technologies such as Internet, cyber-physical system, Internet of Things, cloud computing, and big data, industrial value creation is causing a paradigm shift in manufacturing. This paper studies a range of new manufacturing paradigms and presents a state-of-the-art survey of published works. It explores the corresponding current manufacturing concepts, technologies, framework features, application effects, resource optimization, and future challenges in these new paradigms. The integration of various manufacturing paradigms is also analyzed. Through this survey, the developments of these new manufacturing paradigms are explained and the future prospects are also discussed.

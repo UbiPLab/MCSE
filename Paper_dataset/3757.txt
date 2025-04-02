@@ -1,0 +1,4 @@
+DE Provision of virtual machines (VMs); Time-series forecasting models;
+   Hidden Markov models (HMM); Virtual computing laboratory (VCL);
+   Periodic-reviewmodel; Capacity planning
+AB Given the costs associated with a cloud infrastructure, dynamic scheduling of virtual machines (VMs) can significantly lower costs while providing an acceptable service level. We develop a series of forecasting models for predicting demand for VMs in a cloud-based software used as a software-as-a-service (SaaS). These models are then used in a periodic-review provision model which determines how many VMs should be provisioned or de-provision at each inspection interval. A simple provisioning heuristic model is also proposed, whereby a fixed reserve capacity of VMs is continuously maintained. We evaluate and compare the performance of these models for different model parameters using historical data from the Virtual Computing Laboratory (VCL) at North Carolina State University.

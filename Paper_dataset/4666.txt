@@ -1,0 +1,9 @@
+DE Cyber-physical systems (CPS); Internet of Things (IoT);
+   context-awareness; social computing; cloud computing; big data;
+   clustering; data mining; data analytics; machine learning; real-time
+   analytics; space-time analytics; cybersecurity; green; energy;
+   sustainability
+ID INDOOR FINGERPRINTING LOCALIZATION; DATA ANALYTICS; CELLULAR NETWORKS;
+   ENERGY-EFFICIENT; DATA FUSION; CLOUD; CHALLENGES; INTERNET;
+   OPTIMIZATION; FRAMEWORK
+AB The world is witnessing an unprecedented growth of cyber-physical systems (CPS), which are foreseen to revolutionize our world via creating new services and applications in a variety of sectors, such as environmental monitoring, mobile-health systems, intelligent transportation systems, and so on. The information and communication technology sector is experiencing a significant growth in data traffic, driven by the widespread usage of smartphones, tablets, and video streaming, along with the significant growth of sensors deployments that are anticipated in the near future. It is expected to outstandingly increase the growth rate of raw sensed data. In this paper, we present the CPS taxonomy via providing a broad overview of data collection, storage, access, processing, and analysis. Compared with other survey papers, this is the first panoramic survey on big data for CPS, where our objective is to provide a panoramic summary of different CPS aspects. Furthermore, CPS requires cybersecurity to protect them against malicious attacks and unauthorized intrusion, which become a challenge with the enormous amount of data that are continuously being generated in the network. Thus, we also provide an overview of the different security solutions proposed for CPS big data storage, access, and analytics. We also discuss big data meeting green challenges in the contexts of CPS.

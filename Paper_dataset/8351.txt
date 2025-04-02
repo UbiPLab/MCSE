@@ -1,0 +1,16 @@
+DE SMEs; Big data analytics; Firm performance; Technology adoption;
+   Resource-based view; TOE model
+ID CLOUD COMPUTING ADOPTION; INFORMATION-TECHNOLOGY ADOPTION; ELECTRONIC
+   DATA INTERCHANGE; FIRM PERFORMANCE; INNOVATION ADOPTION;
+   ENVIRONMENTAL-MANAGEMENT; COMMERCE ADOPTION; SMES ADOPTION;
+   UNITED-STATES; BUSINESS
+AB Purpose
+   Big data analytics (BDA) is recognized as a turning point for firms to improve their performance. Although small- and medium-sized enterprises (SMEs) are crucial for every economy, they are lagging far behind in the usage of BDA. This study aims to provide a single and unified model for the adoption of BDA among SMEs with the integration of the technology-organization-environment (TOE) model and resource-based view.
+   Design/methodology/approach
+   A survey of 112 manufacturing SMEs in Iran was conducted, and the data were analysed using structural equation modelling to test the model of this study.
+   Findings
+   The results offer evidence of a BDA mediation effect in the relationship between technological, organizational and environmental contexts, and SMEs performance. The findings also demonstrated that technological and organizational elements are the more significant determinants of BDA adoption in the context of SMEs. In addition, the result of this study confirmed that BDA adoption could enhance the financial and market performance of SMEs.
+   Practical implications
+   Providing a single unified framework of BDA adoption for SMEs enables them to appreciate the importance of most influential elements (technology, organization and environment) in the adoption of BDA. Also, this study may encourage SMEs to be more willing to use BDA in their businesses.
+   Originality/value
+   Although there are studies on BDA adoption and firm performance among large companies, there is a lack of empirical research on SMEs, in particular, based on the TOE model. SMEs differ from large companies in terms of the availability of resources and size. Therefore, this study aimed to initiate a conceptual framework of BDA adoption for SMEs to assist them to be able to take advantage of the adoption of such technology.

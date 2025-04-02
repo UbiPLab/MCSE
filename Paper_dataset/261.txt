@@ -1,0 +1,4 @@
+DE IoT; Edge computing security; Security as a service; Centrality;
+   Dominating set
+ID CENTRALITY
+AB The rise of edge computing enables local network management. Services are no longer clustered inside the cloud but rather spread all over the whole network. In this paper, we propose a method for deploying security services within an IoT network according to devices capabilities. Our method models an IoT network as a weighted graph using device capabilities. Using the latter, we propose to identify the most suitable location for a security service using dominating sets and the graph weights. We present results obtained by the proposed method on an example of a smart city based on real data using network security functions such as an IPsec service. Results indicate an overall increase in the network security with minimal impact on the information flow while retaining reduced deployment costs.

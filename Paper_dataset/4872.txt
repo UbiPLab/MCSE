@@ -1,0 +1,6 @@
+DE Energy efficiency; resource utilization; resource allocation; antlion
+   optimization; quality of service
+ID ANT COLONY OPTIMIZATION; DATA CENTERS; VIRTUAL MACHINES; DYNAMIC
+   CONSOLIDATION; SCIENTIFIC WORKFLOWS; ALGORITHMS; MANAGEMENT; PLACEMENT;
+   TASKS; POWER
+AB The popularity of cloud computing is increasing by leaps and bounds. To cope with resource demands of increasing number of cloud users, the cloud market players establish large sized data centers. The huge energy consumption by the data centers and liability of fulfilling Quality of Service (QoS) requirements of the end users have made resource allocation a challenging task. In this paper, energy and QoS aware resource allocation approach which employs Antlion optimization for allocation of resources to virtual machines (VMs) is proposed. It can operate in three modes, namely power aware, performance aware, and balanced mode. The proposed approach enhances energy efficiency of the cloud infrastructure by improving the utilization of resources while fulfilling QoS requirements of the end users. The proposed approach is implemented in CloudSim. The simulation results have shown improvement in QoS and energy efficiency of the cloud.

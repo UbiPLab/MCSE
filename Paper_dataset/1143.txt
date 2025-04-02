@@ -1,0 +1,4 @@
+DE Cloud system; task scheduling; precedence-constrained parallel
+   applications; chemical reaction multi-objective optimization (CRMO)
+ID ALGORITHM
+AB Cloud computing systems often have two conflicting objective, maximizing service performance, and minimizing computing cost. The excellent task scheduling and resource allocation strategies can improve the cost/utility ratio efficiently. It is an NP-hard problem to optimize task scheduling of precedence-constrained parallel tasks represented by a directed acyclic graph (DAG) on the cloud system. In order to address this problem, a chemical reaction multi-objective optimization algorithm (CRMO) is proposed in this paper. The CRMO executes four chemical reaction operators (named on-wall ineffective collision, inter-molecular ineffective collision, decomposition, and synthesis) for cloud tasks DAG scheduling. The experimental results show that CRMO can produce outstanding cloud task scheduling solutions set.

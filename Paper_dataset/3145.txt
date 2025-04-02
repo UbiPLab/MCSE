@@ -1,0 +1,5 @@
+DE Microservices; Cloud computing; Container orchestration; Genetic
+   algorithm; Multi-objective optimization
+ID MULTIOBJECTIVE OPTIMIZATION; GENETIC ALGORITHM; MANAGEMENT; ALLOCATION;
+   PLACEMENT; MIGRATION; DOCKER
+AB An approach to optimize the deployment of microservices-based applications using containers in multi-cloud architectures is presented. The optimization objectives are three: cloud service cost, network latency among microservices, and time to start a new microservice when a provider becomes unavailable. The decision variables are: the scale level of the microservices; their allocation in the virtual machines; the provider and virtual machine type selection; and the number of virtual machines. The experiments compare the optimization results between a Greedy First-Fit and a Non-dominated Sorting Genetic Algorithm II (NSGA-II). NSGA-II with a two-point crossover operator and three mutation operators obtained an overall improvement of 300% in regard to the greedy algorithm.

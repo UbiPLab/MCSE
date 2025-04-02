@@ -1,0 +1,5 @@
+DE Cation-pi interaction; pi-thickness; non-covalent interaction;
+   hydration; alkali and alkaline earth metal cations; benzene
+ID NONCOVALENT INTERACTIONS; BIOLOGICAL RECOGNITION; AROMATIC RINGS;
+   BINDING; COMPLEXES; MOLECULES; BRIDGES; BORDERS; IONS
+AB The effect of hydration on cation-pi interaction in M (q+) B (m) W (n) (B= benzene; W= water; M (q+)= Na+, K+, Mg2+, Ca2+, Al3+, 0 aecurrency sign n,m aecurrency sign 4,1 aecurrency sign m + n aecurrency sign 4) complexes has been investigated using ab initio quantum chemical methods. Interaction energy values computed at the MP2 level of theory using the 6-31G(d,p) basis set reveal a qualitative trend in the relative affinity of different cations for benzene and water in these complexes. The pi-cloud thickness values for benzene have also been estimated for these systems.

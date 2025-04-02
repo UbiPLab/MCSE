@@ -1,0 +1,5 @@
+DE Autonomous vehicles; Task analysis; Cloud computing; Edge computing;
+   Planning; Computational modeling; Bandwidth; Autonomous driving;
+   computation offloading; edge computing; Internet of Things (IoT);
+   simultaneous localization and mapping (SLAM)
+AB A key challenge for autonomous driving is to process a massive amount of sensor data and make safe and reliable decisions in real time. However, autonomous vehicles often have insufficient onboard resources to provide the required computation capacity. To address this problem, this article advocates a novel approach to offload computation-intensive autonomous driving services to roadside units and cloud for swift executions. Our approach combines an integer linear programming (ILP) formulation for offline optimization of the scheduling strategy and a fast heuristics algorithm for online adaptation. We verify our technique with both synthetic task graphs and real-world deployment. The experimental results show that our approach can improve system performance effectively.

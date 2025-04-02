@@ -1,0 +1,4 @@
+DE Multiparty quantum summation; quantum cryptography; quantum experience;
+   quantum computation
+ID COMPUTATION
+AB The secure multiparty quantum summation is an important primitive of quantum cryptography. The existing multiparty quantum summation protocols have (n, n) threshold approach, where n out of total n players need compute the summation protocol. In this brief, we present a generalized secure multiparty quantum summation protocol. In our protocol, the linear secret sharing (LSS) and Quantum Fourier Transform (QFT) are used to take the advantages of both classical and quantum summation. We show that the outside and participant attacks are not possible in our protocol. We simulate it using the real quantum processor released by IBM corporation on "cloud".

@@ -1,0 +1,6 @@
+DE Network resource allocation; Distributed network optimization; Cloud
+   center; edge server
+ID DECENTRALIZED CONSENSUS OPTIMIZATION; ALGORITHM; CONVERGENCE; GRIDS;
+   ADMM
+AB This paper considers the collaborative resource allocation problem over a hybrid cloud center and edge server network, an emerging infrastructure for efficient Internet services. The cloud center acts as a pool of inexhaustible computation and storage powers. The edge servers often have hunted computation and storage powers but are able to provide quick responses to service requests from end users. Upon receiving service requests, edge servers assign them to themselves, their neighboring edge servers, as well as the cloud center, aiming at minimizing the overall network cost.
+   This paper first establishes an optimization model for this problem. Second, in light of the separable structure of the optimization model, we utilize the alternating direction method of multipliers (ADMM) to develop a fully collaborative resource allocation algorithm. The edge servers and the cloud center autonomously collaborate to compute their local optimization variables and prices of network resources, and reach an optimal solution. Numerical experiments demonstrate the effectiveness of the hybrid network infrastructure as well as the proposed algorithm.

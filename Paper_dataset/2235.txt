@@ -1,0 +1,4 @@
+DE Cloud computing; Big Data; Orchestration; Hadoop; Occopus;
+   Contextualisation; Scalability; Cost analysis
+ID MAPREDUCE
+AB Nowadays a significant part of the cloud applications processes a large amount of data to provide the desired analytics, simulation and other results. Cloud computing is becoming a widely used IT model to address the needs of many scientific and commercial Big Data applications. In this paper, we present a Hadoop platform deployment method for various cloud infrastructures with the Occopus cloud orchestrator tool. Our automated solution provides an easy-to-use, portable and scalable way to deploy the popular Hadoop platform with the main goal to avoid vendor locking issues, i.e. there is no dependency on any cloud provider prepared and offered virtual machine image or "black-box" Platform as a Service mechanism. The paper presents promising performance measurements results and cost analysis.

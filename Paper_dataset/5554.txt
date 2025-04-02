@@ -1,0 +1,8 @@
+DE particle swarm optimisation; grey systems; resource allocation;
+   optimisation; cloud computing; optimal resource allocation; management
+   model; optimal container allocation; velocity-updated grey wolf
+   optimisation; particle swarm optimisation; grey wolf optimization;
+   optimised resource allocation; optimal container resource allocation;
+   cloud sector; microservice pattern; VU-GWO
+ID GENETIC ALGORITHMS; VIRTUAL MACHINES; AVAILABILITY; SERVICE
+AB In the cloud sector, as the applications used by users are exploited via micro-service pattern, the container allocation seems to be the most vital process. This has further been concentrated with more care for its beneficiary acts like easier employment, limited overheads and higher portability. For the past few decades, various contributions have been made under the container management and allocation as well. Under these circumstances, this study intends to design an optimal resource allocation and management model by incorporating the concept of optimisation, which guarantees optimal container allocation. To make this possible, this study establishes a novel hybrid algorithm, namely velocity-updated grey wolf optimisation (VU-GWO), which is the hybridisation of two renowned algorithms particle swarm optimisation and grey wolf optimization, respectively. More importantly, the solution of optimised resource allocation is influenced by the designing of a novel objective function, which concerns the constraints like balanced cluster use, threshold distance, system failure, and total network distance as well. At last, the performance of the presented scheme is evaluated over other traditional schemes, and the betterment of the proposed model is validated.

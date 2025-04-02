@@ -1,0 +1,4 @@
+DE Mobile Internet of Things; Data privacy; Homomorphic encryption; Cloud
+   computing; Artificial intelligence
+ID SECURITY; INTERNET
+AB The data privacy concerns are increasingly affecting the Internet of things (IoT) and artificial intelligence (AI) applications, in which it is very challenging to protect the privacy of the underlying data. In recent, the advancements in the performances of homomorphic encryption (HE) make it possible to help protect sensitive and personal data in IoT applications using homomorphic encryption based schemes. This paper proposed a practical homomorphic encryption scheme that can enable data users in IoT systems to securely operate data over encrypted data, which can effectively protect the privacy of key data in the system. The experimental results demonstrated the effectiveness proposed scheme.

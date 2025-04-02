@@ -1,0 +1,4 @@
+DE Cloud computing; health management; health metadata; image processing
+   (IP); visual face feature
+ID COLOR
+AB In this paper, a visual face feature extraction scheme using image processing techniques for health management systems is proposed. Five visual face features, i.e., face contours, face colors, smile lines, hairlines, and melanocytes, were detected, extracted, stored, and retrieved for healthcare management. These actions were performed using the software services in cloud computing environments. Users can periodically browse the changes of the face shapes and texture features. Chinese medical doctors could also check the extracted visual features and give some suggestions for patients via the Internet.

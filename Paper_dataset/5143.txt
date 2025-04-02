@@ -1,0 +1,4 @@
+DE cloud computing; data security; privacy information; cloud computing
+   provider
+ID FRAMEWORK
+AB Cloud computing is becoming the hotspot in the area of information technology. However, when examining its convenience and strong ability in data processing, we also find that great challenges appear in terms of data security and privacy information protection. In this paper, firstly, the current security and privacy information challenges have been surveyed. Second, the current security measures are summarised as well.

@@ -1,0 +1,7 @@
+DE Additive manufacturing; Gamma titanium aluminide; Ti-48Al-2Cr-2Nb;
+   Electron beam melting; Microstructure evolution; Defect; Tomography;
+   Fracture toughness; Fatigue
+ID TITANIUM ALUMINIDE ALLOY; FRACTURE-TOUGHNESS; CYCLIC COMPRESSION;
+   CRACK-PROPAGATION; BEHAVIOR; FATIGUE; ORIENTATION; PRECRACKING;
+   EVOLUTION; CAST
+AB The present work was conducted to establish an initial understanding of the processing-microstructure-property relations for gamma-TiAl manufactured by electron beam powder bed fusion. The investigation included microstructure characterization at different length scales of near-g titanium aluminide Ti-48Al-2Cr-2Nb (in atom pct) in addition to evaluating the compressive strength, microstructures, fracture toughness, and fatigue crack growth behavior. Micro-CT revealed significant variations in the spatial distribution of internal defects along the build of the as-deposited sample, while HIP reduced these defects. However, inhomogeneous microstructures were exhibited in both the as-deposited and HIP materials while HIP processing reduced both the yield strength and amount of scatter in mechanical properties. Despite these observations, fracture toughness and fatigue crack growth results were in the range of those reported for conventionally cast material. The use of cloud computing provided an efficient means for data management, microstructure analytics, and collaboration among various contributors to the work. (C) 2017 Elsevier B.V. All rights reserved.

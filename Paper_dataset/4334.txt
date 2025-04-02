@@ -1,0 +1,5 @@
+DE Cloud computing virtual reality; Emerging services and analytics by
+   virtual reality; Academic proposals for organizational and industrial
+   adoption
+ID ADOPTION; MODELS
+AB This paper presents a high-level overview of Emerging Services and Analytics in Cloud Computing virtual reality including the rationale, technologies involved, selected examples, and contributions. Examples in health care, business, climate change, and natural disaster have been demonstrated to support Emerging Services and Analytics by virtual reality, which can allow scientists to understand the complexity behind science and process thousands of data within seconds. Not only scientists with deep knowledge but also the general public can understand part of the outputs and illustrations from different types of examples and outputs from other disciplines. Businesses can achieve business agility, improvement in efficiency, monitoring the daily work, and analyzing key performance indicators up to date and in real time. We present the case of Emerging Services and Analytics by virtual reality to discuss its contributions and future directions.

@@ -1,0 +1,5 @@
+DE Cloud manufacturing; Optimization; Supply-demand match; Intelligent
+   algorithm
+ID SERVICE COMPOSITION; OPTIMAL CONFIGURATION; OPTIMAL-SELECTION;
+   ALGORITHM; DISCOVERY; INTERNET; DESIGN; THINGS
+AB Recently, the new generation of information technology as cloud computing, big data, IoT, and AI has led to profound changes in manufacturing. Many new technologies and ideas have emerged in the field of system development, manufacturing process, industrial form, and business model, such as cloud manufacturing (CM). The primary feature of CM is to realize the integration and widely sharing of manufacturing services. Therefore, optimization of manufacturing services is vital for a CM system. Based on wide investigation, this paper summarizes the research progress of CM service optimization in recent years from the aspects of optimization strategy, optimization model, and optimization algorithm. And problems and development trends such as the research of task decomposition, service discovery and optimization integration, algorithm with big data, and optimized object are proposed.

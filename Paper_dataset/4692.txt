@@ -1,0 +1,7 @@
+DE Cloud computing ethics; Court of Justice of the European Union; Online
+   reputation; Right to forget; Transparency
+ID WORD-OF-MOUTH; ADOPTION; REVIEWS
+AB Objective. This article has as main objective to analyze the current situation and the future previsions that can have the lack of privacy in the cloud or cloud computing. Deleting personal data that indexes the Google binder, such as removing a photo from Facebook, deleting a link from an unfortunate news or erasing the past on the network can be a task that we feel impossible. Those who pursue objectives as diverse as those mentioned unanimously invoke the "right to forget" based on plausible motivations.
+   Method. This study has contrasted the views of stakeholders, lawyers and experts in online reputation and personal brand communication, to reach a series of conclusions of great utility for experts, managers and users in general.
+   Results. The results show the lack of legal protection and the responsibility of the search engines in the ethical and, in some cases, legal violation of these rights.
+   Conclusions. Privacy is going to become the main dilemma for search engines. This conclusion comes from the controversies and the numerous denunciations that point to both the origin of the information and the tool. Normally, the tool is the search engine, which provides general access to data that interested parties would prefer to delete or forget.

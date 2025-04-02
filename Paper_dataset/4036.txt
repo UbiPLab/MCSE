@@ -1,0 +1,5 @@
+DE Cloud Computing; Edge Computing; Network Slicing; Resource Management;
+   5G; 5G RAN Techniques
+ID COGNITIVE RADIO NETWORKS; SPECTRUM ALLOCATION; C-RAN; EDGE; INFORMATION;
+   MECHANISM; SELECTION; SDN
+AB With the rapid growth of network traffic, a large number of connected devices, and higher application services, the traditional network is facing several challenges. In addition to improving the current network architecture and hardware specifications, effective resource management means the development trend of 5G. Although many existing potential technologies have been proposed to solve the some of 5G challenges, such as multiple-input multiple-output (MIMO), software-defined networking (SDN), network functions virtualization (NFV), edge computing, millimeter-wave, etc., research studies in 5G continue to enrich its function and move toward B5G mobile networks. In this paper, focusing on the resource allocation issues of 5G core networks and radio access networks, we address the latest technological developments and discuss the current challenges for resource management in 5G.

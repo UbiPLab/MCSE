@@ -1,0 +1,4 @@
+DE distributed computing; resource management; task scheduling; secure data
+   processing; computing node state monitoring; local data agent
+ID CLOUD; ALLOCATION
+AB This article considers the ensuring of secure data processing in distributed computer systems (DCSs), which is important for a certain class of computing tasks. An approach to the resource management in DCSs is proposed that makes it possible to take into account, according to user requirements, both the time spent on the execution of a task and the security level of the system resources involved in its execution.

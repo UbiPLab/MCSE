@@ -1,0 +1,3 @@
+DE information systems; information technology; cloud computing; business
+   information protection; IT infrastructure
+AB This article presents the results of studies of methodological and applied aspects of information resources management in the context of informatization of business processes in an enterprise. A special place is given to cloud information services and information data protection subsystem as the most important components of improving the IT infrastructure of production facilities.

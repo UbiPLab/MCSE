@@ -1,0 +1,4 @@
+DE Knowledge Heterogeneity; Transdisciplinarity; Sustainability and
+   Knowledge Transcendence
+ID SUSTAINABLE DEVELOPMENT; INNOVATION; SYSTEMS
+AB Global operability in multidimensional capacities and the emerging technologies such as bigdata, cloud computing and IoT, produces large amount of heterogenetic knowledge units, with high velocity and variety, thus possessing extremely dynamic properties. Therefore a need arises to develop a mechanism to access these heterogenetic knowledge units spread across global knowledge repositories. This knowledge however can only be beneficial in pursuit of value creation if it is rendered into homogenetic knowledge, which shall be linked with both, contextual and shareable application domains. The paper presents a strategic approach for solving the emerging challenges in knowledge management w.r.t knowledge heterogeneity using artificial general intelligence.

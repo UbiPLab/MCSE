@@ -1,0 +1,1 @@
+AB We present Internet of Things (IoT) deployment in a tomato greenhouse in Russia. The IoT enabling technologies applied for this deployment comprise a wireless sensor network, cloud computing, and artificial intelligence. They are to help in monitoring and controlling of both plants and greenhouse conditions as well as predicting the growth rate of tomatoes.

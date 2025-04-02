@@ -1,0 +1,4 @@
+DE smart city; Internet of Things; IaaS cloud; semantic web; machine
+   learning
+ID FRAMEWORK
+AB #SmartME is a crowdfounding project that aims at exploring the possible synergies between the cloud computing and the Internet of Things paradigms. The project's main aim is to morph Messina into a smart city. In this direction, the Stack4Things framework has been implemented, extending OpenStack towards the management of Internet of Things resources. This paper summarises the first two years of the #SmartME project and presents technical details about Stack4Things with specific reference to the underlying technologies and to the web portals that are used for administration and semantically-enabled data retrieval.

@@ -1,0 +1,3 @@
+DE Communications Cost; Performance Moddelling; Performance Evaluation;
+   PEPA; Cloud Computing
+AB This study presents a performance evaluation of the deployment of partitioned workflows over hybrid clouds taking into account the cost of transfer data delay. This paper extends previous work on the cost of security in cloud computing based on the multi-level security model. This research aims to provide performance predictions of different deployment options in public and private clouds in terms of the computation and communication costs. The Markovian process algebra PEPA is used to evaluate the models behaviour under different scenarios.

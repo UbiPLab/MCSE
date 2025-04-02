@@ -1,0 +1,4 @@
+DE Cloud computing; Standards; Interoperability; Federation
+AB Technology market is continuing a rapid growth phase where different resource providers and Cloud Management Frameworks are positioning to provide ad-hoc solutions-as management interfaces, information discovery or billing-trying to differentiate from competitors resulting in incompatibilites between them when addressing more complex scenarios like federated clouds.
+   Therefore, grasping interoperability problems present in current infrastructures by studying how existing and emerging standards could enhance the cloud user experience.
+   In this paper we will review the current open challenges in Infrastructure as a Service cloud interoperability and federation, as well as point to the potential standards that should alleviate these problems. (C) 2016 Elsevier B.V. All rights reserved.

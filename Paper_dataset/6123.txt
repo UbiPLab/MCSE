@@ -1,0 +1,1 @@
+AB Cloud computing infrastructures offer many advantages to users, including large storage and high computation power. However, offloading workloads to hosting environments raises trust and privacy concerns. Algorithms that address these concerns require multiple network transactions and have low performance.

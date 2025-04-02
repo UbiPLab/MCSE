@@ -1,0 +1,5 @@
+DE VM scheduling; VM placement; VM configuration; cloud computing
+ID REINFORCEMENT LEARNING APPROACH; RESOURCE-ALLOCATION; CONSOLIDATION;
+   PLACEMENT; PERFORMANCE; MIGRATION; MANAGEMENT; ALGORITHM; SCHEDULER;
+   MODEL
+AB Cloud computing enables users to provision resources on demand and execute applications in a way that meets their requirements by choosing virtual resources that fit their application resource needs. Then, it becomes the task of cloud resource providers to accommodate these virtual resources onto physical resources. This problem is a fundamental challenge in cloud computing as resource providers need to map virtual resources onto physical resources in a way that takes into account the providers' optimization objectives. This article surveys the relevant body of literature that deals with this mapping problem and how it can be addressed in different scenarios and through different objectives and optimization techniques. The evaluation aspects of different solutions are also considered. The article aims at both identifying and classifying research done in the area adopting a categorization that can enhance understanding of the problem.

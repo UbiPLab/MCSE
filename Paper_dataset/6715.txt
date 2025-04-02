@@ -1,0 +1,3 @@
+DE Cloud computing; simulation; cloud simulator; cloud performance
+   analysis; simulator features
+AB Cloud computing has emerged during the last decade and turned out to be an essential component for today's business. Therefore, many solutions are being proposed to optimize and secure the cloud computing environment. To test and validate the proposed solutions before deploying in real cloud infrastructure, a cloud computing simulator is the key requirement. There are several cloud computing simulators that have been used by research community for this purpose. In this paper, we have discussed modern cloud simulators and presented comprehensive comparison based on their features.

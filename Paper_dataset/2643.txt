@@ -1,0 +1,3 @@
+DE Linked Data; RDF; Semantic Web; Web Platforms; XML
+AB The latest development trends of information technology are represented by social computing, mobile computing and cloud computing. User participation and interaction generated in social websites led to a rapid increase in web-based data and by combining with mobile environment, it acts as a catalyst that connects online and offline platforms.
+   Accordingly, this study designed a web platform expansion function module that can enhance the accessibility to data from various applications using RDF/XML standard formats for data by applying Linked Data technology for various data and developed an application prototype system based on this.

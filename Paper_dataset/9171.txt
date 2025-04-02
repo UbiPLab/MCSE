@@ -1,0 +1,5 @@
+DE First-Year Undergraduate/General; Second-Year Undergraduate;
+   Upper-Division Undergraduate; Graduate Education/Research;
+   Chemoinformatics; Computer-Based Learning; Internet/Web-Based Learning;
+   Collaborative/Cooperative Learning
+AB Many U.S. colleges and universities are adopting cloud computing, which may be defined as a distributed computing system that provides access to virtual resources, including computer hardware, networks, software, development platforms, and memory, at an off-site location and that can be accessed locally. Thus, far, this development has been driven primarily by the hope for administrative benefits, but the cloud also presents some excellent opportunities for chemical educators. Moving to the cloud can allow every student in a class to have access to all of the resources necessary for the class, simply by accepting an invitation to join a site. This encourages collaboration and the development of new educational models.

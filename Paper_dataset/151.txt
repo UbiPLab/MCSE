@@ -1,0 +1,5 @@
+DE Adaptive Four Threshold; Cloudsim; Energy Efficiency; Fuzzy Logic; Host
+   Classification; SLA Violation Rate; VM Consolidation; VM Selection
+ID COMPUTING ENVIRONMENTS; VIRTUAL MACHINES; ENERGY; PERFORMANCE; POWER;
+   MIGRATION
+AB Cloud computing has grown exponentially in the recent years. Data growth is increasing day by day, which increases the demand for cloud storage, which leads to setting up cloud data centers. But they consume enormous amounts of power, use the resources inefficiently, and also violate service-level agreements. In this paper, an adaptive fuzzy-based VM selection algorithm (AFT_FS) is proposed to address these problems. The proposed algorithm uses four thresholds to detect overloaded host and fuzzy-based approach to select VM for migration. The algorithm is experimentally tested for real-world data, and the performance is compared with existing algorithms for various metrics. The simulation results testify to the proposed AFT_FS method is the utmost energy efficient and minimizes the SLA rate compared to other algorithms.

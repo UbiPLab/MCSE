@@ -1,0 +1,3 @@
+DE Edge computing; Cloud computing; Sensors; Quality of service; Industries
+ID INTERNET; THINGS; SECURITY; IOT
+AB Blockchain and fog computing are being evaluated as potential support for software and a wide spectrum of critical applications. This article presents the knowledge of blockchain and fog computing required to improve cyberphysical systems. Emerging challenges and issues are also discussed.

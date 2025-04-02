@@ -1,0 +1,6 @@
+DE Computational modeling; Resource management; Genetic algorithms;
+   Electronic mail; Cloud computing; Support vector machines; Web services;
+   Computer networks; Platform virtualization; Web services; Genetic
+   algorithms; Predictive models
+ID PREDICTION; SYSTEMS
+AB Resource allocation in Cloud Computing has been done reactively, hindering service guarantees and generating unnecessary charging of idle resources. In order to mitigate these problems, this work proposes and evaluates a predictive resource allocation approach, implemented as a Configuration Recommender, based on Support Vector Regression (SVR) and Genetic Algorithms (GA). This combination is used to estimate application runtime and recommends a viable and valid configuration of resources in the cloud, regarding execution time and monetary costs. As a case study, machine learning applications based on the Weka tool are chosen. The results show that predicted times were very close to actual ones, achieving an efficient estimation of time and cost and their consequent reduction.

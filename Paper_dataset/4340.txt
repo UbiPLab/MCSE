@@ -1,0 +1,9 @@
+DE matrix algebra; cloud computing; least squares approximations; computer
+   vision; computer graphics; image registration; effective outlier matches
+   pruning algorithm; point cloud registration; distance disparity matrix;
+   removal strategy; initial alignment; pairwise registration; point
+   matches; feature detection; feature matching; Euclidean invariants;
+   rigid transformation; pruning method; least-square backward method;
+   input point clouds; computer graphics; computer vision
+ID RANGE; TRACKING; FEATURES; OBJECTS
+AB This study focuses on fast and robust outlier matches removal strategy to improve the efficiency and precision of initial alignment and further the quality of pairwise registration. Starts from the point matches obtained via feature detecting and matching, the distance disparity matrix derived from Euclidean invariants of rigid transformation is introduced, based on which a fast and effective pruning method is proposed to eliminate the outlier correspondences, especially the sharp ones. Then, the remaining matches are sent into the enhanced least-square backward method to estimate an initial transformation in lesser attempts. Since most of the outliers are rejected, presented backward method could provide a finer alignment to input point clouds in higher efficiency than existing methods, and the following refining procedure converges to a more precise registration consuming fewer iterations, which have been proved in designed experiments. The thresholds employed in the pipeline are all automatically determined according to the actual resolution of input point clouds. Users are just required to control the error precision through a scale factor, in which way the inaccuracy and inconvenience of manually threshold defining are avoided.

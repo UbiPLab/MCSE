@@ -1,0 +1,10 @@
+ID SURFACE REGISTRATION; NAVIGATION; SURGERY; SEGMENTATION; SELECTION;
+   SYSTEM
+AB Purpose
+   A growing number of medical applications, including minimal invasive surgery, depends on multi-modal or multi-sensors data processing. Fast and accurate 3D scene analysis, comprising data registration, seems to be crucial for the development of computer aided diagnosis and therapy. The advancement of surface tracking system based on optical trackers already plays an important role in surgical procedures planning. However, new modalities, like the time-of-flight (ToF) sensors, widely explored in non-medical fields are powerful and have the potential to become a part of computer aided surgery set-up. Connection of different acquisition systems promises to provide a valuable support for operating room procedures. Therefore, the detailed analysis of the accuracy of such multi-sensors positioning systems is needed.
+   Methods
+   We present the system combining pre-operative CT series with intra-operative ToF-sensor and optical tracker point clouds. The methodology contains: optical sensor set-up and the ToF-camera calibration procedures, data pre-processing algorithms, and registration technique. The data pre-processing yields a surface, in case of CT, and point clouds for ToF-sensor and marker-driven optical tracker representation of an object of interest. An applied registration technique is based on Iterative Closest Point algorithm.
+   Results
+   The experiments validate the registration of each pair of modalities/sensors involving phantoms of four various human organs in terms of Hausdorff distance and mean absolute distance metrics. The best surface alignment was obtained for CT and optical tracker combination, whereas the worst for experiments involving ToF-camera.
+   Conclusion
+   The obtained accuracies encourage to further develop the multi-sensors systems. The presented substantive discussion concerning the system limitations and possible improvements mainly related to the depth information produced by the ToF-sensor is useful for computer aided surgery developers.

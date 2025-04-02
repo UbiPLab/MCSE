@@ -1,0 +1,3 @@
+DE Cloud Computing; Fuzzy logic; Neural Network; Kalman Filter;
+   Neuro-Fuzzy; Quantum Differential Evolution Algorithm
+AB The main target of this paper is to forecast the cloud computing load in the google trace, it presents the use of Kalman filter with a Neuro-fuzzy system composed of an Adaptive Neuro-Fuzzy Inference System (ANFIS) optimized by Quantum Differential Evolution Algorithm. The algorithm was evaluated with actual google cluster trace data and proved the weakness of the comparative method by showing much improved and better predictions by finding the best value for optimization variable in ANFIS using a quantum differential evolution algorithm after applying kalman filter.

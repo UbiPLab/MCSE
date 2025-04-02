@@ -1,0 +1,2 @@
+DE Cloud computing; Storage services; Performance analysis
+AB This paper describes the development and implementation of a lightweight software solution, called OSSperf, which can be used to investigate the performance of object-based public cloud storage services like Amazon S3, Google Storage and Microsoft Azure Blob Storage, as well as private cloud re-implementations. Furthermore, this paper presents an explanation of the output of the tool and some lessons learned during the implementation.

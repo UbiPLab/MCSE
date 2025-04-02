@@ -1,0 +1,4 @@
+DE Servers; Encryption; Cloud computing; Logic gates; Indexes; Wires;
+   Outsourcing; Ciphertext-policy attribute-based encryption; verifiable
+   delegation; multilinear map; hybrid encryption
+AB The scheme [1] is flawed because: (1) its circuit access structure is confusingly described; (2) the cloud server cannot complete the related computations; (3) some users can conspire to generate new decryption keys, without the help of the key generation authority.

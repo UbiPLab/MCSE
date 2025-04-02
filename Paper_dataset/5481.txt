@@ -1,0 +1,3 @@
+DE Cloud computing; Edge computing; Privacy; Data privacy; Business;
+   Security
+AB Despite broad discussions on privacy challenges arising from fog computing, the authors argue that privacy and security requirements might actually drive the adoption of fog computing. They present four patterns of fog computing fostering data privacy and the security of business secrets, complementing existing cryptographic approaches. Their practical application is illuminated on the basis of three case studies.

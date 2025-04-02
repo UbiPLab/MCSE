@@ -1,0 +1,4 @@
+DE artificial intelligence; digitization of medicine; clinical decision
+   support
+ID BLOOD-PRESSURE; MANAGEMENT; PREVALENCE; DEMENTIA; DISEASE; SYSTEM; RISK
+AB Advances in the application of artificial intelligence, digitization, technology, iCloud computing, and wearable devices in health care predict an exciting future for health care professionals and our patients. Projections suggest an older, generally healthier, better-informed but financially less secure patient population of wider cultural and ethnic diversity that live throughout the United States. A pragmatic yet structured approach is recommended to prepare health care professionals and patients for emerging pharmacotherapy needs. Clinician training should include genomics, cloud computing, use of large data sets, implementation science, and cultural competence. Patients will need support for wearable devices and reassurance regarding digital medicine.

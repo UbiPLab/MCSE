@@ -1,0 +1,4 @@
+DE aerodynamics; computational fluid dynamics; modeling and simulations;
+   OpenFOAM; Son of Grid Engine
+ID PROJECTS
+AB This paper proposes visualization based on augmented reality (AR) for aerodynamics simulation in a sustainable cloud computing environment that allows the Son of Grid Engine different types of computers to perform concurrent job requests. A simulation of an indoor air-purification system is performed using OpenFOAM computational fluid dynamics solver in the cloud computing environment. Post-processing converts the results to a form that is suitable for AR visualization. Simulation results can be displayed on devices, such as smart phones, tablets, and Microsoft HoloLens. This AR visualization allows for users to monitor purification of indoor air in real time.

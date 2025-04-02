@@ -1,0 +1,5 @@
+DE Cloud computing services; TOE; Innovation diffusion theory; IS adoption
+ID STRUCTURAL EQUATION MODELS; INFORMATION-TECHNOLOGY; E-BUSINESS;
+   ORGANIZATIONAL ASSIMILATION; COMPUTING ADOPTION; COMMERCE ADOPTION;
+   SECURITY ISSUES; E-PROCUREMENT; EDI ADOPTION; SUPPLY CHAIN
+AB Cloud computing services offer enterprise clients many advantages such as reduced costs, easy maintenance and the easy re-provisioning of resources, thus contributing to increased profits. However, little is known about the adoption behavior of such services among enterprises. This study applies the technology-organization-environment framework to investigate determinants of cloud computing service adoption behavior. Data collected from 102 valid enterprises in Taiwan provide strong support for the model. Results indicate that technological (i.e., relative advantage, observability and security), organizational (i.e., financial costs and satisfaction with existing IS) and environmental (i.e., competition intensity) factors were positively related to intention to adopt cloud computing services, accounting for 52 % of variance. Implications and limitations are discussed.

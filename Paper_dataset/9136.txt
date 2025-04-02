@@ -1,0 +1,3 @@
+DE interactive translation dictation; multimodal interaction; voice
+   recognition; ubiquitous computing; mobile computing; cloud computing
+AB This article provides a general overview of interactive translation dictation (ITD), an emerging translation technique that involves interacting with multimodal voice-and-touch-enabled devices such as touch-screen computers, tablets and smartphones. The author discusses the interest in integrating new techniques and technologies into the translation sector, provides a brief description of a recent experiment investigating the potential and challenges of ITD and outlines avenues for future work.

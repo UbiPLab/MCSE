@@ -1,0 +1,4 @@
+DE Edge computing; Internet of Things (IoT); open cloud computing interface
+   (OCCI); REST; WebSocket
+ID INTERNET
+AB The infrastructure that supports the Internet of Things (IoT) is a critical component and major ICT industries are ready to propose their solutions. This paper is an attempt to define an approach based on the principles of openness and expandability. Our proposal encompasses both the application level interface of the IoT infrastructure, which allows interaction with external applications, and the interface offered by the single components of the infrastructure, which allows interaction and coordination between the components. In both cases we adopt an REST approach using HTTP for communication. Our purpose is to contribute to the production of a standard for IoT infrastructures and components, to foster an open competition in a fast growing market.

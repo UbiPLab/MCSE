@@ -1,0 +1,2 @@
+ID CLOUD
+AB Fog computing provides a distributed infrastructure at the edge of the network, resulting in low-latency access and faster response to application requests. With this new level of computing capacity, new forms of resource allocation and management can be developed to take advantage of the fog infrastructure.

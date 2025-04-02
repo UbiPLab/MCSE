@@ -1,0 +1,6 @@
+DE cloud computing; personal data; constitutional law; property law;
+   private law; social media; software as a service
+AB Theme and scope: This reflection paper aims to analyze personal data processing in Colombia by companies that offer software as a service (SaaS), especially the regulation regarding habeas data in Colombia and related principles established by case law.
+   Characteristics: Various contractual types are analyzed from private law and the importance of regulating personal data processing in the platforms providing the SaaS service is determined, based not only on constitutional principles, but also on the use of private law regulations.
+   Findings: The application of constitutional principles plays a significant role when regulating the contractual types of technology companies, although contracts are also crucial according to the principles laid down by the law and case law on personal data.
+   Conclusions: We could demonstrate the importance of determining product ownership and data ownership, as well as the relevance of stipulating these aspects in the technological platforms using the SaaS model to operate in Colombia.

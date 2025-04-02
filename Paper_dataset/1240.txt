@@ -1,0 +1,3 @@
+DE SaaS; intelligent house; artificial neural network; machine learning;
+   control system structure
+AB The article presents the usage of the SaaS cloud computing model in "intelligent house" systems for optimization of computation load between the client and server parts of the system. Also was developed artificial neural network model for detection of irrational electricity usage by devices of the "intellectual house".

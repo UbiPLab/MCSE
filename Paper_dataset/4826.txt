@@ -1,0 +1,6 @@
+DE Cloud computing capability; business value; complexity; trialability;
+   security
+ID INFORMATION-TECHNOLOGY; DYNAMIC CAPABILITIES; FIRM PERFORMANCE;
+   COMPETITIVE ADVANTAGE; MANAGEMENT; INNOVATION; KNOWLEDGE; STRATEGY;
+   VALIDITY; SYSTEMS
+AB Cloud computing can help organizations create business value for long-term viability and sustainability by providing flexibility and versatility. We report a systematic analysis of the central role of cloud computing capability in bridging the information technology (IT) features of cloud computing and its business value. We posit that the IT features of cloud computing lead to measureable increase in business value on both dimensions of performance benefit and collaboration benefit through cloud computing capability. Survey data collected from 174 firms largely support our hypotheses. This study offers fine-grained insights into the mechanisms of how the IT features of cloud computing influence the business value stemming from cloud computing. Firms should focus more on cultivating organizational capabilities to effectively deploy cloud computing in order to harvest the benefits promised by cloud computing.

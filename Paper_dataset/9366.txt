@@ -1,0 +1,4 @@
+DE cyberspace security; information security; information system security;
+   cryptography; trusted computing
+ID DIRECT ANONYMOUS ATTESTATION; FORMAL ANALYSIS
+AB Trusted computing, which can effectively increase the credibility of information system, has made great achievements and is in continuous development. For country who is going to strengthen network construction like China, it is an important fundamental supporting technology worth researching. China is in the international forefront in the field of trusted computing. This paper gives comprehensive introductions to the new development and application of key technologies in trusted computing, such as various trusted platform modules (TPM, TCM, TPCM), TCG Software Stack (TSS), trusted cloud server and Trusted Execution Environment (TEE). We illustrate the progressing and application extension of these technologies and also point out some key problems worth studying in the future.

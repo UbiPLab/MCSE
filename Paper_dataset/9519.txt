@@ -1,0 +1,5 @@
+DE Anomaly Detection; Cloud Computing; DST (Dempster-Shafer Theory); FCM
+   (Fuzzy C-Means) Clustering; IDS (Intrusion Detection System); KNN;
+   NSL-KDD Dataset; PRFCM (Penalty Reward Based FCM) Clustering
+ID CLASSIFIER
+AB Cloud computing has established a new horizon in the field of Information Technology. Due to the large number of users and extensive utilization, the Cloud computing paradigm attracts intruders who exploit its vulnerabilities. To secure the Cloud environment from such intruders an Intrusion Detection System (IDS) is required. In this paper the authors have proposed an anomaly based IDS which classifies an incoming connection by taking the deviation of it from the normal behaviors. The proposed method uses a novel Penalty Reward based Fuzzy C-Means (PRFCM) clustering algorithm to generate a rule set and the best rule set is extracted from it using a modified approach for KNN algorithm. This best rule set is used in evidential reasoning of Dempster Shafer Theory for classification. The IDS has been trained and tested with NSL-KDD dataset for performance evaluation. The results prove the proposed IDS to be highly efficient and reliable.

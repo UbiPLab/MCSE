@@ -1,0 +1,5 @@
+DE attribute-based encryption; ABE; cloud security; hash algorithm;
+   cipher-text policy attribute-based encryption; CPABE; key policy
+   attribute-based encryption; KPABE
+ID PRIVACY
+AB Cloud computing has evolved as widely accepted and used paradigm for service providers as well as customers on internet. As users share their sensitive information on cloud, it has become the major concern of the cloud service providers to make their environment more secure and trustworthy. For adding extended security, the sensitive data are needed to be encrypted prior to its upload on cloud. The numbers of cryptographic algorithms are proposed by various researchers for this purpose. The main objectives of the attribute-based encryption (ABE) models are to achieve security and access control. To resolve the issue of this conventional attribute-based model, a novel modified and extended hash-based ABE model was implemented on the cloud storage data. Experimental results proved that the proposed model has high computational accuracy compared to traditional ABE models in terms of time and data size concerned.

@@ -1,0 +1,5 @@
+DE Ambience based fall detection; voice recorder based health system;
+   wireless sensor networks (WSN's); IoT (Internet of Things); Cloud
+   computing; smart health care system
+ID DETECTION SYSTEM; ACTIVITY RECOGNITION
+AB Now a day's falls are the second ruling cause to unintentional injury death of elderly person. Fall detection methods are introduced to assist the elderly person. For any type of patient irrespective of age, first one to two hours treatment is crucial at the time of emergency. Before starting the treatment, it would be very helpful if caregivers know exact injury type. This paper aims to propose a framework on IoT and cloud computing based fall detection scheme using ambient sensors along with voice recording. With the help of voice clip and fall alarm, patient had a feasibility to inform exact injury to hospital. Hospital people will facilitate relevant department services to start quick treatment.

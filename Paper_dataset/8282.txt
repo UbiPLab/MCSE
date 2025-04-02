@@ -1,0 +1,12 @@
+DE resource allocation; probability; protocols; quality of service; cloud
+   computing; virtualisation; wireless sensor networks; model leverages;
+   constrained application protocol; standard interface; transparently
+   decoupling; custom QoS metrics; virtualisation techniques;
+   prediction-based dynamic resource allocation approach; given service
+   rate; required QoS; resource cost; service performance; analytical
+   model; optimise industrial cloud; performance evaluation; CoAP proxy
+   virtualisation; cloud-assisted sensor networks; scalable proxy
+   virtualisation framework; delay sensitive applications; cloud-based
+   large-scale sensor networks
+ID EDGE; INTERNET; THINGS
+AB In this study, the authors have modelled the performance of a scalable proxy virtualisation framework to support an appropriate level of quality of service (QoS) for delay sensitive applications in cloud-based large-scale sensor networks. The proposed model leverages the functionalities of a constrained application protocol (CoAP) to expose a standard interface for transparently decoupling of the applications from servers and ensuring the implementation of the custom QoS metrics through virtualisation techniques. The model, combined with the prediction-based dynamic resource allocation approach, enables the computation of the number of requests that can be supported for a given service rate and required QoS. It also features the evaluation of different performance metrics, particularly, the probability distribution of the response time and the ability to identify the optimal balance between the resource cost and the service performance. The numerical results obtained from the proposed analytical model can be used to help design and optimise industrial cloud-based sensing systems.

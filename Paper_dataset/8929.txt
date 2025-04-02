@@ -1,0 +1,4 @@
+DE cloud computing; cloud-based information system in manufacturing; memory
+   reusability; workload balance; ubiquitous computing
+ID LOAD; SYSTEMS; CLUSTER
+AB Ubiquitous service in manufacturing sites prompts the need for cloud-based infrastructure. However, without proper load balance algorithms, implementation of cloud infrastructure would be very costly. This study proposed an effective load-adjusted-profile-oriented (LAPO) allocation algorithm for enhancing memory reusability and improving the performance of servers by balancing their workloads. The LAPO is an enhanced cluster-based algorithm that can place users with the same usage patterns into the same servers to boost memory efficiency. The current study also presented an incremental update algorithm for monitoring and maintaining the reusability of memory. The experiment was conducted on a manufacturing enterprise resource planning which provided ubiquitous service to managers.

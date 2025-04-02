@@ -1,0 +1,9 @@
+DE cloud computing; Internet of Things; efficiency; big data; Industry 4.0;
+   sustainability
+ID CHALLENGES
+AB Purpose: The aim of this study is to propose alternatives of increasing the efficiency of material selection and processing in the selected company and reduce costs and leather sustainability as a result.
+   Methodology/Approach: In this case study, an automotive company processing a natural leather material that enters the process of a large-scale production was explored. For this purpose, the internal documents of the firm selected including its internal database and know-how of its employees were used. The ways of improving the efficiency of the material processing were proposed and tested in a digital environment. In the proposed solutions, Industry 4.0 principles were implemented.
+   Findings: By the use of Digital twin and other Industry 4.0 principles and solutions in the process of material selection and processing in the company selected, the increased efficiency and cost savings were achieved.
+   Research Limitation/implication: The solutions proposed in this paper were based on exploration of the chosen data set of the selected company. For the future research, testing of the given proposals in other companies should be conducted.
+   Originality/Value of paper: Although there is an increasing number of publications describing the concept Industry 4.0, the research providing evidence of its benefits for business entities is still scarce. This paper offers such a research in the enterprise selected.
+   Category: Case study

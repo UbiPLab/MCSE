@@ -1,0 +1,4 @@
+DE Cloud Computing; Remote resource; Optimizing traffic engineering;
+   Multipath routing; Disjoint paths; Parallel transmission
+ID SECURITY; PRIVACY
+AB One of the objectives of organizing cloud systems is to ensure effective access to remote resources by optimizing traffic engineering (TE) procedures. This paper considers the traffic engineering problem in a cloud environment by using a multipath routing technique. The multipath routing algorithm is used to identify the maximum number of disjoint paths in the graph which overcomes the problem in the junction area estimation process. So, the algorithm forms a plurality of non-overlapping and partially intersecting paths between any two nodes is proposed. Finally, the conditions for the formation of multipath virtual channels to ensure minimum build-time posts for the parallel transmission of its parts are also discussed.

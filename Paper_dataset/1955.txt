@@ -1,0 +1,5 @@
+DE Future language learning; Technology-enhanced language learning; Deep
+   neural networks
+ID ENGLISH VOCABULARY; FLIPPED CLASSROOM; COMPUTER GAMES; STUDENTS;
+   LEARNERS; SYSTEM; OPPORTUNITIES; ACQUISITION; PERCEPTIONS; PROFICIENCY
+AB With recent advancements in information technologies and language learning models, rapid innovations of technology-enhanced language learning have been widely witnessed by research communities and educational institutions globally. Powerful new technologies, such as social media and networks, mobile applications, wearable computing, cloud computing, and virtual reality have been integrated into language learning to facilitate various aspects, such as interactivity, immediacy, and authenticity. In this study, we present the Future TELL Model considering learning objectives, theories, and strategies by briefly reviewing recent progresses in this area. Future trends and research issues in technology-enhanced language learning are also discussed in relation to cutting-edge technologies, such as deep neural networks, which have not yet been fully recognized by education technology communities.

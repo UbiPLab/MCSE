@@ -1,0 +1,5 @@
+DE Medial axis transformation; Distance function; Sparse optimization;
+   Point cloud
+ID VECTOR DISTANCE TRANSFORM; SKELETON; 3D; APPROXIMATION; REPRESENTATIONS;
+   ALGORITHMS; SURFACES; SYMMETRY; SHAPE; SETS
+AB In this paper, we propose a robust method to compute the medial axis transformation of a 2D point cloud with noise and/or missing data. The basic approach is to first compute the signed distance function of the point cloud by solving the Eikonal equation, and then an approximation of the signed distance function is obtained by sparse optimization technique. The medial axis of the point cloud corresponds to the non-smooth ridge of the distance function which can be extracted by checking the norm of the gradient of the distance function. The medial axis is segmented into branches and a compact spline representation of each branch can be obtained. We perform experiments on various examples and compare our method with state-of-the-art methods. Experimental results demonstrate that our method outperforms previous methods in obtaining accurate and reliable representations for medial axis transformations of noisy 2D point clouds.

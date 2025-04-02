@@ -1,0 +1,4 @@
+DE Cloud computing; image encryption; fourier transform; random phase
+   function
+ID FRACTIONAL-FOURIER-TRANSFORM; GAUSSIAN-LIKE EIGENVECTORS
+AB In this paper, a novel image encryption approach is proposed in the context of cloud computing applications. A fast special transform based on non-equispaced grid technique is introduced and applied as the first time in image encryption applications. By Combining with Fractional Fourier Transform (FRFT) instead of Discrete Fourier Transform (DFT), a good framework for image encryption is opened to enhance data security degree. The both image encipherment and decipherment process are analyzed based on random phase matrix. The time complexity effort of this novel approach is examined and evaluated. Comparative study with traditional encryption algorithms will prove the efficiency and robustness of our proposed technique.

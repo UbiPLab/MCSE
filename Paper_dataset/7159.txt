@@ -1,0 +1,5 @@
+DE Adaptive systems; cloud computing; cyber-physical systems (CPSs); energy
+   efficiency; industrial-based services; multiobjective optimization;
+   parallel computing; real-time systems
+ID SCHEDULING ALGORITHM; EFFICIENT
+AB Managing energy efficiency under timing constraints is an interesting and big challenge. This paper proposes an accurate power model in data centers for time-constrained servers in Cloud computing. This model, as opposed to previous approaches, does not only consider the workload assigned to the processing element, but also incorporates the need of considering the static power consumption and, even more interestingly, its dependency with temperature. The proposed model has been used in a multiobjective optimization environment in which the dynamic voltage and frequency scaling and workload assignment have been efficiently optimized.

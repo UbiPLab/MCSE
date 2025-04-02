@@ -1,0 +1,2 @@
+DE cloud computing; optimal design; Monte Carlo method
+AB The paper presents an application of modern computer services known as cloud computing for the simple coil geometry optimization problem. The Monte Carlo method is known for its robustness, but also low convergence. The latter shortcoming could be eliminated by large and affordable computational power offered today by cloud providers. The described architecture of the simulation system is based on Microsoft Azure platform with HTCondor as a job manager.

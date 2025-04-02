@@ -1,0 +1,1 @@
+AB Secure Supercloud computing aims to provide security and dependability management of distributed clouds. This approach is both user-centric and self-managed, enabling users to achieve provider independence for security management.

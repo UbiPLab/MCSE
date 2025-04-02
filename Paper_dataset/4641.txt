@@ -1,0 +1,4 @@
+DE CLOUD COMPUTING; EVOLUTIONARY ALGORITHM; FIREFLY ALGORITHM; GREEN
+   COMPUTING; VIRTUAL MACHINE PLACEMENT
+ID ENERGY
+AB Allocation of Virtual machines (VM) into optimal physical machines ( holds the capability of serving for more than one VM) with less power consumption and wastage is the key issue in cloud service centers. In this paper, novel Firefly algorithm is used for solving VM placement in cloud data centers. The objectives addressed in this paper are wastage modelling and power consumption. Simulation is made for different data instances and the results are tabulated.

@@ -1,0 +1,4 @@
+DE Internet; Cloud computing; Big data analytics; Internet of things;
+   Public utility
+ID WARS
+AB This article addresses the evolution of the Internet from a loosely organized, decentralized, and pluralistic system to the Next Internet, a tightly controlled, centralized and commodified system under corporate and government control. Drawing on a political economy perspective, it begins by addressing the technologies that comprise the Next Internet. These include Cloud Computing, Big Data Analytics, and the Internet of Things whose convergence raises significant issues in the political economy of communication and society. The paper concentrates specifically on military, environmental, economic, privacy, and labor problems. It concludes by considering the significance of viewing the Next Internet as a public utility like electricity and water.

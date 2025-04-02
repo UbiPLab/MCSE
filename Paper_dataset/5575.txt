@@ -1,0 +1,5 @@
+DE Cloud computing; Computer architecture; Internet of Things;
+   Optimization; Libraries; Delays; Data collection; Content caching;
+   content popularity; edge caching; reinforcement learning
+ID CONTENT DELIVERY
+AB With the development of Internet of Things (IoT) and communication technology, the number of next-generation IoT devices has increased explosively, and the delay requirement for content requests is becoming progressively higher. Fortunately, the edge-caching scheme can satisfy users' demands for low latency of content. However, the existing caching schemes are not smart enough. To address these challenges, we propose a human-like hybrid caching architecture based on the software-defined edge cloud, which simultaneously considers the content popularity and the fine-grained user characteristics. Then, an optimization problem with a caching hit ratio as an optimization objective is formulated. To solve this problem, using reinforcement learning, we design a human-like hybrid caching algorithm. The extensive experiments show that compared with popular caching schemes, human-like hybrid caching schemes can improve the cache hit ratio by 20%.

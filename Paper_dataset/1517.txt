@@ -1,0 +1,11 @@
+DE Government policy; Institutional theory; Cloud computing; IT
+   assimilation; Resource dependence theory; Regulation deregulation
+ID TOP MANAGEMENT SUPPORT; COMMON METHOD VARIANCE; INFORMATION-TECHNOLOGY;
+   INNOVATION ASSIMILATION; ENTERPRISE SYSTEMS; ADOPTION; DETERMINANTS;
+   DECISION; PERFORMANCE; ISSUES
+AB Purpose The purpose of this paper is to investigate the government roles in cloud computing assimilation along two dimensions: government regulation and government support.
+   Design/methodology/approach A research model was developed to depict the dual roles of government regulation and government support in cloud computing assimilation as well as the mediating effect of top management support (TMS). Using survey data collected from 376 Chinese firms that have already adopted cloud services, the authors tested the research model.
+   Findings The impacts of both government regulation and government support on cloud computing assimilation are partially mediated by TMS. Government support exerts stronger impacts on TMS than government regulation.
+   Research limitations/implications This study extends the current information systems literature by highlighting the specific mechanisms through which governments influence firms' assimilation of cloud computing.
+   Practical implications Governments in developing countries could actively allocate funds or enact policies to effectively encourage cloud computing assimilation.
+   Originality/value This study would complement previous findings about government regulation, and develop a more holistic understanding about the dual roles of governments in information technology innovation assimilation.

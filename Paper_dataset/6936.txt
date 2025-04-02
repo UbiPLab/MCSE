@@ -1,0 +1,1 @@
+AB A novel approach implements cloud-supported, real-time data analytics in edge computing applications. The authors introduce their serverless edge-data analytics platform and application model and discuss their main design requirements and challenges, based on real-life healthcare use case scenarios.

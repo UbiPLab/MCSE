@@ -1,0 +1,5 @@
+DE Personal health records; device-to-device; ciphertext-policy
+   attribute-based encryption; policy update; smart wearable device; cloud
+   computing
+ID IDENTITY-BASED ENCRYPTION
+AB The rapid development of smart wearable devices makes personal health management feasible, which also stimulates the evolution of personal health records (PHRs). However, PHRs face many security challenges ever since it has been created. Besides, the complicated policy adjusting operation makes the PHRs stored in the cloud not so easy to use. In this paper, we propose a lightweight PHRs system on the basis of attribute-based encryption with policy updating. To update an outsourced ciphertext PHRs in the cloud, PHRs owners only need to generate an updating key, then upload it to the cloud server instead of retrieving the entire ciphertexts. We proved the security of our scheme, and the experiment result indicates that our system is much more efficient than the brute force way of ciphertext updating.

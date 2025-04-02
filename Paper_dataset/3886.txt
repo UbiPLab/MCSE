@@ -1,0 +1,7 @@
+DE donor support; e-government; environmental surroundings; intention to
+   adopt; Malawi
+ID TECHNOLOGY ACCEPTANCE MODEL; CLOUD COMPUTING ADOPTION;
+   INFORMATION-TECHNOLOGY; USER ACCEPTANCE; PERCEIVED USEFULNESS;
+   DEVELOPING-COUNTRY; PLANNED BEHAVIOR; INTERNET BANKING; REASONED ACTION;
+   SMALL FIRMS
+AB Despite many papers written on the adoption of e-government services in developing countries, authors have not approached their articles empirically. For those that have, obvious constructs critical to the development of e-government in developing countries were overlooked. This paper extends the technology-organization-environment (TOE) framework with a decomposed theory of planned behavior (TPB) and the technological acceptance model (TAM); it is guided by stimulus-organism-response (SOR) in its attempt to develop a successful model that can be used to study factors affecting the adoption of e-government services in Malawi, while taking into account missed constructs. Donor support was hypothesized to moderate the effect of e-government funding on perceived behavior control. Data were collected from 259 Malawian public servants, and structural equation modeling was used to evaluate factors affecting e-government services adoption. The study reveals that there is a need for the Malawian government to fund e-government projects to reduce over-reliance on donors.

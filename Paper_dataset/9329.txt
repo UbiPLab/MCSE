@@ -1,0 +1,1 @@
+AB An ambient assisted-living emergency system exploits cloud and fog computing, an outdoor positioning mechanism, and emergency and communication protocols to locate activity-challenged individuals.

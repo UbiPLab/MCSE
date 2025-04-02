@@ -1,0 +1,5 @@
+DE Big data analysis; Privacy-preserving; Outsourced big data; Oblivious
+   RAM; Security; Practical-oriented; Secure query
+ID ENCRYPTED DATA; FUNCTIONAL ENCRYPTION; CLOUD; SECURITY; QUERY; LOCALITY;
+   SEARCH; RAM
+AB With the significant increase in the volume, variety, velocity and veracity of data generated, collected and transmitted through computing and networking systems, it is of little surprise that big data analysis and processing is the subject of focus from enterprise, academia and government. Outsourcing is one popular solution considered in big data processing, although security and privacy are two key concerns often attributed to the underutilization of outsourcing and other promising big data analysis and processing technologies. In this paper, we survey the state-of-the-art literature on cryptographic solutions designed to ensure the security and/or privacy in big data outsourcing. For example, we provide concrete examples to explain how these cryptographic solutions can be deployed. We summarize the existing state-of-play before discussing research opportunities. (C) 2016 Elsevier Ltd. All rights reserved.

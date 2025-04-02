@@ -1,0 +1,6 @@
+DE Communication systems; computer networks; telecommunications;
+   heterogeneous systems; network management; network monitoring; network
+   analysis; capacity planning; network security; quality of service; SNMP;
+   RMON; research and development; journal; online journal; Wiley Online
+   Library
+AB The Internet of Things (IoT) is a new technology that is growing rapidly in the field of telecommunications and especially in the modern field of wireless telecommunications. The main goal of the interaction and cooperation between things and objects sent through the wireless networks is to fulfill the objective set to them as a combined entity. In addition, based on the technology of wireless networks, both the technologies of Mobile Cloud Computing (MCC) and IoT develop rapidly. In this paper, we combine the two aforementioned technologies (i.e., MCC and IoT) with the technology of the Big Data in order to examine the common features and to discover which of the MCC and IoT benefits improve the use of the Big Data applications. Finally, we present the contribution of MCC and IoT individually to the technology of Big Data. Copyright (C) 2016 John Wiley & Sons, Ltd

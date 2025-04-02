@@ -1,0 +1,4 @@
+DE Task analysis; Space exploration; Energy consumption; Benchmark testing;
+   Edge computing; Central Processing Unit; Delays; Online learning; task
+   offloading; vehicle edge computing
+AB Vehicular edge computing pushes the cloud computing capability to the distributed network edge nodes, enabling computation-intensive and latency-sensitive computing services for smart vehicles through task offloading. However, the inherent mobility introduces fast variation of network structure, which are usually unknown a priori. In this letter, we formulate the vehicular task offloading as a mortal multi-armed bandit problem, and develop a new online algorithm to enable distributed decision making on the node selection. The key is to exploit the contextual information of edge nodes and transform the infinite exploration space to a finite one. Theoretically, we prove that the proposed algorithm has a sublinear learning regret. Simulation results verify its effectiveness.

@@ -1,0 +1,7 @@
+DE Cloud computing adoption; Technology-Organization-Environment (TOE)
+   Framework; Diffusion of Innovation (DOI) Theory; Desires Framework (DF);
+   regional governments
+ID B2B E-COMMERCE; INFORMATION-TECHNOLOGY; USER ACCEPTANCE; SUCCESS
+   FACTORS; E-BUSINESS; ADOPTION; DIFFUSION; DETERMINANTS; INNOVATION;
+   ORGANIZATIONS
+AB Cloud computing is gaining increasing interest as an enabling technology for improved productivity, efficiency and cost reduction. It also has the potential to add value to reliability and scalability of organisation's systems, which would allow organisations to better focus on their core business and strategies. This research paper aimed at exploring the perceived potential for value creation from cloud computing in Australian Regional Governments. Using the Technology-Organization-Environment (TOE) framework, the Diffusion of Innovation (DOI) theory and Desires Framework (DF), a conceptual research model is devised. The key identified factors that are likely to influence adoption of cloud computing are identified along with the implications to current policies, anticipated benefits and challenges of adoption of cloud computing. The research employed a qualitative approach involving 21 in-depth interviews with Australian local councils' IT managers. The findings of this research are mapped to the research model factors, thereby presenting and validating a number of value-adding concepts that are expected to contribute to investment decisions on cloud computing adoption.

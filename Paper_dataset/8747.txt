@@ -1,0 +1,4 @@
+DE message-locked encryption; proof of ownership; secure deduplication;
+   traceable signatures
+ID ALGORITHMS; EFFICIENT
+AB Data deduplication is a special type of resource usage optimisation. It leads to reduction of the used storage space and network bandwidth by eliminating duplicate copies of the same data file. Convergent encryption, as the state-of-art approach, has been widely adopted to perform secure deduplication in the cross-user scenario. However, all prior solutions do not support user traceability: there is no way to trace the identities of malicious users in case of duplicate faking attacks. To cope with this problem, we propose a deduplication scheme called TrDup. It realises traceability of malicious user's identity by incorporating traceable signatures with message-locked encryption technique. The TrDup construction is followed by its formal security analysis.

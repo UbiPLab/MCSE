@@ -1,0 +1,5 @@
+DE Business Processes; Case Study; Cloud Computing; Enterprise Resource
+   Planning (ERP); Small and Medium-Sized Enterprises (SMEs); Software as a
+   Service (SaaS); Supply Chain; Vendor Selection
+ID SERVICES
+AB Organizations recognize the need to adopt Enterprise Resource Planning (ERP) in order to become more competitive, efficient, and productive, although the adoption and implementation of an ERP system is a costly and risky endeavor. Recently, cloud computing has become a viable and competitive means by which most organizations, especially Small and Medium-sized Enterprises (SMEs), can implement an ERP system in a short time frame and cost-effective way. The authors' research examines the feasibility of cloud-based ERP systems for SMEs through a case study. The case emphasizes the potential of cloud-based ERP systems for SMEs as well as some of the challenges and peculiarities involved in their efforts to obtain an affordable and versatile ERP system. Their findings can potentially guide SMEs to make well-informed decisions throughout their cloud-based ERP adoption process.

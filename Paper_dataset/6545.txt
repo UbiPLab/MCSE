@@ -1,0 +1,4 @@
+DE Cloud computation; cluster; heuristics; batch-mode heuristics; cluster
+   based max-min scheduling
+ID INDEPENDENT TASKS
+AB Cloud Computing ensures Service Level Agreement (SLA) by provisioning of resources to cloudlets. This provisioning can be achieved through scheduling algorithms that properly maps given tasks considering different heuristics such as execution time and completion time. This paper is built on the concept of max-min algorithm with and unique proposed modification. A novel idea of clustering based max-min scheduling algorithm is introduced to decrease overall make-span and better VM utilization for variable length of the tasks. Experimental analysis shows that due to clustering, it provides better result than the different variations of max-min as well as other heuristics algorithm in terms of effective utilization of faster VMs and proper scheduling of tasks considering all possible scheduling scenarios and picking up the best solution.

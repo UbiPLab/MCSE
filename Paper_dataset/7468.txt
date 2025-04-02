@@ -1,0 +1,3 @@
+DE Cloud Computing; Authentication; attacks on website; RSA algorithm;
+   Terrorist attacks over internet
+AB Each country would like to make its websites secure. Now a days each countrymen use internet moreover the cloud make it that much feasible. Every sensitive detail has been stored on cloud. The main problem that arises for cloud is the security issues regarding authentication. In this paper we have mentioned a way by which we could solve the authentication problem. We have used the unique identity number of a person which was provided by the trust worthy organization. Then applying the RSA algorithm on that unique ID the authentication process is improved.

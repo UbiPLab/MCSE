@@ -1,0 +1,3 @@
+DE Hadoop; Clustering algorithm; Canopy; K-means
+ID PERFORMANCE; MAPREDUCE
+AB Poor understanding and low clustering efficiency of massive data is a problem under the context of big data. To solve this problem, MapReduce programming model is adopted to combine Canopy and K-means clustering algorithms within cloud computing environment, so as to fully make use of the computing and storing capacity of Hadoop clustering. Large quantities of buyers on taobao are taken as application context to do case study through Hadoop platform's data mining set Mahout. General procedure for miming with Mahout is also given.

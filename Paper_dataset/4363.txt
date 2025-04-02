@@ -1,0 +1,4 @@
+DE cloud computing; privacy-preserving; linear equations; encryption;
+   security
+ID SECURE; CLOUD
+AB Along with the prevalence of cloud computing, it can be realised to efficiently outsource costly storage or computations to cloud servers. Recently, secure outsourcing mechanism has received more and more attention. We focus on secure outsourcing storage and computation for large-scale systems of linear equations (LEs) in this paper. Firstly, we construct a new efficient matrix encryption scheme. Then we exploit this encryption scheme to develop a new algorithm which can implement outsourcing storage and computation for large-scale linear equations in the semi-honest setting. Compared with the previous work, the proposed algorithm requires lower storage overhead and is with competitive efficiency.

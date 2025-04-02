@@ -1,0 +1,4 @@
+DE Software tool; big data; cloud computing; software optimization
+   analysis; noisy model
+ID RELEASE POLICIES; RELIABILITY; COST
+AB We discuss a method of software dependability assessment based on stochastic differential equation modeling in order to consider the interesting factors of the numbers of components, cloud applications and users. Then, we consider the determination of an optimum software maintenance time, minimizing the total expected software cost. In particular, we develop the three-dimensional AIR application for reliability and cost optimization analyses based on the proposed method. Moreover, the three-dimensional application based on NW.js, known as the latest technology, is developed in this paper. Furthermore, we show several numerical examples of the developed application software to evaluate the performance of software optimization and reliability assessment tools for the big data on cloud computing.

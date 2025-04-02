@@ -1,0 +1,5 @@
+DE Consolidation; throughtput; virtual machines; data center; power
+   consumption
+ID SERVER CONSOLIDATION; RESOURCE-MANAGEMENT; ENERGY; HEURISTICS;
+   PERFORMANCE; ALGORITHM; AWARE
+AB Consolidation of virtual machines is used to reduce the power consumed in cloud computing systems. In consolidation, some virtual machines are migrated from some source servers to other destination servers and source servers are turned off. Most current consolidation approaches depend on the utilization of servers to determine both source and destination servers. In this paper, a consolidation approach that depends on multiple criteria is proposed and evaluated. The approach has one algorithm for determining source servers and another algorithm for determining destination servers. Simulations experiments show relevant improvements over utilization-based approach in terms of throughput, power consumption, monetary cost, and scalability by 21%, 12%, 24%, and 37%, respectively.

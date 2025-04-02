@@ -1,0 +1,4 @@
+DE Intrusion detection; network security; Cloud computing; virtualization;
+   classifier
+ID SYSTEM
+AB Intrusion detection/prevention is the greatest security challenge at virtual network layer of Cloud computing. To address this challenge, there have been several security frameworks reported. However, still there is a scope of addressing newer challenges. Here, we propose a security framework to detect network intrusions in Cloud computing. This framework uses Snort and combination of different classifiers, viz Bayesian, Associative and Decision tree. We deploy our intrusion detection system (IDS) sensors on each host machine of Cloud. These sensors correlate intrusive alerts from each region of Cloud in order to identify distributed attacks. For feasibly analysis and functional validation of this framework, we perform different experiments in real time and offline simulation.

@@ -1,0 +1,3 @@
+DE Proxy re-encryption; Lattice cryptography; Gaussian sampling;
+   Identity-based cryptography
+AB Proxy re-encryption plays an important role for encrypted data sharing and so on in cloud computing. Currently, almost all of the constructions of identity-based proxy re-encryption over lattice are in the random oracle model. According to this problem, an efficient identity-based proxy re-encryption is constructed over lattice in the standard model, where the identity string is just mapped to one vector and getting a shorter secret key for users. The proposed scheme has the properties of bidirectional, multi-use, moreover, it is semantic secure against adaptive chosen identity and chosen plaintext attack based on Learning With Errors (LWE) problems in the standard mode.

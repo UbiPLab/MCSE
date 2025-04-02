@@ -1,0 +1,9 @@
+DE Wireless sensor networks; Wireless communication; Intrusion detection;
+   Vehicular ad hoc networks; Mobile computing; Wireless fidelity;
+   Intrusion detection systems; vulnerabilities; vulnerability assessment;
+   attack classification; intrusion detection techniques; event stream
+   processing; datasets
+ID DEEP LEARNING APPROACH; VANET SECURITY CHALLENGES; ANOMALY DETECTION;
+   FEATURE-SELECTION; MALWARE DETECTION; DDOS ATTACKS; CLOUD ENVIRONMENT;
+   DETECTION SCHEME; SENSOR NETWORKS; INTERNET
+AB Nowadays, network technologies are essential for transferring and storing various information of users, companies, and industries. However, the growth of the information transfer rate expands the attack surface, offering a rich environment to intruders. Intrusion detection systems (IDSs) are widespread systems able to passively or actively control intrusive activities in a defined host and network perimeter. Recently, different IDSs have been proposed by integrating various detection techniques, generic or adapted to a specific domain and to the nature of attacks operating on. The cybersecurity landscape deals with tremendous diverse event streams that exponentially increase the attack vectors. Event stream processing (ESP) methods appear to be solutions that leverage event streams to provide actionable insights and faster detection. In this paper, we briefly describe domains (as well as their vulnerabilities) on which recent papers were-based. We also survey standards for vulnerability assessment and attack classification. Afterwards, we carry out a classification of IDSs, evaluation metrics, and datasets. Next, we provide the technical details and an evaluation of the most recent work on IDS techniques and ESP approaches covering different dimensions (axes): domains, architectures, and local communication technologies. Finally, we discuss challenges and strategies to improve IDS in terms of accuracy, performance, and robustness.

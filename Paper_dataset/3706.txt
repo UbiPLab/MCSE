@@ -1,0 +1,5 @@
+DE Computing; Cloud; eTRIKS; tranSMART; Hosting; Analysis; Security;
+   Translational research; Authentication; Platform; Storage; Web
+   application; Knowledge management
+ID DISCOVERY
+AB We describe the genesis, design and evolution of a computing platform designed and built to improve the success rate of biomedical translational research. The eTRIKS project platform was developed with the aim of building a platform that can securely host heterogeneous types of data and provide an optimal environment to run tranS-MART analytical applications. Many types of data can now be hosted, including multi-OMICS data, preclinical laboratory data and clinical information, including longitudinal data sets. During the last two years, the platform has matured into a robust translational research knowledge management system that is able to host other data mining applications and support the development of new analytical tools.

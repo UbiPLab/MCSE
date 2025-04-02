@@ -1,0 +1,4 @@
+DE Cloud Robotics; Sensor Cloud; Mobile Distributed Systems; Mobile Edge
+   Cloud
+ID ARCHITECTURE
+AB Grid and cloud computing systems have been extensively used to solve large and complex problems in science and engineering fields. These systems include powerful computing resources that are connected through high-speed networks. Due to the recent advances in mobile computing and networking technologies, it has become feasible to integrate various mobile devices, such as robots, aerial vehicles, sensors, and smart phones, with grid and cloud computing systems. This integration enables the design and development of the next generation of applications by sharing of resources in mobile environments and introduces several challenges due to a dynamic and unpredictable network. This paper discusses applications, research challenges involved in the design and development of mobile grid and cloud computing systems, and recent advances in the field.

@@ -1,0 +1,2 @@
+ID MANAGEMENT; HEALTH
+AB Integrating precision farming techniques with the Internet of Things, cloud computing, and big data analytics can increase productivity in the dairy industry. The authors' opportunistic networking paradigm uses milking cows for mulling delay-tolerant data to a fog computing node at an Internet gateway.

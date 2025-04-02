@@ -1,0 +1,7 @@
+DE whole genome; genome-wide association study; cloud computing;
+   distributed systems
+ID INTEGRATED MAP
+AB Objective: Advancements in human genomics have generated a surge of available data, fueling the growth and accessibility of databases for more comprehensive, in-depth genetic studies.
+   Methods: We provide a straightforward and innovative methodology to optimize cloud configuration in order to conduct genome-wide association studies. We utilized Spark clusters on both Google Cloud Platform and Amazon Web Services, as well as Hail (http://doi.org/10.5281/zenodo.2646680) for analysis and exploration of genomic variants dataset.
+   Results: Comparative evaluation of numerous cloud-based cluster configurations demonstrate a successful and unprecedented compromise between speed and cost for performing genome-wide association studies on 4 distinct whole-genome sequencing datasets. Results are consistent across the 2 cloud providers and could be highly useful for accelerating research in genetics.
+   Conclusions: We present a timely piece for one of the most frequently asked questions when moving to the cloud: what is the trade-off between speed and cost?

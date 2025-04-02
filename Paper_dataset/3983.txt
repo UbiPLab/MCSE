@@ -1,0 +1,4 @@
+DE Cloud field; Cloud aspect ratio; Cloud fraction; Sunshine number;
+   Radiometric data
+ID EMPIRICAL RELATIONSHIP; SOLAR; MODEL; SHADE
+AB With all the progress made in atmospheric modeling, the cloud field parameterization is still a critical issue. The present study proposes a new model for the probability of a clear-line-of sight (PCLOS). The great benefit of the proposed model is in the estimation of the effective cloud field parameters (namely, the cloud aspect ratio and cloud factor) from radiometric data. The sophisticated numerical procedures used in previous approaches are reduced to simple algebra. The model verification shows that the relationship between the cloud shade and point cloudiness computed using the estimated cloud field parameters accurately recovers the typical relationship derived from measurements.

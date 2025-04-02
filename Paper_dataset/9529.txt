@@ -1,0 +1,4 @@
+DE improved scheme; privacy-preserving; biometric identification; cloud
+   computing
+ID SEARCH
+AB In a previous work [1], Wang et al. proposed a privacy-preserving outsourcing scheme for biometric identification in cloud computing, namely CloudBI. The author claimed that it can resist against various known attacks. However, there exist serious security flaws in their scheme, and it can be completely broken through a small number of constructed identification requests. In this letter, we modify the encryption scheme and propose an improved version of the privacy-preserving biometric identification design which can resist such attack and can provide a much higher level of security.

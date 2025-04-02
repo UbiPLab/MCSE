@@ -1,0 +1,3 @@
+DE Docker; KVM; Container; Virtual machine; Performance comparison
+ID CLOUD
+AB Virtualization is a foundational element of cloud computing. Since cloud computing is slower than a native system, this study analyzes ways to improve performance. We compared the performance of Docker and Kernel-based virtual machine (KVM). KVM uses full virtualization, including hardware virtualization extensions. Docker is a solution provided by isolation in userspace instead of creating a virtual machine. The performance of KVM and Docker was compared in three ways. These comparisons show that Docker is faster than KVM.

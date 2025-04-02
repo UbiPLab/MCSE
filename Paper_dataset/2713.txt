@@ -1,0 +1,5 @@
+DE Bigdata; Data Warehouse; Cloud Computing; Stream Processing; Electronic
+   Health Records
+ID BIG DATA ANALYTICS; CARE; CHALLENGES; MANAGEMENT; FRAMEWORK; TRIAL;
+   SPACE
+AB As expectations for the data processing platforms to support processing for healthcare data, new services need to be deployed in healthcare services. One of them is Electronic health records. It raised its importance recently from the data become shareable, connection oriented, high available, and united. Therefore, a first motivation is to help healthcare organizations to define which the appropriate processing platform can support real time processing for huge electronic health records data. Although define different platforms that enhanced analytics and prediction methods of healthcare entities which produces a huge amount of data. A second possible motivation is to go beyond the limitations of traditional processing techniques that used in electronic health records. The big data processing is the cheaper solution that performing real-time analysis on the huge data. This paper identifies and discusses new data processing platforms that can be used in electronic health records.

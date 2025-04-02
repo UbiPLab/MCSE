@@ -1,0 +1,7 @@
+DE cloud computing; mobile computing; authorisation; local area networks;
+   content acquisition cost; access cloud content acquisition solution;
+   multihop Ethernet; mobile device; desired content; nearest local device;
+   content retrieval cost; Ethernet-based access cloud; abundant storage
+   capabilities
+ID MOBILITY
+AB Nowadays, mobile devices have processing capability and abundant storage capabilities and can collaborate to locally create, store and provide contents. Consequently, it becomes possible for mobile devices to retrieve contents locally, and this could be an efficient way to lower the content acquisition cost and latency. In this study, the authors propose an Ethernet-based access cloud content acquisition solution and aim to take advantage of multi-hop Ethernet networking to construct an access cloud and lower the content acquisition cost and latency. Via the access cloud, a mobile device can acquire the desired content from the nearest local device so that the content retrieval cost and latency can be decreased. The proposed access cloud is evaluated, and the experimental data show that the content acquisition cost and latency are reduced.

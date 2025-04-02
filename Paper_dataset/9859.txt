@@ -1,0 +1,2 @@
+DE Verifiable computing; Discovery; Data Mining as a Service
+AB Aim: Cloud computing is popularizing the computing archetype in which data is outsourced to a third-party service provider (server) for data mining Outsourcing. However, it raises a serious security issue: how can the client of weak computational power verify that the server returned correct mining result or not. By using homomorphic encryption algorithm can check the completeness and correctness of retrieved data from the server.

@@ -1,0 +1,4 @@
+DE Distance education; Information security; Private cloud; Public key
+   infrastructure (PKI); Cloud computing
+ID SOCIAL MEDIA; MOOCS
+AB This paper aims to avoid the tampering or leakage of sensitive data in a distance education platform. To this end, an intelligent identity authentication model was proposed to realize continuous user authentication, and high security infrastructure was designed for distance education platform based on the proposed model. The experimental evaluation shows that the proposed infrastructure based on private cloud can greatly improve the security of distance education platform. Suffice it to say that the research findings provide new insights into the security of distance education.

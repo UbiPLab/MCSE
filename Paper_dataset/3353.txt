@@ -1,0 +1,5 @@
+DE Earthquake prediction; Big data analytics; Cluster computing;
+   Regression; Ensemble learning
+ID SEISMICITY INDICATORS; MAGNITUDE PREDICTION; HAZARD ASSESSMENT; 5-YEAR
+   FORECAST; MODEL; MODERATE; CHILE; STATE
+AB Earthquake magnitude prediction is a challenging problem that has been widely studied during the last decades. Statistical, geophysical and machine learning approaches can be found in literature, with no particularly satisfactory results. In recent years, powerful computational techniques to analyze big data have emerged, making possible the analysis of massive datasets. These new methods make use of physical resources like cloud based architectures. California is known for being one of the regions with highest seismic activity in the world and many data are available. In this work, the use of several regression algorithms combined with ensemble learning is explored in the context of big data (1 GB catalog is used), in order to predict earthquakes magnitude within the next seven days. Apache Spark framework, H(2)0 library in R language and Amazon cloud infrastructure were been used, reporting very promising results.

@@ -1,0 +1,7 @@
+DE Quality of service; Security; Internet of Things; Scalability; Smart
+   contracts; Cloud computing; Blockchain; Internet of Thing (IoT); quality
+   of service (QoS); security assurance; service-based application (SBA);
+   service composition; service selection; smart contract; specification
+   patterns
+ID WEB-SERVICES; COMPLIANCE CHECKING; WORKFLOW; ARCHITECTURE; LANGUAGE
+AB With the fast development of information technologies, traditional value-added chain business models are shifting to service-based applications (SBAs) to cope with ever-changing user behaviors and the modern social system. An SBA allows an organization to utilize external and distributed resources to achieve its business goals, especially when the Internet of Thing (IoT) will soon become mainstream. However, the development of SBAs is at its early stage with a number of unsolved issues, such as the availability of effective methods for services selection and composition, semantic representation of specifications, and security assurances. This article aims to address two main issues in SBAs: 1) the standardization of formulation and 2) the security assurance. A systematic method is proposed to formulate the specifications of services, the prevalent blockchain technology (BCT) is adopted to enable SBAs, and the proposed specification patterns and BCT are integrated as a BCT-based quality-of-service (QoS) framework to support service selections and workflow compositions.

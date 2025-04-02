@@ -1,0 +1,6 @@
+DE Blockchain; Task analysis; Resource management; Edge computing;
+   Computational modeling; Cloud computing; Biological system modeling;
+   Blockchain; differential privacy; edge computing; Internet of Things
+   (IoT); privacy-preserving; task allocation
+ID SECURITY-AWARE; CHALLENGES; MANAGEMENT
+AB Contemporarily, two emerging techniques, blockchain and edge computing, are driving a dramatical rapid growth in the field of Internet-of-Things (IoT). Benefits of applying edge computing is an adoptable complementarity for cloud computing; blockchain is an alternative for constructing transparent secure environment for data storage/governance. Instead of using these two techniques independently, in this article, we propose a novel approach that integrates IoT with edge computing and blockchain, which is called blockchain-based Internet of Edge model. The proposed model, designed for a scalable and controllable IoT system, sufficiently exploits advantages of edge computing and blockchain to establish a privacy-preserving mechanism while considering other constraints, such as energy cost. We implement experiment evaluations running on Ethereum. According to our data collections, the proposed model improves privacy protections without lowering down the performance in an energy-efficient manner.

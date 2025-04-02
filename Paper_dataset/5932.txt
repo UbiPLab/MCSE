@@ -1,0 +1,4 @@
+DE Vehicular Fog Computing; Big Data Streaming; energy-efficiency; resource
+   management; Infrastructure-to-Vehicular
+ID CLOUD
+AB In this paper, we discuss the most significant application opportunities and outline the challenges in real-time and energy-efficient management of the distributed resources available in mobile devices and at the Internet-to-Data Center. We also present an energy-efficient adaptive scheduler for Vehicular Fog Computing (VFC) that operates at the edge of a vehicular network, connected to the served Vehicular Clients (VCs) through an Infrastructure-to-Vehicular (I2V) over multiple Foglets (Fls). The scheduler optimizes the energy by leveraging the heterogeneity of Fls, where the Fl provider shapes the system workload by maximizing the task admission rate over data transfer and computation. The presented scheduling algorithm demonstrates that the resulting adaptive scheduler allows scalable and distributed implementation.

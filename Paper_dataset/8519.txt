@@ -1,0 +1,6 @@
+DE Software development management; Computer architecture; Cloud computing;
+   Task analysis; Companies; Microservices; Automation; Cloud computing;
+   DevOps; Continuous Integration; Continuous Deployment; Containerization;
+   Orchestration
+ID MICROSERVICES
+AB We moved from a monolithic to a microservice-based architecture for the next generation of our applications at Varidesk. This initiative created challenges such as the inability to scale. In this article, we detail how we tackled the problems.

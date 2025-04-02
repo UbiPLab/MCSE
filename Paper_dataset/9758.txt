@@ -1,0 +1,3 @@
+ID ATLAS-BASED SEGMENTATION; BRAIN MRI; IMAGE SEGMENTATION; SELECTION;
+   INFORMATION; STRATEGIES; RETRIEVAL
+AB MRICloud provides a high-throughput neuroinformatics platform for automated brain MRI segmentation and analytical tools for quantification via distributed client-server remote computation and Web-based user interfaces. This cloud-based service approach improves the efficiency of software implementation, upgrades, and maintenance. The client-server model is also ideal for high-performance computing, allowing distribution of computational servers and client interactions across the world.

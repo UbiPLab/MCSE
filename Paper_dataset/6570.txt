@@ -1,0 +1,7 @@
+DE Cloud Computing; sustainable logistics; web service; optimization
+   algorithm; Bin-packing algorithm; logistics process; First-fit
+   algorithm; delivery process
+ID SYSTEM
+AB In any increasing competitive environment and even in companies; we must adopt a good logistic chain management policy which is the main objective to increase the overall gain by maximizing profits and minimizing costs, including manufacturing costs such as: transaction, transport, storage, etc. In this paper, we propose a cloud platform of this chain logistic for decision support; in fact, this decision must be made to adopt new strategy for cost optimization, besides, the decision-maker must have knowledge on the consequences of this new strategy. Our proposed cloud computing platform has a multilayer structure; this later is contained from a set of web services to provide a link between applications using different technologies; to enable sending; and receiving data through protocols, which should be understandable by everyone.
+   The chain logistic is a process-oriented business; it's used to evaluate logistics process costs, to propose optimal solutions and to evaluate these solutions before their application.
+   As a scenario, we have formulated the problem for the delivery process, and we have proposed a modified Bin-packing algorithm to improve vehicles loading.

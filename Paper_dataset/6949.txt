@@ -1,0 +1,5 @@
+DE multi-factor key exchange; password; cloud computing; biometrics; fuzzy
+   extractors
+ID WIRELESS SENSOR NETWORKS; 3-FACTOR AUTHENTICATION; MUTUAL
+   AUTHENTICATION; AGREEMENT SCHEME; CHAOTIC MAPS
+AB In the past decade, cloud computing has grown from being a promising business concept to one of the fast growing segments of the information technology's industry. More and more information of individuals and companies are stored in the cloud. However, security and privacy issues pose as the key roadblock to its fast adoption. In order to address these issues, we present an efficient MFAKE protocol based on fuzzy extractors in this paper. The novel protocol can be proven secure in the random oracle model and achieves truly multi-factor security. Compared with other related MFAKE protocols, our protocol not only enjoys stronger security, but also has greater efficiency both in terms of computation and communication. The proposed MFAKE protocol provides high-level security and protects user's privacy, so it is particular suitable for cloud computing environments.

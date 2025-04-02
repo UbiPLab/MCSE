@@ -1,0 +1,5 @@
+DE cloud computing; tourism; management system; intelligent management
+   system
+ID RESPONSE DIGITAL INTERFACE; MUSICAL PERFORMANCE; TENSION; PERCEPTION;
+   NONMUSICIANS; EXPERIENCE; MUSICIANS; RUBATO
+AB With the accelerated economic development of our country, people's living conditions are improving, and more and more people like to enjoy life through the travel, furthermore, the travel is considered as a kind of decompression activity to relax the body and mind. Because of the large population in our country and the developed tourism, an advanced travel management system is required to conduct the scientific management. Based on this, in this paper, the tourism intelligent management system supported by cloud computing was studied. Firstly, the basic concepts and basic knowledge were introduced. Then, the architecture of the tourism intelligent management system was designed, and next, the actual simulation test was carried out. The results showed that the tourism intelligent management system supported by the cloud computing in which it was involved in this paper could realize the integrated management, which facilitated people's travel.

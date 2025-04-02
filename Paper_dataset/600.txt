@@ -1,0 +1,11 @@
+DE video streaming; delays; transcoding; telecommunication traffic; media
+   streaming; video coding; MEC-enabled video; device-to-device networks;
+   offloading video; centralised cloud; mobile edge computing servers;
+   real-time video transmission; latency transmission; computing ability;
+   currently used video transmission technologies; video transcoding;
+   flexible video transmission architecture; device-to-device assisted
+   video streaming scheme; scalable video coding; delay-sensitive live
+   video streaming services; edge-enabled wireless heterogeneous networks;
+   MEC-enabled goodput-aware model; video traffic
+ID ALLOCATION; DELIVERY; CACHE; DASH
+AB By offloading video streaming from the centralised cloud to the edge, mobile edge computing (MEC) servers offer new opportunities for real-time video transmission. Deploying on the edge of users can ensure low latency transmission, however, the limited storage and computing ability cannot adapt to the currently used video transmission technologies such as video transcoding or simulcast. To solve this problem, a more flexible video transmission architecture needs to be considered. Under this motivation, the authors propose a device-to-device (D2D) assisted video streaming scheme, which fuses the technical advantages of MEC and scalable video coding. Specifically, they first construct a novel architecture for delay-sensitive live video streaming services in edge-enabled wireless heterogeneous networks named MEC-enabled goodput-aware (MEGA) model. Then they present a mathematical formulation for optimising the aggregation goodput performance of video traffic including both cellular and D2D links. Finally, they derive a three-step solution based on a distributed heuristic algorithm. Numerical simulation results show that MEGA outperforms existing models in terms of goodput, end-to-end delay, effective loss rate, and users' quality-of-experience.

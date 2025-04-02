@@ -1,0 +1,4 @@
+DE Cloud networks; resource management; reinforcement learning; Markov
+   decision process; approximate dynamic programming
+ID ADMISSION CONTROL; REINFORCEMENT
+AB The programmability and the virtualisation of network resources are crucial to deploy scalable Information and Communications Technology (ICT) services. The increasing demand of cloud services, mainly devoted to the storage and computing, requires a new functional element, the Cloud Management Broker (CMB), aimed at managing multiple cloud resources to meet the customers' requirements and, simultaneously, to optimise their usage. This paper proposes a multi-cloud resource allocation algorithm that manages the resource requests with the aim of maximising the CMB revenue over time. The algorithm is based on Markov decision process modelling and relies on reinforcement learning techniques to find online an approximate solution.

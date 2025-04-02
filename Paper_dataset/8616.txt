@@ -1,0 +1,4 @@
+DE Cloud-based modeling; Amazon Elastic Compute Cloud (EC2); Geophysical
+   inversion modeling; GNU Octave; MatlabMPI
+ID SIMULATION
+AB Computer modeling and simulation can be very demanding in terms of computational resources. Cloud computing has opened up new avenues for the scientific researchers with limited resources to do complicated simulation. In order to investigate whether cloud computing is suitable for modeling and simulation, we first describe how to build a cloud-based modeling and simulation platform using GNU Octave and MatlabMPI on the Amazon Elastic Compute Cloud (EC2). Then, we evaluation its performance taking the geophysical inversion modeling as an example. The results show that the cloud-based modeling and simulation platform is suitable for basic modeling for free. It can provide much more higher performance with acceptable price. Furthermore, we can cut down the cost by employing the Spot instance without losing the computation performance.

@@ -1,0 +1,4 @@
+DE cloud computing; cloud layered architecture; virtualisation; formal
+   methods; bigraphical reactive systems; model checking
+ID DRIVEN
+AB C loud computing is an emerging paradigm that enhances grid computing but in the sense of the utility computing principle. Hence, it attracts more attention in both industry and academia. However, there are still many obstacles that are slowing down its adoption and growth. An important and challenging issue in this area is how to associate a clear semantic to cloud architecture concepts. Based on BRS (Bigraphical Reactive Systems) theory, the paper presents a formal framework that provides mathematical definitions of main elements involved in a cloud architecture, specifying its static structure and dynamic evolution. As a consequence of this formalisation, a practical implementation based on Maude and its model checker is proposed to ensure the correctness of cloud systems.

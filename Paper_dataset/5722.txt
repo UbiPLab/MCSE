@@ -1,0 +1,9 @@
+DE learning (artificial intelligence); power aware computing; computer
+   centres; green computing; power consumption; cloud computing; neural
+   nets; feature selection; power consumption model; deep learning; cloud
+   computing scenarios; high power consumption; cloud data centres; modern
+   cloud computing; green computing; power consumption prediction;
+   computing cluster; energy conservation efforts; energy-related feature
+   acquisition; feature selection; deep neural network architecture
+ID ENERGY-CONSUMPTION; PERFORMANCE; ALGORITHM; SYSTEMS
+AB High power consumption of cloud data centres is a crucial challenge in modern cloud computing. To comply with the conceptions of green computing, power consumption prediction of the computing cluster has a major role to play in these energy conservation efforts. However, due to complexity and heterogeneity in cloud computing scenarios, it is difficult to accurately predict the power consumption using conventional approaches. To this end, this study presents a power consumption model based on feature selection and deep learning to powerfully cope with low energy efficiency. Different from other methods focusing on only a few performance attributes, the proposed method takes into account up to 12 energy-related features and introduces deep neural network architecture, aiming at making full use of massive data to train model completely. In particular, this approach is composed of three main phases including (i) performance monitoring and energy-related feature acquisition, (ii) essential feature selection, and (iii) model establishment and optimisation. Representative results of comprehensive experiments, in terms of the relative error, reveal that the proposed power consumption model can undoubtedly achieve state-of-the-art predictive capability when compared with other models in most cases.

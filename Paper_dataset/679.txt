@@ -1,0 +1,12 @@
+DE quantum communication; protocols; mobile computing; cloud computing;
+   telecommunication signalling; cellular radio; quantum computing;
+   quantum-based cloud networks; adapting quantum method; delay reduction;
+   classical cloud encounter; power consumption; X2 application protocol;
+   quantum correlation phenomena; traditional cloud mobile networks; future
+   quantum solutions; classical dimension; quantum phenomena; quantum
+   communications; classical communications; cryptic-natured; security;
+   quantum computing; cellular communications; quantum teleportation;
+   Mitigating X2-AP interface cost; power costly method; quantum-based
+   paradigm
+ID KEY DISTRIBUTION; COMMUNICATION
+AB Many problems in cellular communications cannot be solved classically. Due to its robustness, quantum computing can enrich the classical with other dimensions, security and cryptic-natured. However, the awareness about how to fully bridge the classical and quantum communications is not fully realised. In other words, the quantum phenomena are not totally utilised within the classical dimension. This work rather discusses directions and evaluations for future quantum solutions to traditional cloud mobile networks. Particularly, using quantum correlation phenomena to enhance the performance of X2 application protocol (X2-AP) by reducing the signalling overhead regarding the delay and power consumption that classical cloud encounter. Through modelling the latency of both paradigms using 'MATLAB', this work promises a delay reduction when adapting quantum method into the cloud. This study also models the power consumption and energy efficiency of traditional and quantum-based cloud networks. This work also shows, via modelling the power consumption, that installing a quantum-based paradigm is not a power costly method; rather, it shows identical power and energy efficiency figures with a possibility of improvement.

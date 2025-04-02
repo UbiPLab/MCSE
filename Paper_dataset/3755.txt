@@ -1,0 +1,3 @@
+DE Medical cognitive systems; Data security; Cloud computing
+ID SECURE INFORMATION-MANAGEMENT; CRYPTOGRAPHIC TECHNIQUES
+AB This paper will present the application potential of the cognitive approach to data interpretation, with special reference to medical areas. The possibilities of using the meaning approach to data description and analysis will be proposed for data analysis tasks in Cloud Computing. The methods of cognitive data management in Cloud Computing are aimed to support the processes of protecting data against unauthorised takeover and they serve to enhance the data management processes. The accomplishment of the proposed tasks will be the definition of algorithms for the execution of meaning data interpretation processes in safe Cloud Computing.

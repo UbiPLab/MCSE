@@ -1,0 +1,4 @@
+DE Satellites; Remote sensing; Decision making; Agriculture; Meterology;
+   Decision making; Cloud computing; Digital agriculture
+ID INFORMATION; SYSTEMS; INDEXES
+AB This article considers the tremendous potential for satellite remote sensing information delivered via mobile digital applications to improve decision making in emerging agricultural economies. Earth observations have been available for use in weather and other models to support decision making since the late 1970s, with the launch of the advanced very-high-resolution radiometer and the Landsat sensors. Despite early recognition of the potential for satellite remote sensing to transform farm-level decision making, information from satellite data is still not widely used by farmers day to day except in highly mechanized precision agricultural systems that represent a very small minority of farmers globally.

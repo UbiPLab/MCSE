@@ -1,0 +1,4 @@
+DE Cloud Computing; Feedback control; Switched systems; Pole placement;
+   Web-server
+ID FEEDBACK CONTROL
+AB This paper presents the performance management of a web-server hosted on a private cloud (the target system). Based upon an identified linear switched model with worldoad arrival rate as the switching signal, the paper presents a new algorithm to develop a multi-objective switching controller to ensure asymptotic stability with pole placement in convex regions called the D-R-regions in the complex plane. These results are applied to the target system for performance guarantees in terms of the client perceived response time under changing workload conditions. The identification, validation and real-time control experiments are demonstrated on the open source Eucalyptus cloud platform. (C) 2016 Elsevier Ltd. All rights reserved.

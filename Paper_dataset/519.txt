@@ -1,0 +1,5 @@
+DE Interviews; Operating Model; Organizational Learning; Resource-Based
+   View of the Firm; Survey
+ID RESOURCE-BASED VIEW; INFORMATION-TECHNOLOGY; ENVIRONMENTAL PERFORMANCE;
+   BIG DATA; INNOVATION; CAPABILITIES; BUSINESS; IMPACT
+AB Cloud computing has become the dominant provisioning model for IT services. This research adopts the provider's perspective to explore profitable service provisioning strategies: industrialization and standardization vs. service individualization. Based on a survey and expert interviews among cloud service providers, the authors identify that focusing on service individualization does not pay off for cloud service providers. Instead, cloud service providers should adopt industrialization and automation. Even more, they find that exploitation mechanisms of organizational learning significantly improve the cloud service profitability.

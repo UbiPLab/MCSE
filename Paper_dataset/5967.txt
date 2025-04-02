@@ -1,0 +1,6 @@
+DE Artificial neural networks; Nonlinear singular system; Active-set
+   method; Interior-point method
+ID INITIAL-VALUE PROBLEMS; INSPIRED COMPUTING APPROACH; ACTIVE-SET
+   ALGORITHM; NUMERICAL-SOLUTION; DIFFERENTIAL-EQUATIONS; APPROXIMATE
+   SOLUTION; OPERATIONAL MATRIX; DESIGN; IVPS
+AB In the present study, stochastic numerical computing approach is developed by applying artificial neural networks (ANNs) to compute the solution of Lane-Emden type boundary value problems arising in thermodynamic studies of the spherical gas cloud model. ANNs are used in an unsupervised manner to construct the energy function of the system model. Strength of efficient local optimization procedures based on active-set (AS), interior-point (IP) and sequential quadratic programming (SQP) algorithms is used to optimize the energy functions. The performance of all three design methodologies ANN-AS, ANN-IP and ANN-SQP is evaluated on different nonlinear singular systems. The effectiveness of the proposed schemes in terms of accuracy and convergence is established from the results of statistical indicators.

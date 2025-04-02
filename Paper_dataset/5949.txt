@@ -1,0 +1,4 @@
+DE Hierarchical network architecture; Internet of Things (IoT); mobile edge
+   computing
+ID CLOUDLETS
+AB The multitiered concept of Internet of Things (IoT) devices, cloudlets, and clouds is facilitating a user-centric IoT. However, in such three tier network, it is still desirable to investigate efficient strategies to offer the computing, storage, and communications resources to the users. To this end, this paper proposes a new hierarchical model by introducing the concept of field, shallow, and deep cloudlets where the cloudlet tier itself is designed in three hierarchical levels based on the principle of LTE-advanced backhaul network. Accordingly, we explore a two time scale approach in which the computing resources are offered in an auction-based profit maximization manner and then the communications resources are allocated to satisfy the users' quality of service.

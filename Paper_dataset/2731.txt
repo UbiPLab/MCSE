@@ -1,0 +1,8 @@
+DE Atherosclerosis; Carotid; Cloud-based; Reproducibility; Reliability
+ID INTIMA-MEDIA THICKNESS; ARTERY DIAMETER; CARDIOVASCULAR-DISEASE;
+   COMPUTED-TOMOGRAPHY; RISK-FACTORS; STROKE; WALL; VALIDATION; PLAQUE;
+   TOOL
+AB Background: Common carotid artery lumen diameter (LD) ultrasound measurement systems are either manual or semi-automated and lack reproducibility and variability studies. This pilot study presents an automated and cloud-based LD measurements software system (AtheroCloud) and evaluates its: (i) intra/ inter-operator reproducibility and (ii) intra/inter-observer variability.
+   Methods: 100 patients (83 M, mean age: 68 +/- 11 years), IRB approved, consisted of L/R CCA artery (200 ultrasound images), acquired using a 7.5-MHz linear transducer. The intra/inter-operator reproducibility was verified using three operator's readings. Near-wall and far carotid wall borders were manually traced by two observers for intra/inter-observer variability analysis.
+   Results: The mean coefficient of correlation (CC) for intra- and inter-operator reproducibility between all the three automated reading pairs were: 0.99 (P < 0.0001) and 0.97 (P < 0.0001), respectively. The mean CC for intra- and inter-observer variability between both the manual reading pairs were 0.98 (P < 0.0001) and 0.98 (P < 0.0001), respectively. The Figure-of-Merit between the mean of the three automated readings against the four manuals were 98.32%, 99.50%, 98.94% and 98.49%, respectively.
+   Conclusions: The AtheroCloud LD measurement system showed high intra/inter-operator reproducibility hence can be adapted for vascular screening mode or pharmaceutical clinical trial mode. (C) 2018 Published by Elsevier B.V. on behalf of Cardiological Society of India.

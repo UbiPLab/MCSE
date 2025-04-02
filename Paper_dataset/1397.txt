@@ -1,0 +1,4 @@
+DE cloud storage; file privacy; file security; swift storage; OpenStack
+   security; security ensemble
+ID VIEW
+AB Scalability and on-demand features of cloud computing have revolutionised IT industry in a large scale. Cloud service providers takes the entire burdens of computing, especially managing resources and file storage. Securing the file stored in cloud storage from internal and external attacks has become a primary concern for cloud storage providers as well as cloud users. In this paper, the threats involved in file storage and a secure way of protecting the stored files using a novel ensemble of security strategies is presented. This proposed strategy helps service providers as well as users to secure the file in cloud storage more efficiently.

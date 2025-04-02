@@ -1,0 +1,4 @@
+DE Internet of Things; Web of Things; cloud computing; mobile communication
+   systems; pervasive computing; authentication; web-based services
+ID IOT
+AB The aim of this paper is to determine the physical proximity of connected things when they are accessed from a smartphone. Links between connected things and mobile communication devices are temporarily created by means of dynamic URLs (uniform resource locators) which may be easily discovered with pervasive short-range radio frequency technologies available on smartphones. In addition, a multi cross domain silent logging mechanism to allow people to interact with their surrounding connected things from their mobile communication devices is presented. The proposed mechanisms are based in web standards technologies, evolving our social network of Internet of Things towards the so-calledWeb of Things.

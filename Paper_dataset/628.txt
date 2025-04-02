@@ -1,0 +1,5 @@
+DE cloud computing; cloud security; database security; cyber security;
+   fully homomorphic encryption; modular arithmetic; ring homomorphism;
+   commutative ring; Euclidean domain; integer encryption; polynomial
+   encryption
+AB Two data itemsaandbare stored on an untrusted database in their encrypted formsE(a)andE(b), respectively. It is required that the encryption function be fully homomorphic, that is,Emust satisfy the conditionsE(a)+E(b)=E(a+b)andE(a)xE(b)=E(axb). This would allow the owner of the data, as well as an untrusted party operating the database on behalf of the owner, to perform operations directly on the encrypted data without the need for decryption. We propose a general framework that allows the derivation of such fully homomorphic functions. Two implementations of the general framework are then described that, in addition to being secure, enjoy the property of being efficient to compute.

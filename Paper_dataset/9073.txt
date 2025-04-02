@@ -1,0 +1,5 @@
+DE software defined network; resource reservation; flow scheduling;
+   effective bandwidth
+ID INTEGRATED SERVICES NETWORKS; PROCESSOR SHARING APPROACH; FLOW-CONTROL;
+   ARCHITECTURE; ACCESS
+AB Recent years have witnessed an explosive growth of mobile devices, mobile cloud computing services offered by these devices and the remote clouds behind them. In this paper, we noticed ultra-low latency service, as a type of mobile cloud computing service, requires extremely short delay constraints. Hence, such delay-sensitive applications should be satisfied with strong QoS guarantee. Existing solutions regarding this problem have poor performance in terms of throughput. In this paper, we propose an end-to-end bandwidth resource reservation via software defined scheduling inspired by the famous SDN framework. The main contribution of this paper is the end-to-end resource reservation and flow scheduling algorithm, which always gives priority to delay sensitive flows. Simulation results confirm the advantage of the proposed solution, which improves the average throughput of ultra-low latency flows.

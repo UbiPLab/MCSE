@@ -1,0 +1,7 @@
+DE Task analysis; Reinforcement learning; Heuristic algorithms; Servers;
+   Industries; Edge computing; Machine-to-machine (M2M) communications;
+   mobile-edge computing (MEC); multiagent deep reinforcement learning
+   (MADRL); task offloading
+ID OPPORTUNISTIC SPECTRUM ACCESS; SOFTWARE-DEFINED NETWORKING; M2M
+   COMMUNICATIONS; INDEX POLICY; COMMUNICATION; MODEL
+AB Industry 4.0 aims to create a modern industrial system by introducing technologies, such as cloud computing, intelligent robotics, and wireless sensor networks. In this article, we consider the multichannel access and task offloading problem in mobile-edge computing (MEC)-enabled industry 4.0 and describe this problem in multiagent environment. To solve this problem, we propose a novel multiagent deep reinforcement learning (MADRL) scheme. The solution enables edge devices (EDs) to cooperate with each other, which can significantly reduce the computation delay and improve the channel access success rate. Extensive simulation results with different system parameters reveal that the proposed scheme could reduce computation delay by 33.38% and increase the channel access success rate by 14.88% and channel utilization by 3.24% compared to the traditional single-agent reinforcement learning method.

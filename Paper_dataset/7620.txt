@@ -1,0 +1,6 @@
+DE atomic processes; line: formation; methods: numerical; radiative
+   transfer; radio lines: general radio lines: ISM
+ID DIELECTRONIC-LIKE RECOMBINATION; NEUTRAL ATOMIC PHASES; ABSORPTION-LINE;
+   C-I; PHOTODISSOCIATION REGIONS; PHYSICAL CONDITIONS; LEVEL POPULATIONS;
+   LOW-TEMPERATURES; HYDROGENIC IONS; PRESSURES
+AB In the second paper of the series, we have modeled low-frequency carbon radio recombination lines ( CRRLs) from the interstellar medium. Anticipating the Low Frequency Array survey of Galactic CRRLs, we focus our study on the physical conditions of the diffuse, cold neutral medium. We have used the improved departure coefficients computed in the first paper of the series to calculate line-to-continuum ratios. The results show that the line width and integrated optical depths of CRRLs are sensitive probes of the electron density, gas temperature, and emission measure of the cloud. Furthermore, the ratio of CRRL to the [C II] at the 158 mu m line is a strong function of the temperature and density of diffuse clouds. Guided by our calculations, we analyze CRRL observations and illustrate their use with data from the literature.

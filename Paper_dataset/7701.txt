@@ -1,0 +1,4 @@
+DE Shape analysis; Shape diameter function; Meshless surface processing;
+   Variational partitioning
+ID SEGMENTATION
+AB An approach to computing an intuitive local thickness from surface meshes was introduced with the shape diameter function (SDF) in Shapira et al. (Vis Comput 24(4):249-259, 2008). In this paper, we present a new dynamic approach to the computation of the SDF for a cloud of points on the boundary of a volumetric object. We employ a particle flow driven by a simple collision test. The resulting SDF scalar field can be naturally exploited as a shape property for the volume-oriented object decomposition. Experimental results show the effectiveness and efficiency of our proposals.

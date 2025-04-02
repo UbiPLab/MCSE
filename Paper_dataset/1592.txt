@@ -1,0 +1,5 @@
+DE ABE; attribute-based encryption; Diffie-Hellman; cloud computing; key
+   generation; MA-ABE; multi-authority ABE; PHR; personal health record;
+   TBAC; tree-based access control; TBGDH; tree-based group Diffie-Hellman
+ID HEALTH DATA; PRIVACY
+AB Personal Health Record (PHR) system is a currently emerging patient-oriented model for sharing the health information through a cloud environment. Previously, single attribute authority-based security scheme was used for sharing the PHRs in the cloud. But, this security scheme is not practically applicable due to the security and privacy issues. The existing access control approaches require more time to encrypt and decrypt the PHR file. This paper proposes a Tree-Based Access Control (TBAC) approach for fine-grained and secure access of the PHR in the cloud environment. In our approach, Tree-based Group Diffie-Hellman (TBGDH) algorithm is used to generate the key instance for the encryption process. The Attribute-based Encryption (ABE) approach is used with different hierarchical levels of the users to protect the personal health data. The access policies are based on the user attribute.

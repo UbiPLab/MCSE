@@ -1,0 +1,4 @@
+DE Internet of things; intelligent community; system implementation;
+   application research
+ID ENERGY MANAGEMENT-SYSTEM
+AB The application of the Internet of things technology has effectively improved the diversification level of the intelligent community system. The application of intelligent community system based on internet of things technology was analyzed in this paper. The connotation and function of cloud computing technology and internet of things were introduced. At the same time, the content and research methods of intelligent community system and cloud computing virtual machine allocation algorithm were described. Finally, the research results were analyzed and discussed. The results show that the algorithm proposed in this paper has high feasibility, which provides a favorable direction for the future research of intelligent community system.

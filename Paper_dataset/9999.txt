@@ -1,0 +1,7 @@
+DE Geoecological block formation; multi-layer system for geomechanical;
+   geodynamic and ecological safety of Russia; distributed systems;
+   bio-diversity appraisal; data storage; cloud-computing service; mining
+   regions; Kuzbass
+ID SIGN EXPLOSION RESPONSE; REMOTE-SENSING DATA; PENDULUM WAVES; ROCKS;
+   AREAS; POLLUTION
+AB The development of a new approach to a distributed information system for bio-diversity appraisal in mining regions, with the use of data storage technologies, cloud computing services and mental processing and analysis of multivariable data is in process. It is suggested to adhere to a cardinally new solution in such system engineering and to add the architecture of such system with NoSQL MongoDB and GeoNetwork components that essentially offload the geoinformation system when retrying special calculations and user requests.

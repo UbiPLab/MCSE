@@ -1,0 +1,4 @@
+DE binaries: general; binaries: visual
+ID STAR CD-ROM; FRAGMENTATION; SYSTEMS; CATALOG; TRIPLE; MULTIPLICITY;
+   ORBITS
+AB This paper draws attention to the class of resolved triple stars with moderate ratios of inner and outer periods (possibly in a mean motion resonance) and nearly circular, mutually aligned orbits. Moreover, stars in the inner pair are twins with almost identical masses, while the mass sum of the inner pair is comparable to the mass of the outer component. Such systems could be formed either sequentially (inside-out) by disk fragmentation with subsequent accretion and migration, or by a cascade hierarchical fragmentation of a rotating cloud. Orbits of the outer and inner subsystems are computed or updated in four such hierarchies: LHS. 1070 (GJ 2005, periods 77.6 and 17.25 years), HIP 9497 (80 and 14.4 years), HIP 25240 (1200 and 47.0 years), and HIP 78842 (131 and 10.5 years).

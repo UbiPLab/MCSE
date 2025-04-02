@@ -1,0 +1,5 @@
+DE data centre; Cobb-Douglas; CD; Harrod neutrality; Solow neutrality;
+   optimisation; stochastic frontier analysis; cloud computing; utility
+   computing
+ID EFFICIENCY
+AB Data centre is a facility, which houses computer systems and associated components, such as telecommunications and storage systems. Due to the emergence of data centre-based computing services, it has become necessary to examine how the costs associated with data centres evolve over time, mainly in view of efficiency issues. We have presented a quasi form of Cobb-Douglas model, which addresses revenue and profit issues in running large data centres. The stochastic form has been introduced and explored along with the quasi Cobb-Douglas model to understand the behaviour of the model in depth. Harrod neutrality and Solow neutrality are incorporated in the model to identify the technological progress in cloud data centres. This allows us to shed light on the stochastic uncertainty of cloud data centre operations. The insightful results are found to be quite useful in view of production reorganisation in large data centres' around the world.

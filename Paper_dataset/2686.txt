@@ -1,0 +1,6 @@
+DE Data backup; Batch service; Queueing model; Vacation; Recovery point
+   objective
+ID MARKOV DECISION-PROCESS; SINGLE VACATION; CLOUD STORAGE; BIG DATA;
+   OPTIMIZATION; THEOREM
+AB For data backup processes to cloud infrastructure, there is a clean trade off between backing up frequently (improving data safety) and reducing resource usage (power consumption and communication cost). With rapid growth of data storage requirements in recent years, we need to find the right balance between both objectives. To explicitly address this trade off, we model a wide set of exhaustive data backup processes as a general batch service queueing model with multiple vacations and probabilistic restarts.
+   We study this queueing model and establish expressions for its performance measures such as system content and queue content distributions. This analysis aids in computing Quality of Service (QoS) measures of the data backup process such as the fraction of time the backup server is busy, the frequency of new connections and the age of the data at the beginning of a backup period. This enables us to quickly examine the dependence of QoS on the model parameters as well as to compute the optimal parameters in the backup process. We illustrate the latter by defining a particular cost function of a user and by framing an optimization problem.

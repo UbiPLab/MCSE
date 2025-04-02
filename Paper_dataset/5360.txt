@@ -1,0 +1,7 @@
+DE Process virtualization theory (PVT); technology-organization-environment
+   (TOE) framework; institutional theory (INT); software as a service
+   (SaaS); IT adoption
+ID CLOUD COMPUTING SECURITY; E-BUSINESS ADOPTION; INFORMATION TECHNOLOGY;
+   SOFTWARE; DETERMINANTS; DIFFUSION; DRIVERS; ORGANIZATIONS; ARCHITECTURE;
+   FIRMS
+AB Software as a service (SaaS) is a service model in which the applications are accessible from various client devices through internet. Several studies report possible factors driving the adoption of SaaS but none have considered the perception of the SaaS features and the organization's context. We propose an integrated research model that combines the process virtualization theory (PVT), the technology-organization-environment (TOE) framework and the institutional theory (INT). PVT seeks to explain whether processes are suitable for migration into virtual environments via an information technology-based mechanism as SaaS. The TOE framework seeks to explain the effects of the intra-organizational factors, while INT seeks to explain the effects of the inter-organizational factors on the technology adoption. This research addresses a gap in the SaaS adoption literature by studying the internal perception of the technical features of SaaS and technology, organization, and environment perspectives. Additionally, the integration of PVT, the TOE framework, and INT contributes to the information system (IS) discipline, deepening the applicability and strengths of these theories.

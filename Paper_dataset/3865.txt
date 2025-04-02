@@ -1,0 +1,5 @@
+DE Poles and towers; Frequency modulation; Upper bound; Cloud computing;
+   Geometry; Indexes; Encoding; Locally repairable codes; local expansions;
+   asymptotic bounds; Riemann-Roch spaces
+ID AUTOMORPHISM-GROUPS; RECOVERABLE CODES; TOWERS
+AB Locally repairable codes have been investigated extensively in recent years due to practical applications in distributed and cloud storage systems. However, there are few asymptotic constructions of locally repairable codes in the literature. In this paper, we provide a new explicit asymptotic construction of locally repairable codes over arbitrary finite fields from local expansions of functions at a rational place. This construction gives a Tsfasman-Vladut-Zink type bound for locally repairable codes. Its main advantage is that there are no constraints on both locality and alphabet size. Furthermore, we show that the Gilbert-Varshamov type bound of locally repairable codes over non-prime finite fields can be improved for sufficiently large alphabet sizes.

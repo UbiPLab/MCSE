@@ -1,0 +1,12 @@
+DE Cloud computing; Coronary artery disease; Gastroesophageal reflux
+   disease; Inflammation mediators; Myocardial infarction
+ID HEART-DISEASE; ESOPHAGEAL MUCOSA; INFLAMMATION; RECEPTOR; UPDATE;
+   ATHEROSCLEROSIS; INTERLEUKIN-8; EPIDEMIOLOGY; ASSOCIATION; MANAGEMENT
+AB Background/Aims
+   A number of inflammatory mediators have been documented to be elevated in gastroesophageal reflux disease (GERD). Similar inflammatory mediators are involved in coronary artery disease. Thus, the aim of the study is to determine if GERD is a risk factor for developing acute myocardial infarction (AMI).
+   Methods
+   We used Explorys, a private cloud-based data store to which a number of health care systems feed information. We identified a cohort of GERD patients who have undergone an esophagogastroduodenoscopy compared to those without GERD. Incidence of AMI was studied after statistically controlling for known AMI risk factors.
+   Results
+   Total of 200 400 patients were included in the GERD group and 386 800 patients in non-GERD group. The primary event of AMI occurred in 17 200 patients in the GERD group (8.6%) vs 24 300 in non-GERD group (6.3%). Using logistic regression analysis and controlling for 6 major risk factors which included male gender (OR, 1.09; 95% CI, 1.07-1.11; P < 0.001), hypertension (OR, 6.53; 95% CI, 6.21-6.88; P < 0.001), hyperlipidemia (OR, 3.08; 95% CI, 2.96-3.20; P < 0.001), diabetes mellitus (OR, 1.72; 95% CI, 1.69-1.76; P < 0.001), obesity (OR, 1.02; 95% CI, 1.00-1.04; P = 0.044), and smoking (OR, 1.38; 95% CI, 1.35-1.41; P < 0.001). The odds of developing AMI in the GERD population was 1.11 (95% CI, 1.08-1.13; P < 0.001). GERD had higher odds of developing AMI than male gender or obesity in our study.
+   Conclusions
+   This study demonstrated that GERD is a risk factor for AMI, higher than male gender and obesity. However, the increased risk may be clinically insignificant.

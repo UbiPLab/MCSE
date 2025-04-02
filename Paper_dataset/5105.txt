@@ -1,0 +1,5 @@
+DE Cloud computing; strategic value; sustainable competitive advantage;
+   dynamic capability; business sustainability
+ID INFORMATION-TECHNOLOGY; DYNAMIC CAPABILITIES; E-BUSINESS; ADOPTION;
+   ORGANIZATIONS; SYSTEMS; FRAMES; KNOWLEDGE; CONSTRUCTION; PERSPECTIVE
+AB To determine the viability of cloud computing as a source of competitive advantage, we integrate the theory of diffusion of innovations and the theory of dynamic capabilities to synthesize the strengths of these theories into a framework. The theoretical framework with 13 propositions would enhance conceptual understanding of strategic initialization of cloud computing and its outcomes and should serve as a foundation for further theoretical and empirical investigations.

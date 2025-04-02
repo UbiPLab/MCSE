@@ -1,0 +1,4 @@
+DE Direct Simulation Monte Carlo; aerosols; condensation
+ID CHARGED AEROSOLS; COAGULATION; MULTICOMPONENT; CONDENSATION; DYNAMICS;
+   GROWTH; DEPOSITION
+AB Applications of aerosol dynamics include modeling cloud formation and pollution in atmospheric sciences, inhalation and radiation doses in health physics, and particle transport and contamination in nuclear safety. To improve the fidelity of computed aerosol evolution to realistic process models and phenomena, efforts have been directed at the use of the Direct Simulation Monte Carlo (DSMC) technique. This paper first verifies the results obtained from the DSMC technique against a known analytical solution of a specialized case in which the evolution of a purely growing aerosol is coupled to its environment. Next, it applies the DSMC technique to the evolution of aerosol particles undergoing condensation, coagulation, and deposition as coupled to the environment.

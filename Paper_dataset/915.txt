@@ -1,0 +1,9 @@
+DE 5G mobile communication; Wireless networks; Authentication; Protocols;
+   Cloud computing; 5G; security; mobile networks security; SDN security;
+   NFV security; cloud security; privacy; security challenges; security
+   solutions
+ID PHYSICAL LAYER SECURITY; SOFTWARE-DEFINED-NETWORK; OF-THE-ART;
+   NEXT-GENERATION; WIRELESS NETWORKS; MASSIVE MIMO;
+   ARTIFICIAL-INTELLIGENCE; COMMUNICATION TECHNOLOGIES; INTRUSION
+   DETECTION; CELLULAR NETWORKS
+AB The development of the fifth generation (5G) wireless networks is gaining momentum to connect almost all aspects of life through the network with much higher speed, very low latency and ubiquitous connectivity. Due to its crucial role in our lives, the network must secure its users, components, and services. The security threat landscape of 5G has grown enormously due to the unprecedented increase in types of services and in the number of devices. Therefore, security solutions if not developed yet must be envisioned already to cope with diverse threats on various services, novel technologies, and increased user information accessible by the network. This paper outlines the 5G network threat landscape, the security vulnerabilities in the new technological concepts that will be adopted by 5G, and provides either solutions to those threats or future directions to cope with those security challenges. We also provide a brief outline of the post-5G cellular technologies and their security vulnerabilities which is referred to as future generations (XG) in this paper. In brief, this paper highlights the present and future security challenges in wireless networks, mainly in 5G, and future directions to secure wireless networks beyond 5G.

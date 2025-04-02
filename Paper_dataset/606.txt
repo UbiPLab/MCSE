@@ -1,0 +1,5 @@
+DE Uric acid; Colorimetric biosensor; Nanozyme; mHealth; Smartphone reader
+ID PRUSSIAN BLUE NANOPARTICLES; SENSITIVE COLORIMETRIC DETECTION;
+   MESOPOROUS SILICA NANOPARTICLES; PAPER; NANOZYME; IMMOBILIZATION;
+   DIAGNOSIS; VIRUS
+AB Excessive production of uric acid (UA) in blood may lead to gout, hyperuricaemia and kidney disorder; thus, a fast, simple and reliable biosensor is needed to routinely determine the UA concentration in blood without pretreatment. The purpose of this study was to develop a mobile healthcare (mHealth) system using a drop of blood, which comprised a lateral flow pad (LFP), mesopomus Prussian blue nanoparticles (MPBs) as artificial nanozymes and auto-calculation software for on-site determination of UA in blood and data management. A standard curve was found to be linear in the range of 1.5-8.5 mg/dL UA, and convenience, cloud computing and personal information management were simultaneously achieved for the proposed mHealth system. Our mHealth system appropriately met the requirements of application in patients' homes, with the potential of real-time monitoring by their primary care physicians (PCPs).

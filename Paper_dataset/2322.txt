@@ -1,0 +1,4 @@
+DE Content delivery network; cloud computing; distribution network;
+   mobility; scalability; distribution
+ID REPLICA SERVER PLACEMENT; ALGORITHMS; OPTIMIZATION; CDN
+AB The content management includes a major technical strategy in the network paradigm of the internet which is called a Content delivery network. The design and the deployment of the CDN shall ensure optimal Quality of services (QoS). This paper aims to brief the taxonomy of the CDN along with its typical architecture. Much latest advancement in smartphones and smart devices which are content hungry require more efficient and reliable mechanism for the cost-effective delivery of the contents irrespective of bottleneck constraints that leads to redesign the entire architecture of CDN on the cloud as CCDN or a new business model of CCDN as a service. The challenges of design for CCDN along with the evolved architecture are discussed in this paper.

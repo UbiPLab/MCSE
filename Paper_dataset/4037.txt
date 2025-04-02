@@ -1,0 +1,6 @@
+DE cloud ERP; technology-organization-environment; innovation; resistance;
+   adoption
+ID CRITICAL SUCCESS FACTORS; ORGANIZATIONAL CULTURE; COMPUTING ADOPTION;
+   IMPLEMENTATION; DETERMINANTS; INFORMATION; SMES; SOFTWARE; RISKS;
+   TECHNOLOGY
+AB To enhance the sustainability of business operations, enterprises have interests in enterprise resource planning (ERP) transitions from an existing on-premise method to a cloud-based system. This study conducts a comprehensive analysis using the technology-organization-environment, diffusion of innovation, and the model of innovation resistance frameworks. The empirical analysis shows that the factors of organizational culture, regulatory environment, relative advantage, trialability, and vendor lock-in all had a significant influence on the intention to adopt cloud-based ERP, while information and communications technology skill, complexity, observability, data security, and customization had no significant influence on the intention to adopt cloud-based ERP. This study's findings provide meaningful guidance for companies that want to adopt cloud-based ERP, governments that support enterprise digitalization, and vendors who sell cloud-based ERP systems.

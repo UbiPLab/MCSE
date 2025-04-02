@@ -1,0 +1,3 @@
+DE ontology; algebra of algorithms; design and synthesis of programs;
+   parallel program; cloud computing
+AB An approach to the automated development of programs is proposed on the basis of ontological facilities and algebra-algorithmic tools for program design and synthesis. The approach is illustrated by examples of developing a parallel weather forecasting program and also a software application destined to run the developed program on a cloud computing platform.

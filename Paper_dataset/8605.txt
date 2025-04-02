@@ -1,0 +1,6 @@
+DE Ethics; Email; Privacy; Text messaging; Bring your own device; Legal
+   cases
+AB Purpose - This paper aims to (a) summarize the legal and ethical foundations of privacy with connections to workplace emails and text messages, (b) describe trends and challenges related to "Bring Your Own Device" (BYOD), and (c) propose legal and nonlegal questions these trends will raise in the foreseeable future.
+   Design/methodology/approach - Based on a review of legal cases and scholarship related to workplace privacy, implications for BYOD practices are proposed.
+   Findings - Primarily due to property rights, employers in the USA have heretofore been granted wide latitude in monitoring employee communications. The BYOD trend has the potential to challenge this status quo.
+   Originality value - BYOD programs present discernable threats to employee privacy. Attention is also directed toward contributing elements such as wearable technology, cloud computing and company cultures.

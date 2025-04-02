@@ -1,0 +1,3 @@
+DE cryptography; fully homomorphic encryption; confidential graph
+   algorithm; cloud computing
+AB Confidential algorithm for the approximate graph vertex covering problem is presented in this article. It can preserve privacy of data at every stage of the computation, which is very important in context of cloud computing. Security of our solution is based on fully homomorphic encryption scheme. The time complexity and the security aspects of considered algorithm are described.

@@ -1,0 +1,8 @@
+DE compressible multiphase flow; high performance computing; diffuse
+   interface method; bubble collapse; cloud cavitation; uncertainty
+   quantification; multilevel Monte Carlo; control variates; fault
+   tolerance
+ID FINITE-VOLUME METHODS; MONTE-CARLO METHODS; TO-DETONATION TRANSITION;
+   RUNGE-KUTTA SCHEMES; CONSERVATION-LAWS; ELLIPTIC PDES; FLOW PROBLEMS;
+   2-PHASE FLOW; COLLAPSE; EQUATIONS
+AB We quantify uncertainties in the location and magnitude of extreme pressure spots revealed from large scale multiphase flow simulations of cloud cavitation collapse. We examine clouds containing 500 cavities and quantify uncertainties related to their initial spatial arrangement. The resulting 2,000-dimensional space is sampled using a nonintrusive and computationally efficient multilevel Monte Carlo (MLMC) methodology. We introduce novel empirically optimal control variate coefficients to enhance the variance reduction in MLMC. The proposed multilevel control variates Monte Carlo leads to more than two orders of magnitude speedup when compared to standard Monte Carlo methods. We identify large uncertainties in the location and magnitude of the peak pressure pulse and present its statistical correlations and joint probability density functions with the geometrical characteristics of the cloud. Characteristic properties of spatial cloud structure are identified as potential causes of significant uncertainties in exerted collapse pressures.

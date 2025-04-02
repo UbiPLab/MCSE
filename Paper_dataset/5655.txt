@@ -1,0 +1,4 @@
+DE Cooperative game theory; cloud computing; elliptic curves; social
+   networks; uncertainty; interval solutions
+ID ELLIPTIC-CURVES; FORM
+AB In this paper, we mathematically associate Crypto Cloud Computing, that has become an emerging research area, with Cooperative Game Theory in the presence of uncertainty. In the sequel, we retrieve data from the database of Amazon Web Service. The joint view upon Crypto Cloud Computing, Cooperative Game Theory and Uncertainty management is a novel approach. For this purpose, we construct a cooperative interval game model and apply this model to Social Networks. Then, we suggest some interval solutions related with the model by proposing a novel elliptic curve public key encryption scheme over finite fields having the property of semantic security. The paper ends with concluding words and an outlook to future studies.

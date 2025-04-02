@@ -1,0 +1,4 @@
+DE Tunnel structures; point cloud; data extraction; circular filtering;
+   terrestrial laser scanning
+ID LASER-SCANNING TECHNOLOGY; COMPOSITE STRUCTURES; EXTRACTION; MODEL
+AB With the development of subways and tunnels, health monitoring of these structures are more and more important. Terrestrial laser scanning is an essential highly accurate technology used to obtain the point clouds data. However, the enormous quantity of point cloud of a tunnel makes it difficult to monitor the long-distance tunnel effectively and efficiently. Therefore, a fast and accurate extraction method is critical for the health monitoring of tunnel structures. In this article, a "Circular Likelihood" method is investigated. The innovation of this study is the consideration of the symmetry and the circular shape of the tunnel structure, where most of the noise can be removed and lots of inefficient iterations are avoided; thus, the computing time is greatly shortened.

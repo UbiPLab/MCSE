@@ -1,0 +1,12 @@
+DE Encryption; Cloud computing; Keyword search; Metadata; Authorization;
+   Public key; Searchable encryption; wildcard search; user revocation;
+   multiple users; top-< named-content xmlns:xlink="http:; www; w3; org;
+   1999; xlink" xmlns:ali="http:; www; niso; org; schemas; ali; 1; 0; "
+   xmlns:mml="http:; www; w3; org; 1998; Math; MathML" xmlns:xsi="http:;
+   www; w3; org; 2001; XMLSchema-instance" content-type="math"
+   xlink:type="simple"> < inline-formula > < tex-math
+   notation="LaTeX">$k$<; tex-math > < alternatives > < mml:math > < mml:mi
+   > k <; mml:mi > <; mml:math > < inline-graphic
+   xlink:href="yang-ieq1-2714669; gif" xlink:type="simple"; > <;
+   alternatives > <; inline-formula > <; named-content >
+AB Searchable encryption is an important technique for public cloud storage service to provide user data confidentiality protection and at the same time allow users performing keyword search over their encrypted data. Previous schemes only deal with exact or fuzzy keyword search to correct some spelling errors. In this paper, we propose a new wildcard searchable encryption system to support wildcard keyword queries which has several highly desirable features. First, our system allows multiple keywords search in which any queried keyword may contain zero, one or two wildcards, and a wildcard may appear in any position of a keyword and represent any number of symbols. Second, it supports simultaneous search on multiple data owners data using only one trapdoor. Third, it provides flexible user authorization and revocation to effectively manage search and decryption privileges. Fourth, it is constructed based on homomorphic encryption rather than Bloom filter and hence completely eliminates the false probability caused by Bloom filter. Finally, it achieves a high level of privacy protection since matching results are unknown to the cloud server in the test phase. The proposed system is thoroughly analyzed and is proved secure. Extensive experimental results indicate that our system is efficient compared with other existing wildcard searchable encryption schemes in the public key setting.

@@ -1,0 +1,4 @@
+DE chosen ciphertext attacks; identity-based encryption; leakage-resilient;
+   standard model
+ID PUBLIC-KEY ENCRYPTION; SECURE
+AB Cloud computing is an efficient tool in which cloud storage shares plenty of encrypted data with other data owners. In existing cloud computing scenarios, it may suffer from some new attacks like side channel attacks. Therefore, we are eager to introduce a new cryptographic scheme that can resist these new attacks. In this work, we exploit a new technique to build leakage-resilient identity-based encryption and use the stronger existing partial leakage model, such as continual leakage model. More specifically, our proposal is based on the underlying decisional bilinear Diffie-Hellman assumption, but proven adaptively secure against adaptive chosen ciphertext attack in the standard model. Above all, a continuous leakage-resilient IBE scheme with adaptive security meets cloud computing with stronger security.

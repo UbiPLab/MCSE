@@ -1,0 +1,9 @@
+DE workflow management software; stochastic processes; data handling;
+   scheduling; cloud computing; parallel programming; virtual machines;
+   operating systems (computers); resource optimised workflow scheduling;
+   stochastic hill climbing technique; datacentre; cloud vendors; Hadoop
+   clusters; computing facilities; parallel programming model; resource
+   consumption; concurrent users; cloud computing; workflows portray;
+   virtual machines; VM; Hadoop platform; SCH
+ID SCIENTIFIC WORKFLOWS; CLUSTERS; MAPREDUCE
+AB Hadoop on datacentre is a popular analytical platform for enterprises. Cloud vendors host Hadoop clusters on the datacentre to provide high performance analytical computing facilities to its customers, who demand a parallel programming model to deal with huge data. Effective cost/time management and ingenious resource consumption among the concurrent users, must be the primary concern without which the key aspiration behind high performance cloud computing would suffer. Workflows portray such high performance applications in terms of individual jobs and dependencies between them. Workflows can be scheduled on virtual machines (VMs) in datacentre to make best possible use of resources. In the authors' earlier work, a mechanism to pack and execute the customer jobs as workflows on Hadoop platform was proposed which minimises the VM cost and also executes the workflow jobs within deadline. In this work, the authors try to optimise certain other parameters such as load on cloud, response time for workflows, resource usage effectiveness by applying soft computing methods. Stochastic hill climbing (SCH) is a soft computing approach used to solve many optimisation problems. In this study, they have employed the SHC approach to schedule workflow jobs to VMs and thereby optimise the above mentioned multiple parameters in cloud datacentre.

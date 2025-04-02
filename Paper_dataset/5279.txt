@@ -1,0 +1,4 @@
+DE Data transfer scheduling; big-data computing; throughput maximization;
+   data center
+ID REPLICA SELECTION
+AB Many big-data computing applications have been deployed in cloud platforms. These applications normally demand concurrent data transfers among computing nodes for parallel processing. It is important to find the best transfer scheduling leading to the least data retrieval time-the maximum throughput in other words. However, the existing methods cannot achieve this, because they ignore link bandwidths and the diversity of data replicas and paths. In this paper, we aim to develop a max-throughput data transfer scheduling to minimize the data retrieval time of applications. Specifically, the problem is formulated into mixed integer programming, and an approximation algorithm is proposed, with its approximation ratio analyzed. The extensive simulations demonstrate that our algorithm can obtain near optimal solutions.

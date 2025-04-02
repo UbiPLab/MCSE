@@ -1,0 +1,4 @@
+DE Internet of Things (IoT); cloud computing; Future Internet; reference
+   architecture; supply chain management; food; agribusiness
+ID TRANSPARENCY; INTERNET; SCIENCE; DESIGN; MODELS; ICT
+AB Logistics in the food and agribusiness industry must address perishable products, unpredictable supply variations and stringent food safety and sustainability requirements. The Internet of Things (IoT) could contribute significantly to solve these challenges because it allows for remotely controlling the location and conditions of shipments and products. This paper develops a reference architecture for IoT-based logistic information systems in agri-food supply chains. It proposes a hybrid solution that combines the IoT and cloud computing. The architecture supports the provision of affordable tailor-made solutions by utilising technology enablers of the European Future Internet programme and by facilitating the reuse of domain-specific functionalities.

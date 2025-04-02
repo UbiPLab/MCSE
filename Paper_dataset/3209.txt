@@ -1,0 +1,4 @@
+DE ant colony optimization; availability; task scheduling
+ID LOAD DISTRIBUTION; ALGORITHM; PERFORMANCE; MANAGEMENT; CLOUD;
+   ALLOCATION; CLUSTER; GRIDS
+AB Maximization of availability and minimization of the makespan for transaction scheduling in an on-demand computing system is an emerging problem. The existing approaches to find the exact solutions for this problem are limited. This paper proposes a task scheduling algorithm using ant colony optimization (MATS_ACO) to solve the mentioned problem. In this method, first, availability of the system is computed, and then, the transactions are scheduled using the foraging behavior of ants to find the optimal solutions. We also modify two known meta-heuristic algorithms such as genetic algorithm (GA) and extremal optimization (EO) to obtain transaction scheduling algorithms for the purpose of comparison with our proposed algorithm. The compared results show that the proposed algorithm performs better than others.

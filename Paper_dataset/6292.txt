@@ -1,0 +1,4 @@
+DE Approximate Reasoning; Cloud Computing; Crisp Sets; Fuzzy Logic; Fuzzy
+   Sets
+ID ENVIRONMENTS; SIMULATION; TASKS
+AB Cloud computing systems are considered complex systems, because of the various classes of services offered for users and the big challenges for providers to meet the increasing demands. Thus, service allocation is a critical issue in cloud computing. Fuzzy modeling is one choice to deal with such complexity. In this paper, the authors introduce a new heuristic service allocation model for cloud computing service allocation. Fuzzy sets are used to determine a candidate cloud for providing a service and crisp sets are used to serve requests from a cloud. Supply and demand are used as the fuzzy input to provide the desired heuristic allocation model for the candidate cloud, and a set of parameters are used to determine a cloud user needs.

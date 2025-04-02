@@ -1,0 +1,6 @@
+DE land use; land cover; geographic information systems; user generated
+   spatial content; spatial data integration; VGI; volunteered geographic
+   information
+ID VOLUNTEERED GEOGRAPHIC INFORMATION; LAND-USE PATTERNS; VGI QUALITY;
+   OPENSTREETMAP; VALIDATION
+AB Geographic information has been traditionally produced by mapping agencies and corporations, using highly skilled professionals as well as expensive precision equipment and procedures, in a very costly approach. The production of land use and land cover databases is just one example of such traditional approaches. At the same time, the amount of Geographic Information created and shared by citizens through the web has been increasing exponentially during the last decade as a result of the emergence and popularization of technologies such as the Web 2.0, cloud computing, global positioning systems (GPS), smart phones, among others. This vast amount of free geographic data might have valuable information to extract. Combining data from several initiatives might further increase the value of such data. We propose a conceptual model to integrate data from suitable user generated spatial content initiatives. A prototype to demonstrate the ability of the model to perform such integration, based on two identified use cases, was also developed.

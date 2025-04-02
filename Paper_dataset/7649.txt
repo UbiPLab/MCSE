@@ -1,0 +1,1 @@
+AB Fog computing provides a conceptual approach for virtualizing and orchestrating computing, networking, and storage resources to process data. This issue helps to progress the fog computing research field and offer solutions.

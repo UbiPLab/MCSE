@@ -1,0 +1,3 @@
+DE Graph Laplacian; Nonlocal methods; Point cloud; Weighted nonlocal
+   Laplacian
+AB Inspired by the nonlocal methods in image processing and the point integral method, we introduce a novel weighted nonlocal Laplacian method to compute a continuous interpolation function on a point cloud in high dimensional space. The numerical results in semi-supervised learning and image inpainting show that the weighted nonlocal Laplacian is a reliable and efficient interpolation method. In addition, it is fast and easy to implement.

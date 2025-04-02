@@ -1,0 +1,8 @@
+DE Edge computing; Cloud computing; Mobile handsets; Task analysis;
+   Taxonomy; Industries; Hardware; Edge computing; heterogeneous networks;
+   next generation networking mobile applications; Internet of Things;
+   ubiquitous computing
+ID SOFTWARE-DEFINED NETWORKING; REAL-TIME; BIG DATA; INDUSTRIAL INTERNET;
+   NEXT-GENERATION; SMART CITY; RESOURCE-ALLOCATION; QUANTIFIED SELF;
+   CLOUD; THINGS
+AB Edge computing brings computing and storage resources closer to (mobile) end users and data sources, thus bypassing expensive and slow links to distant cloud computing infrastructures. Often leveraged opportunistically, these heterogeneous resources can be used to offload data and computations, enabling upcoming demanding applications such as augmented reality and autonomous driving. Research in this direction has addressed various challenges, from architectural concerns to runtime optimizations. As of today, however, we lack a widespread availability of edge computingpartly because it remains unclear which of the promised benefits of edge computing are relevant for what types of applications. This article provides a comprehensive snapshot of the current edge computing landscape, with a focus on the application perspective. We outline the characteristics of edge computing and its postulated benefits and drawbacks. To understand the functional composition of applications, we first define common application components that are relevant w.r.t. edge computing. We then present a classification of proposed use cases and analyze them according to their expected benefits from edge computing and which components they use. Furthermore, we illustrate existing products and industry solutions that have recently surfaced and outline future research challenges.

@@ -1,0 +1,5 @@
+DE Cloud service improvement; Management of Business Informatics (MBI);
+   Cloud service consumer; Exit strategy; SLA; Quality of cloud service
+   monitoring
+AB Cloud computing is changing the way that organizations utilize IT resources with a corresponding impact on the role of IT management. To help organizations with managing their business informatics, Management of Business Informatics (MBI) framework has been developed. The problem was that this framework did not explicitly reflect managing cloud services from cloud service consumer perspective and specifically did not address managing of cloud service improvement from consumer perspective. Therefore, analysis of MBI framework was performed from cloud service consumer viewpoint to d
+   esign extension of MBI framework towards cloud service improvement management. Proposal of MBI framework extension in an output of research process according to Design Science Research Methodology and its evaluation approach is based on methodology for the design and implementation of case studies for scientific purposes and on descriptive evaluation method using scenario.

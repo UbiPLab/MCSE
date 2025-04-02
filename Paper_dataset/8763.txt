@@ -1,0 +1,10 @@
+DE Self-determination theory; Cloud computing; Instructional effectiveness;
+   Virtual learning environment; Internet learning; School category
+ID SELF-DETERMINATION THEORY; KNOWLEDGE-SHARING BEHAVIOR;
+   GENDER-DIFFERENCES; SOCIAL NETWORK; INFORMATION-TECHNOLOGY; HUMAN-NEEDS;
+   INTENTION; TRUST; ACCEPTANCE; MOTIVATION
+AB Purpose - The purpose of this paper is to verify the moderating effects of school category based on the self-determination theory (SDT) in cloud-based virtual learning environment (VLE) acceptance.
+   Design/methodology/approach - Two phases of national surveys were conducted using a random sampling technique. The research model was tested empirically using 608 samples of primary and secondary school teachers.
+   Findings - The full model supports significant effects of autonomy, competence, and relatedness on trust, knowledge sharing attitude and behavioral intention except the autonomy-attitude and relatedness-behavioral intention relationships. In primary school, 61, 24.1, 52.1, and 41.1 percent of variances whereas, in secondary school, 57.4, 31.5, 48.6, and 37.5 percent of variances in instructional effectiveness, behavioral intention, knowledge sharing attitude, and trust in VLE website were explained. There are significant moderating effects of category of school in all causal relationships except the autonomy-knowledge sharing attitude relationship.
+   Practical implications - There are several useful theoretical and practical implications for scholars and practitioners including Ministry of Education, FrogAsia, etc. Social implications - The findings may enhance education quality for societal change.
+   Originality/value - Unlike most studies which focused on TAM, UTAUT, etc., this study investigated the effects of SDT on attitude in sharing knowledge, trust in website and instructional effectiveness. Instead of studying gender differences, this study examined the school category differences.

@@ -1,0 +1,4 @@
+DE Anterior cruciate ligament; Expectation maximization; Gaussian;
+   Anatomical position
+ID INJURIES; MOMENT
+AB In the reconstruction surgery of Anterior Cruciate Ligament (ACL), how to locate the anatomical position is a very hard point to clinician occupational therapists. In this paper, we propose an Anatomical Position Locating (APL) approach based on Expectation Maximization (EM) algorithm. Firstly, the proposed intersection set operation algorithm is proposed to compute the attachment region between the injured ACL and femur or tibia. Then, the anatomical position is located by the 3D points cloud with the Gaussian spatial distribution. The last, the attachment spatial distribution and the barycenter, which are also viewed as the candidates of the anatomical position by a proposed EM algorithm, is partition. Experimental results verify our assumption and demonstrate that the located anatomical position has great serviceability.

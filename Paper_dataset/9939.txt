@@ -1,0 +1,1 @@
+AB The Internet of Things (IoT) could enable innovations that enhance the quality of life, but it generates unprecedented amounts of data that are difficult for traditional systems, the cloud, and even edge computing to handle. Fog computing is designed to overcome these limitations.

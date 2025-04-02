@@ -1,0 +1,3 @@
+DE e-learning; LMS; multi-agents system; intelligent agents; cloud
+   computing
+AB In this article are presented the concepts used in the "Perceptual modeling and mechanisms for generating actions in the development of autonomous agents" project from TEHSIN core program. Among the concepts used, we mention: collaborative e-learning, the most important Learning Management System - LMS, Multi-Agent Systems and cloud computing. The main purpose of this paper is to exploit the potential of Multi-Agent Systems and cloud computing to improve the e-learning system. An e-learning architecture has been proposed to combine the advantages of LMS, Multi-Agent Systems and cloud computing.

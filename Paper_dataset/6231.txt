@@ -1,0 +1,6 @@
+DE methods: numerical; stars: formation; stars: massive; ISM: clouds; HII
+   regions
+ID ADAPTIVE MESH REFINEMENT; GOULD BELT SURVEY; H II REGIONS; B-TYPE STARS;
+   CLUSTER FORMATION; FORMATION RATES; 1ST SUPERNOVA; MASSIVE STARS; DENSE
+   CORES; YOUNG STARS
+AB We investigate the origin of observed local star formation relations using radiative magnetohydrodynamic simulations with self-consistent star formation and ionizing radiation. We compare these clouds to the density distributions of local star-forming clouds and find that the most diffuse simulated clouds match the observed clouds relatively well. We then compute both observationally motivated and theoretically motivated star formation efficiencies (SFEs) for these simulated clouds. By including ionizing radiation, we can reproduce the observed SFEs in the clouds most similar to nearby Milky Way clouds. For denser clouds, the SFE can approach unity. These observed SFEs are typically 3 to 10 times larger than the 'total' SFEs, i.e. the fraction of the initial cloud mass converted into stars. Converting observed into total SFEs is non-trivial. We suggest some techniques for doing so, though estimate up to a factor of 10 error in the conversion.

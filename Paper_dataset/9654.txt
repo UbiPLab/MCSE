@@ -1,0 +1,7 @@
+DE cloud computing; mobile computing; wearable computers; health care;
+   reliability; mobile handsets; sensitivity analysis; MCC-based mHealth
+   planning; mHealth wearable devices; mobile devices; mHealth
+   applications; mobile cloud computing; parametric sensitivity analysis;
+   metric availability; extended mHealth architecture; system availability
+   evaluation; downtime period
+AB The mHealth wearable devices have been adopted in the last few years and have improved the human well-being. However, mobile devices are still quite resource constrained and mHealth applications require high availability. Mobile cloud computing (MCC) is one alternative to aid mobile devices by providing remote powerful infrastructure. The objective is twofold: (i) to identify the most important components of a mHealth system through parametric sensitivity analysis; (ii) to propose and design an extended mHealth architecture with higher system availability and lower downtime period. The proposed solution reduced the downtime in 41% compared with the baseline architecture.

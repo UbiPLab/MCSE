@@ -1,0 +1,5 @@
+DE Artificial immune systems; Nature-inspired computing; Security; Survey
+ID SELF-NONSELF DISCRIMINATION; NETWORK INTRUSION DETECTION; AD-HOC
+   NETWORKS; ANOMALY DETECTION; CLONAL SELECTION; MISBEHAVIOR DETECTION;
+   ANTIBODY REPERTOIRE; DENDRITIC CELLS; SPAM; ALGORITHMS
+AB For the last two decades, artificial immune systems have been studied in various fields of knowledge. They were shown to be particularly effective tools at detecting anomalous behavior in the security domain of computer systems. This article introduces the principles of artificial immune systems and surveys several works applying such systems to computer security problems. The works herein discussed are summarized and open issues are pointed out afterwards, elaborating on a novel applicability of these systems to cloud computing environments. (C) 2017 Elsevier Ltd. All rights reserved.

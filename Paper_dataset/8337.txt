@@ -1,0 +1,5 @@
+DE Gene fusion; Precision oncology; Fusion visualization; RNA-seq; Cloud
+   computing
+ID GENE FUSIONS; TANDEM DUPLICATION; GENOMIC LANDSCAPE; REARRANGEMENT;
+   MUTANTS; KINASE
+AB To discover driver fusions beyond canonical exon-to-exon chimeric transcripts, we develop CICERO, a local assembly-based algorithm that integrates RNA-seq read support with extensive annotation for candidate ranking. CICERO outperforms commonly used methods, achieving a 95% detection rate for 184 independently validated driver fusions including internal tandem duplications and other non-canonical events in 170 pediatric cancer transcriptomes. Re-analysis of TCGA glioblastoma RNA-seq unveils previously unreported kinase fusions (KLHL7-BRAF) and a 13% prevalence of EGFR C-terminal truncation. Accessible via standard or cloud-based implementation, CICERO enhances driver fusion detection for research and precision oncology. The CICERO source code is available at https://github.com/stjude/Cicero.

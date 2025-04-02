@@ -1,0 +1,4 @@
+DE cloud computing; fuzzy clustering algorithms; FIFO; scheduling
+   algorithm; resource clustering
+ID SWARM INTELLIGENCE
+AB In cloud computing, some large tasks may occupy too many resources and some small tasks may wait for a long time based on First-In-First-Out (FIFO) scheduling algorithm. To reduce tasks' waiting time, we propose a task scheduling algorithm based on fuzzy clustering algorithms. We construct a task model, resource model, and analyze tasks' preference, then classify resources with fuzzy clustering algorithms. Based on the parameters of cloud tasks, the algorithm will calculate resource expectation and assign tasks to different resource clusters, so the complexity of resource selection will be decreased. As a result, the algorithm will reduce tasks' waiting time and improve the resource utilization. The experiment results show that the proposed algorithm shortens the execution time of tasks and increases the resource utilization.

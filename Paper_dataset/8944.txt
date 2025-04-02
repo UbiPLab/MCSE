@@ -1,0 +1,9 @@
+DE Mobile robot navigation; 3D scanner; Range image segmentation; Surface
+   segmentation; Terrain unevenness
+AB Purpose - This paper aims to present object or feature segmentation from an ordered 3D point cloud range data obtained from a laser scanner for the purpose of robot navigation.
+   Design/methodology/approach - Rotating multi-beam laser scanners provide ordered 3D range data. Differences between consecutive ranges in radial direction are used to compute a novel measure of terrain unevenness at each data point. Computed over a complete rotation, an unevenness field is formed surrounding the scanner. A part of this field staying below a threshold is recognized as ground and removed. Remaining non-ground points are segmented into objects by region growing with points whose unevenness lies within pre-specified limiting values.
+   Findings - The proposed unevenness attribute is simple and efficient for segmenting distinct objects or features. The fineness of surface features can be regulated by adjusting the threshold value of difference in unevenness between neighbouring points that triggers an onset of new segments.
+   Research limitations/implications - The angles between neighbouring laser range data are assumed to be known.
+   Practical implications - Segmented objects or features can be used for scan registration, object tracking and robot navigation.
+   Social implications - The method may find use in autonomous robots and driverless cars.
+   Originality/value - Differences between consecutive range data are used imaginatively to derive a novel measure of terrain unevenness, which in turn, is used for efficient segmentation of objects and features.

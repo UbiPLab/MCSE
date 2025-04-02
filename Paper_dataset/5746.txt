@@ -1,0 +1,4 @@
+DE IBM quantum experience; Bell states preparation; Quantum state
+   tomography
+ID TELEPORTATION; COMMUNICATION
+AB There are several quantum computing platforms available on cloud. In this paper, we have compared the performance of five-qubit superconductivity-based four IBM quantum computers, namely IBM_ourense, IBM_vigo, IBMQX2, IBMQX4. Specifically, we studied the Bell states preparation in all these cases. We have calculated the fidelity between the experimentally generated and theoretically prepared states to compare the performance of IBM quantum computers for all the Bell states. This comparison shows IBM_ourense quantum computer exhibits better performance than other (IBM_vigo, IBMQX2, IBMQX4) IBM quantum computers. This shows technological advancement as the newer platforms available on cloud perform better.

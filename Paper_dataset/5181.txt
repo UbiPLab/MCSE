@@ -1,0 +1,8 @@
+DE e-Health care network; physiological wireless body sensor; ubiquitous
+   computing; virtual Internet of Things; wireless remote monitoring system
+ID WEARABLE SENSORS; AUTHENTICATION; LINE
+AB BACKGROUND: Wireless physiological signal monitoring system designing with secured data communication in the health care system is an important and dynamic process.
+   OBJECTIVE: We propose a signal monitoring system using NI myRIO connected with the wireless body sensor network through multi-channel signal acquisition method. Based on the server side validation of the signal, the data connected to the local server is updated in the cloud. The Internet of Things (IoT) architecture is used to get the mobility and fast access of patient data to healthcare service providers.
+   METHODS: This research work proposes a novel architecture for wireless physiological signal monitoring system using ubiquitous healthcare services by virtual Internet of Things.
+   RESULTS: We showed an improvement in method of access and real time dynamic monitoring of physiological signal of this remote monitoring system using virtual Internet of thing approach. This remote monitoring and access system is evaluated in conventional value. This proposed system is envisioned to modern smart health care system by high utility and user friendly in clinical applications.
+   CONCLUSION: We claim that the proposed scheme significantly improves the accuracy of the remote monitoring system compared to the other wireless communication methods in clinical system.

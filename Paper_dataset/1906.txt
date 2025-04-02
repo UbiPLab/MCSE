@@ -1,0 +1,6 @@
+DE Artificial system; data-driven; distributed parameter system; flexible
+   structure; parallel control
+ID ADAPTIVE BOUNDARY CONTROL; SLIDING MODE CONTROL; NONLINEAR-SYSTEMS;
+   VIBRATION CONTROL; FLEXIBLE MANIPULATOR; UNMODELED DYNAMICS; ROBOTIC
+   SYSTEMS; OUTPUT-FEEDBACK; PDE BOUNDARY; STABILIZATION
+AB In this paper, we study the control problems of distributed parameter systems, and discuss the limitations of traditional control methods. In recent years, social factors have gradually become an essential parameter of system modeling. For complex distributed parameter systems, the accurate modeling becomes difficult. With the rapid development of the network and the technology of big data and cloud computing, based on the advanced control theory of large-scale computing, we introduce the idea of parallel control to the control of distributed parameter systems. Parallel control is a method to accomplish tasks through the interaction of virtual and actual. Its core is to model the complex distributed parameter system on artificial society or artificial system, then analyze and evaluate it by computational experiment, and finally control and manage the distributed parameter system by parallel execution. Data-driven control and computational control are used in this method, which is a control idea that adapts to the rapid development of society.

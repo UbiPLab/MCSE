@@ -1,0 +1,6 @@
+DE ISM: HII regions; ISM: abundances; cosmology: primordial nucleosynthesis
+ID H-II REGIONS; EFFECTIVE COLLISION STRENGTHS; STELLAR POPULATION
+   SYNTHESIS; FINE-STRUCTURE TRANSITIONS; LARGE-MAGELLANIC-CLOUD;
+   EMISSION-LINE SPECTRA; ELECTRON TEMPERATURES; FORBIDDEN LINES;
+   CHEMICAL-COMPOSITION; DEUTERIUM ABUNDANCE
+AB The primordial helium abundance Y-P is calculated using sulphur as metallicity tracer in the classical methodology (with Y-P as an extrapolation of Y to zero metals). The calculated value, Y-P, (S) = 0.244 +/- 0.006, is in good agreement with the estimate from the Planck experiment, as well as, determinations in the literature using oxygen as the metallicity tracer. The chemical analysis includes the substraction of the nebular continuum and of the stellar continuum computed from simple stellar population synthesis grids. The S+2 content is measured from the near-infrared [S III] lambda lambda 9069, 9532 lines, while an ICF(S3+) is proposed based on the Ar3+/Ar2+ fraction. Finally, we apply a multivariable linear regression using simultaneously oxygen, nitrogen, and sulphur abundances for the same sample to determine the primordial helium abundance resulting in YP - (O, N, S) = 0.245 +/- 0.007.

@@ -1,0 +1,5 @@
+DE Luhn algorithm; encryption; efficient probabilistic public key
+   encryption (EPPKE); covariance matrix adaptation evolution strategies
+   (CMA-ES); trusted third party (TTP)
+ID COMPUTING SECURITY; BIG DATA; ISSUES
+AB Cloud computing, a recently emerged paradigm faces major challenges in achieving the privacy of migrated data, network security, etc. Too many cryptographic technologies are raised to solve these issues based on identity, attributes and prediction algorithms yet; these techniques are highly prone to attackers. This would raise a need of an effective encryption technique, which would ensure secure data migration. With this scenario, our proposed methodology Efficient Probabilistic Public Key Encryption (EPPKE) is optimized with Covariance Matrix Adaptation Evolution Strategies ( CMA- ES). It ensures data integrity through the Luhn algorithm with BLAKE 2b encapsulation. This enables an optimized security to the data which is migrated through cloud. The proposed methodology is implemented in Open Stack with Java Language. It achieves better results by providing security compared to other existing techniques like RSA, IBA, ABE, PBE, etc.

@@ -1,0 +1,10 @@
+DE cloud computing; software reliability; scheduling; task analysis;
+   resource allocation; computational complexity; genetic algorithms;
+   Markov processes; optimisation; cloud service reliability modelling;
+   optimal task scheduling; cloud computing; service sharing; network
+   access; configurable computing resources; heterogeneous environment;
+   resource allocation; NP-hard problem; reliability analysis; Markov-based
+   method; cloud scheduling problem; multiobjective optimisation problem;
+   genetic algorithm-based chaotic ant swarm algorithm; GA-CAS algorithm
+ID DISTRIBUTED SYSTEMS; GENETIC ALGORITHM; OPTIMIZATION; SWARM
+AB Cloud computing enables service sharing in a massive scale via network access to a pool of configurable computing resources. It has to allocate resources adaptively for tasks and applications to be executed effectively and reliably in a large scale, highly heterogeneous environment. Resource allocation in cloud computing is an NP-hard problem. In this study, the authors conduct a reliability analysis of cloud services by applying a Markov-based method. They formulate the cloud scheduling problem as a multi-objective optimisation problem with constraints in terms of reliability, makespan, and flowtime. Furthermore, they propose a genetic algorithm-based chaotic ant swarm (GA-CAS) algorithm, in which four operators and natural selection are applied, to solve this constrained multi-objective optimisation problem. Simulation results have demonstrated that GA-CAS generally speeds up convergence and outperforms other meta-heuristic approaches.

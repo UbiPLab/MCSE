@@ -1,0 +1,3 @@
+DE Reliability; exascale systems; cloud computing; energy efficiency; data
+   center
+AB Commodity clusters revolutionized high-performance computing when they first appeared two decades ago. As scale and complexity have grown, new challenges in reliability and systemic resilience, energy efficiency and optimization and software complexity have emerged that suggest the need for re-evaluation of current approaches. This paper reviews the state of the art and reflects on some of the challenges likely to be faced when building trans-petascale computing systems, using insights and perspectives drawn from operational experience and community debates.

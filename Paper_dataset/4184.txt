@@ -1,0 +1,12 @@
+DE computer centres; cloud computing; virtual machines; particle swarm
+   optimisation; genetic algorithms; virtualisation; energy consumption;
+   search problems; virtual machine migration; task scheduling; cloud data
+   center; minimum energy usage; virtualised cloud data centre; resource
+   management; cloud DC; cloud user; environmental influence; virtual
+   machine consolidation; minimum energy consumption; VM consolidation;
+   objective functions; FHCS approach; resource depletion; Particle Swarm
+   Optimisation algorithm; Genetic Algorithm; VM migration method; resource
+   utilisation; hybridised optimisation; Fruit fly Hybridised Cuckoo Search
+   algorithm
+ID VM CONSOLIDATION; ALGORITHM
+AB Cloud computing and virtualisation are recent approaches to develop minimum energy usage in virtualised cloud data centre (DC) for resource management. One of the major problems faced by cloud DCs is energy consumption which increases the cost of cloud user and environmental influence. Therefore, virtual machine (VM) consolidation is properly proposed in many approaches which reallocate the VMs by VM migration with the objective of minimum energy consumption. Here, VM consolidation based on the Fruit fly Hybridised Cuckoo Search (FHCS) algorithm is proposed to obtain the optimal solution with the help of two objective functions in cloud DC. This FHCS approach efficiently minimises the energy usage and resource depletion in cloud DC. The proposed work comparison is done with Ant Colony System (ACS), Particle Swarm Optimisation (PSO) algorithm and Genetic Algorithm (GA). The simulation conclusion reveals the advantage of the FHCS and VM migration method over existing procedures such as GA, PSO and ACS in terms of energy consumption and resource utilisation. The proposed method achieves 68 Kwh less energy and 72% less resources than existing methods. Simulation results have shown that energy consumption of the proposed method is reduced with less number of active PMs than other conventional approaches.

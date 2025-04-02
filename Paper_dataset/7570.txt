@@ -1,0 +1,4 @@
+DE Fog computing; vehicular networks; dynamic scheduling; performance
+   evaluation; formal method; PEPA
+ID CLOUD; NETWORKS
+AB Vehicular networks enable an efficient communication with the aim of improving data dissemination among vehicles. However, a growing number of vehicles expect to conduct data dissemination through road side facilities which cause an increment of network load. To address the issue, this letter applies fog computing technologies for enhancing vehicular network that is planned as a layered network architecture. Moreover, two dynamic scheduling algorithms are proposed on the fog computing scheme for the data scheduling in vehicular networks. These algorithms can dynamically adapt a changeable network environment and benefit in efficiency. For performance analysis, a compositional formal method, named performance evaluation process algebra, is applied to model scheduling algorithm in a fog-based vehicular network.

@@ -1,0 +1,2 @@
+DE XML; Cloud computing; Map/Reduce
+AB In this paper we present Andromeda, a system for processing queries and updates on large XML documents. The system is based on the idea of statically and dynamically partitioning the input document, so as to distribute the computing load among the machines of a MapReduce cluster.

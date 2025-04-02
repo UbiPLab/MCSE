@@ -1,0 +1,10 @@
+DE energy conservation; multi-access systems; radio access networks;
+   cellular radio; power consumption; telecommunication power management;
+   concave programming; cloud computing; wireless channels; nonorthogonal
+   multiple access energy efficiency optimisation; wireless backhaul;
+   heterogeneous cloud radio access network; cloud-based central station;
+   multiple base station; heterogeneous cellular network; resource sharing;
+   power allocation; wireless downlink; channel modelling; power
+   consumption; NOMA approach; quasiconcave function; HCRAN EE
+   maximisation; high-power CCS
+AB The downlink problem of a cloud-based central station (CCS) to multiple base stations (BSs) in a heterogeneous cloud radio access network (HCRAN) sharing the same time and frequency resources is studied. The authors adopt nonorthogonal multiple access (NOMA) and propose power allocation for the wireless downlink in the HCRAN. Taking into account practical channel modelling with power consumptions at BSs of different cell types (e.g. macrocell, micro-cell etc.) and backhauling power, they analyse the energy efficiency (EE) of the practical HCRAN utilising NOMA. Simulation results indicate that the proposed NOMA for the HCRAN outperforms the conventional orthogonal frequency division multiple access scheme in terms of providing higher EE of up to four times. Interestingly, the results reveal a fact that the EE of the NOMA varies as a quasi-concave function. An optimisation problem is accordingly introduced to find the optimal number of BSs that maximises the EE of the HCRAN. It is shown that, with a low power supply at the CCS, a double number of micro BSs can be served providing an improved EE of up to 1.6 times compared with the macro BSs and remote radio heads, while they achieve the same EE performance with high-power CCS.

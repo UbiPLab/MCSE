@@ -1,0 +1,4 @@
+DE Big health; wearable computing; cloud computing; Internet of Things; big
+   data
+ID VIRTUAL-REALITY; SERVICES
+AB The world is facing problems, such as uneven distribution of medical resources, the growing chronic diseases, and the increasing medical expenses. Blending the latest information technology into the healthcare system will greatly mitigate the problems. This paper presents the big health application system based on the health Internet of Things and big data. The system architecture, key technologies, and typical applications of big health system are introduced in detail.

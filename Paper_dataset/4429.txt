@@ -1,0 +1,4 @@
+DE Quantum encryption; Quantum key distribution; Categorical quantum
+   mechanics; Access control
+ID GRAPHICAL CALCULUS
+AB This is the second paper of the series of papers dealing with access control problems in cloud computing by adopting quantum techniques. In this paper we study the application of quantum encryption and quantum key distribution in the access control problem. We formalize our encryption scheme and protocol for key distribution in the setting of categorical quantum mechanics (CQM). The graphical language of CQM is used in this paper. The quantum scheme/protocol we propose possesses several advantages over existing schemes/protocols proposed in the state of the art for the same purpose. They are informationally secure and implementable by the current technology.

@@ -1,0 +1,5 @@
+DE Application virtualization; distributed computing; distributed
+   processing
+ID CLOUD; DOCKER
+AB Virtualization has enabled the commoditization of cloud computing, as the hardware resources have become available to run different environments and share computing resources amongst different enterprises. Two technology types are commonly used in virtualization of hardware, namely, hypervisor and container. The present paper concerns only container technologies.
+   A comprehensive overview of the container technologies for virtualization and the dynamics of their popularity have not been available yet. Without such an overview, the informed fast choice of technologies is hindered. To fill this knowledge gap, a systemic literature review was conducted to reveal the most popular container technologies and the trends in their research.

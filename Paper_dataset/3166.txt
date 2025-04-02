@@ -1,0 +1,4 @@
+DE Public key encryption with equality test; Genetic construction; Cloud
+   computing; Signcryption
+ID AUTHORIZATION
+AB Public key encryption with equality test (PKEET) allows the cloud server to test whether two ciphertexts are generated on the same message. Recently, Lee et al. proposed a semi generic approach for PKEET constructions by using the traditional public key encryption schemes. However, how to design a generic approach is still an open problem. In this paper, we propose a generic approach for PKEET constructions. Our approach can be easily extended to the identity-based setting. Compared with Lee et al's approach, ours is (surprisingly) more efficient. Moreover, we propose a new primitive, called signcryption with equality test (SCET). Compared with the traditional PKEET, SCET provides both confidentiality and authentication simultaneously. (C) 2018 Elsevier Inc. All rights reserved.

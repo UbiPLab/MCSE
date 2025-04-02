@@ -1,0 +1,4 @@
+DE Edge computing; Storm nodes; Scheduling; Dynamic programming; Bat
+   algorithm
+ID OPTIMIZATION
+AB The high communication delay and uneven load among heterogeneous edge nodes are affecting the performance of edge computing, and they are almost impossible to be solved by the traditional cloud computing platforms. In this paper, we address these problems by studying the scheduling optimization method for the storm nodes in edge computing environments. At first, a storm scheduling model is established, where server cluster structure and schedule workflow are formulated. Then, a heuristic dynamic programming algorithm is proposed to address the general scheduling issue and a bat-based scheduling strategy is proposed to address a special case faced by the heuristic dynamic programming algorithm. Finally, the experimental results show that the proposed algorithm can minimize the communication cost and guarantee the minimum scheduling requirements.

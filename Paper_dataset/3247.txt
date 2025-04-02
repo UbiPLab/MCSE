@@ -1,0 +1,3 @@
+DE Cloud; Detection; Host based IDS; OpenNebula; Network; Security; System
+   call traces; Virtual machine
+AB The paper reports a host based intrusion detection model for Cloud computing environment along with its implementation and analysis. This model alerts the Cloud user against the malicious activities within the system by analyzing the system call traces. The method analyses only selective system call traces, the failed system call trace, rather than all. An early detection of intrusions with reduced computational burden can be possible with this feature. The reported model provides security as a service (SecaaS) in the infrastructure layer of the Cloud environment. Implementation result shows 96 % average intrusion detection sensitivity.

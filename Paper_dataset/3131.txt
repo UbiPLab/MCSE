@@ -1,0 +1,8 @@
+DE Computer-Based Learning; Laboratory Equipment/Apparatus; Laboratory
+   Computing/Interfacing; Interdisciplinary/Multidisciplinary;
+   Internet/Web-Based Learning; Student-Centered Learning; Instrumental
+   Methods; Graduate Education/Research; First-Year Undergraduate/General;
+   Upper-Division Undergraduate
+ID OPEN-SOURCE HARDWARE; LABORATORY INSTRUMENTATION; ELECTRONICS;
+   DIRECTIONS; CHEMISTRY; EQUIPMENT; EDUCATION; ANALYZER; PLATFORM; SYSTEMS
+AB This paper presents a system for remote monitoring of turbidity data that can detect light intensity and temperature using a microcontroller and the Internet of Things. The system comprises a light dependent resistor and infrared temperature sensor interfaced with an ESP-12E microcontroller, a programmable data acquisition platform; together these enable remote real-time monitoring of turbidity data applicable to chemical education. This system will allow educators and students to monitor chemical experiments in real-time through a web browser. Changes in turbidity and signal processing associated with a light dependent resistor are stored locally on the microcontroller and transmitted wirelessly via a WiFi-based connection to a cloud-based server. The light intensity signals are displayed on the system through an organic light-emitting diode and subsequently uploaded to a cloud-based server. A web-based signal processing MATLAB program plots the uploaded signals available as real-time streams to authorized subscribers over standard browsers.

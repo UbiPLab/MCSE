@@ -1,0 +1,3 @@
+DE Cloud Computing; Equal Length Cellular Automata; Equal Length Data
+   Blocks; Load-Reduced Data Processing; Mapreduce
+AB A MapReduce design with Cellular Automata (CA) is presented in this research article to facilitate load-reduced independent data processing and cost-efficient physical implementation in heterogeneous Cloud architecture. Equal Length Cellular Automata (ELCA) are considered for the design. This article explores ELCA rules and presents an ELCA based MapReduce design in cloud. New algorithms are presented for i) synthesis, ii) classification of ELCA rules, and iii) ELCA based MapReduce design in Cloud. Shuffling and efficient reduction of data volume are ensured in proposed MapReduce design.

@@ -1,0 +1,2 @@
+DE AWS; cloud computing; cluster; cross validation; data analysis; J48
+AB The following article shows the J48 algorithm implementation using the open source software Weka 3.8.0 running from an AWS cloud cluster, which was developed on Starcluster 0.91. This system is used on a database that contains glass classification information through the algorithm. With training data and cross validation it is created a classification tree that allows predicting to which material the inserted glass belongs.

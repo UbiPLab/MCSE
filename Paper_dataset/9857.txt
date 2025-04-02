@@ -1,0 +1,6 @@
+DE Abnormal situation management; Process safety; Fault diagnosis; Big
+   data; Artificial immune system; Cloud computing
+ID PROCESS FAULT-DETECTION; MONITORING APPROACH; QUANTITATIVE MODEL; BATCH
+   PROCESSES; NEURAL-NETWORK; HAZOP ANALYSIS; MIXTURE MODEL; EXPERT-SYSTEM;
+   PART I; DIAGNOSIS
+AB Although modern chemical processes are highly automatic, abnormal situation management (ASM) still heavily relies on human operators. Process fault detection and diagnosis (FDD) are one of the most important issues of ASM but few FDD systems have been satisfactorily applied in real chemical processes since the concept of FDD was proposed about 40 years ago. In this paper, developments of chemical process FDD are briefly reviewed. The reason why FDD has not been widely implemented in the chemical process industry is discussed. One of the insights gained is that some basic problems in FDD such as how to define faults and how many faults to diagnose have not even been addressed well while researchers tirelessly try to invent new methods to diagnose fault. A new framework is proposed based on the big data in a cloud computing environment of a big chemical corporation for addressing the challenging issues in ASM. (C) 2016 Elsevier Ltd. All rights reserved.

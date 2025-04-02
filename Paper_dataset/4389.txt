@@ -1,0 +1,6 @@
+DE potential energy surface; inelastic rotational collision;
+   cross-sections; close-coupling; RCCSD(T); rate coefficients
+ID POTENTIAL-ENERGY SURFACE; AB-INITIO; ASTRONOMICAL DETECTION;
+   COUPLED-CLUSTER; CNN-CLUSTERS; INTERSTELLAR; ANIONS; SCATTERING; CLOUDS;
+   L1527
+AB The focal points of the present paper are the calculations of cross-sections and rate coefficients for rotational (de-) excitation of C3N- induced by collision with He and H2 atoms for energies of up to 2000 cm(-1) and temperatures ranging from 1 K to 300 K. For this study, the new two-dimensional potential energy surface (PES) of the C3N--He complex has been calculated at the ab initio restricted coupled cluster level of theory, including single, double and perturbative triple excitation [RCCSD(T)-F12a] with the cc-pVTZ-F12 basis set augmented by mid-bond functions. Basis set superposition errors were taken into account. To allow for the dynamical calculations, the PES was then fitted to a global analytical form, the main features of which are discussed. Collisional cross-sections among the first 17 rotational levels were calculated and employed to compute downward and upward rate coefficients. A propensity towards vertical bar Delta j vertical bar = 2 was observed.

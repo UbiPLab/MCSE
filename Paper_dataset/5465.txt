@@ -1,0 +1,4 @@
+DE Edge computing; Deep learning; Remaining useful life; Degradation state;
+   Internet of Things
+ID NEURAL-NETWORK; LSTM
+AB Intelligent industrial production has recently emerged as an important trend for application of the Industrial Internet of Things (IIoT) in edge computing. This study applied remote edge devices and edge servers, preprocessing the signal sensor, through covert data to cloud storage, and loaded the data to propose several deep learning methods to assess the status of aircraft engines in operation, and to classify stages of operational degradation so as to predict the functional remaining lifespan of components. The predicted results are transmitted to a cloud-based server for monitoring and maintenance.

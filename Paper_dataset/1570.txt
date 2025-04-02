@@ -1,0 +1,4 @@
+DE Analytical hierarchy process; distributed systems; cloud computing; load
+   balancers; quality of service (QoS)
+ID LOAD; SERVICE; QUALITY; QOS; ALGORITHMS; ISSUES
+AB The emergence of new service oriented distributed models has raised a number of challenges particularly in relation to the management of distributed infrastructures in dynamic environments, such as the Cloud with changing availability of resources, services and quality of services. In such an environment it is very important that users and applications have some level of assurance that their requirements can be satisfied while trying to optimize the usage of the available resources. This paper presents a new requirement-driven decision making mechanism that is based on a quality assured load balancer for distributed computing systems. We evaluate the approach and demonstrate how it can adapt to user requirements and to the capacity of available resources.

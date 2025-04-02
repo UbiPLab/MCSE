@@ -1,0 +1,4 @@
+DE Cloud Computing; Resource Allocation; Krill Herd Algorithm; Random
+   Perturbation
+ID MODEL
+AB Resource allocation acts an important role in cloud computing. Traditional resource allocation methods have time-consuming, expensive and low efficiency disadvantages. Therefore, we propose an improved hill herd algorithm for resource allocation in cloud computing. Firstly, the status of cloud computing resource allocation is analyzed. Then, in order to prevent krill herd falling into local solution, we introduce random perturbation factor to improve the induction movement and foraging movement of krill herd. Finally, the experiments results show that the proposed method can effectively improve the system resource utilization, the allocation performance is better than other cloud computing resource allocation methods.

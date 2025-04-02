@@ -1,0 +1,4 @@
+DE Mobile cloud computing; Application models; Computation offloading;
+   Offloading cost; Computation offloading cost entities
+ID AD HOC NETWORKS; ENVIRONMENTS; EXECUTION; SUPPORT; CHANNEL
+AB Mobile cloud computing requires specialized application development models that can facilitate development of cloud-enabled applications. This paper presents a mathematical model to calculate the computation offloading cost (time and energy consumption) of mobile cloud application models to facilitate in the development of mobile cloud computing simulators. It demonstrates the usage of the proposed model, and shows the impact of the cost incurring parameters on the overall computational time and energy consumption of the applications. The proposed model can assist cloud-powered applications to make context-aware offloading decisions and facilitate the development of mobile cloud computing simulators, which unfortunately, does not exist to date.

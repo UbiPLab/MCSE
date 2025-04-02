@@ -1,0 +1,4 @@
+DE Large-Scale Computing Systems; Makespan; Optimization; Resource
+   Utilization
+ID INDEPENDENT TASKS; CLOUD; ALGORITHMS; TIME
+AB There are various algorithms that are designed to satisfy the needs of high performance applications and exhaustive work ows in large-scale computing systems. This work analyzes the impact of optimizing the key performance parameters, such as makespan, power consumption, and resource utilization. Five state of the art heuristics are simulated utilizing a wide range of random work ows and different task distributions. Moreover, scheduling heuristics comprise list based algorithms for which theoretical performance guarantees are proven. The paper also presents important problems regarding the evaluated algorithms and their impact on performance of the scheduling system.

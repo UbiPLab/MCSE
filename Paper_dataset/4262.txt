@@ -1,0 +1,5 @@
+DE Trust management model; trust value of provider feedback; trust value of
+   third-party feedback; user trust value; availability; reliability;
+   integrity; confidential; authentication
+ID MANAGEMENT; SYSTEM; SERVICES
+AB There are many trust management models for the cloud environment. Selecting an appropriate trust model is not an easy job for a user. This work presents a new trust model called ARICA model which help a user to reduce the reliance on the trust value of provider and third-party feedback. Simultaneously, the ARICA model increases the dependence on the user trust value. Furthermore, the proposed model measured the trust based on five attributes: Availability, Reliability, Integrity, Confidentiality, and Authentication. This paper presents the comparison of the proposed ARICA trust model with two existing schemes. Results show that the proposed model provides better accurate results.

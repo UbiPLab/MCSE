@@ -1,0 +1,8 @@
+DE quality of service; cloud computing; Internet of Things; power aware
+   computing; critical services; response time; energy consumption;
+   energy-aware placement; IoT-based application services; fog-cloud
+   environments; fog computing; decentralised computing model; QoS; service
+   placement problem; SPP; IoT services; energy efficiency; fog service
+   providers; fog-cloud systems; quality of service; Internet of Things
+ID INTERNET; THINGS
+AB Fog computing is a decentralised model which can help cloud computing for providing high quality-of-service (QoS) for the Internet of Things (IoT) application services. Service placement problem (SPP) is the mapping of services among fog and cloud resources. It plays a vital role in response time and energy consumption in fog-cloud environments. However, providing an efficient solution to this problem is a challenging task due to difficulties such as different requirements of services, limited computing resources, different delay, and power consumption profile of devices in fog domain. Motivated by this, in this study, we propose an efficient policy, called MinRE, for SPP in fog-cloud systems. To provide both QoS for IoT services and energy efficiency for fog service providers, we classify services intotwocategories: critical services and normal ones. For critical services, we propose MinRes, which aims to minimise response time, and for normal ones, we propose MinEng, whose goal is reducing the energy consumption of fog environment. Our extensive simulation experiments show that our policy improves the energy consumption up to 18%, the percentage of deadline satisfied services up to 14% and the average response time up to 10% in comparison with the second-best results.

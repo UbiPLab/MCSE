@@ -1,0 +1,10 @@
+DE cellular radio; array signal processing; mobile radio; telecommunication
+   congestion control; cooperative communication; quality of service;
+   minimisation; radio access networks; cloud computing; admission control
+   mechanisms; cache-enabled cloud-RAN; multiobjective optimisation
+   problem; single objective optimisation problem; fronthaul capacity;
+   cloud radio access network; traffic load problem; fronthaul links;
+   multiuser downlink beamforming; quality of service; mixed-integer
+   nonlinear program
+ID NETWORKS; TRANSMISSION; OPTIMIZATION; ALGORITHMS; DELIVERY; DOWNLINK
+AB Caching is a promising solution for the cloud radio access network (Cloud-RAN) to mitigate the traffic load problem in the fronthaul links. Multiuser downlink beamforming plays an important role in efficient utilisation of spectrum and transmission power while satisfying the user's quality of service requirements. When the number of users exceeds the serving capacity of the network, certain users will have to be dropped or rescheduled. This is normally achieved by appropriate admission control mechanisms. Introducing local storage or cache at the remote radio heads where some popular contents are cached, the authors propose beamforming and admission control techniques for cache-enabled Cloud-RAN in the downlink. This minimises the total network cost including power and fronthaul cost while admitting as many users as possible. They formulate this multi-objective optimisation problem as a single objective optimisation problem. The original problem, which is a mixed-integer non-linear programme, is first converted to the mixed-integer second-order cone programming form. The branch and bound algorithm is then used to determine the optimal and suboptimal solutions. A simulation study has been conducted to assess the performance of both methods.

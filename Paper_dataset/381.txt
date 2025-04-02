@@ -1,0 +1,6 @@
+DE Resource-based view; Cloud computing; Primary and support use;
+   Socio-technical theory; Firm performance; Value creation
+ID STRUCTURAL EQUATION MODELS; RESOURCE-BASED PERSPECTIVE; COMMON METHOD
+   VARIANCE; E-GOVERNMENT SERVICES; INFORMATION-TECHNOLOGY; VALUE CREATION;
+   E-BUSINESS; BIG DATA; PLS-SEM; ADOPTION
+AB While cloud computing is touted as a promising information technology advancement, predictions of its value are inconclusive. This research investigates the impact of cloud computing within-firm and across-firm. Drawing on the resource-based view and sociotechnical theory, technical attributes and social attributes of cloud computing are identified to impact firm performance via primary and support use. Results from data collected from 513 firms show varying effects of technical and social attributes in primary use and support use, which help create value and better performance. Such effects also are found to differ between firms in service and manufacturing sectors.

@@ -1,0 +1,4 @@
+DE Mobile edge computing (MEC); computation offloading; pricing;
+   Stackelberg game
+ID ENERGY; RADIO
+AB Mobile-edge computing is a promising technology to enable real-time information transmission and computing by offloading computation tasks from wireless devices to network edge. In this letter, we propose a price-based distributed method to manage the offloaded computation tasks from users. A Stackelberg game is formulated to model the interaction between the edge cloud and users, where the edge cloud sets prices to maximize its revenue subject to its finite computation capacity, and for given prices, each user locally makes offloading decision to minimize its own cost which is defined as latency plus payment. Depending on the edge cloud's knowledge of the network information, we develop the uniform and differentiated pricing algorithms, which can both be implemented in distributed manners. Simulation results validate the effectiveness of the proposed schemes.

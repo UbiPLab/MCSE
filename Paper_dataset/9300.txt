@@ -1,0 +1,3 @@
+DE privacy preserving; pattern matching; outsourcing; semi-honest adversary
+ID FULLY HOMOMORPHIC ENCRYPTION
+AB Nowaday, secure cloud computation has become more and more attractive. We propose a protocol for privacy-preserving pattern matching. Then, we prove that the construction is simulation-based secure in the semi-honest setting. Finally, the efficiency analysis shows our scheme outperforms the previous works. Specially, compared with Fast' protocol our scheme is more efficient and the text owner does not need real-time online in the query phase. Thus, this protocol is flexible to query by light weight equipments such as mobile phones. Copyright (C) 2016 John Wiley & Sons, Ltd.

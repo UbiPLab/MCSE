@@ -1,0 +1,6 @@
+DE SGX; Homomorphic encryption; Data outsourcing; Privacy preserving
+ID LOGISTIC-REGRESSION; COMPUTATION
+AB Background: Advances in DNA sequencing technologies have prompted a wide range of genomic applications to improve healthcare and facilitate biomedical research. However, privacy and security concerns have emerged as a challenge for utilizing cloud computing to handle sensitive genomic data.
+   Methods: We present one of the first implementations of Software Guard Extension (SGX) based securely outsourced genetic testing framework, which leverages multiple cryptographic protocols and minimal perfect hash scheme to enable efficient and secure data storage and computation outsourcing.
+   Results: We compared the performance of the proposed PRESAGE framework with the state-of-the-art homomorphic encryption scheme, as well as the plaintext implementation. The experimental results demonstrated significant performance over the homomorphic encryption methods and a small computational overhead in comparison to plaintext implementation.
+   Conclusions: The proposed PRESAGE provides an alternative solution for secure and efficient genomic data outsourcing in an untrusted cloud by using a hybrid framework that combines secure hardware and multiple crypto protocols.

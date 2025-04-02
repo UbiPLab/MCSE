@@ -1,0 +1,4 @@
+DE Cloud computing; Dynamic management; Energy consumption; SLA violation;
+   Virtual machine placement
+ID CONSOLIDATION
+AB The management strategy of a data center needs access to sufficient resources in order to handle different requests of applications, while minimizing the consumed energy. With regard to high and varying resource demands, Virtual Machines (VM) management necessitates dynamic strategies. Dynamic management of VMs includes VM placement and VM migration. The management approach presented in this paper aimed to reduce the energy consumption and the violation of service level agreements (SLA) simultaneously in data centers. The simulation results indicate that proposed approach improved the VM management 40% compared to the previous single-goal approaches based on the energy consumption and SLA violation rates.

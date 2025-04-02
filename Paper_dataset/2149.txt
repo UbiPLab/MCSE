@@ -1,0 +1,5 @@
+DE Smart grids; photovoltaic; renewable energy; energy management; cloud
+   computing; CPU computing; wavelet analysis; neural networks; parallel
+   processing
+ID NEURAL-NETWORKS; ENERGY; WIND
+AB Integrated generation systems are increasingly considered suitable to supply remote areas, less developed countries, and small isolated communities with power. The energy management investigated in this paper concerns a smart grid encompassing a photovoltaic park. We propose a novel cloud-distributed solution to determine the best energy dispatch, i.e., where energy is going to be used and whether to change the operating points for some consumption devices. Neural networks have been used to predict both energy production and consumption, making it possible to strategically set the activation time of loading devices and to minimize energy flow changes. Moreover, cloud computing resources make it possible to have fast and distributed computation on the big amount of data gauging power production and consumption.

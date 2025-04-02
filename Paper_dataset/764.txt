@@ -1,0 +1,6 @@
+DE Task analysis; Cloud computing; Fault tolerance; Fault tolerant systems;
+   Computational modeling; Dynamic scheduling; Mirrors; Cloud computing;
+   fault tolerance; meteorological workflow; nondominated sorting genetic
+   algorithm (NSGA)-II
+ID ALLOCATION; ALGORITHM
+AB Cloud computing is a formidable paradigm to provide resources for handling the services from Industrial Internet of Things (IIoT), such as meteorological industry. Generally, the meteorological services, with complex interdependent logics, are modeled as workflows. When any of the computing nodes for hosting the meteorological workflows fail, all sorts of consequences (e.g., data loss, makespan enlargement, performance degradation, etc.) could arise. Thus recovering the failed tasks as well as optimizing the makespan and the load balance of the computing nodes is still a critical challenge. To address this challenge, a dynamic resource provisioning method (DRPM) with fault tolerance for the data-intensive meteorological workflows is proposed in this article. Technically, the Virtual Layer 2 (VL2) network topology is exploited to build meteorological cloud infrastructure. Then, the nondominated sorting genetic algorithm II (NSGA-II) is employed to minimize the makespan and improve the load balance. Finally, comprehensive experimental analysis of DRPM are proceeded.

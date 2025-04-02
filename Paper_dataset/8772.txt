@@ -1,0 +1,3 @@
+DE Cloud computing; virtualization; genetic algorithm; task scheduling;
+   load balancing
+AB The nature of dynamic and heterogeneity in Cloud computing, making cloud computing is prone to load imbalance, and seriously affected the overall performance of cloud computing and user experience. This paper proposed the load balancing model based on improved genetic algorithm, taking into account the dynamic changes in resource requirements and virtual machine computing power, used improved genetic algorithm to achieve resource load balancing, and established the resource scheduling model. Verification shows that the algorithm can well meet the requirements under the cloud data center environment, improve resource utilization and load balancing degrees.

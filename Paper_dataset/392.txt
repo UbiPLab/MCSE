@@ -1,0 +1,5 @@
+DE Task analysis; Cloud computing; Containers; Resource management;
+   Optimization; Mobile handsets; Heuristic algorithms; Distributed edge
+   cloud; heuristic algorithm; mixed integer nonlinear program (MINLP);
+   optimization
+AB To overcome the limitation of standalone edge cloud in terms of computing power and resource, a concept of distributed edge cloud has been introduced, where application tasks are distributed to multiple edge clouds for collaborative processing. To maximize the effectiveness of the distributed edge cloud, we formulate an optimization problem of task allocation to minimize the application completion time. To mitigate high complexity overhead in the formulated problem, we devise a low-complexity heuristic algorithm called dependency-aware task allocation (DATA) algorithm. Evaluation results demonstrate that DATA can reduce the application completion time up to by 15%-32% compared to conventional dependency-unaware task allocation schemes.

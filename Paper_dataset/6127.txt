@@ -1,0 +1,4 @@
+DE Internet of things; android things; wireless sensor network (WSN);
+   remote sensor network; Food Reserve Agency (FRA); grain marketing;
+   modern warehousing; cloud computing
+AB In order to introduce modern warehousing, improve upon the storage of grain and grain marketing business processes for the Food Reserve Agency in Zambia, a prototype of a remote sensor network was developed and built as a proof of concept for a much wider deployment using cloud computing and the internet of things concept. It was determined that a wireless sensor network would aid the Food Reserve Agency in analytics, timely action and real-time reporting from all its food depots spread-out throughout Zambia. Google's Android Things Platform was used in order to achieve the objectives. Advantages of Android Things over traditional platforms that have been used to develop wireless sensor networks were looked into and presented in this paper.

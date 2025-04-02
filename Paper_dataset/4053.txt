@@ -1,0 +1,4 @@
+DE Friction stir welding; Industry 4.0 in manufacturing; Real time control;
+   Multiple sensors; Cloud computing; Signal processing; Machine learning
+ID DEFECT IDENTIFICATION; ACOUSTIC-EMISSION; TRANSFORM
+AB In the present work, a novel cloud-based remote and real time monitoring and control scheme has been developed for a manufacturing process named friction stir welding (FSW) to avoid occurrence of weld defects. This model acquires data from multiple sensors associated with the FSW machine and transmits them to the cloud. The signals are analyzed and processed in the cloud in real time through various signal processing and machine learning techniques. The model provides a feedback to the machine regarding the desired controlled parameters to achieve an improved weld quality. This is an example of Industry 4.0 where a manufacturing process can be controlled in real time from any location. (c) 2020 CIRP.

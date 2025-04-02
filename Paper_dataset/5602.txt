@@ -1,0 +1,7 @@
+DE Breast cancer; Invasive ductal carcinoma (IDC); Digital pathology; Whole
+   slide image (WSI); Machine learning; AutoML vision; Google cloud
+ID REPRODUCIBILITY; CLASSIFICATION
+AB Objectives: This study is aimed to assess the feasibility of AutoML technology for the identification of invasive ductal carcinoma (IDC) in whole slide images (WSI).
+   Methods: The study presents an experimental machine learning (ML) model based on Google Cloud AutoML Vision instead of a handcrafted neural network. A public dataset of 278,124 labeled histopathology images is used as the original dataset for the model creation. In order to balance the number of positive and negative IDC samples, this study also augments the original public dataset by rotating a large portion of positive image samples. As a result, a total number of 378,215 labeled images are applied.
+   Results: A score of 91.6% average accuracy is achieved during the model evaluation as measured by the area under precision-recall curve (AuPRC). A subsequent test on a held-out test dataset (unseen by the model) yields a balanced accuracy of 84.6%. These results outperform the ones reported in the earlier studies. Similar performance is observed from a generalization test with new breast tissue samples we collected from the hospital.
+   Conclusions: The results obtained from this study demonstrate the maturity and feasibility of an AutoML approach for IDC identification. The study also shows the advantage of AutoML approach when combined at scale with cloud computing.

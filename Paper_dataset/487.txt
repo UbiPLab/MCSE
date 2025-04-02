@@ -1,0 +1,6 @@
+DE Big Data Analytics; Cloud Computing; Conceptual View; Digital
+   Capabilities; Digital Innovation; IoTs; Value Creation
+ID RESOURCE-BASED VIEW; CLOUD COMPUTING ADOPTION; BIG-DATA; FIRM
+   PERFORMANCE; COMPETITIVE ADVANTAGE; THINGS IOT; INTERNET; CHALLENGES;
+   MANAGEMENT; INVESTMENTS
+AB Towards the view of value creation through digital applications integration and their complementary characteristics, this study proposes a framework using the resource-based view and the capability view to explore the integration of digital capabilities to support value creation in an organization. The paper adopted a systematic review by exploring literature on digital innovations applications such as big data analytics, cloud computing, and internet of things (IoTs). The conceptual model developed suggested that deploying digital innovation capabilities promotes organizations to benefit in the area the of managerial decision making, enhancing information technology infrastructure alignments, operational activities, and overall firm performance. This article further extends the discussions toward the need to integrate digital innovation capabilities such as IoTs, big data analytics, and cloud computing and the range of relationships existing among these innovations to support value creation for firms towards technology deployment in IS literature.

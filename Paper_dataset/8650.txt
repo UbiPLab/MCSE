@@ -1,0 +1,6 @@
+DE heuristics; VM placement; unification; variance; selection algorithm;
+   SLA; energy efficiency; host consolidation; quality of service; QoS;
+   virtualisation; simulation; utilisation ratio; VM migration; novel;
+   service platform; PlanetLab
+ID SERVER CONSOLIDATION; HEURISTICS
+AB Cloud computing has emerged as an alternate infrastructure, computation and service platform. Several user jobs and applications concurrently compete for cloud resources. Cloud environment exploits virtualisation to instantiate virtual machine (VM) for subscribers. VMs are like producers and consumers in cloud environment. VMs consume computational, storage and network resources in cloud on behalf of jobs and tasks. Jobs of subscribers are represented as VM or VMs. In this view, VMs are producers. Another concern in clouds remains energy efficiency. This paper presents a novel SLA aware VM selection scheme. Proposed selection scheme has been compared with minimum migration time, linear regression, maximum utilisation and threshold-based selection schemes. Simulations-based analysis established that proposed approach (SLA consciousness) outperforms other selection schemes using various allocation strategies. During simulation some real world workload traces from PlanetLab has been used.

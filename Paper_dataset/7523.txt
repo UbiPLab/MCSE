@@ -1,0 +1,5 @@
+DE content sharing; client-server; shared storage; peer-to-peer; grid
+   computing; cloud computing; object storage; interoperability; federated
+   cloud; hybrid cloud; multi-cloud; aggregated service by broker; provider
+   centric; client centric
+AB This paper illustrates various content sharing systems that take advantage of cloud's storage and computational resources as well as their supporting conventional technologies. First, basic technology concepts supporting cloud-based systems from a client-server to cloud computing as well as their relationships and functional linkages are shown. Second, the taxonomy of cloud-based system models from the aspect of multiple clouds' interoperability is explained. Interoperability can be categorized into provider-centric and client-centric scenarios. Each can be further divided into federated clouds, hybrid clouds, multi-clouds and aggregated service by broker. Third, practical cloud-based systems related to contents sharing are reported and their characteristics are discussed. Finally, future direction of cloud-based content sharing is suggested.

@@ -1,0 +1,1 @@
+AB As big data, cloud computing, grid computing, and the Internet of Things reshape current data systems and practices, IT experts are keen to harness the power of distributed systems to boost security and prevent fraud. How can these systems' capabilities be used to improve processing without inflating risk?

@@ -1,0 +1,4 @@
+DE Mobile cloud service; Recommendation; Soft set; Weighted reduction soft
+   set
+ID NORMAL PARAMETER REDUCTION; ALGORITHM; SYSTEM
+AB Mobile Internet and Cloud Computing technologies facilitate the rapid development of mobile cloud services. Particularly, mobile cloud services recommendation has become increasingly important as services become increasingly prevalent over the Internet. Existing recommendation mechanisms mainly focus on Quality of Services (QoS). However, the continuous emerging of many mobile cloud services leads to a server issue on the information overload for users. Hence, how to recommend the suitable mobile cloud services to users for addressing this issue is important. To this end, this paper incorporates the unique property of soft set and creatively investigated the soft set-based mobile cloud service recommendation mechanism and then devised the corresponding recommendation algorithm.

@@ -1,0 +1,5 @@
+DE cloud computing; service level agreement; penalty aware; cost
+   efficiency; dynamic consolidation
+ID VIRTUAL MACHINES; COMPUTING ENVIRONMENTS; DYNAMIC CONSOLIDATION; ENERGY
+   EFFICIENCY; PERFORMANCE; HEURISTICS; ALGORITHMS; POWER
+AB Today, data centers are the main source of providing cloud services through a service level agreement (SLA). Most research papers for cloud resource management concentrate on how to reduce host energy consumption and SLA violation (SLAV) to minimize operational cost. However, they do not consider the amount of penalty that cloud provider should pay to users because of SLAV. In this paper, we propose a new penalty-aware and cost-efficient method that considers cloud resource management as a cost problem. In this method parameters such as user budget, penalty, and host energy consumption cost play an important role in minimizing operational cost which leads to higher profit for cloud provider. The simulation results with CloudSim show that our proposed method minimizes operational cost compared to the prior resource managements. Copyright (C) 2016 John Wiley & Sons, Ltd.

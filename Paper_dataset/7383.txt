@@ -1,0 +1,4 @@
+DE Cloud computing; Cloud storage security; Mobile Edge Computing;
+   Multimedia data
+ID ACCESS-CONTROL; MODEL
+AB This paper presents a movie recommendation system according to scores that the users provide. In view of the movie evaluation system, the impacts of access control and multimedia security are analyzed, and a secure hybrid cloud storage architecture is presented. Mobile-Edge Computing (MEC) technology is used in the public cloud which guarantees the high efficiency requirements of the transmission of the multimedia content. The processes of the system including registration, user login, role assignment, data encryption and data decryption are also described. At last, the performance of the proposed scheme is analyzed which further shows that the various possible attacks can be mitigated via the proposed system. (C) 2016 Elsevier B.V. All rights reserved.

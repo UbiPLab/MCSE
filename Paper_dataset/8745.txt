@@ -1,0 +1,7 @@
+DE MEC; Multi-Access Edge Computing; Mobile Edge Computing; 5G Mobile
+   Communications; Edge Computing; Application Virtualization; Network
+   Function Virtualization; Software Defined Networking; Network
+   Softwarization
+ID DISTRIBUTED MOBILITY MANAGEMENT; RESOURCE-ALLOCATION; OPTIMIZATION;
+   CHALLENGES; INTERNET; RADIO
+AB Multi-access edge computing (MEC) is an emerging ecosystem, which aims at converging telecommunication and IT services, providing a cloud computing platform at the edge of the radio access network. MEC offers storage and computational resources at the edge, reducing latency for mobile end users and utilizing more efficiently the mobile backhaul and core networks. This paper introduces a survey on MEC and focuses on the fundamental key enabling technologies. It elaborates MEC orchestration considering both individual services and a network of MEC platforms supporting mobility, bringing light into the different orchestration deployment options. In addition, this paper analyzes the MEC reference architecture and main deployment scenarios, which offer multi-tenancy support for application developers, content providers, and third parties. Finally, this paper overviews the current standardization activities and elaborates further on open research challenges.

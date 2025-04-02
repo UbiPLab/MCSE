@@ -1,0 +1,4 @@
+DE MQTT; synchronizing; machine to machine; real time systems; IoT; cloud
+   computing
+ID INTERNET; THINGS
+AB This paper will present a design and implementation for an embedded system to connect to a Machine to Machine (M2M) broker. The proposed system will use the cloud server to communicate with other embedded systems. The system will be configurable from a cloud-based web service. The paper also will explore previous research on M2M protocols such as Message Queueing Telemetry Transport (MQTT) and Advanced Messaging Queuing Protocol (AMQP). The paper will present and demonstrate an MQTT based system for synchronizing IoT device state across multiple client nodes. The objective of the system is for state changes to be registered and distributed throughout the system in under 1 second; and initial registration of a new node should occur in under 30 seconds.

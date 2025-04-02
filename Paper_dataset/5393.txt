@@ -1,0 +1,5 @@
+DE Cloud of Things; Internet of Things; Cloud Computing; Energy Efficient;
+   Random geometric graph; wireless sensor network; parallel and
+   distributed system
+ID INTERNET
+AB In the previous years, the use of Internet and other internet based technology were increased impulsively. The cloud of Things is (CoT) a smart technology which permits the access of services or anything over the internet at any time and can be used anywhere. CoT is a joined technology of Cloud Computing and Internet of Things (IoT). IoT turning out to be pervasive to the point that it is getting to be distinctly essential to incorporate with the cloud environment. Due to the measure of information IoT's could produce and their prerequisite to have the benefit of essential assets usage and capacity limits. Additionally, making it conceivable to make extra value from the information created by IoT's and create useful and smart applications for the clients. Due to the ubiquitous nature of CoT, it is continuously draining energy from resources. So, energy efficient CoT has arisen as a major research problem. In this manuscript, energy effcient design for CoT has been discussed.

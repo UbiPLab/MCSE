@@ -1,0 +1,10 @@
+DE cloud computing; energy storage; demand side management; optimisation;
+   two-stage robust optimisation; user-side cloud energy storage
+   configuration; load fluctuation; energy storage loss; industrial users;
+   energy storage systems; demand-side management; demand response;
+   expensive costs; ES construction; cloud ES architecture; CES; scale
+   benefits; large-scale construction; ES equipment; user load; optimal
+   configuration; optimisation model; load data; industrial park; robust
+   configuration results; load changes
+ID AC/DC HYBRID MICROGRIDS; DISPATCH; MODEL; GENERATION; SYSTEMS
+AB Recently, many industrial users have spontaneously built energy storage (ES) systems for participation in demand-side management, but it is difficult for users to benefit from participating in demand response (DS) because of the expensive costs of ES construction. Therefore, this study proposes a cloud ES (CES) architecture that can reduce these costs by utilising users' complementary load characteristics and the scale benefits resulting from large-scale construction of ES equipment. Considering the DR and the uncertainty of the user load, this study applies two-stage robust optimisation to solve for the optimal configuration of CES. The proposed optimisation model is verified using the load data of an industrial park in Jiangsu Province, and the results clearly indicate that the proposed CES can be more beneficial than self-built distributed ES during the warranty period. The robust configuration results can be applicable even when the load changes within the maximum and minimum range.

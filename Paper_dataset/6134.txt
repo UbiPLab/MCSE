@@ -1,0 +1,3 @@
+DE Business Information Systems; Cloud Computing; New Zealand; IT
+   Management
+AB Many organizations that use cloud computing services intend to increase this commitment. A survey was distributed to organizations in Hawke's Bay, New Zealand to understand their adoption of cloud solutions, in comparison with global trends and practices. The survey also included questions on the benefits and challenges, and which delivery model(s) they have adopted and are planning to adopt. One aim is to contribute to the cloud computing literature and build on the existing adoption models. This study also highlights additional aspects applicable to various organizations (small, medium, large and regional). Finally, recommendations are provided for related future research projects.

@@ -1,0 +1,10 @@
+DE smart power grids; cloud computing; security of data; protocols;
+   authorisation; database management systems; cryptography; middleware;
+   message passing; data protection; prefix-based membership verification
+   algorithm; publish-subscribe service; Advanced Metering Infrastructure
+   servers; ciphertext policy attribute-based encryption; cloud-assisted
+   secure conjunctive; return data; obstacles traditional data utilisation;
+   sensitive data; data security; serious server crash; AMI servers; data
+   burst problem; smart meters; smart grid need
+ID PRIVACY
+AB The publish/subscribe (P/S) service on Advanced Metering Infrastructure (AMI) servers of smart grid need to deal with huge amount of data, which may lead to data burst on AMI servers and serious server crash. Moreover, for protecting data security, sensitive data must be encrypted before being published. It obstacles traditional data utilisation based on plaintext P/S service. Thus, enabling an encrypted data-based P/S service is of paramount importance. Considering the huge amount of data and subscribers, it is necessary to allow conjunctive subscriptions containing mixtures of keywords, numeric data etc., and return data according to a reasonable access control mechanism (ACM). In this study, the authors propose a cloud-assisted secure conjunctive publish/subscribe protocol to challenge the encrypted data-based P/S service on AMI servers. To overcome the data burst, the P/S computation tasks are shifted from AMI servers to the cloud. To support conjunctive P/S operations in a reasonable ACM, a prefix-based membership verification algorithm combining with the ciphertext policy attribute-based encryption is explored. The proposed protocol is proved to be secure against chosen keyword/plaintext attacks under formally defined security models. Experiments on the real-world data set further show proposed protocol indeed introduce low overhead on computation and communication.

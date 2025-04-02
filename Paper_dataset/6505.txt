@@ -1,0 +1,2 @@
+DE AWS; high processing (HPC); LuxRender; image processing (Render)
+AB Today has created a dynamic in which people require higher image quality in different media formats (games, movies, animations). Further definition usually requires image processing larger; this brings the need for increased computing power. This paper presents a case study in which the implementation of a low-cost platform on the Amazon cloud for parallel processing of images and animatios.

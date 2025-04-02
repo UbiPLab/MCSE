@@ -1,0 +1,3 @@
+DE Distribution Systems; Modeling; Computer Networks; Computers; Geographic
+   Information Systems; Artificial Intelligence
+AB Key Takeaways Modeling water distribution networks involves equations that are difficult to compute by hand, so early systems relied on simplifications and rules of thumb. Early computers were limiting but opened the door to quicker and less expensive calculations; modern computing has allowed more complex simulations. The future of water distribution system modeling may involve cloud-based applications and integration of supervisory control and data acquisition, geographic information systems, and artificial intelligence.

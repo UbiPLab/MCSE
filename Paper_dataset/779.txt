@@ -1,0 +1,7 @@
+DE Robot sensing systems; Artificial intelligence; Cloud computing;
+   Diseases; Healthcare 4; 0; cyber-physical systems; homecare; robotics;
+   early diseases prevention; elderly healthcare; artificial intelligence;
+   cloud computing; flexible sensing
+ID BIG DATA; ARTIFICIAL-INTELLIGENCE; FALL DETECTION; STRAIN SENSOR; IOT;
+   EXOSKELETON; PRESSURE; INTERNET; DESIGN; PREDICTION
+AB Powered by the technologies that have originated from manufacturing, the fourth revolution of healthcare technologies is happening (Healthcare 4.0). As an example of such revolution, new generation homecare robotic systems (HRS) based on the cyber-physical systems (CPS) with higher speed and more intelligent execution are emerging. In this article, the new visions and features of the CPS-based HRS are proposed. The latest progress in related enabling technologies is reviewed, including artificial intelligence, sensing fundamentals, materials and machines, cloud computing and communication, as well as motion capture and mapping. Finally, the future perspectives of the CPS-based HRS and the technical challenges faced in each technical area are discussed.

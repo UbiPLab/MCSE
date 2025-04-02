@@ -1,0 +1,4 @@
+DE Cloud Computing; Deep Learning; Energy Consumption; Load Balancing;
+   Resource Scheduling
+ID MANAGEMENT; NETWORKS
+AB With the wide application of the cloud computing, the contradiction between high energy cost and low efficiency becomes increasingly prominent. In this article, to solve the problem of energy consumption, a resource scheduling and load balancing fusion algorithm with deep learning strategy is presented. Compared with the corresponding evolutionary algorithms, the proposed algorithm can enhance the diversity of the population, avoid the prematurity to some extent, and have a faster convergence speed. The experimental results show that the proposed algorithm has the most optimal ability of reducing energy consumption of data centers.

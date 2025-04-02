@@ -1,0 +1,2 @@
+DE Security; Kerberos; Cloud Computing; Authentication; Authorization
+AB This article presents kerberos system which achieves security goals for the cloud users like authentication, integrity, confidentiality and it provides distributed authentication services across the insecure network. This kerberos style authentication is based on the secret key technology which keeps online password attackers away and it is implemented by using Windows Active Server.

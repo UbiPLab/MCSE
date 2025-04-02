@@ -1,0 +1,4 @@
+DE Cloud computing; workflow; monitoring; intelligent assistive services;
+   smart cities
+ID NEURAL-NETWORK; ALGORITHM
+AB Smart cities providing connectivity to users and other advanced services can be leveraged to improve public transport services. This paper proposes a solution that lets citizens request a public vehicle to perform additional stops off the main route, hence achieving a customisation of the transport operator services to better assist users. A cloud infrastructure and a proper distributed architecture have been designed to assess whether user requests can be accepted. The proposed software solution considers viable the requests that can fit to available secondary routes, while also satisfying other user demands that have been previously accepted. Then, drivers will be alerted in advance in order to adapt their route.

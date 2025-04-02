@@ -1,0 +1,5 @@
+DE Decoding; Encoding; Entropy; Complexity theory; Computational modeling;
+   Cloud computing; DNA; Data compression; source coding; compression
+   algorithms; big data applications
+ID CHALLENGES; HEALTH
+AB This paper investigates data compression that simultaneously allows local decoding and local update. The main result is a universal compression scheme for memoryless sources with the following features. The rate can be made arbitrarily close to the entropy of the underlying source, contiguous fragments of the source can be recovered or updated by probing or modifying a number of codeword bits that is on average linear in the size of the fragment, and the overall encoding and decoding complexity is quasilinear in the blocklength of the source. In particular, the local decoding or update of a single message symbol can be performed by probing or modifying on average a constant number of codeword bits. This latter part improves over previous best known results for which local decodability or update efficiency grows logarithmically with blocklength.

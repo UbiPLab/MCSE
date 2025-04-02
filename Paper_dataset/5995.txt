@@ -1,0 +1,3 @@
+DE Intel SGX; enclave; cloud systems; data confidentiality; encryption;
+   hypervisor; protected memory
+AB In this article the problem of possible attacks on confidentiality of user data in cloud systems comes from cloud provider's side has been investigated. A secure cloud computing system architecture based on Intel Software Guard Extensions technology has been proposed. The approach that provides confidentiality of data of users of cloud systems is given. A method for implementing this approach into existing cloud systems is presented.

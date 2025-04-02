@@ -1,0 +1,6 @@
+DE Medical services; Medical diagnostic imaging; Smart healthcare; Internet
+   of Things; Electroencephalography; Intelligent sensors; Feature
+   extraction; Internet of Things (IoT); Internet of Medical Things (IoMT);
+   edge computing; cloud computing; medical signals; smart health care;
+   artificial intelligence
+AB Smart health care is an important aspect of connected living. Health care is one of the basic pillars of human need, and smart health care is projected to produce several billion dollars in revenue in the near future. There are several components of smart health care, including the Internet of Things (IoT), the Internet of Medical Things (IoMT), medical sensors, artificial intelligence (AI), edge computing, cloud computing, and next-generation wireless communication technology. Many papers in the literature deal with smart health care or health care in general. Here, we present a comprehensive survey of IoT- and IoMT-based edge-intelligent smart health care, mainly focusing on journal articles published between 2014 and 2020. We survey this literature by answering several research areas on IoT and IoMT, AI, edge and cloud computing, security, and medical signals fusion. We also address current research challenges and offer some future research directions.

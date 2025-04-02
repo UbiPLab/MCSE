@@ -1,0 +1,4 @@
+DE Cloud computing; Virtual machines; Bin packing; Divisible item sizes;
+   Analysis of algorithms
+ID CLOUD; CONSOLIDATION; PERFORMANCE; HEURISTICS; ALGORITHMS; COST
+AB A key problem in the management of data centers is how to provision virtual machines based on the available physical machines, because an optimized placement can lead to significant reduction in energy consumption. This problem can be formulated as bin packing with heterogeneous bin types, where the cost of a bin depends on how full it is. We prove that under suitable conditions, an extended version of the First-Fit-Decreasing heuristic delivers optimal results for this problem. (C) 2018 Elsevier B.V. All rights reserved.

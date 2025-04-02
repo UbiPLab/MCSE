@@ -1,0 +1,4 @@
+DE Cloud computing; Cloud services; Mobile cloud computing; Mobile
+   services; Smartphones
+ID ARCHITECTURE; MIGRATION; FRAMEWORK
+AB Mobile cloud computing promises several benefits such as extra battery life and storage, scalability, and reliability. However, there are still challenges that must be addressed in order to enable the ubiquitous deployment and adoption of mobile cloud computing. Some of these challenges include security, privacy and trust, bandwidth and data transfer, data management and synchronization, energy efficiency, and heterogeneity. We present a thorough overview of mobile cloud computing and differentiate it from traditional cloud computing. Also presented here is a generic architecture that evaluates 30 recently proposed mobile cloud computing research architectures (i.e., published since 2010). This is achieved by utilizing a set of assessment criteria. Finally, we discuss future research challenges that require further attention.

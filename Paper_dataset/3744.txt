@@ -1,0 +1,6 @@
+DE Automated guided vehicle (AGV); control model; cyber-physical system
+   (CPS); material handling
+ID CYBER-PHYSICAL SYSTEMS; DYNAMIC WINDOW APPROACH; GUIDED VEHICLE SYSTEMS;
+   COLLISION-AVOIDANCE; ROBOT NAVIGATION; MOBILE ROBOTS; COORDINATION;
+   MANAGEMENT; DESIGN; MAP
+AB Automated guided vehicles (AGVs) have been widely used in manufacturing and supply chain management for material handling. The efficiency of the material handling process has been the bottleneck of the production manufacturing. By applying maturing technologies such as sensing, cloud computing, and wireless communication, the efficiency and the reliability of the material delivery could be enhanced. In this paper, a cyber-physical system-based smart control model for shopfloor material handling is designed. In contrast to the traditional vehicle control methods, AGVs and base stations at intersections can communicate and interact with each other and share the real-time information online. Then, the smart control model, which consists of car-following model, overtaking model, and collision warning and avoidance model, is designed and developed. The presented model is demonstrated by a set of simulations and an experiment, which proved that the overall task completion efficiency and the utilization of the road are improved.

@@ -1,0 +1,2 @@
+ID ALLOCATION
+AB Resource allocation in the cloud can be challenging due to heterogeneity, dynamism, and failures. The authors offer a broad literature analysis of resource management in cloud computing, including resource provisioning and scheduling, and autonomic resource provisioning and scheduling.

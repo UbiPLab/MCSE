@@ -1,0 +1,6 @@
+DE Encryption; Public key; Output feedback; Cloud computing;
+   Cyber-security; dynamic controllers; encrypted control; homomorphic
+   encryption; privacy
+ID STATIC OUTPUT-FEEDBACK; CLOUD-BASED MPC; STABILITY ANALYSIS;
+   STABILIZATION; SYSTEMS
+AB This article presents a secure and private implementation of linear time-invariant dynamic controllers using Paillier's encryption, a semihomomorphic encryption method. To avoid overflow or underflow within the encryption domain, the state of the controller is reset periodically. A control design approach is presented to ensure stability and optimize performance of the closed-loop system with encrypted controller.

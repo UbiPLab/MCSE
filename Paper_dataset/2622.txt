@@ -1,0 +1,2 @@
+ID STEREOLOGICAL ESTIMATION; NEURONS
+AB As biomedical imaging datasets expand, deep neural networks are considered vital for image processing, yet community access is still limited by setting up complex computational environments and availability of high-performance computing resources. We address these bottlenecks with CDeep3M, a ready-to-use image segmentation solution employing a cloud-based deep convolutional neural network. We benchmark CDeep3M on large and complex two-dimensional and three-dimensional imaging datasets from light, X-ray, and electron microscopy.

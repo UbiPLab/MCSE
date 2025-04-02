@@ -1,0 +1,4 @@
+DE shortest path; parallel computing; multimodal transportation network;
+   Ant Colony algorithm; super network; cloud computing
+ID TRUSS-OPTIMIZATION; BRANCH; IMPLEMENTATION
+AB During travelling, more and more information must be taken into account, and travelers have to make several complex decisions. In order to support these decisions, IT solutions are unavoidable, and as the computational demand is constantly growing, the examination of state-of-the-art methodologies is necessary. In our research, a parallelized Ant Colony algorithm was investigated, and a parameter study on a real network has been made. The aim was to inspect the sensibility of the method and to demonstrate its applicability in a multi-threaded system (e.g. Cloud-based systems). Based on the research, increased effectiveness can be reached by using more threads. The novelty of the paper is the usage of the processors' parallel computing capability for routing with the Ant Colony algorithm.

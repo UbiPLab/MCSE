@@ -1,0 +1,4 @@
+DE Searchable encryption; Cloud computing; Keyword search; Text-based
+   search
+ID KEYWORD RANKED SEARCH
+AB Text-based search over encrypted cloud data is a hot topic today. Many researchers have made many efforts in this field and designed a series of efficient search schemes over encrypted cloud data. We think it's time to investigate and overview these papers. So in this paper, we survey these searchable encryption schemes and analyze individual contributions respectively. We hope our work can support researchers and practitioner sadness the security problems they may meet in the future.

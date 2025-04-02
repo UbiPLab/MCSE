@@ -1,0 +1,7 @@
+DE Power grids; Load management; Cloud computing; Internet of Things; Task
+   analysis; Power system stability; Load modeling; Internet of Things;
+   cloud-edge cooperative; rebound effect; large-scale heterogeneous air
+   conditioning; cooperative game; price-based demand response
+ID DEMAND RESPONSE; ENERGY MANAGEMENT; PREDICTIVE CONTROL; COORDINATION;
+   MICROGRIDS
+AB The price-based demand response has been considered one of the most effective ways to reduce the peak demand of power grids. However, it is possible to form a new rebound critical peak to threaten the grid stability and economic operation when large-scale loads respond to the price signal simultaneously. Based on the Internet of Things (IoT), this paper proposes a cloud-edge coordination (CEC) automatic control strategy to enable interaction and cooperation among the power grid and massive individual air conditioners (ACs) and eliminate the grid rebound critical peak of the synchro-response. Edge computing actively provides optional cooperation electricity plans, migrates computationally intensive tasks from the cloud and guarantees the privacy of users. Considering the unreliability of network transmission, data packet dropouts (/or delays and even downtime) are inevitable and usually random in the transmission, and a dual-feedback closed-loop control is first proposed in this paper. Finally, the effectiveness of the optimized closed-loop control strategy is verified by simulation cases.

@@ -1,0 +1,6 @@
+DE Cloud computing; Cloud service; Social influence; Social influence
+   theory; IT service; Uncertainty; Service relationship
+ID PARTIAL LEAST-SQUARES; INFORMATION-SYSTEMS CONTINUANCE; TECHNOLOGY
+   ACCEPTANCE; BEHAVIORAL-RESEARCH; FIT INDEXES; ADOPTION; MODEL; ONLINE;
+   USAGE; DECISION
+AB Consumer cloud services are characterized by uncertainty before usage but also for individuals who are already using the service. Our cloud service relationship model posits that individuals facing continuous uncertainty during adoption and continuance decisions rely on their social environment to make evaluations and decisions. Drawing on a representative dataset of 2011 Internet users, we distinguish three social influence processes from social influence theory (identification, internalization, and compliance) and uncover their differential effect on potential and current users' uncertainty evaluations and on usage intentions. Our results can help cloud providers to successfully manage their relationships with potential and current users.

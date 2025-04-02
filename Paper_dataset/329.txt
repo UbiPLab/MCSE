@@ -1,0 +1,7 @@
+DE 5G mobile communication; Monitoring; Cloud computing; Task analysis;
+   Complexity theory; Computer architecture; Prototypes; 5G mobile
+   communication; network function virtualization; monitoring; measurement
+   techniques; performance loss; fault diagnosis; prototypes; machine
+   learning
+ID INTERFERENCE COORDINATION; ARCHITECTURE; SERVICE
+AB This study is a first attempt to experimentally explore the range of performance bottlenecks that 5G mobile networks can experience. To this end, we leverage a wide range of measurements obtained with a prototype testbed that captures the key aspects of a cloudified mobile network. We investigate the relevance of the metrics and a number of approaches to accurately and efficiently identify bottlenecks across the different locations of the network and layers of the system architecture. Our findings validate the complexity of this task in the multi-layered architecture and highlight the need for novel monitoring approaches that intelligently fuse metrics across network layers and functions. In particular, we find that distributed analytics performs reasonably well both in terms of bottleneck identification accuracy and incurred computational and communication overhead.
